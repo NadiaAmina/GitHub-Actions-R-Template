@@ -2,7 +2,7 @@
 source("require_packages.R")
 require_packages(c(
   "xml2",
-  "httr", "curl", "tidyverse", "dplyr", "tidytext", "wordcloud"
+  "httr", "curl", "tidyverse", "dplyr", "tidytext"
 ))
 #get feed from bbc 
 a <- GET("http://feeds.bbci.co.uk/news/rss.xml?edition=uk")
