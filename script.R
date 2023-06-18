@@ -38,7 +38,8 @@ word_count <- tokens_filtered %>% count(word, sort=TRUE)
 top_100 <- top_n ( word_count , 100 , wt = n)
 top_100
 #plot word cloud
-"""wordcloud( top_100$word , top_100 $n)
+"""
+wordcloud( top_100$word , top_100 $n)
 
 nrc_sentiments <- get_sentiments("nrc")
 nrc_sentiments
