@@ -2,7 +2,8 @@
 source("require_packages.R")
 require_packages(c(
   "xml2",
-  "httr", "curl", "tidyverse", "dplyr", "tidytext", "textdata", "wordcloud", "textshaping"
+  "httr", "curl"
+# "tidyverse", "dplyr", "tidytext", "textdata", "wordcloud", "textshaping"
 ))
 #get feed from bbc 
 a <- GET("http://feeds.bbci.co.uk/news/rss.xml?edition=uk")
@@ -37,7 +38,7 @@ word_count <- tokens_filtered %>% count(word, sort=TRUE)
 top_100 <- top_n ( word_count , 100 , wt = n)
 top_100
 #plot word cloud
-wordcloud( top_100$word , top_100 $n)
+"""wordcloud( top_100$word , top_100 $n)
 
 nrc_sentiments <- get_sentiments("nrc")
 nrc_sentiments
@@ -52,6 +53,7 @@ nrc_graph <- question_nrc_sentiments %>%
 nrc_graph
 ggsave ( "nrc_ graph.pdf" , plot = nrc_graph , width = 8, height =
            4.5)
+"""
 
 
 
