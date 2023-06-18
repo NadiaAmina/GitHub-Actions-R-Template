@@ -1,15 +1,9 @@
 #question 1
-library(xml2)
-library(httr)
-library(curl)
-library(tidyverse)
-library(dplyr)
-library(stringr)
-install.packages("tidytext")
-install.packages("textdata")
-library(tidytext)
-install.packages("wordcloud")
-library(wordcloud)
+source("require_packages.R")
+require_packages(c(
+  "xml2",
+  "httr", "curl", "tidyverse", "dplyr", "tidytext", "textdata", "wordcloud"
+))
 #get feed from bbc 
 a <- GET("http://feeds.bbci.co.uk/news/rss.xml?edition=uk")
 file <- paste0("file",Sys.Date(), ".xml")
