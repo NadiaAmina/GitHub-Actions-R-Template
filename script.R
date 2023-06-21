@@ -2,7 +2,7 @@
 source("require_packages.R")
 require_packages(c(
   "xml2",
-  "httr", "curl"
+  "httr", "curl",
  "tidyverse", "dplyr", "tidytext", "textdata"
 ))
 #get feed from bbc 
