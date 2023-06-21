@@ -3,7 +3,7 @@ source("require_packages.R")
 require_packages(c(
   "xml2",
   "httr", "curl"
-# "tidyverse", "dplyr", "tidytext", "textdata", "wordcloud", "textshaping"
+ "tidyverse", "dplyr", "tidytext", "textdata"
 ))
 #get feed from bbc 
 a <- GET("http://feeds.bbci.co.uk/news/rss.xml?edition=uk")
@@ -38,7 +38,19 @@ word_count <- tokens_filtered %>% count(word, sort=TRUE)
 top_100 <- top_n ( word_count , 100 , wt = n)
 top_100
 #plot word cloud
-
+nrc_sentiments <- get_sentiments("nrc")
+nrc_sentiments
+question_nrc_sentiments <- word_count %>% inner_join ( nrc_sentiments )
+question_nrc_sentiments
+View(question_nrc_sentiments)
+#plot nrc graph
+nrc_graph <- question_nrc_sentiments %>%
+  ggplot ( aes (x = sentiment , y = n , fill = sentiment )) +
+  geom_col ( show.legend = FALSE ) +
+  labs ( title = " Frequency of NRC sentiments on BBC website ")
+nrc_graph
+ggsave ( "nrc_ graph.pdf" , plot = nrc_graph , width = 8, height =
+           4.5)
 
 
 
