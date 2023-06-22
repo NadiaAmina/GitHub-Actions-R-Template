@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Home]]></title>
+        <description><![CDATA[BBC News - Home]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Home</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Thu, 22 Jun 2023 17:12:34 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Interest rates: Bank of England governor admits rise painful for many]]></title>
+            <description><![CDATA["If we don't raise rates now, it could be worse later," Bank of England boss warns as it raises rates again.]]></description>
+            <link>https://www.bbc.co.uk/news/business-65982981?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-65982981</guid>
+            <pubDate>Thu, 22 Jun 2023 15:53:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Interest rates: How a rise affects you and your money]]></title>
+            <description><![CDATA[The Bank of England has raised rates to 5% from 4.5% to control price rises.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57764601?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-57764601</guid>
+            <pubDate>Thu, 22 Jun 2023 12:37:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ukraine strikes Chonhar bridge to Crimea, says Russia]]></title>
+            <description><![CDATA[The bridge linking the peninsula to Kherson in the south was hit by British missiles, say officials.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-65982817?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-65982817</guid>
+            <pubDate>Thu, 22 Jun 2023 16:17:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Greece boat disaster: Two families united in grief thousands of miles apart]]></title>
+            <description><![CDATA[Up to 600 people are feared dead after the migrant boat disaster off Greece - many from Egypt and Pakistan.]]></description>
+            <link>https://www.bbc.co.uk/news/world-65985001?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-65985001</guid>
+            <pubDate>Thu, 22 Jun 2023 11:11:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Train strikes: RMT union announces three days of walkouts in July]]></title>
+            <description><![CDATA[The RMT says 20,000 members will walk out on 20, 22 and 29 July as part of a long-running dispute.]]></description>
+            <link>https://www.bbc.co.uk/news/business-65986714?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-65986714</guid>
+            <pubDate>Thu, 22 Jun 2023 17:07:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mosquito-borne diseases becoming increasing risk in Europe]]></title>
+            <description><![CDATA[Experts say the insects, which carry viruses, have moved into new parts of the continent.]]></description>
+            <link>https://www.bbc.co.uk/news/health-65985838?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-65985838</guid>
+            <pubDate>Thu, 22 Jun 2023 13:02:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Police warn Android phone users over 999 call feature]]></title>
+            <description><![CDATA[Forces say update that lets button pushes trigger calls is bombarding operators with "silent" calls.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-65962942?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-65962942</guid>
+            <pubDate>Thu, 22 Jun 2023 14:01:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid Inquiry: Abuse of experts must stop, says Whitty]]></title>
+            <description><![CDATA[Sir Chris laments treatment as he gives evidence to Covid Inquiry on pandemic preparedness.]]></description>
+            <link>https://www.bbc.co.uk/news/health-65989350?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-65989350</guid>
+            <pubDate>Thu, 22 Jun 2023 15:44:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Windrush arrivals made UK a better place - William]]></title>
+            <description><![CDATA[The Prince of Wales pays tribute to the Windrush generation on the 75th anniversary of the first crossing.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-65977518?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-65977518</guid>
+            <pubDate>Thu, 22 Jun 2023 14:32:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EastEnders: Michelle Collins returns as Cindy Beale after 25 years]]></title>
+            <description><![CDATA[Actress Michelle Collins will soon be followed back on the show by on screen ex-husband Ian Beale.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-65986136?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-65986136</guid>
+            <pubDate>Thu, 22 Jun 2023 11:12:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK fruit picking farms like prison, migrant worker tells peers]]></title>
+            <description><![CDATA[A South African woman tells a Lords committee about "shocking" working conditions on English farms.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-65987378?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-65987378</guid>
+            <pubDate>Thu, 22 Jun 2023 16:35:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Molly-Mae Hague steps down from PrettyLittleThing role to focus on being a mum]]></title>
+            <description><![CDATA[The Love Islander leaves her creative director role at PrettyLittleThing to focus on her daughter.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-65982667?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-65982667</guid>
+            <pubDate>Thu, 22 Jun 2023 09:56:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[She helped kill Roe v Wade - now she wants to end abortion in America]]></title>
+            <description><![CDATA[Kristan Hawkins has relentlessly pursued one goal - to make abortion unthinkable and unavailable.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-65923956?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-65923956</guid>
+            <pubDate>Wed, 21 Jun 2023 23:34:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Windrush generation recall arrival in Britain]]></title>
+            <description><![CDATA[The Windrush generation shaped modern Britain, so what does its 75th anniversary mean to them?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-65963870?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-65963870</guid>
+            <pubDate>Thu, 22 Jun 2023 00:31:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What can Rishi Sunak do to tackle inflation?]]></title>
+            <description><![CDATA[There are some short-term levers the government could pull but they all involve tough political choices.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-65990413?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-65990413</guid>
+            <pubDate>Thu, 22 Jun 2023 16:36:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['I saved £50,000 living abroad but still can't afford a mortgage']]></title>
+            <description><![CDATA[Four people explain how rising interest rates are affecting their lives.]]></description>
+            <link>https://www.bbc.co.uk/news/business-65951697?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-65951697</guid>
+            <pubDate>Thu, 22 Jun 2023 14:55:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Train strikes: When are they and why are they taking place?]]></title>
+            <description><![CDATA[Train drivers walk out on Saturday, after a week of stoppages by both Aslef and the RMT.]]></description>
+            <link>https://www.bbc.co.uk/news/business-61634959?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-61634959</guid>
+            <pubDate>Thu, 22 Jun 2023 16:15:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ukraine's canals dry up after dam destruction]]></title>
+            <description><![CDATA[Following the destruction of the Kakhovka dam, BBC analysis reveals the changes in the surrounding area.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-65963403?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-65963403</guid>
+            <pubDate>Thu, 22 Jun 2023 00:14:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Could Russia really play nuclear roulette in Ukraine?]]></title>
+            <description><![CDATA[Steve Rosenberg looks at how discussion of the use of nuclear weapons has crept into Russian media.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-65976256?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-65976256</guid>
+            <pubDate>Wed, 21 Jun 2023 13:12:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Windrush Day: What is Windrush and who are the Windrush generation?]]></title>
+            <description><![CDATA[It is 75 years since a ship from the Caribbean to the UK became a symbol of a mass-migration movement.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-43782241?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-43782241</guid>
+            <pubDate>Thu, 22 Jun 2023 09:05:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chris Mason: Rishi Sunak is in a bind over inflation]]></title>
+            <description><![CDATA[Some in government want to ease impact of inflation but others are exasperated with "knee-jerk" interventions.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-65979777?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-65979777</guid>
+            <pubDate>Wed, 21 Jun 2023 17:29:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[At least 30 migrants feared dead in Canary Islands disaster]]></title>
+            <description><![CDATA[The Western Africa-Atlantic migration route is considered one of the world's deadliest.]]></description>
+            <link>https://www.bbc.co.uk/news/world-65983001?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-65983001</guid>
+            <pubDate>Thu, 22 Jun 2023 11:51:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Glastonbury, Leeds and Reading will have drug safety testing]]></title>
+            <description><![CDATA[The bosses of some large UK festivals say they will be checking drugs, but smaller events aren't sure.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-65975336?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/newsbeat-65975336</guid>
+            <pubDate>Thu, 22 Jun 2023 11:57:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Teenager guilty of murdering boy at Glasgow railway station]]></title>
+            <description><![CDATA[An 18-year-old is found guilty of murder after stabbing a schoolboy at a Glasgow railway station.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-65987986?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-65987986</guid>
+            <pubDate>Thu, 22 Jun 2023 14:26:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SNP political icon Winnie Ewing dies aged 93]]></title>
+            <description><![CDATA[One of the most iconic figures in the Scottish independence movement has died, her family confirms.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-65988094?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-65988094</guid>
+            <pubDate>Thu, 22 Jun 2023 13:41:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Firefighters rescue horse from Florida swimming pool]]></title>
+            <description><![CDATA[The horse fell into the pool in Paso County after being spooked by another horse.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-65985119?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-65985119</guid>
+            <pubDate>Thu, 22 Jun 2023 11:52:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Arthur’s Seat killer told wife to stop being like a 'British woman']]></title>
+            <description><![CDATA[Pregnant Fawziyah Javed secretly recorded her husband's threats - but he murdered her before she could leave.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-65953932?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-65953932</guid>
+            <pubDate>Thu, 22 Jun 2023 09:40:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MasterChef: Caerwyn Ash jailed for child abuse images]]></title>
+            <description><![CDATA[Caerwyn Ash is found guilty of possessing indecent images and videos of the most serious category.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-65986742?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-65986742</guid>
+            <pubDate>Thu, 22 Jun 2023 11:37:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Elon Musk and Mark Zuckerberg agree to hold cage fight]]></title>
+            <description><![CDATA[Earlier this month, Meta showed staff plans for a text-based social network designed to compete with Twitter.]]></description>
+            <link>https://www.bbc.co.uk/news/business-65981876?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-65981876</guid>
+            <pubDate>Thu, 22 Jun 2023 13:44:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Potential explosives found at Leyland house, police say]]></title>
+            <description><![CDATA[The arrest of a man over "suspicious chemicals" found at a house is not terror-related, a force says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-lancashire-65984160?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-lancashire-65984160</guid>
+            <pubDate>Thu, 22 Jun 2023 15:51:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Miss England contest: Could the swimwear parade return?]]></title>
+            <description><![CDATA[The possibility of a swimwear parade returning to the beauty pageant has generated debate.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-65964799?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/newsbeat-65964799</guid>
+            <pubDate>Thu, 22 Jun 2023 00:40:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sarah Snook: Succession actress to star in The Picture of Dorian Gray in London]]></title>
+            <description><![CDATA[Sarah Snook will appear in an adaptation of The Picture of Dorian Gray in London's West End.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-65922491?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-65922491</guid>
+            <pubDate>Thu, 22 Jun 2023 00:44:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Final Fantasy 16 producers on trying to regain fans' trust]]></title>
+            <description><![CDATA[Final Fantasy 16 producer Naoki Yoshida talks to the BBC about the game's underlying messages.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-65960249?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-65960249</guid>
+            <pubDate>Thu, 22 Jun 2023 00:53:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['My muscle condition won't stop me playing Glastonbury']]></title>
+            <description><![CDATA[Teenager Eli Crossley is playing Glastonbury after a BBC video on his health condition went viral.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-65964282?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-65964282</guid>
+            <pubDate>Thu, 22 Jun 2023 00:34:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK Covid deaths among worst of big European economies]]></title>
+            <description><![CDATA[Death rates since March 2020 are up by 3% in France, 5% in the UK and 17% in the US.]]></description>
+            <link>https://www.bbc.co.uk/news/health-65975154?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-65975154</guid>
+            <pubDate>Thu, 22 Jun 2023 01:03:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Most university students working paid jobs, survey shows]]></title>
+            <description><![CDATA[There has been a big increase across the UK in the number of students earning money, research reveals.]]></description>
+            <link>https://www.bbc.co.uk/news/education-65964375?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/education-65964375</guid>
+            <pubDate>Thu, 22 Jun 2023 13:26:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[International Boxing Association stripped by International Olympic Committee of status]]></title>
+            <description><![CDATA[The International Olympic Committee votes to strip the International Boxing Association of its status as the sport's world governing body.]]></description>
+            <link>https://www.bbc.co.uk/sport/boxing/65987324?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/boxing/65987324</guid>
+            <pubDate>Thu, 22 Jun 2023 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Women's Ashes 2023: Sophie Ecclestone gets Jess Jonassen and Alyssa Healy in the same over]]></title>
+            <description><![CDATA[Watch as England spinner Sophie Ecclestone picks up the wickets of Jess Jonassen and Australia captain Alyssa Healy in the same over on day one of the Women's Ashes Test at Trent Bridge.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/cricket/65989816?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/cricket/65989816</guid>
+            <pubDate>Thu, 22 Jun 2023 17:03:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Championship fixtures 2023-24: Sheffield Wednesday and Southampton open up season on Friday, 4 August]]></title>
+            <description><![CDATA[Newly promoted Sheffield Wednesday welcome relegated Southampton to Hillsborough for the EFL season opener on Friday, 4 August.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/65982803?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/65982803</guid>
+            <pubDate>Thu, 22 Jun 2023 08:24:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Victor 6000 could help in search for missing Titanic sub]]></title>
+            <description><![CDATA[Maps and graphics showing how rescue teams are racing against time as they scour a huge search area.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-65965665?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-65965665</guid>
+            <pubDate>Thu, 22 Jun 2023 15:02:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hamish Harding, Shahzada Dawood and son Suleman: Who is on board Titanic sub?]]></title>
+            <description><![CDATA[An adventurer and a British businessman travelling with his son are among those on the Titanic sub.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-65955554?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-65955554</guid>
+            <pubDate>Thu, 22 Jun 2023 12:34:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Missing Titanic sub search in critical phase amid fears over oxygen levels]]></title>
+            <description><![CDATA[If it is still functional and intact, it may only have a small amount of oxygen left on board.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-65984176?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-65984176</guid>
+            <pubDate>Thu, 22 Jun 2023 13:23:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Missing Titanic submersible: Why oxygen timeline on sub may not be so fixed]]></title>
+            <description><![CDATA[Conditions aboard could be experienced differently person-to-person, experts say.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-65981277?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-65981277</guid>
+            <pubDate>Thu, 22 Jun 2023 12:24:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Titanic sub passenger recounts losing communications]]></title>
+            <description><![CDATA[Alan Estrada was on board the Titan last year when it lost communications at a depth of 1,000m.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-65981914?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-65981914</guid>
+            <pubDate>Thu, 22 Jun 2023 06:20:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Missing Titanic sub search team expand search area as oxygen fears mount]]></title>
+            <description><![CDATA[More boats and underwater vehicles will join the search for five people lost inside a submersible.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-65980388?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-65980388</guid>
+            <pubDate>Thu, 22 Jun 2023 06:51:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What we know about the missing Titanic sub... in 77 seconds]]></title>
+            <description><![CDATA[A massive international search effort is under way for the missing vessel as time starts running out.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-65966721?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-65966721</guid>
+            <pubDate>Tue, 20 Jun 2023 22:21:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Titanic sub: Safety concerns raised about missing submersible]]></title>
+            <description><![CDATA[A former employee warned of potential safety problems with the OceanGate vessel in 2018.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-65977432?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-65977432</guid>
+            <pubDate>Wed, 21 Jun 2023 17:15:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What we know so far ]]></title>
+            <description><![CDATA[The US Coast Guard says a debris field has been found in the search for the Titan sub.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-65934887?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-65934887</guid>
+            <pubDate>Thu, 22 Jun 2023 17:09:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scientist's harrowing experience trapped in submersible at Titanic wreck]]></title>
+            <description><![CDATA[Michael Guillen relives his near-death experience in a submersible on a dive to the Titanic in 2000.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-65972686?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-65972686</guid>
+            <pubDate>Wed, 21 Jun 2023 12:38:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Narrow, dimly lit tube with curtained-off toilet]]></title>
+            <description><![CDATA[The world's only privately owned manned submersible has a unique design and some surprising features.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-65960217?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-65960217</guid>
+            <pubDate>Tue, 20 Jun 2023 19:35:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Search expert describes missing friends ]]></title>
+            <description><![CDATA[David Mearns knows two of the five people on board the Titanic tourist sub, which went missing on Sunday.]]></description>
+            <link>https://www.bbc.co.uk/news/world-65963515?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-65963515</guid>
+            <pubDate>Tue, 20 Jun 2023 13:17:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Titanic sub: What happens next after sounds detected in search]]></title>
+            <description><![CDATA[With oxygen supplies dwindling - under 24 hours' worth remains - the next few hours are critical.]]></description>
+            <link>https://www.bbc.co.uk/news/world-65972610?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-65972610</guid>
+            <pubDate>Wed, 21 Jun 2023 18:58:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Titanic wreck dives 'frightening at the best of times']]></title>
+            <description><![CDATA[Ex-BBC journalist Mike McKimm recalls losing power on a submersible while visiting Titanic wreck 13 years ago.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-65965029?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-65965029</guid>
+            <pubDate>Tue, 20 Jun 2023 16:17:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Remote area makes search 'a challenge']]></title>
+            <description><![CDATA[A submersible that takes tourists to the Titanic shipwreck is missing off the North American coast in the Atlantic.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-65956623?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-65956623</guid>
+            <pubDate>Mon, 19 Jun 2023 21:19:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What it's like on board]]></title>
+            <description><![CDATA[Two people who have been on the Titan sub say it will be challenging for rescuers to find it in time.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-65957709?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-65957709</guid>
+            <pubDate>Tue, 20 Jun 2023 08:55:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Inside Titanic sub before it went missing]]></title>
+            <description><![CDATA[Filmed in 2022, OceanGate's boss Stockton Rush gave a glimpse into the small vessel that travels to the Titanic wreck.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-65958697?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-65958697</guid>
+            <pubDate>Tue, 20 Jun 2023 06:07:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Titanic tourist submersible: Rescuers scan ocean as clock ticks]]></title>
+            <description><![CDATA[The US and Canada are urgently searching for a tourist submersible not seen since Sunday.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-65957990?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-65957990</guid>
+            <pubDate>Tue, 20 Jun 2023 17:58:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Titanic sub: St John's hoping for safe return]]></title>
+            <description><![CDATA[The BBC's Nadine Yousif is in Newfoundland where the expedition to the Titanic began.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-65968507?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-65968507</guid>
+            <pubDate>Tue, 20 Jun 2023 18:12:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Canadian city ready to help in search ]]></title>
+            <description><![CDATA[Coast guard vessels are being sent to the Canadian east coast city, which is 600km from the Titanic wreck.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-65969686?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-65969686</guid>
+            <pubDate>Wed, 21 Jun 2023 01:43:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mortgage deal: Five ways to save money]]></title>
+            <description><![CDATA[With interest rates rapidly rising, what do experts say about coping with costs?]]></description>
+            <link>https://www.bbc.co.uk/news/business-65984415?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-65984415</guid>
+            <pubDate>Thu, 22 Jun 2023 15:12:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cost of living: How can I save money on my food shop?]]></title>
+            <description><![CDATA[The cost-of-living crisis continues to bite. Here are some things that can reduce the impact.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-61798003?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-61798003</guid>
+            <pubDate>Wed, 21 Jun 2023 11:33:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Debt: What do I do if I can't afford to pay?]]></title>
+            <description><![CDATA[What help and options are available to people struggling with debt repayments?]]></description>
+            <link>https://www.bbc.co.uk/news/business-64291327?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-64291327</guid>
+            <pubDate>Tue, 23 May 2023 14:45:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mortgages: What happens if I am really struggling?]]></title>
+            <description><![CDATA[Homeowners are worried about higher mortgage costs, but lenders must help those struggling.]]></description>
+            <link>https://www.bbc.co.uk/news/business-63486782?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-63486782</guid>
+            <pubDate>Thu, 22 Jun 2023 12:26:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mortgage calculator: how much will my mortgage go up?]]></title>
+            <description><![CDATA[Use our calculator to find out how much mortgage payments could go up for your household.]]></description>
+            <link>https://www.bbc.co.uk/news/business-63474582?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-63474582</guid>
+            <pubDate>Wed, 10 May 2023 16:43:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is the UK inflation rate and why is it so high?]]></title>
+            <description><![CDATA[The rate at which prices are rising remains high, driven by soaring food prices.]]></description>
+            <link>https://www.bbc.co.uk/news/business-12196322?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-12196322</guid>
+            <pubDate>Wed, 21 Jun 2023 06:45:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK inflation rate calculator: How much are prices rising for you?]]></title>
+            <description><![CDATA[Use our calculator to find out how much the cost of living is going up in your household.]]></description>
+            <link>https://www.bbc.co.uk/news/business-62558817?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-62558817</guid>
+            <pubDate>Wed, 21 Jun 2023 06:16:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cost of living: What are your rights as a tenant when you're renting?]]></title>
+            <description><![CDATA[With one in five people now renting in the UK, it's important to understand your rights as a tenant.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-65038459?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-65038459</guid>
+            <pubDate>Wed, 17 May 2023 14:38:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Five reasons why mortgages are getting us down]]></title>
+            <description><![CDATA[Rising mortgage rates are causing a headache for homeowners and buyers, so what is behind the maelstrom?]]></description>
+            <link>https://www.bbc.co.uk/news/business-65856683?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-65856683</guid>
+            <pubDate>Sat, 10 Jun 2023 23:00:24 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
