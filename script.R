@@ -40,8 +40,6 @@ top_100
 #plot word cloud
 nrc_sentiments <- get_sentiments("nrc")
 question_nrc_sentiments <- word_count %>% inner_join ( nrc_sentiments )
-question_nrc_sentiments
-View(question_nrc_sentiments)
 #plot nrc graph
 nrc_graph <- question_nrc_sentiments %>%
   ggplot ( aes (x = sentiment , y = n , fill = sentiment )) +
