@@ -39,8 +39,6 @@ top_100 <- top_n ( word_count , 100 , wt = n)
 top_100
 #plot word cloud
 nrc_sentiments <- get_sentiments("nrc")
-textdata::lexicon_nrc(delete=TRUE)
-textdata::lexicon_nrc()
 question_nrc_sentiments <- word_count %>% inner_join ( nrc_sentiments )
 question_nrc_sentiments
 View(question_nrc_sentiments)
