@@ -6,9 +6,9 @@ require_packages(c(
  "tidyr", "dplyr", "tidytext", "textdata", "stringr"
 ))
 #get feed from bbc 
-a <- GET("http://feeds.bbci.co.uk/news/rss.xml?edition=uk")
+bbc <- "http://feeds.bbci.co.uk/news/rss.xml?edition=uk"
 file <- paste0("file",Sys.Date(), ".xml")
-curl_download("http://feeds.bbci.co.uk/news/rss.xml?edition=uk",file)
+bbcdata <- download.file(bbc,file)
 #save feed data in xml
 xml <- readLines(file)
 xmlString <- paste0 (xml , collapse = "" )
