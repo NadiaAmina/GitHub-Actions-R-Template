@@ -3,7 +3,7 @@ source("require_packages.R")
 require_packages(c(
   "xml2",
   "httr", "curl",
- "tidyr", "dplyr", "tidytext", "textdata", "stringr"
+ "tidyr", "dplyr", "tidytext", "textdata", "stringr", "ggplot2"
 ))
 #get feed from bbc 
 bbc <- "http://feeds.bbci.co.uk/news/rss.xml?edition=uk"
