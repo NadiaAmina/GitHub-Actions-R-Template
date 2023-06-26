@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Home]]></title>
+        <description><![CDATA[BBC News - Home]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Home</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 26 Jun 2023 02:06:27 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Teenager on sub took Rubik's Cube to break record, mother tells BBC]]></title>
+            <description><![CDATA[In her first interview, Christine Dawood told the BBC she lost hope when the 96-hour mark passed.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-66015851?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-66015851</guid>
+            <pubDate>Sun, 25 Jun 2023 22:10:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russia: Instability ratchets up pressure on Vladimir Putin]]></title>
+            <description><![CDATA[Vladimir Putin's mixed messages on the Wagner mutiny have been raising eyebrows and changing perceptions of him.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-66015624?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-66015624</guid>
+            <pubDate>Sun, 25 Jun 2023 22:28:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The sun goes down on Elton John with a rhapsodic Glastonbury set]]></title>
+            <description><![CDATA[Fans flock to the Pyramid Stage to watch Elton John play the last UK show of his farewell tour.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-66015546?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-66015546</guid>
+            <pubDate>Sun, 25 Jun 2023 23:38:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Glastonbury: Watch the final day's acts in 93 seconds]]></title>
+            <description><![CDATA[Elton John, Lil Nas X, and Blondie among the stars to have performed on the final day.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-66016159?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-66016159</guid>
+            <pubDate>Sun, 25 Jun 2023 22:52:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK's high rate of avoidable deaths linked to NHS woes]]></title>
+            <description><![CDATA[People in UK less likely to survive treatable conditions than in other rich nations, study suggests.]]></description>
+            <link>https://www.bbc.co.uk/news/health-65992173?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-65992173</guid>
+            <pubDate>Sun, 25 Jun 2023 23:22:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Prince William risks row to tackle homelessness]]></title>
+            <description><![CDATA[The Prince of Wales launches a five-year project to cut homelessness and change public attitudes.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-65997714?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-65997714</guid>
+            <pubDate>Sun, 25 Jun 2023 23:45:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Titan sub implosion: US Coast guard launches investigation to recover debris]]></title>
+            <description><![CDATA[The high-level investigation has the power to recommend civil or criminal charges.]]></description>
+            <link>https://www.bbc.co.uk/news/66015811?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/66015811</guid>
+            <pubDate>Sun, 25 Jun 2023 22:09:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Greek elections: Mitsotakis hails conservative win as mandate for reform]]></title>
+            <description><![CDATA[Kyriakos Mitsotakis says his party is now the most powerful centre-right party in Europe.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-65997486?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-65997486</guid>
+            <pubDate>Sun, 25 Jun 2023 23:04:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Duchess of York recovering after breast cancer operation]]></title>
+            <description><![CDATA[Sarah Ferguson's doctors have told her that the prognosis is good, her spokesman says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-66014781?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-66014781</guid>
+            <pubDate>Sun, 25 Jun 2023 20:41:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK weather: Joint hottest day of the year as storms lash north]]></title>
+            <description><![CDATA[The joint hottest day of the year so far was recorded on Sunday but the week ahead looks cooler for most.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-66015454?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-66015454</guid>
+            <pubDate>Sun, 25 Jun 2023 20:24:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cleethorpes: Girl, 15, dies after being pulled from sea - police]]></title>
+            <description><![CDATA[Two teenagers were airlifted to hospital shortly after 19:30 BST on Saturday, police say.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-humber-66010411?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-humber-66010411</guid>
+            <pubDate>Sun, 25 Jun 2023 14:22:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[999 calls: Technical glitch fixed for most forces]]></title>
+            <description><![CDATA[BT says a backup service is available and people should call 999 as usual.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-66012340?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-66012340</guid>
+            <pubDate>Sun, 25 Jun 2023 14:44:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Glastonbury: Man dies after 'medical incident' at festival site]]></title>
+            <description><![CDATA[Avon and Somerset Police say they are not treating the death of a man in his 40s as suspicious.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-66014515?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-66014515</guid>
+            <pubDate>Sun, 25 Jun 2023 15:11:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Newspaper headlines: 'Fergie cancer battle' and 'Elton bids farewell']]></title>
+            <description><![CDATA[Monday's papers feature the Duchess of York's breast cancer diagnosis and tributes to Sir Elton John.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-the-papers-66015771?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/blogs-the-papers-66015771</guid>
+            <pubDate>Mon, 26 Jun 2023 00:34:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Titanic sub firm: A maverick, rule-breaking founder and a tragic end]]></title>
+            <description><![CDATA[Stockton Rush wanted to be known as an innovator. It didn't seem to matter how he did it.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-66014565?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-66014565</guid>
+            <pubDate>Sun, 25 Jun 2023 15:38:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Laura Nuttall's sister Gracie: 'It feels like losing a future and a sibling']]></title>
+            <description><![CDATA[Gracie Nuttall's sister Laura was just 23 when she died from an aggressive form of brain cancer.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-65950548?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/newsbeat-65950548</guid>
+            <pubDate>Sun, 25 Jun 2023 23:06:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Picking a fair Florida jury for Donald Trump could prove a herculean task]]></title>
+            <description><![CDATA[Biased jurors must be weeded out in a state where Mr Trump receives both strong support and disdain.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-65966074?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-65966074</guid>
+            <pubDate>Sun, 25 Jun 2023 23:45:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can we stop being tricked into subscriptions?]]></title>
+            <description><![CDATA[The US and UK are trying to crack down on firms tricking customers into renewing their subscription.]]></description>
+            <link>https://www.bbc.co.uk/news/business-65997926?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-65997926</guid>
+            <pubDate>Sat, 24 Jun 2023 23:04:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scoop: Netflix show depicts colliding worlds of crime and media]]></title>
+            <description><![CDATA[Netflix series Scoop tells the story of a journalist's murder and the wrongful confinement of another.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-65887676?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-india-65887676</guid>
+            <pubDate>Sun, 25 Jun 2023 23:43:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bioluminescent plankton: 'It's the northern lights of the ocean']]></title>
+            <description><![CDATA[The coastline is seeing a boom in the number of people hunting bioluminescent plankton at night.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-65984861?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-65984861</guid>
+            <pubDate>Sun, 25 Jun 2023 06:20:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Myanmar Insein: A rare glimpse inside a barbaric prison]]></title>
+            <description><![CDATA[The BBC speaks to prisoners, including an artist whose smuggled sketches record horror inside Myanmar's Insein jail.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-65959508?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-65959508</guid>
+            <pubDate>Sat, 24 Jun 2023 23:01:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will Humza Yousaf's broad approach deliver Scottish independence?]]></title>
+            <description><![CDATA[The SNP leader puts an ambiguous stamp on the party's latest Scottish independence planning.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-66011164?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-66011164</guid>
+            <pubDate>Sat, 24 Jun 2023 23:01:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ocean Race competitors do their bit to fight plastic pollution]]></title>
+            <description><![CDATA[Teams competing in the gruelling six-month, 60,000km Ocean Race are also doing their bit for climate research.]]></description>
+            <link>https://www.bbc.co.uk/sport/sailing/66009976?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/sailing/66009976</guid>
+            <pubDate>Sun, 25 Jun 2023 08:04:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zimbabwe's obsession with Animal Farm as novel gets Shona translation]]></title>
+            <description><![CDATA[George Orwell's satirical novel has such resonance it has been translated into the local Shona language.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-65947114?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-65947114</guid>
+            <pubDate>Sat, 24 Jun 2023 23:15:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Migrant deaths: 'I saw the boat sink under my feet']]></title>
+            <description><![CDATA[A survivor of two boat sinkings tells his story in the deadliest year for migrants in the Americas.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-65932680?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-latin-america-65932680</guid>
+            <pubDate>Sat, 24 Jun 2023 00:10:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cheers! Can AI help drinkers buy a better bottle of wine?]]></title>
+            <description><![CDATA[Wine recommendation apps are now using AI to help better match people with a bottle they will like.]]></description>
+            <link>https://www.bbc.co.uk/news/business-65959815?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-65959815</guid>
+            <pubDate>Sun, 25 Jun 2023 23:01:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nottingham attacks: Angling club pays tribute to Ian Coates]]></title>
+            <description><![CDATA[Ian Coates was a keen fisherman who was preparing to spend more time on his hobby in retirement.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-66013515?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-nottinghamshire-66013515</guid>
+            <pubDate>Sun, 25 Jun 2023 13:59:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Child dies in Padstow harbour fall]]></title>
+            <description><![CDATA[A five-year-old boy is flown by air ambulance from Padstow to hospital, but dies later.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cer8k7xl94po?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cer8k7xl94po</guid>
+            <pubDate>Sun, 25 Jun 2023 14:03:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Julian Sands: Remains found in California area where British actor disappeared]]></title>
+            <description><![CDATA[The 65-year-old disappeared in mountains north of Los Angeles after hiking in bad weather in January.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-66012686?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-66012686</guid>
+            <pubDate>Sun, 25 Jun 2023 11:34:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[European Athletics Team Championships: Shot putter Jolien Boumkwo runs 100m hurdles]]></title>
+            <description><![CDATA[Following the withdrawal of a team-mate Belgian shot putter Jolien Boumkwo competes in the 100m women's hurdles to gain important points for her nation at the European Athletics Team Championships.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/athletics/66010470?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/athletics/66010470</guid>
+            <pubDate>Sat, 24 Jun 2023 17:26:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New documents spark fresh concerns over Ferguson's ferry contract]]></title>
+            <description><![CDATA[Emails reveal behind-the scenes discussions involving ministers and officials at the start of the procurement.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-65863138?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-65863138</guid>
+            <pubDate>Sun, 25 Jun 2023 08:15:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Birmingham Bentley driver saves day after prom break down]]></title>
+            <description><![CDATA[Thomas, 16, was "devastated" before his family spotted Bentley driver Nav Nasir in traffic.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-birmingham-66012629?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-birmingham-66012629</guid>
+            <pubDate>Sun, 25 Jun 2023 12:37:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Leominster Christmas light switch-on cancelled in June]]></title>
+            <description><![CDATA[A revamp of Leominster town centre is expected to start at the end of the year, the town council says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-hereford-worcester-66001946?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-hereford-worcester-66001946</guid>
+            <pubDate>Sun, 25 Jun 2023 07:02:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lee Rigby's mum proud of Bury FC memorial football game]]></title>
+            <description><![CDATA[Football stars Mark Hateley and Peter Reid were among those at a football game in Lee Rigby's honour.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-manchester-66008204?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-manchester-66008204</guid>
+            <pubDate>Sun, 25 Jun 2023 08:59:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In pictures: The finalists of Scotland's Home of the Year 2023]]></title>
+            <description><![CDATA[One of these homes will be revealed as winner of Scotland's Home of the Year on Monday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-66004843?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-66004843</guid>
+            <pubDate>Sun, 25 Jun 2023 12:09:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rose Ayling-Ellis calls for free access to sign language lessons]]></title>
+            <description><![CDATA[The actress and Strictly star, who is deaf, believes tuition should be a right, not a privilege.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-65988228?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-65988228</guid>
+            <pubDate>Sat, 24 Jun 2023 23:04:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Horse 'left to die' is now prize-winning show pony]]></title>
+            <description><![CDATA[Irish police found an exhausted Woody lying across a pavement in County Tipperary last year.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cl5zepwg7pwo?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cl5zepwg7pwo</guid>
+            <pubDate>Sun, 25 Jun 2023 05:54:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Ashes: Australia's greatness prevails but England can still fight on day five]]></title>
+            <description><![CDATA[Australia demonstrated why they are the best team in women's cricket on day four of the Ashes Test, but England have a fighting chance on the final day.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/66013526?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/66013526</guid>
+            <pubDate>Sun, 25 Jun 2023 20:19:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kalidou Koulibaly: Chelsea's Senegal defender joins Saudi Pro League's Al-Hilal]]></title>
+            <description><![CDATA[Chelsea's Senegal centre-back Kalidou Koulibaly joins Saudi Pro League side Al-Hilal.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/66009461?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/66009461</guid>
+            <pubDate>Sun, 25 Jun 2023 18:52:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Carlos Alcaraz: What are Queen's champion's chances of winning Wimbledon?]]></title>
+            <description><![CDATA[After Carlos Alcaraz takes the title at Queen's in only his 11th match on grass, could the young Spaniard go on to win Wimbledon?]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/66013561?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/66013561</guid>
+            <pubDate>Sun, 25 Jun 2023 19:16:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Women's Ashes 2023: Australia stay in control as 15 wickets fall on day four - highlights]]></title>
+            <description><![CDATA[Watch highlights as Australia remain in control over England as 15 wickets fall on day four of the Ashes Test at Trent Bridge.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/cricket/66015017?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/cricket/66015017</guid>
+            <pubDate>Sun, 25 Jun 2023 18:33:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MLB London Series: St Louis Cardinals beat Chicago Cubs in game two to level series]]></title>
+            <description><![CDATA[It was honours even at London Stadium this weekend as Major League Baseball made its long-awaited return to the UK.]]></description>
+            <link>https://www.bbc.co.uk/sport/baseball/66010587?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/baseball/66010587</guid>
+            <pubDate>Sun, 25 Jun 2023 20:13:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zharnel Hughes: British athlete predicted his 9.83 run to break Linford Christie's 30-year 100m record]]></title>
+            <description><![CDATA[Sprinter Zharnel Hughes says he predicted that he would break Linford Christie's 30-year British men's 100m record after clocking 9.83 seconds in New York.]]></description>
+            <link>https://www.bbc.co.uk/sport/athletics/66014209?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/athletics/66014209</guid>
+            <pubDate>Sun, 25 Jun 2023 14:44:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[England U21 2-0 Israel U21: Anthony Gordon and Emile Smith Rowe put Young Lions into quarters]]></title>
+            <description><![CDATA[England qualify for the quarter-finals of the European Under-21 Championship with a comfortable win over Israel in Georgia.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/66013874?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/66013874</guid>
+            <pubDate>Sun, 25 Jun 2023 20:14:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wagner, Prigozhin, Putin and Shoigu: Bitter rivalries that led to a rebellion]]></title>
+            <description><![CDATA[The Wagner mutiny was years in the making, as Russia's system of competing powers finally collapsed.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-66013532?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-66013532</guid>
+            <pubDate>Sun, 25 Jun 2023 16:39:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ros Atkins on... five impacts of the Wagner mutiny]]></title>
+            <description><![CDATA[The BBC’s Analysis Editor Ros Atkins looks at what the consequences are of the failed Wagner mutiny.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-66014651?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-66014651</guid>
+            <pubDate>Sun, 25 Jun 2023 20:21:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What will Putin do next? And other key questions]]></title>
+            <description><![CDATA[What happens to Wagner? What will Putin do next? And how will it affect war in Ukraine? Key questions answered.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-66012906?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-66012906</guid>
+            <pubDate>Sun, 25 Jun 2023 11:57:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wagner chief's 24 hours of chaos in Russia]]></title>
+            <description><![CDATA[Wagner's mercenary boss threatened an armed rebellion but pulled back from marching on Moscow.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-66006880?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-66006880</guid>
+            <pubDate>Sat, 24 Jun 2023 21:48:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ukraine conflict: Who's in Putin's inner circle and running the war?]]></title>
+            <description><![CDATA[Russia's president relies on a small but deeply loyal group of people when he makes key decisions.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-60573261?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-60573261</guid>
+            <pubDate>Sat, 24 Jun 2023 17:45:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russia: Wagner mutiny shows real cracks in Putin authority - US]]></title>
+            <description><![CDATA[Top US diplomat Antony Blinken says an attempted rebellion was a "direct challenge" to President Putin.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-66014141?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-66014141</guid>
+            <pubDate>Sun, 25 Jun 2023 15:08:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wagner: Tracking the mercenary group's day of rebellion in Russia]]></title>
+            <description><![CDATA[The US secretary of state calls the actions of the mercenary group a "direct challenge to Putin's authority".]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-66014535?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-66014535</guid>
+            <pubDate>Sun, 25 Jun 2023 14:45:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cat Stevens soothes an exhausted Glastonbury in the legend slot]]></title>
+            <description><![CDATA[The folk star plays a laid-back, hit-heavy set in the coveted Sunday afternoon "legend slot".]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-66014453?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-66014453</guid>
+            <pubDate>Sun, 25 Jun 2023 15:43:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spice Girls: Mel C says all of her old group would like to play Glastonbury Festival next year]]></title>
+            <description><![CDATA[The singer fans the flames of rumours her old group could be next in line for the legends slot.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-66013502?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-66013502</guid>
+            <pubDate>Sun, 25 Jun 2023 13:35:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Glastonbury 2023: Elton John fans reserve front row spaces at crack of dawn]]></title>
+            <description><![CDATA[Fans woke up at the crack of dawn to ensure they could be in the front row when the star plays.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-66013113?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-66013113</guid>
+            <pubDate>Sun, 25 Jun 2023 10:51:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Loyle Carner: The secrets of the rapper's powerful and personal Glastonbury set]]></title>
+            <description><![CDATA[The South London rapper talks us through his powerful and personal set on The Other Stage.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-66009682?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-66009682</guid>
+            <pubDate>Sun, 25 Jun 2023 09:50:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Glastonbury review: Guns N' Roses are sporadically brilliant, while Lana Del Rey is cut short]]></title>
+            <description><![CDATA[The hard rock band play a long, but rewarding headline set, while Lana Del Rey is cruelly cut short.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-66011512?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-66011512</guid>
+            <pubDate>Sun, 25 Jun 2023 00:16:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Glastonbury: Watch Guns N' Roses, Lizzo and Lewis Capaldi perform]]></title>
+            <description><![CDATA[Guns N' Roses, Lizzo and Lewis Capaldi are among the stars to have taken to the stage at Worthy Farm.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-66010996?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-66010996</guid>
+            <pubDate>Sat, 24 Jun 2023 19:45:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lewis Capaldi struggles to finish set]]></title>
+            <description><![CDATA[After suffering vocal problems, the Scottish star suggests he might have to take an extended break.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-66010662?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-66010662</guid>
+            <pubDate>Sat, 24 Jun 2023 18:39:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rick Astley doesn't let Glastonbury down]]></title>
+            <description><![CDATA[The pop star draws a huge crowd to the Pyramid Stage, for a midday singalong to his greatest hits.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-66007741?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-66007741</guid>
+            <pubDate>Sat, 24 Jun 2023 12:05:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Arctic Monkeys: A tale of two halves]]></title>
+            <description><![CDATA[The rock band battle through illness to play their headline slot, but the set divides the audience.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-66005948?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-66005948</guid>
+            <pubDate>Sat, 24 Jun 2023 01:37:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Elton created a 'brand new show' for headline show]]></title>
+            <description><![CDATA[The star, who is playing what could be his final UK show, promises big surprises at Glastonbury.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-65953124?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-65953124</guid>
+            <pubDate>Mon, 19 Jun 2023 23:27:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Which songs will define this year's festival?]]></title>
+            <description><![CDATA[As the festival gates open, we look at the songs that could give us a "Glastonbury moment" this year.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-65928816?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-65928816</guid>
+            <pubDate>Tue, 20 Jun 2023 23:06:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Foo Fighters make 'surprise' return]]></title>
+            <description><![CDATA[The US rock band emerged on Friday tea time to play a surprise set on the Pyramid Stage.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-66004466?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-66004466</guid>
+            <pubDate>Fri, 23 Jun 2023 19:13:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Carly Rae Jepsen: I'll get lost like a child]]></title>
+            <description><![CDATA[The pop star says she hopes to drift off and spend time people watching after her festival debut.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-65964288?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-65964288</guid>
+            <pubDate>Fri, 23 Jun 2023 01:34:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The areas you don't see at the festival]]></title>
+            <description><![CDATA[Andy Bennett takes us through the things you might miss at Glastonbury.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-somerset-65996684?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-somerset-65996684</guid>
+            <pubDate>Fri, 23 Jun 2023 07:46:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My muscle condition won't stop me playing]]></title>
+            <description><![CDATA[Teenager Eli Crossley is playing Glastonbury after a BBC video on his health condition went viral.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-65964282?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-65964282</guid>
+            <pubDate>Thu, 22 Jun 2023 00:34:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
