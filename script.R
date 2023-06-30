@@ -46,7 +46,7 @@ nrc_graph <- question_nrc_sentiments %>%
   geom_col ( show.legend = FALSE ) +
   labs ( title = " Frequency of NRC sentiments on BBC website ")
 nrc_graph
-ggsave(paste("Nrc_graph_",Sys.Date(),".pdf"), plot = Nrc_graph, width = 8, height = 4.5)
+ggsave(paste("Nrc_graph_",Sys.Date(),".pdf"), plot = nrc_graph, width = 8, height = 4.5)
 
 
 
