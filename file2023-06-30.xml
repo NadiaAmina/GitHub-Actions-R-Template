@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Jun 2023 18:16:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jun 2023 18:42:59 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -170,18 +170,25 @@
             <pubDate>Fri, 30 Jun 2023 15:26:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[London Super Sewer gets underground flower garden]]></title>
-            <description><![CDATA[The artificial oasis 50m beneath London aims to reflect a healthier future for the River Thames once the new sewer opens.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-66066156?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-66066156</guid>
-            <pubDate>Fri, 30 Jun 2023 15:57:26 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Naomi Campbell becomes a mother for a second time, aged 53]]></title>
             <description><![CDATA[The supermodel, who welcomed her first child two years ago, says "it's never too late".]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-66063379?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-66063379</guid>
             <pubDate>Fri, 30 Jun 2023 09:57:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Paul Heaton pays for fans' drinks to mark Scarborough gig]]></title>
+            <description><![CDATA[The Beautiful South singer puts money behind the bar at pubs in Scarborough to thank fans.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-66067545?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-66067545</guid>
+            <pubDate>Fri, 30 Jun 2023 16:31:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[London Super Sewer gets underground flower garden]]></title>
+            <description><![CDATA[The artificial oasis 50m beneath London aims to reflect a healthier future for the River Thames once the new sewer opens.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-66066156?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-66066156</guid>
+            <pubDate>Fri, 30 Jun 2023 15:57:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nutmeg co-founder Nick Hungerford sets up charity for bereaved children]]></title>
@@ -205,11 +212,11 @@
             <pubDate>Fri, 30 Jun 2023 16:48:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Austrian Grand Prix 2023: Max Verstappen on pole ahead of Charles Leclerc]]></title>
-            <description><![CDATA[Max Verstappen fends off a challenge from Ferrari's Charles Leclerc to take pole position at the Austrian Grand Prix.]]></description>
-            <link>https://www.bbc.co.uk/sport/formula1/66067724?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/66067724</guid>
-            <pubDate>Fri, 30 Jun 2023 18:01:11 GMT</pubDate>
+            <title><![CDATA[Nicolas Jackson: Chelsea sign Senegal forward from Villarreal on eight-year contract]]></title>
+            <description><![CDATA[Chelsea complete the signing of Senegal forward Nicolas Jackson on an eight-year contract from Villarreal.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/66007461?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/66007461</guid>
+            <pubDate>Fri, 30 Jun 2023 18:34:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ashes: England v Australia - second Test, day three highlights]]></title>
@@ -219,11 +226,11 @@
             <pubDate>Fri, 30 Jun 2023 17:13:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Ashes 2023: Nathan Lyon a doubt for rest of series with 'significant calf strain']]></title>
-            <description><![CDATA[Australia spinner Nathan Lyon suffered a "significant calf strain" on day two of the second Ashes Test and is a doubt for the rest of the series.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/66066325?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/66066325</guid>
-            <pubDate>Fri, 30 Jun 2023 10:31:58 GMT</pubDate>
+            <title><![CDATA[Austrian Grand Prix 2023: Max Verstappen on pole ahead of Charles Leclerc]]></title>
+            <description><![CDATA[Max Verstappen fends off a challenge from Ferrari's Charles Leclerc to take pole position at the Austrian Grand Prix.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/66067724?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/66067724</guid>
+            <pubDate>Fri, 30 Jun 2023 18:01:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[England captain Heather Knight gives ICEC report insight amid 'ironing' remark]]></title>
