@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Home]]></title>
+        <description><![CDATA[BBC News - Home]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Home</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 30 Jun 2023 18:16:41 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Ministers set out plan to train and keep more NHS staff]]></title>
+            <description><![CDATA[The government says measures including shorter medical degrees will help plug gaps in the workforce.]]></description>
+            <link>https://www.bbc.co.uk/news/health-66052274?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-66052274</guid>
+            <pubDate>Fri, 30 Jun 2023 12:41:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid pandemic linked to surge in child and teen diabetes]]></title>
+            <description><![CDATA[Experts have seen a 'substantial' yet unexplained rise in new cases worldwide since the pandemic.]]></description>
+            <link>https://www.bbc.co.uk/news/health-66054946?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-66054946</guid>
+            <pubDate>Fri, 30 Jun 2023 15:00:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Moldova attack: Two dead as man opens fire inside Chisinau airport]]></title>
+            <description><![CDATA[The man was denied entry to Chisinau airport and then shot two officials, authorities say.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-66070461?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-66070461</guid>
+            <pubDate>Fri, 30 Jun 2023 17:01:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hacking trial: Prince Harry claims £320,000 in damages for 33 articles]]></title>
+            <description><![CDATA[The Duke of Sussex alleges articles published by Mirror Group Newspapers breached his privacy.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-66070127?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-66070127</guid>
+            <pubDate>Fri, 30 Jun 2023 15:02:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sue Gray cleared to work for Labour amid Conservative anger]]></title>
+            <description><![CDATA[The ex-official can start from September, but ministers say she may have broken civil service rules.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-66067865?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-66067865</guid>
+            <pubDate>Fri, 30 Jun 2023 17:15:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK porn age checks raise privacy concerns]]></title>
+            <description><![CDATA[Digital rights groups say more robust age verification requirements lack transparency.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-66065600?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-66065600</guid>
+            <pubDate>Fri, 30 Jun 2023 17:04:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sky Mobile and Giffgaff customers suffer outage]]></title>
+            <description><![CDATA[The networks both confirm users reporting problems with their mobile phone connection.]]></description>
+            <link>https://www.bbc.co.uk/news/business-66071631?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-66071631</guid>
+            <pubDate>Fri, 30 Jun 2023 16:50:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zac Goldsmith: Rishi Sunak wrong to say I refused to apologise]]></title>
+            <description><![CDATA[Tory peer hits back at the prime minister in a war of words over his decision to quit as a minster.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-66063894?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-66063894</guid>
+            <pubDate>Fri, 30 Jun 2023 17:28:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lucy Letby trial: Babies died 'due to care failures and not murder']]></title>
+            <description><![CDATA[Murder-accused nurse Lucy Letby's barrister says there is "no direct evidence" she harmed anybody.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-merseyside-66065084?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-merseyside-66065084</guid>
+            <pubDate>Fri, 30 Jun 2023 14:57:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Essex school toilet sex assaults sees boy arrested]]></title>
+            <description><![CDATA[Police are investigating reports of serious sexual assaults in a gender neutral toilet at a school.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-essex-66052546?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-essex-66052546</guid>
+            <pubDate>Fri, 30 Jun 2023 13:13:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cancer patient regains ability to smile after innovative surgery]]></title>
+            <description><![CDATA[Daniel Kilty suffered with facial paralysis before undergoing the innovative operation in Portsmouth.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-hampshire-66068018?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-hampshire-66068018</guid>
+            <pubDate>Fri, 30 Jun 2023 16:20:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Anita Anand: Presenter interviews Canadian minister with same name]]></title>
+            <description><![CDATA[The BBC presenter and Canadian politician joke about all the times they have been mistaken for each other.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-66070489?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-66070489</guid>
+            <pubDate>Fri, 30 Jun 2023 14:32:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Camp spotted on suspected Wagner site in Belarus]]></title>
+            <description><![CDATA[A detailed satellite image taken for the BBC shows hundreds of new tent-like structures at Belarus military base]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-66052060?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-66052060</guid>
+            <pubDate>Fri, 30 Jun 2023 10:25:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Titan sub wreckage can tell us about the tragedy]]></title>
+            <description><![CDATA[How debris recovered from the sea bed near the Titanic could help investigators learn what happened.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-66056706?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-66056706</guid>
+            <pubDate>Thu, 29 Jun 2023 16:54:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How did Annie’s body end up on a Scottish beach?]]></title>
+            <description><![CDATA[Annie Börjesson's body was found in 2005. Police found no evidence of criminality but loved ones always had questions.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-66053050?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-66053050</guid>
+            <pubDate>Fri, 30 Jun 2023 05:02:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Seen by millions - an untrue TikTok post featuring this man]]></title>
+            <description><![CDATA[The firm is struggling to stop climate misinformation spreading on its platform, BBC investigation finds.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-66023797?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-66023797</guid>
+            <pubDate>Fri, 30 Jun 2023 00:50:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Milky Way: Icy observatory reveals 'ghost particles']]></title>
+            <description><![CDATA[An extraordinary image of ghost particles in the Milky Way is captured by an observatory buried at the South Pole.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-66049330?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-66049330</guid>
+            <pubDate>Thu, 29 Jun 2023 23:03:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Quiz of the week: Who missed the Rocketman's final mission?]]></title>
+            <description><![CDATA[How closely have you been paying attention to what's been going on over the past seven days?]]></description>
+            <link>https://www.bbc.co.uk/news/world-66047528?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-66047528</guid>
+            <pubDate>Thu, 29 Jun 2023 16:20:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Aspartame - is it a possible cause of cancer?]]></title>
+            <description><![CDATA[Reports suggest the World Health Organization could label the sweetener as possibly carcinogenic.]]></description>
+            <link>https://www.bbc.co.uk/news/health-66057216?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-66057216</guid>
+            <pubDate>Thu, 29 Jun 2023 16:03:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Over-30s eye Australia gap year as age limit upped]]></title>
+            <description><![CDATA[Australia extends the age limit to 35 for Brits who want to live and work down under.]]></description>
+            <link>https://www.bbc.co.uk/news/business-65960126?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-65960126</guid>
+            <pubDate>Fri, 30 Jun 2023 17:21:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How this man helped prevent a revenge murder]]></title>
+            <description><![CDATA[Millions of dollars are going into community violence prevention. Will it work?]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-65994314?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-65994314</guid>
+            <pubDate>Thu, 29 Jun 2023 00:42:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alan Arkin: Little Miss Sunshine actor dies aged 89]]></title>
+            <description><![CDATA[Arkin won an Oscar for playing the outrageous grandad in the 2006 film, and also appeared in Argo.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-66063382?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-66063382</guid>
+            <pubDate>Fri, 30 Jun 2023 15:26:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[London Super Sewer gets underground flower garden]]></title>
+            <description><![CDATA[The artificial oasis 50m beneath London aims to reflect a healthier future for the River Thames once the new sewer opens.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-66066156?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-66066156</guid>
+            <pubDate>Fri, 30 Jun 2023 15:57:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Naomi Campbell becomes a mother for a second time, aged 53]]></title>
+            <description><![CDATA[The supermodel, who welcomed her first child two years ago, says "it's never too late".]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-66063379?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-66063379</guid>
+            <pubDate>Fri, 30 Jun 2023 09:57:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nutmeg co-founder Nick Hungerford sets up charity for bereaved children]]></title>
+            <description><![CDATA[Nick Hungerford's charity for bereaved children, Elizabeth's Smile, is named after his daughter.]]></description>
+            <link>https://www.bbc.co.uk/news/business-66065050?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-66065050</guid>
+            <pubDate>Fri, 30 Jun 2023 12:26:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Thailand: Rescuers amputate leg of woman stuck in travelator]]></title>
+            <description><![CDATA[Her family says they are shocked and saddened at the incident in Thailand's Don Mueang airport.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-66062753?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-66062753</guid>
+            <pubDate>Fri, 30 Jun 2023 08:36:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Ashes 2023: England hopes fading after Australia dominate at Lord's]]></title>
+            <description><![CDATA[England's hopes in the second Test and the Ashes hang by a thread after an awful third day against Australia at Lord's.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/66071724?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/66071724</guid>
+            <pubDate>Fri, 30 Jun 2023 16:48:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Austrian Grand Prix 2023: Max Verstappen on pole ahead of Charles Leclerc]]></title>
+            <description><![CDATA[Max Verstappen fends off a challenge from Ferrari's Charles Leclerc to take pole position at the Austrian Grand Prix.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/66067724?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/66067724</guid>
+            <pubDate>Fri, 30 Jun 2023 18:01:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ashes: England v Australia - second Test, day three highlights]]></title>
+            <description><![CDATA[England's hopes in the second Test and the Ashes hang by a thread following an awful third day against Australia at Lord's.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/cricket/66066232?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/cricket/66066232</guid>
+            <pubDate>Fri, 30 Jun 2023 17:13:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Ashes 2023: Nathan Lyon a doubt for rest of series with 'significant calf strain']]></title>
+            <description><![CDATA[Australia spinner Nathan Lyon suffered a "significant calf strain" on day two of the second Ashes Test and is a doubt for the rest of the series.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/66066325?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/66066325</guid>
+            <pubDate>Fri, 30 Jun 2023 10:31:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[England captain Heather Knight gives ICEC report insight amid 'ironing' remark]]></title>
+            <description><![CDATA[England captain Heather Knight says cricket has made progress from the days she received sexist remarks about ironing but has "a long way to go" in the wake of a damning independent report.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/66069780?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/66069780</guid>
+            <pubDate>Fri, 30 Jun 2023 17:00:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[France shooting: Macron accuses rioters of exploiting teen killed by police]]></title>
+            <description><![CDATA[At a crisis meeting, France's president condemns three nights of riots as "unjustifiable".]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-66069080?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-66069080</guid>
+            <pubDate>Fri, 30 Jun 2023 16:27:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[France shooting: How a teenager's death sparked riots]]></title>
+            <description><![CDATA[The death of 17-year-old Nahel M, during a traffic stop, has provoked anger across the country.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-66068964?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-66068964</guid>
+            <pubDate>Fri, 30 Jun 2023 13:04:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[France riots: Why are police using guns during traffic stops?]]></title>
+            <description><![CDATA[Nahel M's death follows an increase in police using firearms on drivers who fail to stop.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-66066438?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-66066438</guid>
+            <pubDate>Fri, 30 Jun 2023 12:36:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[France shooting: Policeman charged over teen's traffic stop death]]></title>
+            <description><![CDATA[France sees a third night of mass unrest, triggered by Tuesday's police shooting of a teenager.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-66061138?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-66061138</guid>
+            <pubDate>Fri, 30 Jun 2023 07:27:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[France shooting: Who was Nahel M, shot by French police in Nanterre?]]></title>
+            <description><![CDATA[He was learning to be an electrician and played rugby league but died at a police check near Paris.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-66052104?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-66052104</guid>
+            <pubDate>Fri, 30 Jun 2023 17:44:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What we know about the killing... in 55 seconds]]></title>
+            <description><![CDATA[The BBC's Hugh Schofield investigates at the scene where police shot dead 17-year-old Nahel.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-66045782?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-66045782</guid>
+            <pubDate>Wed, 28 Jun 2023 16:26:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mother of teenage boy speaks after Paris police shooting]]></title>
+            <description><![CDATA[Seventeen-year-old Nahel M was shot by police during a traffic stop in Nanterre, a suburb of Paris.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-66052958?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-66052958</guid>
+            <pubDate>Thu, 29 Jun 2023 09:50:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Macron's solidarity seems to fall on deaf ears among locals]]></title>
+            <description><![CDATA[Some residents of Nanterre are bracing for a long cold war between French suburbs and the state.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-66051179?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-66051179</guid>
+            <pubDate>Thu, 29 Jun 2023 09:47:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
