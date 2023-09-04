@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Home]]></title>
+        <description><![CDATA[BBC News - Home]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Home</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 04 Sep 2023 01:19:58 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Ukraine War: Counter-offensive troops punch through Russia line, generals claim]]></title>
+            <description><![CDATA[Kyiv says its troops are gaining momentum in what continues to be a lengthy and bloody counter-offensive.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-66702244?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-66702244</guid>
+            <pubDate>Sun, 03 Sep 2023 15:56:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[One in five children regularly miss school, figures show]]></title>
+            <description><![CDATA[Parents should get their children back to school this week, the children's commissioner urges.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-66701748?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-66701748</guid>
+            <pubDate>Sun, 03 Sep 2023 17:58:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Labour reshuffle: Sir Keir Starmer to shake up shadow cabinet]]></title>
+            <description><![CDATA[There is much speculation over what role Sir Keir may give his deputy leader Angela Rayner.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-66702016?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-66702016</guid>
+            <pubDate>Sun, 03 Sep 2023 23:54:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Family courts: Mothers dying after 'abusers' claim access to children]]></title>
+            <description><![CDATA[One death came after family courts ordered a child to live with a paedophile, a BBC investigation finds.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-66531409?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-66531409</guid>
+            <pubDate>Sun, 03 Sep 2023 23:04:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rail disruption: Train cancellations as high as 13% in 2023]]></title>
+            <description><![CDATA[One station, managed by TransPennine Express, has had 13% of its trains cancelled.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-66664323?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-66664323</guid>
+            <pubDate>Sun, 03 Sep 2023 23:06:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Torrential rain in Spain causes major flooding]]></title>
+            <description><![CDATA[Atletico Madrid and Seville's football match was called off as a red alert was issued in the capital.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-66702891?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-66702891</guid>
+            <pubDate>Sun, 03 Sep 2023 19:24:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ukraine's defence minister Oleksii Reznikov dismissed]]></title>
+            <description><![CDATA[Ukraine's President Volodymyr Zelensky dismissed Oleksii Reznikov, saying "new approaches" were needed.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-66702893?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-66702893</guid>
+            <pubDate>Sun, 03 Sep 2023 21:31:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Children's futures at risk as more put to work - UN]]></title>
+            <description><![CDATA[The head of the UN agency says the world needs to act fast to get children out of exploitative work.]]></description>
+            <link>https://www.bbc.co.uk/news/world-66582913?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-66582913</guid>
+            <pubDate>Sun, 03 Sep 2023 23:06:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Boy thrown from Tate Modern using wheelchair a lot less, family says]]></title>
+            <description><![CDATA[The child survived a 100ft (30m) fall in 2019 but suffered life-changing injuries.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-66702948?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-66702948</guid>
+            <pubDate>Sun, 03 Sep 2023 17:21:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jeremy Hunt says government will 'spend what it takes' to make schools safe]]></title>
+            <description><![CDATA[Labour calls the chancellor's funding promise a "bare bones" response to the crumbly concrete crisis.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-66700026?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-66700026</guid>
+            <pubDate>Sun, 03 Sep 2023 13:46:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Paul McCartney: Global search for missing Beatles' 1961 Höfner guitar]]></title>
+            <description><![CDATA[Paul McCartney changed music history playing iconic Höfner guitar - but it hasn't been seen since 1969.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-66700300?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-66700300</guid>
+            <pubDate>Sun, 03 Sep 2023 18:42:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Minnesota jail in lockdown as 100 inmates refuse to return to cells]]></title>
+            <description><![CDATA[Prisoners are reportedly protesting conditions at the facility amid hot conditions.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-66703782?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-66703782</guid>
+            <pubDate>Sun, 03 Sep 2023 22:13:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US Open 2023 results: Coco Gauff ends Caroline Wozniacki's comeback run]]></title>
+            <description><![CDATA[Coco Gauff shows why she is one the favourites at the US Open with a gutsy win over Caroline Wozniacki to reach the quarter-finals.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/66703616?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/66703616</guid>
+            <pubDate>Sun, 03 Sep 2023 22:57:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: 'No cash for school repairs' and Labour tax pledge]]></title>
+            <description><![CDATA[The issue of crumbling concrete is on the front of some of Monday's papers.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-the-papers-66703742?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/blogs-the-papers-66703742</guid>
+            <pubDate>Sun, 03 Sep 2023 22:59:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Teacher suicide exposes parent bullying in S Korea]]></title>
+            <description><![CDATA[Tens of thousands of primary school teachers have gone on strike demanding better protection at work.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-66655572?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-66655572</guid>
+            <pubDate>Sun, 03 Sep 2023 23:07:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gail Porter on comedy: 'Has anyone here been sectioned?']]></title>
+            <description><![CDATA[The TV star on being sectioned, getting into comedy and balancing her finances.]]></description>
+            <link>https://www.bbc.co.uk/news/disability-66669845?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/disability-66669845</guid>
+            <pubDate>Mon, 04 Sep 2023 00:02:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New tech boosts Dutch drive for sustainable farming]]></title>
+            <description><![CDATA[In the Netherlands, experiments are underway to ensure future food supply and cut carbon emissions.]]></description>
+            <link>https://www.bbc.co.uk/news/business-66461769?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-66461769</guid>
+            <pubDate>Sun, 03 Sep 2023 23:01:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lagos traffic jams disappear. But this isn't good news for Nigeria]]></title>
+            <description><![CDATA[The removal of a fuel subsidy has pushed the cost of transport out of the reach of many Nigerians.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-66652771?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-66652771</guid>
+            <pubDate>Sun, 03 Sep 2023 23:12:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Threats, insults, and Kremlin 'robots': How Russian diplomacy died under Putin]]></title>
+            <description><![CDATA[Russian diplomacy is no longer about co-operation but "putting Westerners in their place", say ex-Kremlin insiders.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-66509180?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-66509180</guid>
+            <pubDate>Sat, 02 Sep 2023 23:25:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why your burger may not always look like the advert]]></title>
+            <description><![CDATA[Burger King is facing a US lawsuit over images of its Whoppers, but advertisers are allowed to exaggerate.]]></description>
+            <link>https://www.bbc.co.uk/news/business-66668739?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-66668739</guid>
+            <pubDate>Sat, 02 Sep 2023 23:06:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Berliners rave against motorway extension threatening cultural venues]]></title>
+            <description><![CDATA[Clubbers hold street party protesting against plan to flatten 20 venues in path of ring road extension]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-66697756?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-66697756</guid>
+            <pubDate>Sat, 02 Sep 2023 23:45:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Johannesburg fire: Hijacks and death traps in a crumbling South African city centre]]></title>
+            <description><![CDATA[Criminal gangs 'hijack' buildings in South Africa, and then they burn down. And no-one seems able to stop them.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-66695688?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-66695688</guid>
+            <pubDate>Sat, 02 Sep 2023 23:33:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nats air traffic control fault: Experts reflect on three days of chaos]]></title>
+            <description><![CDATA[Why did a fault that was fixed promptly delay so many flights?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-66685349?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-66685349</guid>
+            <pubDate>Sat, 02 Sep 2023 23:22:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mitch McConnell: After health scare, voters weigh in on whether politicians are too old]]></title>
+            <description><![CDATA[The 81-year-old Republican appeared to freeze for the second time in just over a month while speaking to reporters.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-66681055?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-66681055</guid>
+            <pubDate>Sat, 02 Sep 2023 23:35:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fukushima: China's anger at Japan is fuelled by disinformation]]></title>
+            <description><![CDATA[Scientists have backed Japan's treated waste water release, but Beijing's protest remains loud.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-66667291?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-66667291</guid>
+            <pubDate>Sat, 02 Sep 2023 22:02:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Burning Man: Police investigating death during heavy rain]]></title>
+            <description><![CDATA[Thousands of people remain stuck at the event in Nevada and could remain so for several more days.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-66700006?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-66700006</guid>
+            <pubDate>Sun, 03 Sep 2023 22:28:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sunak joins King Charles and Queen Camilla at Balmoral Sunday service]]></title>
+            <description><![CDATA[The prime minister and his wife Akshata Murthy joined the Royal Family at their Balmoral estate.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-66701467?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-66701467</guid>
+            <pubDate>Sun, 03 Sep 2023 16:41:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Crystal Palace: Man arrested after alleged racist abuse of Wolves player during match]]></title>
+            <description><![CDATA[A man in his 60s is arrested after allegedly racially abusing a Wolves player at Crystal Palace's Selhurst Park during Sunday's Premier League game.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/66703450?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/66703450</guid>
+            <pubDate>Sun, 03 Sep 2023 20:02:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[South Africa says inquiry finds no evidence of arms shipment to Russia]]></title>
+            <description><![CDATA[A national inquiry rejects US claims a Russian cargo ship was uploaded with South African weapons.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-66703901?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-66703901</guid>
+            <pubDate>Mon, 04 Sep 2023 00:11:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Manchester United: Jadon Sancho says he is 'a scapegoat' after being dropped]]></title>
+            <description><![CDATA[Jadon Sancho says he is "a scapegoat" after Manchester United boss Erik ten Hag said he was dropped for Sunday's loss to Arsenal because of poor training performance.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/66703343?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/66703343</guid>
+            <pubDate>Sun, 03 Sep 2023 20:49:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I've never told anyone to hack a phone - Piers Morgan]]></title>
+            <description><![CDATA[The former editor of the Daily Mirror denies ever hacking phones or telling anyone to do so while he was at the newspaper.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-66700232?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-66700232</guid>
+            <pubDate>Sun, 03 Sep 2023 10:22:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coventry: Pedestrian and cyclist hit by car die from injuries]]></title>
+            <description><![CDATA[A man is being questioned after three people were hurt, two fatally, in separate collisions.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-66701172?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-66701172</guid>
+            <pubDate>Sun, 03 Sep 2023 16:57:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mo Farah finishes fourth in The Big Half in final London race]]></title>
+            <description><![CDATA[Mo Farah's final race in his home city of London ends with a fourth-placed finish in The Big Half, as Jack Rowe wins.]]></description>
+            <link>https://www.bbc.co.uk/sport/athletics/66700106?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/athletics/66700106</guid>
+            <pubDate>Sun, 03 Sep 2023 09:34:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Australia launches mission to rescue Antarctic researcher]]></title>
+            <description><![CDATA[An icebreaker is sent from Tasmania to evacuate an Australian with a "developing medical condition".]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-66695682?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-australia-66695682</guid>
+            <pubDate>Sat, 02 Sep 2023 12:50:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Declan Rice: The game-changing midfielder Arsenal need for title challenge]]></title>
+            <description><![CDATA[Big players deliver the big moments to decide the big games and Arsenal's Declan Rice did that on every level against Manchester United, writes Phil McNulty.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/66703157?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/66703157</guid>
+            <pubDate>Sun, 03 Sep 2023 19:52:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[England v New Zealand: Finn Allen hits 83 as tourists win third T20 by 74 runs]]></title>
+            <description><![CDATA[England are outplayed by a resurgent New Zealand who clinch the third T20 international by 74 runs at Edgbaston.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/66701803?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/66701803</guid>
+            <pubDate>Sun, 03 Sep 2023 17:25:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MOTD2 analysis: How Trent Alexander-Arnold gave a "passing masterclass"]]></title>
+            <description><![CDATA[Match of the Day 2's Mark Chapman, Jermaine Jenas and Stephen Warnock discuss how Liverpool's Trent Alexander-Arnold delivered a "passing masterclass".]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/66702619?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/football/66702619</guid>
+            <pubDate>Sun, 03 Sep 2023 23:02:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Garth Crooks' Team of the Week: Pickford, Szoboszlai, Haaland, Ferguson, Son and more]]></title>
+            <description><![CDATA[Which players impressed our football pundit Garth Crooks enough to make his latest Team of the Week?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/66703155?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/66703155</guid>
+            <pubDate>Sun, 03 Sep 2023 21:09:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mohamed Salah: Jurgen Klopp 'has no doubt' over forward's commitment to Liverpool]]></title>
+            <description><![CDATA[Liverpool could be bracing themselves for more bids for Mohamed Salah this week but Jurgen Klopp is "calm despite the fuss" about the forward's future.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/66702460?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/66702460</guid>
+            <pubDate>Sun, 03 Sep 2023 17:39:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rangers 0-1 Celtic: Kyogo Furuhashi sign of champions' strength at Ibrox]]></title>
+            <description><![CDATA[BBC Sport Scotland chief sportswriter Tom English analyses Celtic's win in the first Scottish Premiership Old Firm game of the season.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/66702093?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/66702093</guid>
+            <pubDate>Sun, 03 Sep 2023 15:25:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[List of schools that have closed, shut buildings or moved over RAAC concrete]]></title>
+            <description><![CDATA[The government is not publishing a list of which schools are affected, but this is what we know.]]></description>
+            <link>https://www.bbc.co.uk/news/education-66681227?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/education-66681227</guid>
+            <pubDate>Sun, 03 Sep 2023 14:40:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ros Atkins on... questions for government over RAAC]]></title>
+            <description><![CDATA[The BBC's Analysis Editor takes a look at four questions the government is being asked about potentially dangerous concrete in schools in England.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-66703849?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-66703849</guid>
+            <pubDate>Sun, 03 Sep 2023 21:51:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[School closures: BBC correspondent explains why this concrete is dangerous]]></title>
+            <description><![CDATA[BBC Home Affairs Correspondent Tom Symonds explains why RAAC is more dangerous than standard concrete.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-66689463?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-66689463</guid>
+            <pubDate>Fri, 01 Sep 2023 18:31:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is RAAC concrete and where is it in schools and hospitals?]]></title>
+            <description><![CDATA[Questions mount about aerated concrete used in schools and public buildings since the 1950s.]]></description>
+            <link>https://www.bbc.co.uk/news/education-66669239?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/education-66669239</guid>
+            <pubDate>Sat, 02 Sep 2023 11:23:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How will I know if my child's school is closed? Your questions answered]]></title>
+            <description><![CDATA[Will more schools need to close? Why is this happening? Our experts on what you need to know.]]></description>
+            <link>https://www.bbc.co.uk/news/education-66686864?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/education-66686864</guid>
+            <pubDate>Fri, 01 Sep 2023 15:43:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Parents tell of shock as scale of school closures emerges]]></title>
+            <description><![CDATA[Concrete safety fears have thrown the new term into turmoil at more than 100 schools in England.]]></description>
+            <link>https://www.bbc.co.uk/news/education-66681702?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/education-66681702</guid>
+            <pubDate>Sat, 02 Sep 2023 04:02:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[RAAC: Public buildings at risk from concrete failure, experts warn]]></title>
+            <description><![CDATA[Specialists say RAAC concrete was widely used in public buildings in the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-66690256?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-66690256</guid>
+            <pubDate>Fri, 01 Sep 2023 20:09:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Essex: 50 schools fitted with crumbling concrete, says council]]></title>
+            <description><![CDATA[Parents and children speak of "heartbreak" at hearing their school buildings are closing.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-essex-66678434?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-essex-66678434</guid>
+            <pubDate>Fri, 01 Sep 2023 18:04:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[35 council-run schools in Scotland found to contain RAAC]]></title>
+            <description><![CDATA[A total of 35 council-run schools have been found to contain RAAC, the Scottish government confirms.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-66682341?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-66682341</guid>
+            <pubDate>Fri, 01 Sep 2023 20:26:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[RAAC ‘is like a concrete Aero bar’]]></title>
+            <description><![CDATA[An architect explains the issues around RAAC which has caused closures of schools.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-66688988?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-66688988</guid>
+            <pubDate>Fri, 01 Sep 2023 17:03:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Faulty concrete likely in Wales, says building expert]]></title>
+            <description><![CDATA[Weaker concrete is probably in schools and other buildings in Wales, says leading civil engineer.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-66675364?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-66675364</guid>
+            <pubDate>Fri, 01 Sep 2023 14:51:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NI schools urgently checked over concrete concerns ]]></title>
+            <description><![CDATA[It is not yet known how long it will take to check for collapse-prone concrete in NI schools.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-66681368?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-66681368</guid>
+            <pubDate>Fri, 01 Sep 2023 11:03:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What you need to know about school concrete scare]]></title>
+            <description><![CDATA[BBC reporter Vanessa Clarke explains a bit more about schools affected by closures over safety fears.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-66677090?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-66677090</guid>
+            <pubDate>Thu, 31 Aug 2023 16:51:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What are my rights if my flight is cancelled or delayed?]]></title>
+            <description><![CDATA[Technical glitches have caused disruption at airports but passengers do have rights.]]></description>
+            <link>https://www.bbc.co.uk/news/business-61646214?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-61646214</guid>
+            <pubDate>Tue, 29 Aug 2023 14:58:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Five ways to save money on your packed lunch]]></title>
+            <description><![CDATA[The lunchbox is back after the summer holidays so here are some top tips on making savings at lunchtime.]]></description>
+            <link>https://www.bbc.co.uk/news/business-65312394?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-65312394</guid>
+            <pubDate>Sat, 02 Sep 2023 23:40:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to get a job: Six expert tips for finding work]]></title>
+            <description><![CDATA[There are 10m people out of work in the UK, so if you're searching for a job you're not alone. Here are some tips on how to get started.]]></description>
+            <link>https://www.bbc.co.uk/news/business-64939070?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-64939070</guid>
+            <pubDate>Mon, 14 Aug 2023 16:03:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Food prices: How can I save money on my grocery shop?]]></title>
+            <description><![CDATA[The cost-of-living crisis continues to bite. Here are some things that can reduce the impact.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-61798003?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-61798003</guid>
+            <pubDate>Mon, 31 Jul 2023 10:57:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is happening to house prices, and could there be a crash?]]></title>
+            <description><![CDATA[How higher interest rates are changing the UK's housing market.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-63147101?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/explainers-63147101</guid>
+            <pubDate>Tue, 01 Aug 2023 12:47:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Energy bills: What can I do if I can't afford to pay?]]></title>
+            <description><![CDATA[If you're struggling to afford your gas and electricity bills, what options are available?]]></description>
+            <link>https://www.bbc.co.uk/news/business-62435432?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-62435432</guid>
+            <pubDate>Fri, 25 Aug 2023 14:22:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Interest rate and mortgages: What you can do about rising payments]]></title>
+            <description><![CDATA[Watch the BBC's Lora Jones tell you five things you can do about your mortgage, in a minute.]]></description>
+            <link>https://www.bbc.co.uk/news/business-66384295?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-66384295</guid>
+            <pubDate>Thu, 03 Aug 2023 03:44:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Train strikes: When is the next action happening?]]></title>
+            <description><![CDATA[Members of the RMT rail workers' union and Aslef train drivers' union are set to strike again.]]></description>
+            <link>https://www.bbc.co.uk/news/business-61634959?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-61634959</guid>
+            <pubDate>Fri, 01 Sep 2023 19:58:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[First time home buyers: How much can I borrow?]]></title>
+            <description><![CDATA[With rents rising, more people are crunching the numbers to see if they can afford to buy.]]></description>
+            <link>https://www.bbc.co.uk/news/65544554?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/65544554</guid>
+            <pubDate>Fri, 12 May 2023 09:47:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fuel cost: How to save petrol and diesel]]></title>
+            <description><![CDATA[With weak competition adding to fuel prices, are drivers doing the right things to save money?]]></description>
+            <link>https://www.bbc.co.uk/news/business-61745697?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-61745697</guid>
+            <pubDate>Mon, 03 Jul 2023 13:01:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rent increases: What you can do about a rise from your landlord]]></title>
+            <description><![CDATA[The BBC's Lora Jones tells you four things you can do, if your landlord asks for more money.]]></description>
+            <link>https://www.bbc.co.uk/news/business-63290805?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-63290805</guid>
+            <pubDate>Mon, 17 Oct 2022 22:42:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cost-of-living payments: Who is getting them and when?]]></title>
+            <description><![CDATA[Low-income households, pensioners and some disabled people will get extra help with energy bills.]]></description>
+            <link>https://www.bbc.co.uk/news/business-61592496?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-61592496</guid>
+            <pubDate>Thu, 24 Aug 2023 10:14:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mortgage rates: Five ways to save money]]></title>
+            <description><![CDATA[Experts give advice for those who might be worried about their monthly mortgage payments.]]></description>
+            <link>https://www.bbc.co.uk/news/business-65984415?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-65984415</guid>
+            <pubDate>Thu, 10 Aug 2023 10:46:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Renting: What are your rights as a tenant?]]></title>
+            <description><![CDATA[With one in five people now renting in the UK, it's important to understand your rights as a tenant.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-65038459?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-65038459</guid>
+            <pubDate>Fri, 21 Jul 2023 09:03:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Renting: Three ways to win the race to securing a property]]></title>
+            <description><![CDATA[From being first in the queue to being more flexible, here are some tips on how to get ahead in the rental race.]]></description>
+            <link>https://www.bbc.co.uk/news/business-65089308?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-65089308</guid>
+            <pubDate>Tue, 28 Mar 2023 23:14:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rent prices: How much have they gone up in your area?]]></title>
+            <description><![CDATA[Use our interactive tool to find out what the average rent is in your area.]]></description>
+            <link>https://www.bbc.co.uk/news/business-65103937?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-65103937</guid>
+            <pubDate>Tue, 28 Mar 2023 23:30:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why inflation is falling but prices are still rising]]></title>
+            <description><![CDATA[We report this percentage every month but here are three things you may not know.]]></description>
+            <link>https://www.bbc.co.uk/news/business-64290160?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-64290160</guid>
+            <pubDate>Wed, 19 Jul 2023 07:29:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK inflation rate calculator: How much are prices rising for you?]]></title>
+            <description><![CDATA[Use our calculator to find out how much the cost of living is going up in your household.]]></description>
+            <link>https://www.bbc.co.uk/news/business-62558817?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-62558817</guid>
+            <pubDate>Wed, 16 Aug 2023 06:14:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Debt: What do I do if I can't afford to pay?]]></title>
+            <description><![CDATA[What help and options are available to people struggling with debt repayments?]]></description>
+            <link>https://www.bbc.co.uk/news/business-64291327?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-64291327</guid>
+            <pubDate>Tue, 23 May 2023 14:45:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
