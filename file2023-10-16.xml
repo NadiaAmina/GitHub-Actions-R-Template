@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Home]]></title>
+        <description><![CDATA[BBC News - Home]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Home</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 16 Oct 2023 01:30:05 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Khan Younis: A Gaza city on its knees, now with a million mouths to feed]]></title>
+            <description><![CDATA[A desperate and destitute tide of humanity has washed into Khan Younis. And there is no help.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-67116403?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67116403</guid>
+            <pubDate>Sun, 15 Oct 2023 15:38:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gaza: UK pushing for Rafah crossing into Egypt to open]]></title>
+            <description><![CDATA[The Rafah crossing on Gaza's border with Egypt is currently the only route out of the territory.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-67114394?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-67114394</guid>
+            <pubDate>Sun, 15 Oct 2023 19:00:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Polish election: Right-wing ruling party to lose majority - exit poll]]></title>
+            <description><![CDATA[Donald Tusk's centrist opposition has a better chance of forming a coalition if the poll is right.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-67118787?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-67118787</guid>
+            <pubDate>Mon, 16 Oct 2023 01:12:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NHS Wales: Thousands of hours missing from A&E figures]]></title>
+            <description><![CDATA[A&E waits in Wales have been seriously under-reported in official figures each month for a decade.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-67056279?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-67056279</guid>
+            <pubDate>Sun, 15 Oct 2023 21:38:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Snapchat death crash mum's plea to stop drink-drivers]]></title>
+            <description><![CDATA[Dafydd Hughes was killed by an unlicensed driver filmed drinking a can of cider behind the wheel.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-67081227?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-67081227</guid>
+            <pubDate>Sun, 15 Oct 2023 17:59:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scotland qualify for Euro 2024 finals in Germany as Spain beat Norway]]></title>
+            <description><![CDATA[Scotland qualify for Euro 2024 as Norway's loss to Spain secures a top-two finish in Group A for Steve Clarke's men.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/67092471?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/67092471</guid>
+            <pubDate>Sun, 15 Oct 2023 20:42:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SNP backs Humza Yousaf's Scottish independence plan]]></title>
+            <description><![CDATA[The party has voted for a strategy based on winning a majority of Scottish seats at a general election.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-67116489?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-67116489</guid>
+            <pubDate>Sun, 15 Oct 2023 16:54:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Charities 'concerned' over lack of progress with Renters Reform Bill]]></title>
+            <description><![CDATA[Thirty charities have warned Rishi Sunak not to abandon the bill banning no-fault evictions.]]></description>
+            <link>https://www.bbc.co.uk/news/business-67118261?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-67118261</guid>
+            <pubDate>Sun, 15 Oct 2023 23:01:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Boy, 6, killed in anti-Muslim attack, say US police]]></title>
+            <description><![CDATA[Police in Illinois link the killing of a boy and injuries to a woman to the ongoing Israel-Gaza war.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-67119183?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-67119183</guid>
+            <pubDate>Sun, 15 Oct 2023 23:24:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dariush Mehrjui: Iranian director and wife found dead]]></title>
+            <description><![CDATA[Authorities in Iran say the couple was found dead at home after sustaining knife wound injuries.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-67118052?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67118052</guid>
+            <pubDate>Sun, 15 Oct 2023 21:19:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Man charged over racist comments at pro-Palestine rally]]></title>
+            <description><![CDATA[The 67-year-old is alleged to have made racist comments during London's pro-Palestine rally.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-67115772?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-67115772</guid>
+            <pubDate>Sun, 15 Oct 2023 16:02:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Suzanne Somers: Three's Company actress dies aged 76]]></title>
+            <description><![CDATA[Somers was best known as one of the stars of the US sitcoms Three's Company and Step by Step.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-67119171?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-67119171</guid>
+            <pubDate>Sun, 15 Oct 2023 21:50:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hong Kong: 11kg of suspected cocaine found in motorised wheelchair]]></title>
+            <description><![CDATA[A 51-year-old man could face life in prison after the discovery by Hong Kong airport officials.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-67118051?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-67118051</guid>
+            <pubDate>Sun, 15 Oct 2023 17:42:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Lincolnshire village honoured in every Disney film since 2006]]></title>
+            <description><![CDATA[Walt Disney visited Norton Disney, Lincolnshire, in 1949, and Sleeping Beauty's castle changed forever.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-67102341?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-67102341</guid>
+            <pubDate>Sun, 15 Oct 2023 23:03:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: 'All-out war' fears and no 'glorifying terrorism']]></title>
+            <description><![CDATA[Efforts to stop the conflict in Gaza spreading and a warning by the home secretary lead the papers.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-the-papers-67119139?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/blogs-the-papers-67119139</guid>
+            <pubDate>Mon, 16 Oct 2023 00:08:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can the SNP's independence plan change the union's future?]]></title>
+            <description><![CDATA[Humza Yousaf sought to temper expectations of hungry SNP members at the party's annual conference.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-67118777?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-67118777</guid>
+            <pubDate>Sun, 15 Oct 2023 22:00:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A spooked and lonely Taiwan looks for new friends]]></title>
+            <description><![CDATA[China's incessant military drills drive Taiwan to look for support.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-67063197?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-67063197</guid>
+            <pubDate>Sun, 15 Oct 2023 22:09:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Same-sex hearing: The lesbian activist seeking marriage equality in India]]></title>
+            <description><![CDATA[Maya Sharma doesn't believe in marriage but has petitioned India's Supreme Court to legalise same-sex union.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-67018407?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-india-67018407</guid>
+            <pubDate>Mon, 16 Oct 2023 00:02:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is the UK doing enough to monitor air pollution?]]></title>
+            <description><![CDATA[There are now 555 air quality monitors across the country, but some say they aren't good enough.]]></description>
+            <link>https://www.bbc.co.uk/news/business-67074601?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-67074601</guid>
+            <pubDate>Sun, 15 Oct 2023 23:04:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Do you know the deadline for secondary school applications?]]></title>
+            <description><![CDATA[The application rules and deadlines for 2024 secondary school places vary across the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/education-64662613?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/education-64662613</guid>
+            <pubDate>Sun, 15 Oct 2023 23:08:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scotland: Steve Clarke's side have qualified, but what now?]]></title>
+            <description><![CDATA[BBC Scotland takes a look at what next summer looks like for the Tartan Army at Euro 2024.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/66789052?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/66789052</guid>
+            <pubDate>Sun, 15 Oct 2023 22:08:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Madonna's Celebration Tour review: The Queen of pop brings out her crown jewels]]></title>
+            <description><![CDATA[The star is joined on stage by four of her children, who she thanks for saving her life this summer.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-67098882?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-67098882</guid>
+            <pubDate>Sun, 15 Oct 2023 04:07:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Worry in UK as Israel-Gaza anxiety spreads]]></title>
+            <description><![CDATA[Muslim and Jewish people share their feelings about the impact on each of their communities.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-67105784?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-67105784</guid>
+            <pubDate>Sat, 14 Oct 2023 23:47:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Supernova festival: One week on - survivor recalls traumatic escape from party]]></title>
+            <description><![CDATA[Shye Weinstein recorded on camera how he and his friends fled the site stormed by Hamas gunmen, who killed at least 260 people.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-67117157?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67117157</guid>
+            <pubDate>Sun, 15 Oct 2023 14:41:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watch: How 'ring of fire' eclipse burned across US skies]]></title>
+            <description><![CDATA[Stargazers witness a spectacular celestial event in parts of the US, Central and South America.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-67113146?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-67113146</guid>
+            <pubDate>Sat, 14 Oct 2023 19:20:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wales’ Indiana Jones searching for lost mines in hills]]></title>
+            <description><![CDATA[Wooden crates still packed with dynamite sticks and even graves have been among his discoveries.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-67088675?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-67088675</guid>
+            <pubDate>Sun, 15 Oct 2023 06:12:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Your pictures on the theme of 'texture']]></title>
+            <description><![CDATA[A selection of striking images from our readers around the world.]]></description>
+            <link>https://www.bbc.co.uk/news/in-pictures-67071035?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/in-pictures-67071035</guid>
+            <pubDate>Sat, 14 Oct 2023 23:28:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Somalia's violin novice to TV orchestra triumph in four years]]></title>
+            <description><![CDATA[Audiences are lapping up televised orchestra performances reviving Somali music for a new generation.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-66950153?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-66950153</guid>
+            <pubDate>Sat, 14 Oct 2023 23:52:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What does TikTok's EGX sponsorship mean for the games industry?]]></title>
+            <description><![CDATA[The app's hoping to take on Twitch and YouTube to become the main stop for online video games content.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-67099348?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/newsbeat-67099348</guid>
+            <pubDate>Sat, 14 Oct 2023 23:50:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scottish independence: How did we get here and what happens next?]]></title>
+            <description><![CDATA[The SNP are devising a new strategy as members gather in Aberdeen for the party's annual conference.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-67063555?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-67063555</guid>
+            <pubDate>Sun, 15 Oct 2023 08:13:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[London vigil for victims of Hamas attack held]]></title>
+            <description><![CDATA[Hundreds who attended call for the release of more than 100 hostages taken during the attack on Israel.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-67117730?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-67117730</guid>
+            <pubDate>Sun, 15 Oct 2023 17:48:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TikTok says action taken on Israel conflict videos]]></title>
+            <description><![CDATA[The social media firm lists what it is doing to tackle misinformation after a warning by the EU.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-67115982?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-67115982</guid>
+            <pubDate>Sun, 15 Oct 2023 14:52:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[South Africa recalls UN peacekeepers accused of sexual misconduct in DR Congo]]></title>
+            <description><![CDATA[Eight UN peacekeepers, originally from South Africa, are accused of breaching the organisation's rules.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-67115883?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-67115883</guid>
+            <pubDate>Sun, 15 Oct 2023 17:05:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Major disruption at Euston after signal failure]]></title>
+            <description><![CDATA[The issue, which has been resolved, is causing major disruption at one of London's busiest stations.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-67115764?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-67115764</guid>
+            <pubDate>Sun, 15 Oct 2023 16:36:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[England 30-24 Fiji: Owen Farrell's boot seals Rugby World Cup semi-final spot]]></title>
+            <description><![CDATA[Owen Farrell's boot takes England to the Rugby World Cup semi-finals with a 30-24 victory against Fiji in Marseille.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/67115985?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/67115985</guid>
+            <pubDate>Sun, 15 Oct 2023 22:13:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[France 28-29 South Africa: Defending champions overcome hosts in World Cup thriller]]></title>
+            <description><![CDATA[South Africa keep the defence of their title alive with a thrilling quarter-final victory over France in one of the greatest matches in World Cup history.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/67118673?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/67118673</guid>
+            <pubDate>Sun, 15 Oct 2023 21:54:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cars in Luton Airport fire 'unlikely to be salvageable']]></title>
+            <description><![CDATA[Emergency services have now handed back control of the multi-storey car park to the airport.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-67117301?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-67117301</guid>
+            <pubDate>Sun, 15 Oct 2023 14:04:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Medieval 'love motto' gold ring found near Frinton]]></title>
+            <description><![CDATA[The ring is engraved in French, the language of courtly love, and reads: "I desire to serve you".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-essex-67090627?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-essex-67090627</guid>
+            <pubDate>Sun, 15 Oct 2023 07:31:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Davido's twins: Afrobeats star describes having 'beautiful' babies a year after son's death]]></title>
+            <description><![CDATA[The Afrobeats megastar opens up about the aftermath of his three-year-old son's tragic death]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-67117630?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-67117630</guid>
+            <pubDate>Sun, 15 Oct 2023 17:20:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bafta Cymru: Hollywood star Luke Evans 'ecstatic' at win]]></title>
+            <description><![CDATA[The Hollywood actor dedicates his award to the "army" of people who put his BBC show together.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-67117486?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-67117486</guid>
+            <pubDate>Sun, 15 Oct 2023 21:37:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russell T Davies: I want to write a darker LGBTQ+ drama]]></title>
+            <description><![CDATA[The It's A Sin writer says he wants to make something that reflects the "hatred in the air".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-67112342?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-67112342</guid>
+            <pubDate>Sun, 15 Oct 2023 09:56:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rugby star Mike Phillips's Welsh praised after S4C boss sacked]]></title>
+            <description><![CDATA["I prefer slack Welsh to slick English," says expert calling criticism of Mike Phillips embarrassing.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-67117484?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-67117484</guid>
+            <pubDate>Sun, 15 Oct 2023 16:47:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rugby World Cup: England return joy to fans in Marseille by reaching semi-finals]]></title>
+            <description><![CDATA[It has not been a fun year for England rugby fans, but they finally got some joy back in Marseille on Sunday.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/67115989?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/67115989</guid>
+            <pubDate>Sun, 15 Oct 2023 21:58:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wales 2-1 Croatia: Wilson double reignites Euro 2024 qualification hopes]]></title>
+            <description><![CDATA[Wales produce a stunning performance to beat Croatia and reignite their hopes of qualifying automatically for Euro 2024 in sensational fashion.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/67044313?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/67044313</guid>
+            <pubDate>Sun, 15 Oct 2023 20:50:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ICC Cricket World Cup highlights: England suffer shock defeat to Afghanistan]]></title>
+            <description><![CDATA[Watch highlights as England suffer a shock 69-run defeat to Afghanistan in Delhi at the Cricket World Cup.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/cricket/67118205?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/cricket/67118205</guid>
+            <pubDate>Sun, 15 Oct 2023 16:43:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Arsenal 2-1 Aston Villa: Beth Mead says it is 'amazing to be back' after 11-month injury ordeal]]></title>
+            <description><![CDATA[Arsenal and England forward Beth Mead calls her return to football "special" following 11 months of "torture" after a serious knee injury.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/67118331?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/67118331</guid>
+            <pubDate>Sun, 15 Oct 2023 17:52:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rugby World Cup: England and South Africa reach semi-finals as hosts France knocked out]]></title>
+            <description><![CDATA[Watch the key moments from Sunday's Rugby World Cup quarter-finals as England knock out Fiji, while defending champions South Africa stun France.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/rugby-union/67118898?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/rugby-union/67118898</guid>
+            <pubDate>Sun, 15 Oct 2023 22:19:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scotland manager Steve Clarke praises fans for helping Scotland become 'feared once again']]></title>
+            <description><![CDATA[Scotland manager Steve Clarke hails his player for reaching successive European Championships and doubts they "will fully realise the significance of their achievement yet".]]></description>
+            <link>https://www.bbc.co.uk/sport/football/67119163?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/67119163</guid>
+            <pubDate>Sun, 15 Oct 2023 22:56:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[One week in Gaza: 'There are no safe places here']]></title>
+            <description><![CDATA[Bombs, shortages, a life on the run. Bisan Owda, a filmmaker, has been documenting her days under siege.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-67116407?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67116407</guid>
+            <pubDate>Sun, 15 Oct 2023 18:34:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zaka: The volunteers giving dignity to Israel's dead]]></title>
+            <description><![CDATA[Zaka volunteers are used to being called to traumatic scenes, but nothing prepared them for the past week.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-67100014?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67100014</guid>
+            <pubDate>Sat, 14 Oct 2023 19:17:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Strike on civilian convoy fleeing Gaza: What we know from verified video]]></title>
+            <description><![CDATA[Women and children were killed in Friday's strike on vehicles that were heading away from northern Gaza.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-67114281?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67114281</guid>
+            <pubDate>Sat, 14 Oct 2023 23:11:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BBC in south Gaza: The scene is tragic]]></title>
+            <description><![CDATA[The BBC's Rushdi Abualouf says the city is struggling to cope as refugees from northern Gaza flood in.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-67113392?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67113392</guid>
+            <pubDate>Sat, 14 Oct 2023 18:12:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Who's behind Israel-Gaza disinformation and hate online?]]></title>
+            <description><![CDATA[How false claims, conspiracy theories and hateful content shapes the general public's view of the war.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-67114313?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67114313</guid>
+            <pubDate>Sun, 15 Oct 2023 07:46:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gaza Strip in maps: What it's like for the people who live there]]></title>
+            <description><![CDATA[Find out more about what it is like to live in the Gaza Strip, from the economy to education, health and water.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-20415675?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-20415675</guid>
+            <pubDate>Sat, 14 Oct 2023 12:17:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['I don't eat or sleep' says husband of new mother missing after Hamas attacks]]></title>
+            <description><![CDATA[New mother Celine Ben David Nagar was on a weekend away with friends - now she's thought to be in Gaza.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-67112202?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67112202</guid>
+            <pubDate>Sat, 14 Oct 2023 18:34:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Could an Israeli ground invasion of Gaza meet its aims?]]></title>
+            <description><![CDATA[It is now only a matter of time before Israeli forces enter Gaza, with the goal of wiping out Hamas.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-67084141?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67084141</guid>
+            <pubDate>Fri, 13 Oct 2023 23:40:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['I just find bombs, dead people... it's really scary' - British-Palestinian girl in Gaza]]></title>
+            <description><![CDATA[Mariam, a young British-Palestinian trying to cross the border into Egypt, speaks of her fears.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-67113145?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67113145</guid>
+            <pubDate>Sat, 14 Oct 2023 17:27:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hamas massacre captured on Israeli mothers' WhatsApp group]]></title>
+            <description><![CDATA[Messages reveal how trapped families called for help and shared words of comfort as militants killed 100 in their kibbutz.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-67105618?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67105618</guid>
+            <pubDate>Fri, 13 Oct 2023 16:59:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[History of the conflict explained]]></title>
+            <description><![CDATA[Tensions between Israel and the Palestinians date back decades, but what are the key issues?]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-44124396?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/newsbeat-44124396</guid>
+            <pubDate>Thu, 12 Oct 2023 16:45:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israel-Gaza conflict proves treacherous ground for US politicians]]></title>
+            <description><![CDATA[Turbulence caused by the fighting in the Middle East could upend the 2024 presidential race.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-67101887?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-67101887</guid>
+            <pubDate>Fri, 13 Oct 2023 18:43:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BBC crew find injured friends in overrun Gaza hospital]]></title>
+            <description><![CDATA[BBC Arabic reporter Adnan Elbursh visits the main hospital in Gaza City, which is at breaking point.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-67094214?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67094214</guid>
+            <pubDate>Thu, 12 Oct 2023 21:29:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kfar Aza kibbutz massacre: Father saves daughter he hadn’t seen for six years]]></title>
+            <description><![CDATA[Neta had not spoken to her father for years, but she knew he was the only person who could save her.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-67089114?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67089114</guid>
+            <pubDate>Fri, 13 Oct 2023 09:09:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How would an Israeli ground assault on Gaza unfold?]]></title>
+            <description><![CDATA[Sending forces into Gaza's densely populated urban areas is an operation fraught with peril.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-67100036?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67100036</guid>
+            <pubDate>Fri, 13 Oct 2023 11:58:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Putin is ready to take advantage of Israel-Gaza war, says Steve Rosenberg]]></title>
+            <description><![CDATA[Russia didn't orchestrate this conflict but it could take advantage of it, says the BBC's Russia editor.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-67099574?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-67099574</guid>
+            <pubDate>Fri, 13 Oct 2023 12:07:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shots fired as BBC visits scene of Israel festival massacre]]></title>
+            <description><![CDATA[Lucy Williamson visits the site of the Israeli music festival where 260 bodies were discovered.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-67094215?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67094215</guid>
+            <pubDate>Fri, 13 Oct 2023 06:47:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israel targets Hamas’s labyrinth of tunnels under Gaza]]></title>
+            <description><![CDATA[Palestinian militants are thought to have built hundreds of kilometres of tunnels underneath Gaza.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-67097124?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67097124</guid>
+            <pubDate>Fri, 13 Oct 2023 00:10:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Son awaits news, good or bad, on missing peace activist]]></title>
+            <description><![CDATA[My mother would say the atrocities are the result of not striving for peace, he tells Jeremy Bowen.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-67090491?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67090491</guid>
+            <pubDate>Fri, 13 Oct 2023 09:53:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK to deploy Navy ships to 'bolster security' in Middle East]]></title>
+            <description><![CDATA[Two ships, surveillance aircraft, helicopters and a detachment of Royal Marines are being dispatched.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-67095846?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-67095846</guid>
+            <pubDate>Fri, 13 Oct 2023 11:59:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Breaking down the video of huge Hamas attack]]></title>
+            <description><![CDATA[The BBC’s Gordon Corera investigates exactly how the Palestinian militant group was able to launch its surprise attack on Israel.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-67096316?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67096316</guid>
+            <pubDate>Thu, 12 Oct 2023 19:18:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ex-soldier fought off Hamas and saved kibbutz neighbours]]></title>
+            <description><![CDATA["I took my pistol, my clothes, my bulletproof vest and the other thing was cigarettes," says Adam.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-67089113?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67089113</guid>
+            <pubDate>Thu, 12 Oct 2023 16:14:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[British couple trapped in Gaza with no UK help, says son]]></title>
+            <description><![CDATA[Londoners Naila and Talal El-Deeb were visiting family in Gaza when the violence erupted.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-67078476?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-67078476</guid>
+            <pubDate>Thu, 12 Oct 2023 18:00:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[French police break up pro-Palestinian demo after ban]]></title>
+            <description><![CDATA[Tear gas is used after pro-Palestinian rallies are banned as a possible threat to public order.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-67088547?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-67088547</guid>
+            <pubDate>Fri, 13 Oct 2023 07:01:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israel sends soldiers to north fearing attack from Hezbollah in Lebanon]]></title>
+            <description><![CDATA[The tension is palpable as Israel reinforces its border against the threat from Hezbollah.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-67087828?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67087828</guid>
+            <pubDate>Thu, 12 Oct 2023 12:18:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CCTV shows moment women escape Israeli moshav attack]]></title>
+            <description><![CDATA[The two women managed to run away after Israeli military arrived at the scene.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-67090617?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67090617</guid>
+            <pubDate>Thu, 12 Oct 2023 14:01:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TikTok latest social media firm warned by EU over Hamas videos]]></title>
+            <description><![CDATA[The platform follows X and Meta to be urged to step up efforts to stop the spread of disinformation.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-67066871?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-67066871</guid>
+            <pubDate>Thu, 12 Oct 2023 17:31:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Drone footage shows aftermath of Israeli airstrikes]]></title>
+            <description><![CDATA[More than 1,100 people have been killed by strikes on the Gaza Strip so far.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-67092441?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67092441</guid>
+            <pubDate>Thu, 12 Oct 2023 13:44:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israel hostage crisis is every government's worst nightmare]]></title>
+            <description><![CDATA[Israel has to decide whether to attempt a rescue of those held in Gaza - or wait to strike a deal.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-67084408?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67084408</guid>
+            <pubDate>Wed, 11 Oct 2023 20:40:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Energy bills: What can I do if I can't afford to pay?]]></title>
+            <description><![CDATA[If you're struggling to afford your gas and electricity bills, what options are available?]]></description>
+            <link>https://www.bbc.co.uk/news/business-62435432?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-62435432</guid>
+            <pubDate>Wed, 27 Sep 2023 13:22:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is happening to house prices, and could there be a crash?]]></title>
+            <description><![CDATA[How higher interest rates are changing the UK's housing market.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-63147101?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/explainers-63147101</guid>
+            <pubDate>Tue, 01 Aug 2023 12:47:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Five ways to save money on your packed lunch]]></title>
+            <description><![CDATA[Grabbing food on the go can be expensive so here are some top tips on making savings at lunchtime.]]></description>
+            <link>https://www.bbc.co.uk/news/business-65312394?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-65312394</guid>
+            <pubDate>Mon, 18 Sep 2023 16:36:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cost of living: Five tips when asking for a pay rise]]></title>
+            <description><![CDATA[Recruiters, a manager and a workplace psychologist give their advice on how to negotiate for more money.]]></description>
+            <link>https://www.bbc.co.uk/news/business-64288791?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-64288791</guid>
+            <pubDate>Tue, 15 Aug 2023 10:33:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Renting: Three ways to win the race to securing a property]]></title>
+            <description><![CDATA[From being first in the queue to being more flexible, here are some tips on how to get ahead in the rental race.]]></description>
+            <link>https://www.bbc.co.uk/news/business-65089308?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-65089308</guid>
+            <pubDate>Tue, 28 Mar 2023 23:14:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
