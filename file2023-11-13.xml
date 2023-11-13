@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Home]]></title>
+        <description><![CDATA[BBC News - Home]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Home</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 13 Nov 2023 01:30:07 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[London protests: Seven charged and 145 arrested as police appeals continue]]></title>
+            <description><![CDATA[Nine officers were injured and 145 arrested, most of whom police said were right-wing counter-protesters.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-67398933?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-67398933</guid>
+            <pubDate>Sun, 12 Nov 2023 19:19:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Overseas doctors will remain 'crucial' despite recruitment drive - regulator]]></title>
+            <description><![CDATA[The General Medical Council says efforts to recruit more UK doctors will take years to take effect.]]></description>
+            <link>https://www.bbc.co.uk/news/health-67378621?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-67378621</guid>
+            <pubDate>Mon, 13 Nov 2023 00:00:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Retail giants call for more abuse protection for workers]]></title>
+            <description><![CDATA[Dozens of bosses at High Street firms and several MPs are calling for better protection for staff.]]></description>
+            <link>https://www.bbc.co.uk/news/business-67398667?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-67398667</guid>
+            <pubDate>Mon, 13 Nov 2023 00:01:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Welfare cuts worth billions planned by ministers]]></title>
+            <description><![CDATA[The changes, affecting hundreds of thousands of people from 2025, would save £4bn in welfare payments.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-67385385?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-67385385</guid>
+            <pubDate>Mon, 13 Nov 2023 00:00:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Man grabs Greta Thunberg's microphone after pro-Palestinian chants at climate rally]]></title>
+            <description><![CDATA[The stage invader says he "came here for a climate demonstration, not a political view".]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-67399096?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-67399096</guid>
+            <pubDate>Sun, 12 Nov 2023 21:57:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Big Brother's Trish Balusa apologises after historical tweets resurface]]></title>
+            <description><![CDATA[Producers try to work out how an evicted housemate's problematic posts were not flagged before.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-67397575?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-67397575</guid>
+            <pubDate>Sun, 12 Nov 2023 16:17:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Suella Braverman: Shapps won't back home secretary's language on policing]]></title>
+            <description><![CDATA[He distances himself from the home secretary's language, but says it is "proper" to debate the issue.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-67397030?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-67397030</guid>
+            <pubDate>Sun, 12 Nov 2023 16:20:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Five US troops die in training air crash in eastern Mediterranean]]></title>
+            <description><![CDATA[The service members died in a helicopter crash in a region where the US has boosted operations.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-67398905?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-67398905</guid>
+            <pubDate>Sun, 12 Nov 2023 21:32:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Illegal e-bike riders 'goading' officers, police say]]></title>
+            <description><![CDATA[Communities want action on illegal bikes but police are cautious after high-profile deaths.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-bristol-67380021?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-bristol-67380021</guid>
+            <pubDate>Mon, 13 Nov 2023 01:19:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Storm Debi: Warning over gale force winds and heavy rain]]></title>
+            <description><![CDATA[The Met Office warns of possible danger to life from flying debris and large waves in coastal areas.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-67396689?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-67396689</guid>
+            <pubDate>Sun, 12 Nov 2023 14:01:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tourists 'rethinking their relationship with Earth']]></title>
+            <description><![CDATA[An increasing number of holidaymakers are picking more environmentally-friendly trips.]]></description>
+            <link>https://www.bbc.co.uk/news/business-67306635?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-67306635</guid>
+            <pubDate>Mon, 13 Nov 2023 00:02:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Homeless tents destroyed during Met Police operation]]></title>
+            <description><![CDATA[The force issued a dispersal order and arrested one homeless man on Friday afternoon in Camden.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-67392992?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-67392992</guid>
+            <pubDate>Sun, 12 Nov 2023 15:35:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rishi Sunak joins Diwali celebrations in Southampton]]></title>
+            <description><![CDATA[The prime minister attends the celebrations at the Vedic Society Hindu Temple in Southampton.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-hampshire-67398015?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-hampshire-67398015</guid>
+            <pubDate>Sun, 12 Nov 2023 22:20:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Newspaper headlines: Suella comes out fighting and pre-Christmas tax cuts]]></title>
+            <description><![CDATA[The papers lead on the home secretary's future, reflect on Armistice Day and ask whether tax cuts are on the way.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-the-papers-67399880?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/blogs-the-papers-67399880</guid>
+            <pubDate>Mon, 13 Nov 2023 00:31:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Film: Super Gran hopes to get Peter Rabbit and Paddington-style reboot]]></title>
+            <description><![CDATA[The 1980s children's TV series could be set for a reboot after Welsh scriptwriter wins top accolade.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-67363064?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-67363064</guid>
+            <pubDate>Sun, 12 Nov 2023 22:42:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Grime Kids: 'We want to inspire young black and ethnic kids']]></title>
+            <description><![CDATA[The cast of BBC Three drama Grime Kids speak about playing a group of friends who dream of local fame.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-67229434?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/newsbeat-67229434</guid>
+            <pubDate>Mon, 13 Nov 2023 00:00:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Julius Malema: Why the South African politician touched a nerve in Kenya]]></title>
+            <description><![CDATA[Julius Malema had candid views on Kenya's president but also poses a challenge to the opposition.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-67378500?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-67378500</guid>
+            <pubDate>Mon, 13 Nov 2023 00:14:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Capturing war-time memories, before it is too late]]></title>
+            <description><![CDATA[Three of the last generation of World War Two veterans share recollections of the deadliest war in history.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-63504826?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-63504826</guid>
+            <pubDate>Thu, 10 Nov 2022 02:42:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Northampton shoemaker who caught the Auschwitz commander]]></title>
+            <description><![CDATA[A Northampton leather worker fluent in German was key to capturing a Nazi commander.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-northamptonshire-66875251?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-northamptonshire-66875251</guid>
+            <pubDate>Sun, 12 Nov 2023 01:24:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Donald Trump: Legal experts see uphill battle in fraud case]]></title>
+            <description><![CDATA[Two weeks of testimony from Donald Trump and his family has hurt his case, say lawyers watching.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-67366022?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-67366022</guid>
+            <pubDate>Sun, 12 Nov 2023 00:49:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How area once dubbed 'tent city' cut rough sleeping]]></title>
+            <description><![CDATA[Bringing support services and emergency beds under one roof helps keep people in Milton Keynes off the streets.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-67370571?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-67370571</guid>
+            <pubDate>Sun, 12 Nov 2023 01:38:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Whitney Wolfe Herd: How the Bumble boss changed the dating scene]]></title>
+            <description><![CDATA[Whitney Wolfe Herd is stepping down as chief executive at the end of the year after nearly a decade.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-67359823?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-67359823</guid>
+            <pubDate>Sun, 12 Nov 2023 00:40:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Suella Braverman row: Who's scared of Rishi Sunak?]]></title>
+            <description><![CDATA[Suella Braverman may yet be sacked but the PM's handling of her disobedience has dented his authority.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-67390200?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-67390200</guid>
+            <pubDate>Sat, 11 Nov 2023 12:40:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: Sacking calls grow and 'dignity and dishonour']]></title>
+            <description><![CDATA[The papers lead on Saturday’s Armistice Day demonstrators clashing with police.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-the-papers-67394611?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/blogs-the-papers-67394611</guid>
+            <pubDate>Sun, 12 Nov 2023 05:45:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[China's matchmaking mums have a powerful ally: The Party]]></title>
+            <description><![CDATA[Chinese leaders add to parental pressure, urging young Chinese to marry and have babies.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-64973186?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-china-64973186</guid>
+            <pubDate>Sat, 11 Nov 2023 22:57:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Amoako Boafo - the Ghanaian artist who has exhibited in space]]></title>
+            <description><![CDATA[The rags to riches story of Amoako Boafo, whose portraits of black subjects now command mega prices.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-67378499?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-67378499</guid>
+            <pubDate>Sun, 12 Nov 2023 01:09:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Welcome to Wrexham, Philadelphia and the Welsh language]]></title>
+            <description><![CDATA[From place names to police badges and even a St Asaph church, Pennsylvania has strong Welsh links.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-66922992?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-66922992</guid>
+            <pubDate>Sun, 12 Nov 2023 07:09:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cricket World Cup 2023: 'England found a blueprint to avoid falling apart']]></title>
+            <description><![CDATA[England's World Cup campaign was shrouded with confusion but they found a blueprint that helped them avoid falling apart like previous sides.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/67393790?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/67393790</guid>
+            <pubDate>Sat, 11 Nov 2023 19:22:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I'm a Celebrity 2023: The rumoured line-up from Nigel Farage to Jamie Lynn Spears]]></title>
+            <description><![CDATA[Politician Nigel Farage and actress Jamie-Lynn Spears are reportedly lined up to take part.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-67378401?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-67378401</guid>
+            <pubDate>Fri, 10 Nov 2023 13:10:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Life-support withdrawn from critically ill baby Indi Gregory]]></title>
+            <description><![CDATA[Christian Concern says eight-month-old Indi Gregory has been moved to a hospice.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-derbyshire-67396720?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-derbyshire-67396720</guid>
+            <pubDate>Sun, 12 Nov 2023 13:00:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Diwali 2023: What you need to know about the festival of light]]></title>
+            <description><![CDATA[It's about the triumph of good over evil, but also a chance for family and friends to come together.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-67138768?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/newsbeat-67138768</guid>
+            <pubDate>Fri, 10 Nov 2023 10:13:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Remembrance Day: King Charles leads wreath-laying on Whitehall]]></title>
+            <description><![CDATA[King Charles III lays the first wreath at London's Cenotaph to remember those who have died in conflict.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-67397244?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-67397244</guid>
+            <pubDate>Sun, 12 Nov 2023 14:10:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iceland volcano: Emergency declared over volcano Fagradalsfjall eruption concerns]]></title>
+            <description><![CDATA[Thousands are asked to evacuate from a town over fears magma has spread underground.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-67387827?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-67387827</guid>
+            <pubDate>Sun, 12 Nov 2023 14:12:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Escaped circus lion roams around Italian town before capture]]></title>
+            <description><![CDATA[Video shows the big cat wandering along a residential street before it is captured.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-67399095?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-67399095</guid>
+            <pubDate>Sun, 12 Nov 2023 17:25:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Peter Nygard: Fashion mogul guilty of sex assaults]]></title>
+            <description><![CDATA[The 82-year-old is still facing a trial in Montreal and extradition to the US.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-67360004?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-67360004</guid>
+            <pubDate>Sun, 12 Nov 2023 17:56:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ATP Finals 2023 results: Novak Djokovic ends year as world number one after beating Holger Rune]]></title>
+            <description><![CDATA[Novak Djokovic ends the year as world number one for a record eighth time after beating Holger Rune at the ATP Finals in Italy.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/67397607?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/67397607</guid>
+            <pubDate>Mon, 13 Nov 2023 00:08:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Middlesbrough Council defends charging landlord £43,000]]></title>
+            <description><![CDATA[Gareth Stobart says the council is charging over £800 per flat in a block of student accommodation.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-tees-67367384?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-tees-67367384</guid>
+            <pubDate>Sun, 12 Nov 2023 12:18:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chelsea 4-4 Manchester City: Cole Palmer hits late penalty to deny former club victory]]></title>
+            <description><![CDATA[Cole Palmer scores injury-time penalty against former club Manchester City as Chelsea snatch a thrilling Premier League draw at Stamford Bridge.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/67325041?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/67325041</guid>
+            <pubDate>Sun, 12 Nov 2023 19:29:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[French police thwart €600,000 champagne heist]]></title>
+            <description><![CDATA[Thieves steal two truckloads of expensive bubbly but the loot is recovered after a high-speed chase.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-67398003?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-67398003</guid>
+            <pubDate>Sun, 12 Nov 2023 16:17:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Remarkable' Titanic menu sells for £84,000 at Wiltshire auction]]></title>
+            <description><![CDATA[Hundreds of items from the RMS Titanic went up for auction on Saturday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-wiltshire-67397384?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-wiltshire-67397384</guid>
+            <pubDate>Sun, 12 Nov 2023 15:12:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ofcom will not tell GB News to stop hiring politicians]]></title>
+            <description><![CDATA[The media watchdog's chairman says it is not his job to tell broadcasters who to hire.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-67396474?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-67396474</guid>
+            <pubDate>Sun, 12 Nov 2023 15:55:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spain's conservatives rally against deal with Catalan separatists]]></title>
+            <description><![CDATA[Protests denounce a deal with Catalan separatists aimed at securing a new term for the Socialist PM.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-67398903?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-67398903</guid>
+            <pubDate>Sun, 12 Nov 2023 18:19:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Should some place names be written only in Welsh?]]></title>
+            <description><![CDATA[Some argue that if the Welsh and the English spelling is only slightly different - why have both?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-67380117?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-67380117</guid>
+            <pubDate>Sun, 12 Nov 2023 22:00:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NHS board named in Glasgow hospital corporate homicide probe]]></title>
+            <description><![CDATA[It follows the deaths of four patients at the Queen Elizabeth University Hospital campus in Glasgow.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-67396347?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-67396347</guid>
+            <pubDate>Sun, 12 Nov 2023 12:39:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[French march against antisemitism shakes up far right and far left]]></title>
+            <description><![CDATA[Far-right leader Marine Le Pen takes part, alongside major parties but the far left refuses.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-67378893?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-67378893</guid>
+            <pubDate>Sun, 12 Nov 2023 14:43:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Skating on a once-in-a-decade 'ice window' in Alaska]]></title>
+            <description><![CDATA[Footage shows an ice rescue instructor skating on a rare window of ice in Alaska's Alpine lakes.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-67394816?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-67394816</guid>
+            <pubDate>Sun, 12 Nov 2023 04:33:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NWSL final: Megan Rapinoe forced to leave farewell game early due to Achilles injury]]></title>
+            <description><![CDATA[Megan Rapinoe suffers a painful end to her football career as the American star is forced to leave the pitch just three minutes into her farewell game.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/67395340?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/67395340</guid>
+            <pubDate>Sun, 12 Nov 2023 09:59:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chelsea 4-4 Manchester City: Premier League at its best? A game too good to have a winner?]]></title>
+            <description><![CDATA[Chelsea's 4-4 draw with Manchester City "had everything" - but where does it rank among the Premier League's best-ever games?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/67399569?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/67399569</guid>
+            <pubDate>Sun, 12 Nov 2023 21:04:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Liverpool 3-0 Brentford: Reds close the gap as Jurgen Klopp reminded of his roots]]></title>
+            <description><![CDATA[Liverpool boss was taken back to his early days of his coaching career as the Reds beat Brentford to close the gap on Premier League leaders Manchester City.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/67399075?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/67399075</guid>
+            <pubDate>Sun, 12 Nov 2023 20:14:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Leicester 2-6 Arsenal: 'Supremely clinical' Gunners playing 'the Arsenal way' in comeback win]]></title>
+            <description><![CDATA[As comebacks go, Arsenal's recovery to thrash Leicester 6-2 was pretty incredible - is it the start of something special for Jonas Eidevall's side?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/67399749?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/67399749</guid>
+            <pubDate>Sun, 12 Nov 2023 22:43:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Billie Jean King Cup: Late replacement Harriet Dart wins to give GB play-off victory]]></title>
+            <description><![CDATA[Late replacement Harriet Dart beats Caijsa Hennemann to give Great Britain a 3-1 victory in their Billie Jean King Cup play-off against Sweden.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/67391453?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/67391453</guid>
+            <pubDate>Sun, 12 Nov 2023 17:35:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Match of the Day 2: How Cole Palmer created 'magnificent' Chelsea impact]]></title>
+            <description><![CDATA[Match of the Day 2-s Alan Shearer, Ian Wright and Mark Chapman analyse how ex-Manchester City player Cole Palmer has made an impact at Chelsea.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/67400066?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/football/67400066</guid>
+            <pubDate>Mon, 13 Nov 2023 00:02:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Garth Crooks' Team of the Week: Alisson, Saliba, McGinn, Palmer and more feature in Premier League's best]]></title>
+            <description><![CDATA[Which Premier League players impressed our football pundit Garth Crooks enough to make his latest Team of the Week?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/67399499?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/67399499</guid>
+            <pubDate>Sun, 12 Nov 2023 21:57:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israel's president denies it is striking Gaza's Al-Shifa hospital]]></title>
+            <description><![CDATA[Isaac Herzog told the BBC "everything is operating" at Al-Shifa, despite reports of no power.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-67397963?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67397963</guid>
+            <pubDate>Sun, 12 Nov 2023 21:17:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In Gaza, fleeing refugees face hunger and disease: 'We are in the Dark Ages’]]></title>
+            <description><![CDATA[Hundreds of thousands who fled bombs are now washing in polluted seawater and sleeping in packed tents.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-67391335?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67391335</guid>
+            <pubDate>Sun, 12 Nov 2023 10:00:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gaza casualties: 'Most of the children in my family photo are dead']]></title>
+            <description><![CDATA[Palestinians abroad tell the BBC multiple generations of their families were killed in Gaza air strikes.]]></description>
+            <link>https://www.bbc.co.uk/news/world-67273969?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-67273969</guid>
+            <pubDate>Sat, 11 Nov 2023 01:16:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hamas hostages: The faces of those taken from Israel to Gaza]]></title>
+            <description><![CDATA[From elderly grandparents to young children, these are the people known to have been taken captive.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-67053011?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67053011</guid>
+            <pubDate>Fri, 10 Nov 2023 17:42:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Weeks into the war, how much closer is Israel to its goal?]]></title>
+            <description><![CDATA[Israel wants to destroy Hamas, but there are questions over whether that is achievable.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-67373293?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67373293</guid>
+            <pubDate>Fri, 10 Nov 2023 01:35:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jewish fears as German support for Israel is challenged on streets]]></title>
+            <description><![CDATA[As fighting continues between Israel and Hamas, social discord is emerging in Germany.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-67368409?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-67368409</guid>
+            <pubDate>Fri, 10 Nov 2023 06:01:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Her life is painkillers' - The Gaza children ravaged by war]]></title>
+            <description><![CDATA[More than 26,000 Gazans have been wounded since war erupted, many of them left with life-changing injuries.]]></description>
+            <link>https://www.bbc.co.uk/news/world-67374801?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-67374801</guid>
+            <pubDate>Fri, 10 Nov 2023 15:18:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[One fled Gaza City, one stayed - what became of Farida and Khalid?]]></title>
+            <description><![CDATA[Teacher Farida and Khalid, a medical supplier, describe life in Gaza, besieged and under attack.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-67374647?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67374647</guid>
+            <pubDate>Thu, 09 Nov 2023 19:12:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israel sees 'sign of life' in Gaza hostage video]]></title>
+            <description><![CDATA[Palestinian Islamic Jihad posts videos of two Gaza hostages, but Israel fears "psychological terror".]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-67373461?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67373461</guid>
+            <pubDate>Thu, 09 Nov 2023 18:57:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Divided communities in the occupied West Bank]]></title>
+            <description><![CDATA[Arabs and Jews living in the territory say the 7 October attacks have deepened distrust.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-67376148?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67376148</guid>
+            <pubDate>Fri, 10 Nov 2023 03:06:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US says Israel to begin daily four-hour military pauses in Gaza]]></title>
+            <description><![CDATA[However Israel stressed the "localised and pinpoint measures" would "not detract from the fighting".]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-67372035?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67372035</guid>
+            <pubDate>Thu, 09 Nov 2023 23:03:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israel-Gaza war: Dead bodies and tanks on road south as people flee]]></title>
+            <description><![CDATA[BBC Verify has been looking at video, listening to eyewitnesses and analysing satellite images.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-67361128?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67361128</guid>
+            <pubDate>Thu, 09 Nov 2023 12:56:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['We walked into a wasteland' - BBC's Jeremy Bowen in Gaza with Israeli forces]]></title>
+            <description><![CDATA[IDF soldiers showed the BBC what they called a Hamas weapons factory, under a home where children lived.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-67362960?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67362960</guid>
+            <pubDate>Wed, 08 Nov 2023 22:33:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gazan tells BBC about most terrifying call of his life]]></title>
+            <description><![CDATA[An extraordinary warning call to a Palestinian dentist starts the panicked evacuation of a Gazan neighbourhood.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-67327079?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67327079</guid>
+            <pubDate>Wed, 08 Nov 2023 05:58:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK accused of 'whitewash' after Chevening scholar feared killed in Gaza]]></title>
+            <description><![CDATA[Dr Maisara Al Rayyes's family is searching for him under a building destroyed in an Israeli strike.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-67366031?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-67366031</guid>
+            <pubDate>Thu, 09 Nov 2023 12:45:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hamas hostages: Israeli mothers recall their children being kidnapped by Hamas]]></title>
+            <description><![CDATA[Renana Jacob says the last time she spoke to her son, he was telling attackers he was "too young" to be taken.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-67353034?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67353034</guid>
+            <pubDate>Wed, 08 Nov 2023 06:42:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Five arrested after pro-Palestinian protest at Scottish Parliament]]></title>
+            <description><![CDATA[Police set up a cordon after activists occupied an area near the front entrance of Holyrood.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-67367577?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-67367577</guid>
+            <pubDate>Thu, 09 Nov 2023 21:04:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[British nationals and dependents stopped from leaving Gaza with families]]></title>
+            <description><![CDATA[Two men say Egypt sent them back to a warzone after they waited for days at the Rafah crossing.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-67357917?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67357917</guid>
+            <pubDate>Wed, 08 Nov 2023 21:08:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hezbollah warns of regional war if Gaza bombing goes on]]></title>
+            <description><![CDATA[The BBC's Orla Guerin spoke with Sheikh Naim Qassem, second-in-command of the Lebanese Shia Islamist group.]]></description>
+            <link>https://www.bbc.co.uk/news/world-67349605?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-67349605</guid>
+            <pubDate>Wed, 08 Nov 2023 12:52:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US's only Palestinian-American Congresswoman censured over comments]]></title>
+            <description><![CDATA[Michigan Democrat defends pro-Palestinian "river to sea" chant as an "aspirational call for freedom".]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-67354706?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-67354706</guid>
+            <pubDate>Wed, 08 Nov 2023 10:19:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jewish students at UK universities 'deeply anxious', union warns]]></title>
+            <description><![CDATA[Both antisemitic and islamophobic abuse is rising at universities, experts tell the BBC.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-67350003?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-67350003</guid>
+            <pubDate>Wed, 08 Nov 2023 02:17:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israel-Gaza war: Civilians leave northern Gaza along evacuation corridor]]></title>
+            <description><![CDATA[For several hours, hundreds of people were on the move, some on carts pulled by donkeys but most on foot.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-67349699?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67349699</guid>
+            <pubDate>Tue, 07 Nov 2023 20:27:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The writers who reached out across the divide]]></title>
+            <description><![CDATA[An Israeli and Palestinian set up a group to share experiences of life in Gaza. And then the war broke out.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-67335042?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67335042</guid>
+            <pubDate>Mon, 06 Nov 2023 17:18:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to get a job: Six expert tips for finding work]]></title>
+            <description><![CDATA[There are 10m people out of work in the UK, so if you're searching for a job you're not alone. Here are some tips on how to get started.]]></description>
+            <link>https://www.bbc.co.uk/news/business-64939070?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-64939070</guid>
+            <pubDate>Mon, 14 Aug 2023 16:03:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Five ways to save money on your packed lunch]]></title>
+            <description><![CDATA[Grabbing food on the go can be expensive so here are some top tips on making savings at lunchtime.]]></description>
+            <link>https://www.bbc.co.uk/news/business-65312394?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-65312394</guid>
+            <pubDate>Mon, 18 Sep 2023 16:36:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When should I turn the heating on?]]></title>
+            <description><![CDATA[As it gets colder here are some tips to help you stay warm while trying to keep your energy bills down.]]></description>
+            <link>https://www.bbc.co.uk/news/business-67197871?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-67197871</guid>
+            <pubDate>Tue, 07 Nov 2023 11:51:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Autumn Statement 2023: When is it and how will it affect me?]]></title>
+            <description><![CDATA[Chancellor Jeremy Hunt is set to unveil the government's tax and spending plans.]]></description>
+            <link>https://www.bbc.co.uk/news/business-67276717?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-67276717</guid>
+            <pubDate>Tue, 07 Nov 2023 19:57:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to save money even when the budget is tight]]></title>
+            <description><![CDATA[The interest paid on savings is better than anything seen for years, so how can you save when bills are rising?]]></description>
+            <link>https://www.bbc.co.uk/news/business-66855566?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-66855566</guid>
+            <pubDate>Sat, 23 Sep 2023 23:19:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
