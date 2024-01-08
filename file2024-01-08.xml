@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Home]]></title>
+        <description><![CDATA[BBC News - Home]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Home</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 08 Jan 2024 01:33:50 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Church leader tortured and raped disciples, BBC finds]]></title>
+            <description><![CDATA[Forced abortions and other atrocities are alleged by dozens of ex-followers of a charismatic televangelist.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-67749215?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-67749215</guid>
+            <pubDate>Mon, 08 Jan 2024 00:04:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sunak considers ways to clear all victims of Post Office scandal]]></title>
+            <description><![CDATA[The justice secretary is looking into steps to help hundreds of wrongly convicted sub-postmasters.]]></description>
+            <link>https://www.bbc.co.uk/news/business-67905194?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-67905194</guid>
+            <pubDate>Sun, 07 Jan 2024 15:13:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[London Tube strikes called off as more pay talks planned]]></title>
+            <description><![CDATA[Little or no service was expected on London Underground until Friday morning.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-67907355?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-67907355</guid>
+            <pubDate>Sun, 07 Jan 2024 18:45:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Boeing 737 Max 9: Jets to stay grounded as inspections continue]]></title>
+            <description><![CDATA[The US aviation regulator says 171 Boeing planes will remain grounded until it is satisfied they are safe.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-67907011?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-67907011</guid>
+            <pubDate>Sun, 07 Jan 2024 23:58:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pioneering transplant surgeon Sir Roy Calne dies aged 93]]></title>
+            <description><![CDATA[Sir Roy Calne's son, Russell, says his dad was a "genius" who will be missed by those who knew him.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-cambridgeshire-67907549?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-cambridgeshire-67907549</guid>
+            <pubDate>Sun, 07 Jan 2024 18:14:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Margot Robbie, Barry Keoghan and more on Golden Globes red carpet]]></title>
+            <description><![CDATA[Hollywood stars are arriving at the ceremony in Los Angeles in a variety of eye-catching outfits.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-67908727?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-67908727</guid>
+            <pubDate>Mon, 08 Jan 2024 01:31:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Arsenal 0-2 Liverpool: Jakub Kiwior own goal and Luis Diaz strike in FA Cup win for Reds]]></title>
+            <description><![CDATA[Jakub Kiwior's own goal and a clinical Luis Diaz strike give Liverpool a 2-0 victory at Arsenal in the FA Cup third round.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/67892587?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/67892587</guid>
+            <pubDate>Sun, 07 Jan 2024 19:20:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mouse filmed tidying up man's shed every night]]></title>
+            <description><![CDATA[Retired postman Rodney Holbrook never expected to capture a Ratatouille-style scene in his own shed.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-67902966?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-67902966</guid>
+            <pubDate>Sun, 07 Jan 2024 15:33:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tories pick Peter Bone's partner to fight his old seat]]></title>
+            <description><![CDATA[North Northamptonshire councillor Helen Harrison becomes Tory candidate in Wellingborough by-election.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-67905750?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-67905750</guid>
+            <pubDate>Sun, 07 Jan 2024 19:28:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Al Jazeera bureau chief's son Hamza al-Dahdouh among journalists killed in Gaza]]></title>
+            <description><![CDATA[Hamza al-Dahdouh was with other journalists when a reported strike hit a road between Khan Younis and Rafah.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-67905566?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67905566</guid>
+            <pubDate>Sun, 07 Jan 2024 18:12:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lincolnshire: Two die after car enters canal at Tetney Lock]]></title>
+            <description><![CDATA[A 16-year-old boy and man, 40, became submerged in water in their car in Lincolnshire, police say.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-lincolnshire-67906471?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-lincolnshire-67906471</guid>
+            <pubDate>Sun, 07 Jan 2024 15:18:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Actress dashes 150 miles to save illness-hit Evita musical]]></title>
+            <description><![CDATA[Jessica Daley travelled from Middlesbrough to Leicester to star as Eva Peron in Evita on Saturday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-tees-67907467?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-tees-67907467</guid>
+            <pubDate>Sun, 07 Jan 2024 16:17:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TB Joshua: ‘We thought it was heaven but then terrible things happened’]]></title>
+            <description><![CDATA[Rae was 21 when she became a charismatic Nigerian preacher’s disciple - and suffered years of abuse.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-67861976?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-67861976</guid>
+            <pubDate>Mon, 08 Jan 2024 00:05:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: 'Not over yet' for flood risks and 'top Tory says party faces obliteration']]></title>
+            <description><![CDATA[Stark images of England's ongoing flood misery make the front pages as does fresh speculation about the Conservatives' election chances.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-the-papers-67908656?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/blogs-the-papers-67908656</guid>
+            <pubDate>Mon, 08 Jan 2024 01:12:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Prince Andrew's return less likely than ever after nightmare new year]]></title>
+            <description><![CDATA[The problems for Prince Andrew from his association with disgraced US financier Jeffrey Epstein show no signs of going away.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-67884357?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-67884357</guid>
+            <pubDate>Sun, 07 Jan 2024 01:49:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The last of the Moon men: the stories of the surviving Apollo astronauts]]></title>
+            <description><![CDATA[Who are the eight surviving members of humanity's greatest feat of exploration?]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-67410372?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-67410372</guid>
+            <pubDate>Sun, 07 Jan 2024 00:24:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rafael Nadal: Why Spanish great will be so missed at Australian Open]]></title>
+            <description><![CDATA[As Rafael Nadal withdraws from this year's Australian Open - and potentially says goodbye to the tournament for good - BBC Sport looks at his most memorable Melbourne moments.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/67498075?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/67498075</guid>
+            <pubDate>Sun, 07 Jan 2024 12:37:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Earning the trust of a 40-stone silverback gorilla]]></title>
+            <description><![CDATA[A wildlife cameraman's close encounter with a silverback as he filmed a process designed to save the species.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-67863620?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-67863620</guid>
+            <pubDate>Sun, 07 Jan 2024 00:04:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kids inspired by Luke Littler aiming high (and low) to achieve darts dream]]></title>
+            <description><![CDATA[Coaches and young players give their top tips on how aspiring darts stars should get started.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-67897023?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-67897023</guid>
+            <pubDate>Sun, 07 Jan 2024 02:13:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israel-Palestinian bitterness deepened by Hamas attack and war]]></title>
+            <description><![CDATA[Both Israelis and Palestinians believe the world does not understand their pain and suffering.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-67893122?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67893122</guid>
+            <pubDate>Sun, 07 Jan 2024 09:30:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[General Tso’s chicken to bento bowls: A food guide to Taiwan politics]]></title>
+            <description><![CDATA[Unique flavour combinations and profiles represent how Taiwan's unique identity is starting to take shape.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-67874131?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-67874131</guid>
+            <pubDate>Sat, 06 Jan 2024 23:00:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How much National Insurance will I pay after today's cut?]]></title>
+            <description><![CDATA[National Insurance rates are falling, but other changes mean many people are paying more tax.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-63635185?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/explainers-63635185</guid>
+            <pubDate>Sat, 06 Jan 2024 01:21:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hundreds take part in ancient hood village showdown]]></title>
+            <description><![CDATA[The annual Haxey Hood rugby-style contest took place in two North Lincolnshire villages.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-humber-67905947?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-humber-67905947</guid>
+            <pubDate>Sun, 07 Jan 2024 14:38:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kenya's push to make 'boda-boda' motorbike taxis go electric]]></title>
+            <description><![CDATA[The government wants Kenya's three million motorbike taxi riders to go green but only a few have done so.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-67781109?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-67781109</guid>
+            <pubDate>Sun, 07 Jan 2024 00:37:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Starmer worries about toll of election on his children]]></title>
+            <description><![CDATA[The Labour leader calls for a general election as soon as possible, adding that he wanted the fight.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-67905341?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-67905341</guid>
+            <pubDate>Sun, 07 Jan 2024 11:26:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lloyd Austin: White House not told for days defence secretary in hospital]]></title>
+            <description><![CDATA[White House officials tell US media that Lloyd Austin's treatment was kept quiet for three days.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-67905060?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-67905060</guid>
+            <pubDate>Sun, 07 Jan 2024 04:30:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watchdog to assess claims against pensions minister Paul Maynard]]></title>
+            <description><![CDATA[Paul Maynard is accused of using taxpayer money to fund Conservative Party work and campaigning.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-67905092?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-67905092</guid>
+            <pubDate>Sun, 07 Jan 2024 11:28:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[20mph speed limit enforcement to start in Wales this month]]></title>
+            <description><![CDATA[The new speed limit is set to be enforced after a three-and-a-half month "bedding in period".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-67885118?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-67885118</guid>
+            <pubDate>Sun, 07 Jan 2024 13:08:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Post Office: Sub-postmistress 'lost everything' in Horizon scandal]]></title>
+            <description><![CDATA[Tracy McFadden was wrongly accused of stealing £16,000 by the Post Office.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-derbyshire-67896380?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-derbyshire-67896380</guid>
+            <pubDate>Sun, 07 Jan 2024 09:24:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rafael Nadal: Spaniard to miss Australian Open following hip injury]]></title>
+            <description><![CDATA[Rafael Nadal says he will miss the Australian Open after sustaining a hip injury at the Brisbane International this week.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/67905766?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/67905766</guid>
+            <pubDate>Sun, 07 Jan 2024 12:56:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kevin de Bruyne: Man City boss Pep Guardiola says 'the people love him' as midfielder returns]]></title>
+            <description><![CDATA[Manchester City made a routine start to their FA Cup defence against Huddersfield, but it was the sight of a returning Kevin de Bruyne that proved the real highlight for the home fans.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/67907682?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/67907682</guid>
+            <pubDate>Sun, 07 Jan 2024 18:14:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FA Cup 2024: Liverpool beat Arsenal - goals and highlights]]></title>
+            <description><![CDATA[Watch highlights as Liverpool progress to the fourth round of the FA Cup as two late goals secure Jurgen Klopp's side a 2-0 victory at Arsenal.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/67873556?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/football/67873556</guid>
+            <pubDate>Sun, 07 Jan 2024 18:59:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FA Cup 2024: Leeds' Patrick Bamford scores a belter against Peterborough - all the angles]]></title>
+            <description><![CDATA[Watch all the angles as Patrick Bamford scores a "belter" of a volley to double Leeds' advantage over Peterborough United in the FA Cup third round.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/67907056?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/football/67907056</guid>
+            <pubDate>Sun, 07 Jan 2024 15:31:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FA Cup third-round replays affect Premier League winter break for seven teams]]></title>
+            <description><![CDATA[Jurgen Klopp celebrates the "biggest bonus" after avoiding an FA Cup replay but seven managers face losing some of their winter break.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/67907919?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/67907919</guid>
+            <pubDate>Sun, 07 Jan 2024 20:37:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Six Nations 2024: Immanuel Feyi-Waboso set to opt for England over Wales before tournament]]></title>
+            <description><![CDATA[Exeter's in-form winger Immanuel Feyi-Waboso looks set to choose England over Wales before the 2024 Six Nations.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/67908255?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/67908255</guid>
+            <pubDate>Sun, 07 Jan 2024 19:32:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
