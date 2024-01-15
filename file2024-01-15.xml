@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Home]]></title>
+        <description><![CDATA[BBC News - Home]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Home</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 15 Jan 2024 01:32:12 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[UK will back words with actions against Houthis in Yemen - Cameron]]></title>
+            <description><![CDATA[The foreign secretary says the air strikes were necessary after Houthis attacks on ships in the Red Sea.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-67972796?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-67972796</guid>
+            <pubDate>Sun, 14 Jan 2024 14:06:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Six held over plot to disrupt London Stock Exchange]]></title>
+            <description><![CDATA[Police said the arrests were made in London, Liverpool and Brighton over a "disruptive and damaging stunt".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-66188271?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-66188271</guid>
+            <pubDate>Sun, 14 Jan 2024 19:36:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sealed with a kiss: Frederik X becomes King of Denmark]]></title>
+            <description><![CDATA[The new monarch blinks back tears as he greets the cheering crowds outside Christiansborg Castle.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-67976277?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-67976277</guid>
+            <pubDate>Sun, 14 Jan 2024 16:17:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iceland volcano eruption spills lava into town setting houses on fire]]></title>
+            <description><![CDATA[The entire population of Grindavik has been evacuated as an expert warns of a "worst-case scenario" unfolding.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-67977591?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-67977591</guid>
+            <pubDate>Sun, 14 Jan 2024 23:06:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran frees Niloufar Hamedi and Elaheh Mohammadi, jailed for covering Mahsa Amini death]]></title>
+            <description><![CDATA[Niloufar Hamedi and Elaheh Mohammadi spent more than a year in prison on charges of colluding the US.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-67975811?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67975811</guid>
+            <pubDate>Sun, 14 Jan 2024 16:15:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Holly Willoughby back on TV screens in Dancing on Ice]]></title>
+            <description><![CDATA[The presenter has been absent from TV screens since October, after leaving This Morning.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-67961369?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-67961369</guid>
+            <pubDate>Sun, 14 Jan 2024 19:20:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iowa caucus: Trump counts on evangelicals to carry him to victory]]></title>
+            <description><![CDATA[In the 2016 caucus, religious voters in the state stayed away from Donald Trump. They've since become a vital part of his base.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-67918713?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-67918713</guid>
+            <pubDate>Sun, 14 Jan 2024 21:25:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Five migrants die trying to cross English Channel in boat]]></title>
+            <description><![CDATA[A small boat carrying dozens of people overturned just off the French coast south of Calais.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-67973718?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-67973718</guid>
+            <pubDate>Sun, 14 Jan 2024 14:02:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Thousands call for release of hostages at pro-Israel rally in London]]></title>
+            <description><![CDATA[People gathered in Trafalgar Square carrying Israeli flags and pictures of those being held in Gaza.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-67976051?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-67976051</guid>
+            <pubDate>Sun, 14 Jan 2024 17:17:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hezbollah missile attack kills Israeli woman and son]]></title>
+            <description><![CDATA[A woman in her seventies and her son have been killed by an anti-tank missile attack on northern Israel.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-67975815?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67975815</guid>
+            <pubDate>Sun, 14 Jan 2024 20:43:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rare white penguin filmed in Antarctica]]></title>
+            <description><![CDATA[A penguin with leucism from the Gentoo species has been filmed in the icy climate in early January.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-67977693?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-latin-america-67977693</guid>
+            <pubDate>Sun, 14 Jan 2024 22:45:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Masters 2024: Ronnie O'Sullivan fights back to beat Ali Carter 10-7 for eighth title]]></title>
+            <description><![CDATA[Ronnie O'Sullivan fights back to claim a record-extending eighth Masters title with a thrilling 10-7 victory over Ali Carter at a raucous Alexandra Palace.]]></description>
+            <link>https://www.bbc.co.uk/sport/snooker/67975674?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/snooker/67975674</guid>
+            <pubDate>Sun, 14 Jan 2024 22:45:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[David Cameron denies £10m payment from Greensill Capital]]></title>
+            <description><![CDATA[The foreign secretary says he was a "private citizen" while working for the collapsed finance firm.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-67973875?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-67973875</guid>
+            <pubDate>Sun, 14 Jan 2024 16:35:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Oppenheimer: Cillian Murphy film marches towards Oscars success]]></title>
+            <description><![CDATA[Christopher Nolan's film got another boost in its awards campaign at last week's Golden Globes.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-67950097?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-67950097</guid>
+            <pubDate>Sun, 14 Jan 2024 08:52:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[King Frederik: Tens of thousands turn out for succession]]></title>
+            <description><![CDATA[King Frederik becomes the new monarch of Denmark, following Queen Margarethe's abdication.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-67976042?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-67976042</guid>
+            <pubDate>Mon, 15 Jan 2024 00:04:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[100 days since Hamas attacked Israel, triggering war in Gaza]]></title>
+            <description><![CDATA[Thousands of Israelis gathered in Tel Aviv to mark 100 days since the start of the unprecedented war against Hamas.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-67972962?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67972962</guid>
+            <pubDate>Sun, 14 Jan 2024 14:21:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TB Joshua exposé: How the disgraced pastor faked his miracles]]></title>
+            <description><![CDATA[Six ways the late megachurch pastor conned millions of people to believe in his purported cures.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-67944614?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-67944614</guid>
+            <pubDate>Sun, 14 Jan 2024 00:59:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fujitsu Japan remains tight-lipped on the Post Office scandal]]></title>
+            <description><![CDATA[In Fujitsu's home market, hardly anyone had heard of the Horizon scandal until this week.]]></description>
+            <link>https://www.bbc.co.uk/news/business-61020075?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-61020075</guid>
+            <pubDate>Sun, 14 Jan 2024 01:32:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tom Walker: 'I lost my way with music']]></title>
+            <description><![CDATA[The Scottish star's debut album sold three million copies worldwide. Following it up proved harder.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-67939637?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-67939637</guid>
+            <pubDate>Sun, 14 Jan 2024 02:45:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Boeing's mid-air blowout puts safety record in spotlight again]]></title>
+            <description><![CDATA[After a door plug blew off one of its planes, questions are being asked about how seriously Boeing undertakes safety.]]></description>
+            <link>https://www.bbc.co.uk/news/business-67956244?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-67956244</guid>
+            <pubDate>Sun, 14 Jan 2024 02:43:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Agatha Christie: The Indian hotel murder that inspired the queen of crime]]></title>
+            <description><![CDATA[The sensational case, which made global headlines, is said to have influenced Christie's first book.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-67943375?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-india-67943375</guid>
+            <pubDate>Sat, 13 Jan 2024 22:26:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Queen Margrethe: Will abdication cause a ripple effect?]]></title>
+            <description><![CDATA[Nordic monarchies are known to embrace modernity. Abdication was one of the few customs they resisted - until now.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-67944716?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-67944716</guid>
+            <pubDate>Sun, 14 Jan 2024 01:10:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Talk of Trump dominates as Iowa voters kick off 2024 race]]></title>
+            <description><![CDATA[As Republican candidates make their final pitches, Donald Trump is on the minds of both his supporters and opponents.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-67971310?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-67971310</guid>
+            <pubDate>Sun, 14 Jan 2024 02:55:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brrrr! Your pictures on the theme of 'in the cold'  ]]></title>
+            <description><![CDATA[A selection of striking images from our readers around the world.]]></description>
+            <link>https://www.bbc.co.uk/news/in-pictures-67934207?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/in-pictures-67934207</guid>
+            <pubDate>Sun, 14 Jan 2024 02:46:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gabriel Attal: Youngest French PM hopes to revive Macron's government]]></title>
+            <description><![CDATA[France's youngest PM is already popular with the public but how long will the honeymoon period last?]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-67958286?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-67958286</guid>
+            <pubDate>Sat, 13 Jan 2024 00:13:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tough choices for Israel in US's Middle East vision]]></title>
+            <description><![CDATA[The US plan sees diplomatic normalisation with Arab neighbours if Israel ends its offensive.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-67949952?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67949952</guid>
+            <pubDate>Sat, 13 Jan 2024 00:02:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brunei: Asia's most eligible prince formally marries in 10-day celebration]]></title>
+            <description><![CDATA[Prince Abdul Mateen waves at well-wishers from an open-top Rolls Royce as he weds Yang Mulia Anisha Rosnah.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-67942291?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-67942291</guid>
+            <pubDate>Sun, 14 Jan 2024 07:22:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Taiwan election: China says US 'gravely wrong' to congratulate new leader]]></title>
+            <description><![CDATA[Beijing accuses the US of violating its commitment to maintain only unofficial ties with Taiwan.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-67974541?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-67974541</guid>
+            <pubDate>Sun, 14 Jan 2024 13:33:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[William Lai: Taiwan just chose a president China loathes. What now?]]></title>
+            <description><![CDATA[How William Lai manages Beijing, and how Beijing reacts to him, will determine his presidency.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-67920530?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-67920530</guid>
+            <pubDate>Sat, 13 Jan 2024 16:43:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iceland volcano lava sets house on fire in Iceland]]></title>
+            <description><![CDATA[The last residents of Grindavik were evacuated around 03:00 GMT on Sunday morning.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-67976275?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-67976275</guid>
+            <pubDate>Sun, 14 Jan 2024 15:23:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BBC's Glenn Campbell on shock of brain cancer diagnosis]]></title>
+            <description><![CDATA[BBC Scotland's political editor says the discovery of a tumour was devastating - but that he's been lucky.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-67925522?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-67925522</guid>
+            <pubDate>Sat, 13 Jan 2024 18:00:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK weather: Bitter Arctic winds to bring snow to UK this week]]></title>
+            <description><![CDATA[Temperatures are set to plunge across large parts of the UK with snow and ice warnings issued.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-67975792?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-67975792</guid>
+            <pubDate>Sun, 14 Jan 2024 21:35:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bolton Wanderers fan Iain Purslow dies after suspected cardiac arrest at Cheltenham Town game]]></title>
+            <description><![CDATA[Bolton supporter Iain Purslow dies after suffering a suspected cardiac arrest during their home game against Cheltenham.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/67976136?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/67976136</guid>
+            <pubDate>Sun, 14 Jan 2024 15:13:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Straw bear burned in festival ceremony]]></title>
+            <description><![CDATA[Thousands of people attend the three-day festival which ends with the burning of a bear effigy.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-cambridgeshire-67969675?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-cambridgeshire-67969675</guid>
+            <pubDate>Sun, 14 Jan 2024 15:11:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Elizabeth line trial to cover platform 'ghost' marks]]></title>
+            <description><![CDATA[Trials are being carried out to cover marks on platform walls caused by Elizabeth line passengers.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-67959169?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-67959169</guid>
+            <pubDate>Sun, 14 Jan 2024 07:28:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NUFC footballer Joelinton's home broken into]]></title>
+            <description><![CDATA[Police are called out to reports of three men inside the house in Northumberland.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cn49lynpjyqo?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cn49lynpjyqo</guid>
+            <pubDate>Sun, 14 Jan 2024 12:14:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dog stolen from Newark found 200 miles away after appeal]]></title>
+            <description><![CDATA[The charity which helped track down the missing German Shepherd say his owners are "over the moon".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-67956082?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-nottinghamshire-67956082</guid>
+            <pubDate>Sun, 14 Jan 2024 07:16:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['I had £3,000 stolen via WhatsApp job scam message']]></title>
+            <description><![CDATA[There's been a huge rise in the amount of money being stolen via recruitment scam text and WhatsApp messages.]]></description>
+            <link>https://www.bbc.co.uk/news/business-67945171?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-67945171</guid>
+            <pubDate>Sun, 14 Jan 2024 02:13:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Awaab's Law: Rochdale mouldy homes tenants 'told they breathed too much']]></title>
+            <description><![CDATA[Tenants share experiences of mouldy homes as ministers propose a new law in memory of Awaab Ishak.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-manchester-67971225?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-manchester-67971225</guid>
+            <pubDate>Sun, 14 Jan 2024 10:49:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What are cold weather payments and how much are they worth?]]></title>
+            <description><![CDATA[Cold weather payments are available to some people after seven days of below-zero temperatures.]]></description>
+            <link>https://www.bbc.co.uk/news/business-55992592?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-55992592</guid>
+            <pubDate>Sun, 14 Jan 2024 10:56:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['We need jungle' - Amol Rajan on how a University Challenge question spawned a remix craze]]></title>
+            <description><![CDATA[The University Challenge host on how one question went viral and inspired the jungle music community.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-67955753?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-67955753</guid>
+            <pubDate>Sat, 13 Jan 2024 03:13:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Post Office may face £100m tax bill over victim payouts - experts]]></title>
+            <description><![CDATA[It may have underpaid more than £100m in tax while overpaying its senior executives, according to experts.]]></description>
+            <link>https://www.bbc.co.uk/news/business-67964064?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-67964064</guid>
+            <pubDate>Fri, 12 Jan 2024 23:06:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Huge fire rips through warehouse in Russia]]></title>
+            <description><![CDATA[Hundreds of firefighters battled to put out the blaze at the Wildberries warehouse in St Petersburg.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-67971416?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-67971416</guid>
+            <pubDate>Sat, 13 Jan 2024 16:47:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sir Jim Ratcliffe: What issues need addressing at Man Utd?]]></title>
+            <description><![CDATA[Sir Jim Ratcliffe got a first look at his £1.25bn investment as Manchester United drew 2-2 with Tottenham on Sunday. But what issues need to be addressed at Old Trafford?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/67977467?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/67977467</guid>
+            <pubDate>Sun, 14 Jan 2024 21:46:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Australian Open 2024: Andy Murray plays Tomas Martin Etcheverry, Naomi Osaka makes Melbourne return]]></title>
+            <description><![CDATA[Andy Murray is aiming for a quicker victory when he starts his Australian Open campaign against Argentina's Tomas Martin Etcheverry.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/67973191?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/67973191</guid>
+            <pubDate>Sun, 14 Jan 2024 17:42:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Afcon 2023: Egypt 2-2 Mozambique - Mohamed Salah salvages draw with late penalty]]></title>
+            <description><![CDATA[Mohamed Salah scores an injury-time penalty to salvage a draw for Egypt against Mozambique at the 2023 Africa Cup of Nations.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/67904847?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/67904847</guid>
+            <pubDate>Sun, 14 Jan 2024 19:50:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NFL play-offs: Green Bay Packers stun Dallas Cowboys with 48-32 road win]]></title>
+            <description><![CDATA[The Green Bay Packers pull off the first shock of this season's NFL play-offs as they claim a stunning 48-32 win at the Dallas Cowboys.]]></description>
+            <link>https://www.bbc.co.uk/sport/american-football/67977815?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/american-football/67977815</guid>
+            <pubDate>Mon, 15 Jan 2024 01:06:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Owen Farrell: Racing 92 coach Stuart Lancaster confirms interest in signing Saracens fly-half]]></title>
+            <description><![CDATA[Racing 92 head coach Stuart Lancaster confirms his interest in signing Saracens and England fly-half Owen Farrell.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/67976606?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/67976606</guid>
+            <pubDate>Sun, 14 Jan 2024 21:12:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Everton boss Sean Dyche unaware of possible new financial charges]]></title>
+            <description><![CDATA[Sean Dyche says he is unaware if Everton are facing any charges regarding profit and sustainability rules relating to accounts submitted last month.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/67977547?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/67977547</guid>
+            <pubDate>Sun, 14 Jan 2024 21:58:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Strikes on Houthi targets in Yemen show war in Gaza has already spread]]></title>
+            <description><![CDATA[War spreading in the Middle East is not just a risk - it has already happened, writes the BBC's international editor.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-67955729?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67955729</guid>
+            <pubDate>Fri, 12 Jan 2024 13:13:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What we know about strikes on Houthis and strategy behind them]]></title>
+            <description><![CDATA[Everything we know about how and why the US and UK attacked targets in Yemen.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-67955727?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67955727</guid>
+            <pubDate>Fri, 12 Jan 2024 15:20:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Oil prices rise on US-UK strikes over Red Sea attacks]]></title>
+            <description><![CDATA[The UK government has drawn up scenarios suggesting further disruption could hit the economy.]]></description>
+            <link>https://www.bbc.co.uk/news/business-67947795?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-67947795</guid>
+            <pubDate>Fri, 12 Jan 2024 16:33:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Fighter jets strike targets in Yemen]]></title>
+            <description><![CDATA[Footage from UK and US authorities shows jets launch from Cyprus and a Red Sea carrier.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-67955835?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67955835</guid>
+            <pubDate>Fri, 12 Jan 2024 08:24:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chris Mason: Landmark moment for Sunak with Yemen strikes]]></title>
+            <description><![CDATA[The PM will face questions about the aim of military action in Yemen, our political editor writes.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-67954031?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-67954031</guid>
+            <pubDate>Fri, 12 Jan 2024 01:02:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Who are the Houthis and why are they attacking Red Sea ships?]]></title>
+            <description><![CDATA[The Houthis in Yemen have vowed to attack all ships in the Red Sea bound for Israel.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-67614911?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67614911</guid>
+            <pubDate>Fri, 12 Jan 2024 04:06:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Strikes on Houthis are self-defence, says PM]]></title>
+            <description><![CDATA[Rishi Sunak says the action against the Iranian-backed group is "necessary and proportionate".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-67954799?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-67954799</guid>
+            <pubDate>Fri, 12 Jan 2024 13:39:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
