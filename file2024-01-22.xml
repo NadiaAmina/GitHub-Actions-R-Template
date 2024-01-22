@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Home]]></title>
+        <description><![CDATA[BBC News - Home]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Home</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 22 Jan 2024 01:39:15 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Norwich: Two of four found dead in house were stabbed, police say]]></title>
+            <description><![CDATA[Norfolk Police investigating the deaths of four people in Costessey, say two adults died from stab wounds.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-norfolk-68040787?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-norfolk-68040787</guid>
+            <pubDate>Sun, 21 Jan 2024 19:45:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ron DeSantis drops out of presidential race and backs Trump]]></title>
+            <description><![CDATA[The Florida governor ends his bid for the Republican nomination and endorses Donald Trump ahead of New Hampshire vote.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-68051757?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-68051757</guid>
+            <pubDate>Mon, 22 Jan 2024 01:00:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In Ukraine's river war, drones mean nowhere is safe]]></title>
+            <description><![CDATA[Ukraine aims to build a million military drones in 2024. In Kherson, the BBC saw how vital they are.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-67991772?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-67991772</guid>
+            <pubDate>Mon, 22 Jan 2024 00:53:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[More than 25,000 now killed in Gaza since Israel offensive began, Hamas-run health ministry says]]></title>
+            <description><![CDATA[The grim milestone comes as Israel presses its war in Gaza and rejects calls for a Palestinian state.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-68050172?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-68050172</guid>
+            <pubDate>Sun, 21 Jan 2024 18:53:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sarah Ferguson: Duchess of York diagnosed with skin cancer]]></title>
+            <description><![CDATA[A spokesperson says a cancerous mole was found while the duchess was having reconstructive surgery.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-68047608?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-68047608</guid>
+            <pubDate>Sun, 21 Jan 2024 20:50:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Birmingham teenager Muhammad Hassam Ali killed in a case of 'mistaken identity']]></title>
+            <description><![CDATA[Muhammad Hassam Ali is named as the boy stabbed to death in Birmingham city centre on Saturday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-birmingham-68051425?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-birmingham-68051425</guid>
+            <pubDate>Sun, 21 Jan 2024 19:32:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Airports to miss deadline for installing scanners]]></title>
+            <description><![CDATA[Some will not have all the tech, which will end the 100ml limit on liquids, ready by 1 June.]]></description>
+            <link>https://www.bbc.co.uk/news/business-68031052?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-68031052</guid>
+            <pubDate>Mon, 22 Jan 2024 00:03:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ayodhya: India PM Modi to open Hindu temple on razed Babri mosque site]]></title>
+            <description><![CDATA[Ayodhya is spruced up for the Ram temple launch, but opposition leaders and some Hindu seers are staying away.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-68003095?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-india-68003095</guid>
+            <pubDate>Mon, 22 Jan 2024 00:07:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nearly 90 dead after fierce winter storms strike US]]></title>
+            <description><![CDATA[At least 25 weather-related deaths have been reported in Tennessee, with another 16 in Oregon.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-68049923?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-68049923</guid>
+            <pubDate>Sun, 21 Jan 2024 21:59:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ofsted: Head teachers can request pause as inspections resume]]></title>
+            <description><![CDATA[Lead inspectors in England were given mental health awareness training during the two-week pause.]]></description>
+            <link>https://www.bbc.co.uk/news/education-68030202?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/education-68030202</guid>
+            <pubDate>Mon, 22 Jan 2024 00:50:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Start-ups frustrated by HMRC's 'slowness and lack of communication']]></title>
+            <description><![CDATA[Delays and a lack of communication from the tax authority are holding back new businesses, a group says.]]></description>
+            <link>https://www.bbc.co.uk/news/business-67754099?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-67754099</guid>
+            <pubDate>Mon, 22 Jan 2024 00:04:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lake Michigan: Freezing weather causes striking ice formations]]></title>
+            <description><![CDATA[The cold weather in the US has caused natural ice sculptures to form in Grand Haven, Michigan.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-68047456?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-68047456</guid>
+            <pubDate>Sun, 21 Jan 2024 14:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: 'Fergie cancer shock' and 'vish-ous' storm]]></title>
+            <description><![CDATA[Monday's front pages carry the news of the Duchess of York's cancer diagnosis and anticipate the impact of Storm Isha.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-the-papers-68052064?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/blogs-the-papers-68052064</guid>
+            <pubDate>Mon, 22 Jan 2024 00:00:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The bomb-hunters scouring UK waters for unexploded weapons]]></title>
+            <description><![CDATA[Experts say hundreds of thousands of unspent munitions lie on the seabed around Britain.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-67946213?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-67946213</guid>
+            <pubDate>Mon, 22 Jan 2024 01:30:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Travel Photographer of the Year: Lyrical landscapes win awards]]></title>
+            <description><![CDATA[Travel Photographer of the Year awards recognise incredible pictures from around the planet.]]></description>
+            <link>https://www.bbc.co.uk/news/in-pictures-68021767?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/in-pictures-68021767</guid>
+            <pubDate>Sun, 21 Jan 2024 16:23:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Drugged, robbed, killed': The city catching US tourists in dating trap]]></title>
+            <description><![CDATA[Relatives of men killed in Medellin after meeting local women for dates are now searching for answers.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-68022288?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-latin-america-68022288</guid>
+            <pubDate>Sun, 21 Jan 2024 02:09:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I'm working but homeless and bottom of the housing list]]></title>
+            <description><![CDATA[A working father finds himself "sofa surfing" amid social housing shortages in Scotland's biggest city.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-68033982?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-68033982</guid>
+            <pubDate>Sun, 21 Jan 2024 17:49:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Say you're sorry': Russia's trend for humiliating videos]]></title>
+            <description><![CDATA[Forced video apologies have become increasingly common since Russia's war in Ukraine began.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-68016310?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-68016310</guid>
+            <pubDate>Sun, 21 Jan 2024 02:32:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cancer survivors empowered by posing nude for calendar]]></title>
+            <description><![CDATA[The women started off petrified but ended up like goddesses, the photographer says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-68030254?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-68030254</guid>
+            <pubDate>Sun, 21 Jan 2024 07:09:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bowels, bladders and sex: Rediscovering life after mountain crash]]></title>
+            <description><![CDATA[Extreme sportsman Niall McCann talks frankly about life after crashing into a mountain at 50mph.]]></description>
+            <link>https://www.bbc.co.uk/news/health-68029448?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-68029448</guid>
+            <pubDate>Sun, 21 Jan 2024 00:14:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Measles: Why are cases rising and what are the symptoms?]]></title>
+            <description><![CDATA[People are encouraged to have the MMR jab, as cases of measles are on the increase.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-birmingham-68007804?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-birmingham-68007804</guid>
+            <pubDate>Fri, 19 Jan 2024 13:14:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Joseph Boakai: Liberia's new president takes on tough challenge]]></title>
+            <description><![CDATA[Can Joseph Boakai, 79, change Liberia's fortunes, as he takes over from ex-footballer George Weah?]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-67995793?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-67995793</guid>
+            <pubDate>Mon, 22 Jan 2024 01:19:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Great Yarmouth: Murder charge after woman's body found]]></title>
+            <description><![CDATA[Further tests are being carried out into the cause of death, Norfolk Police say.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-norfolk-68049091?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-norfolk-68049091</guid>
+            <pubDate>Sun, 21 Jan 2024 20:20:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Donetsk: Deadly blast hits market in Russia-held Ukraine city, officials say]]></title>
+            <description><![CDATA[Ukraine rejects accusations from the region's Moscow-installed leader that it was responsible.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-68047144?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-68047144</guid>
+            <pubDate>Sun, 21 Jan 2024 23:14:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tesco tech hitch leaves deliveries in 'shambles']]></title>
+            <description><![CDATA[It is thought thousands of customers were left without their orders due to technical problems.]]></description>
+            <link>https://www.bbc.co.uk/news/business-68050152?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-68050152</guid>
+            <pubDate>Sun, 21 Jan 2024 16:28:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Football racism: Forfeit matches when fans are racist - Fifa's Infantino]]></title>
+            <description><![CDATA[Fifa president Gianni Infantino calls for an automatic forfeit of games for teams whose fans commit racist abuse.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/68046422?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/68046422</guid>
+            <pubDate>Sun, 21 Jan 2024 15:15:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Baroness Mone 'is her own worst enemy' - Sir Tom Hunter]]></title>
+            <description><![CDATA[The businessman said Michelle Mone had given a "car-crash" interview on her part in a PPE deal.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-68047405?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-68047405</guid>
+            <pubDate>Sun, 21 Jan 2024 14:19:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shapps 'disappointed' by Netanyahu opposition to Palestinian state]]></title>
+            <description><![CDATA[It is the only solution to end conflict between Israel and the Palestinians, says the defence secretary.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-68046625?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-68046625</guid>
+            <pubDate>Sun, 21 Jan 2024 12:28:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gut health: Goat milk firm's poo post-box tests microbiome]]></title>
+            <description><![CDATA[The company sends stool samples to the University of Cambridge for microbiome analysis.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-68047167?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-68047167</guid>
+            <pubDate>Sun, 21 Jan 2024 21:48:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ukraine drones hit St Petersburg gas terminal in Russia]]></title>
+            <description><![CDATA[An official in Kyiv tells the BBC the "special operation" is an economic blow to Russia.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-68046347?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-68046347</guid>
+            <pubDate>Sun, 21 Jan 2024 13:25:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Yousaf offers talks with 'next prime minister' Starmer]]></title>
+            <description><![CDATA[Scotland's first minister is "very willing" to work with Sir Keir Starmer if Labour win the general election.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-68046866?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-68046866</guid>
+            <pubDate>Sun, 21 Jan 2024 14:45:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bournemouth 0-4 Liverpool: A 'winning machine' - Danny Murphy analysis on why Liverpool did not miss stars]]></title>
+            <description><![CDATA[MOTD2 pundit and ex-Liverpool midfielder Danny Murphy says the Reds showed against Bournemouth that they can fill the void left by Mohamed Salah and Trent Alexander-Arnold.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/68044788?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/68044788</guid>
+            <pubDate>Sun, 21 Jan 2024 23:06:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Celtic 5-0 Buckie Thistle: Holders end Highlanders League side's Scottish Cup adventure]]></title>
+            <description><![CDATA[Holders Celtic power into last 16 in sodden conditions as Buckie Thistle's Scottish Cup adventure ends in Glasgow.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/67972925?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/67972925</guid>
+            <pubDate>Sun, 21 Jan 2024 17:51:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Moyes questions officiating but does he deserve more fan respect?]]></title>
+            <description><![CDATA[What happened in the game's final 10 chaotic minutes & does David Moyes deserve the grief he gets from some of his own fans?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/68051053?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/68051053</guid>
+            <pubDate>Sun, 21 Jan 2024 20:22:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ronnie O'Sullivan beats Judd Trump 10-7 to win World Grand Prix final]]></title>
+            <description><![CDATA[Ronnie O'Sullivan comes back from 4-0 down to beat Judd Trump 10-7 in the World Grand Prix final.]]></description>
+            <link>https://www.bbc.co.uk/sport/snooker/68049760?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/snooker/68049760</guid>
+            <pubDate>Sun, 21 Jan 2024 22:06:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Match of the Day 2: How Diogo Jota shone for Liverpool in Mo Salah's absence]]></title>
+            <description><![CDATA[Match of the Day 2's Shay Given analyses how Diogo Jota "stepped up" for Liverpool against Bournemouth, with Reds' talisman Mo Salah away on international duty.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/68050847?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/football/68050847</guid>
+            <pubDate>Mon, 22 Jan 2024 00:05:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Match of the Day 2: Were West Ham 'cheated' by penalty calls against Sheffield United?]]></title>
+            <description><![CDATA[Match of the Day 2's Danny Murphy and Shay Given analyse two controversial penalty decisions which gave Sheffield United a 2-2 draw against West Ham at Bramall Lane.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/68050849?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/football/68050849</guid>
+            <pubDate>Mon, 22 Jan 2024 00:05:29 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
