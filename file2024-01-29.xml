@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Home]]></title>
+        <description><![CDATA[BBC News - Home]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Home</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 29 Jan 2024 01:23:36 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[US drone attack: Three US troops killed in drone strike on US base in Middle East]]></title>
+            <description><![CDATA[President Biden said the attack was carried out by "radical Iran-backed militant groups".]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-68122706?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-68122706</guid>
+            <pubDate>Sun, 28 Jan 2024 23:20:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Disposable vapes to be banned over fears for children's health]]></title>
+            <description><![CDATA[Rishi Sunak announces the plan saying "we must act" to tackle a rise in vaping among children.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-68123202?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-68123202</guid>
+            <pubDate>Sun, 28 Jan 2024 22:53:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bristol stabbings: Boys aged 15 and 16 killed in attack]]></title>
+            <description><![CDATA[A 44-year-old man and a boy, 15, have been arrested after an attack in Bristol, say police.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-bristol-68122275?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-bristol-68122275</guid>
+            <pubDate>Sun, 28 Jan 2024 18:58:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nottingham attacks: Special review into NHS trust which treated killer Valdo Calocane]]></title>
+            <description><![CDATA[The review will examine the medical care of Valdo Calocane who killed three people in Nottingham.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-68123734?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-nottinghamshire-68123734</guid>
+            <pubDate>Mon, 29 Jan 2024 00:28:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Moment vibrating phones alerted UN to Russia’s invasion of Ukraine]]></title>
+            <description><![CDATA["It was the first I'd heard of it," Russia's ambassador tells the BBC, recalling the night of attack.]]></description>
+            <link>https://www.bbc.co.uk/news/world-68113443?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-68113443</guid>
+            <pubDate>Mon, 29 Jan 2024 00:04:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Super Bowl 58: Kansas City Chiefs beat Baltimore Ravens to earn shot at title defence]]></title>
+            <description><![CDATA[The Kansas City Chiefs will play in the Super Bowl for a fourth time in five years after beating the Baltimore Ravens 17-10 in the NFL's Conference Championships.]]></description>
+            <link>https://www.bbc.co.uk/sport/american-football/68110731?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/american-football/68110731</guid>
+            <pubDate>Mon, 29 Jan 2024 00:22:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Post Office scandal: Chairman Henry Staunton had to go as it 'wasn't working' - Badenoch]]></title>
+            <description><![CDATA[Business Secretary Kemi Badenoch says Henry Staunton's sacking is about more than the Horizon scandal.]]></description>
+            <link>https://www.bbc.co.uk/news/business-68121257?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-68121257</guid>
+            <pubDate>Sun, 28 Jan 2024 19:46:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[It's a dream come true to work in Urdu with Zayn Malik, say band]]></title>
+            <description><![CDATA["He is so down to earth, he sang in Urdu, what can be bigger than that?" say Pakistani band Aur.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-68099616?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-68099616</guid>
+            <pubDate>Sun, 28 Jan 2024 23:36:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Car insurance: Young drivers risk fraud to save on costs]]></title>
+            <description><![CDATA[Insurance industry says young drivers could be tempted to break the law as insurance gets more expensive.]]></description>
+            <link>https://www.bbc.co.uk/news/business-68016631?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-68016631</guid>
+            <pubDate>Mon, 29 Jan 2024 00:03:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Train strikes: Passengers facing week of rail disruption]]></title>
+            <description><![CDATA[Members of the Aslef train drivers' union are taking more action in its long-running dispute over pay.]]></description>
+            <link>https://www.bbc.co.uk/news/business-61634959?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-61634959</guid>
+            <pubDate>Mon, 29 Jan 2024 00:10:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Weather record for warmest January set in Scottish Highlands]]></title>
+            <description><![CDATA[An unseasonal 19.6C is recorded at Kinlochewe, according to provisional figures from the Met Office.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-68119951?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-68119951</guid>
+            <pubDate>Sun, 28 Jan 2024 15:31:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[British base jumper dies in Thailand after parachute fails]]></title>
+            <description><![CDATA[Police arrived at the eastern Thai beach resort of Pattaya, where they found the 33-year-old's body.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-68122714?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-68122714</guid>
+            <pubDate>Sun, 28 Jan 2024 15:32:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Escaped monkey spotted in Highland village]]></title>
+            <description><![CDATA[The Japanese macaque was filmed helping himself from a bird feeder in Kincraig.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-68124618?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-68124618</guid>
+            <pubDate>Sun, 28 Jan 2024 18:25:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Moti Mahal: India curry houses battle over butter chicken]]></title>
+            <description><![CDATA[Butter chicken - a curry popular around the world - is now in the middle of a court battle in India.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-68053470?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-india-68053470</guid>
+            <pubDate>Sun, 28 Jan 2024 01:17:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UNRWA: Key UN Gaza aid agency runs into diplomatic storm]]></title>
+            <description><![CDATA[UNRWA is a lifeline in Gaza, but several countries have paused aid over claims staff helped attack Israel.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-68123222?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-68123222</guid>
+            <pubDate>Sun, 28 Jan 2024 14:45:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Robert Corfield, ex-minister of secretive sect, admits to child sex abuse]]></title>
+            <description><![CDATA[Alleged victims say predators have gone unpunished for decades in Christian church known as The Truth.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-66449988?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-66449988</guid>
+            <pubDate>Sun, 28 Jan 2024 00:26:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FA Cup: 'Newport v Man Utd not possible without my dad']]></title>
+            <description><![CDATA[A teacher took football's authorities to court so Newport could play teams like Manchester United.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-68096720?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-68096720</guid>
+            <pubDate>Sun, 28 Jan 2024 07:06:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beauty giant Avon under fire over Russia links]]></title>
+            <description><![CDATA[The firm is facing criticism for continuing production and recruiting new sales agents in Russia.]]></description>
+            <link>https://www.bbc.co.uk/news/business-67425366?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-67425366</guid>
+            <pubDate>Sun, 28 Jan 2024 00:55:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OneFour: The rap group dividing Australia]]></title>
+            <description><![CDATA[A standoff between a hip-hop act and law enforcement is fuelling a debate over art and censorship.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-67364463?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-australia-67364463</guid>
+            <pubDate>Sat, 27 Jan 2024 16:45:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Laura Kuenssberg: What do voters think of party leaders? Not a lot]]></title>
+            <description><![CDATA[Laura Kuenssberg takes a snapshot of what voters in key seats think about the state of politics.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-68117596?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-68117596</guid>
+            <pubDate>Sat, 27 Jan 2024 17:09:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Zone of Interest: How Oscars-nominated Auschwitz film borrows from Big Brother]]></title>
+            <description><![CDATA[For The Zone of Interest, hidden crews filmed fictional family life in a house next to the Nazi death camp.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-68016298?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-68016298</guid>
+            <pubDate>Sun, 28 Jan 2024 02:13:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Would it bother you if you only got mail three days a week?]]></title>
+            <description><![CDATA[Ofcom has proposed Royal Mail could cut the days it delivers letters to three as part of reforms.]]></description>
+            <link>https://www.bbc.co.uk/news/business-68078724?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-68078724</guid>
+            <pubDate>Sun, 28 Jan 2024 01:17:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Your pictures on the theme of 'wilderness']]></title>
+            <description><![CDATA[A selection of striking images from our readers around the world.]]></description>
+            <link>https://www.bbc.co.uk/news/in-pictures-68082104?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/in-pictures-68082104</guid>
+            <pubDate>Sun, 28 Jan 2024 01:27:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Red Sea: UK navy ship HMS Diamond shoots down Houthi drone]]></title>
+            <description><![CDATA[The Ministry of Defence says this is the third such incident involving HMS Diamond.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-68122944?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-68122944</guid>
+            <pubDate>Sun, 28 Jan 2024 14:31:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mona Lisa: Protesters throw soup at da Vinci painting]]></title>
+            <description><![CDATA[The 16th Century painting by Leonardo da Vinci sits behind protective glass at the Louvre in Paris.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-68121654?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-68121654</guid>
+            <pubDate>Sun, 28 Jan 2024 12:45:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nadine Dorries pledges to repay mistaken £17K exit payout]]></title>
+            <description><![CDATA[The former culture secretary was paid severance pay despite being too old to qualify.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-68122000?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-68122000</guid>
+            <pubDate>Sun, 28 Jan 2024 17:32:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fighting in crowd mars Wolves win at West Brom]]></title>
+            <description><![CDATA[Wolves beat West Brom 2-0 at The Hawthorns to reach the fifth round of the FA Cup, after the match is suspended for over half an hour because of crowd trouble.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/68110807?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/68110807</guid>
+            <pubDate>Sun, 28 Jan 2024 15:13:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jamie Dornan 'hid' after reviews of Fifty Shades film]]></title>
+            <description><![CDATA[The 2015 film was popular with fans and a box office hit but was critically panned.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-68123482?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-68123482</guid>
+            <pubDate>Sun, 28 Jan 2024 16:30:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Inside the world's largest cruise ship as it sets sail]]></title>
+            <description><![CDATA[The 20-deck Icon of the Seas' maiden voyage comes amid concerns about the vessel's methane emissions.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-68118822?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-68118822</guid>
+            <pubDate>Sun, 28 Jan 2024 14:51:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Liverpool fire: Previous concerns about building, councillor says]]></title>
+            <description><![CDATA[There were several concerns about the management of a building before the fire, a councillor says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-merseyside-68121789?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-merseyside-68121789</guid>
+            <pubDate>Sun, 28 Jan 2024 16:40:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Off-peak Friday fares trial to start for Tube and trains in London]]></title>
+            <description><![CDATA[All Friday journeys on trains and the Tube will be priced at the off-peak rate from March.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-68109486?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-68109486</guid>
+            <pubDate>Sun, 28 Jan 2024 08:40:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pembrokeshire skier bags a Welsh hill that rarely sees snow]]></title>
+            <description><![CDATA[A skier hoping to carve on every peak in Wales has bagged one of the country's rarest slopes.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-68089688?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-68089688</guid>
+            <pubDate>Sun, 28 Jan 2024 08:25:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Singer Morrissey being treated for physical exhaustion]]></title>
+            <description><![CDATA[The singer is being treated in Switzerland after cancelling a number of concerts.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-68121824?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-68121824</guid>
+            <pubDate>Sun, 28 Jan 2024 12:00:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK citizen army: Preparing the 'pre-war generation' for conflict]]></title>
+            <description><![CDATA[A senior general stops short of backing conscription - but wants the UK to prepare for wider European war.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-68097048?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-68097048</guid>
+            <pubDate>Thu, 25 Jan 2024 16:35:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dragons' Den episode edited after ear seed complaints about Giselle Boxer pitch]]></title>
+            <description><![CDATA[Campaigners say the programme featured "unfounded" health claims about the wellness product.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-68119301?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-68119301</guid>
+            <pubDate>Sat, 27 Jan 2024 19:47:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Liverpool: Huge fire engulfs building in city centre]]></title>
+            <description><![CDATA[Nearby properties are evacuated as authorities warn people to avoid the area.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-68119241?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-68119241</guid>
+            <pubDate>Sat, 27 Jan 2024 16:34:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cuddly toy sellers chase an unlikely audience: 'Kidults']]></title>
+            <description><![CDATA[Toy and games sales fell last year as family finances were stretched but one group is bucking the trend.]]></description>
+            <link>https://www.bbc.co.uk/news/business-68100465?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-68100465</guid>
+            <pubDate>Sun, 28 Jan 2024 00:52:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Xavi: Barcelona manager to leave at end of season]]></title>
+            <description><![CDATA[Barcelona manager Xavi says "the club needs a change of dynamic" and will step down at the end of the season.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/68120429?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/68120429</guid>
+            <pubDate>Sat, 27 Jan 2024 23:28:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[India v England: 'Hyderabad Heist shows England are unmissable']]></title>
+            <description><![CDATA[The astonishing victory over India in Hyderabad shows why you cannot take your eyes off the England Test team, says Stephan Shemilt.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/68123032?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/68123032</guid>
+            <pubDate>Sun, 28 Jan 2024 19:18:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['They were rattled, I was dreaming' - the day Newport scared Man Utd]]></title>
+            <description><![CDATA[Newport fall short of pulling off another shock against Manchester United - but are "proud" of an occasion to savour.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/68124499?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/68124499</guid>
+            <pubDate>Sun, 28 Jan 2024 21:35:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FA Cup: Newport County 2-4 Manchester United - highlights]]></title>
+            <description><![CDATA[Manchester United survive an FA Cup fourth-round scare at Newport County before finally seeing off the League Two side's brave attempt at a giant-killing.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/68013946?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/football/68013946</guid>
+            <pubDate>Sun, 28 Jan 2024 19:17:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Liverpool 0-2 Arsenal: Vivianne Miedema 'feels like herself again' after first goal since ACL injury]]></title>
+            <description><![CDATA[Arsenal's record goalscorer Vivianne Miedema says she "feels like herself again" after scoring her first goal since rupturing her anterior cruciate ligament in December, 2022.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/68124360?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/68124360</guid>
+            <pubDate>Sun, 28 Jan 2024 20:09:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Keeper hits winning penalty as DR Congo knock out Egypt]]></title>
+            <description><![CDATA[DR Congo beat Egypt 8-7 on penalties after a 1-1 draw to set up a quarter-final against Guinea at the Africa Cup of Nations.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/68045654?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/68045654</guid>
+            <pubDate>Sun, 28 Jan 2024 23:59:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jurgen Klopp: Liverpool manager appreciates 'emotional' reception but keen to avoid distraction]]></title>
+            <description><![CDATA[Liverpool manager Jurgen Klopp appreciated the reception afforded to him by supporters prior to Sunday's FA Cup victory over Norwich, but does not want to become a distraction.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/68123507?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/68123507</guid>
+            <pubDate>Sun, 28 Jan 2024 18:59:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Interest rate and mortgages: What you can do about rising payments]]></title>
+            <description><![CDATA[Watch the BBC's Lora Jones tell you five things you can do about your mortgage, in a minute.]]></description>
+            <link>https://www.bbc.co.uk/news/business-66384295?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-66384295</guid>
+            <pubDate>Thu, 03 Aug 2023 03:44:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Interest rates: How the Bank of England's decision affects you and your money]]></title>
+            <description><![CDATA[The Bank of England has held interest rates at 5.25%, but borrowing costs remain comparatively high.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57764601?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-57764601</guid>
+            <pubDate>Thu, 14 Dec 2023 13:48:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mortgage rates: Five ways to save money]]></title>
+            <description><![CDATA[Experts give advice for those who might be worried about their monthly mortgage payments.]]></description>
+            <link>https://www.bbc.co.uk/news/business-65984415?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-65984415</guid>
+            <pubDate>Mon, 08 Jan 2024 09:53:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[January debt: What should I pay first and what can I do?]]></title>
+            <description><![CDATA[What help and options are available to people struggling with debt repayments?]]></description>
+            <link>https://www.bbc.co.uk/news/business-64291327?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-64291327</guid>
+            <pubDate>Thu, 18 Jan 2024 09:37:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Energy saving tips: Five ways to cut costs this winter]]></title>
+            <description><![CDATA[Energy prices will be lower this winter than last - but you may be able to save even more on your bill.]]></description>
+            <link>https://www.bbc.co.uk/news/business-62738249?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-62738249</guid>
+            <pubDate>Thu, 23 Nov 2023 16:22:57 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
