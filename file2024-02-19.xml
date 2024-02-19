@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Home]]></title>
+        <description><![CDATA[BBC News - Home]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Home</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 19 Feb 2024 01:30:53 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Israel sets March deadline for Gaza ground offensive in Rafah]]></title>
+            <description><![CDATA[A war cabinet member says unless Hamas frees all hostages by 10 March an assault will begin in Rafah.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-68334510?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-68334510</guid>
+            <pubDate>Mon, 19 Feb 2024 00:50:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Murder arrest after three young children found dead in Bristol]]></title>
+            <description><![CDATA[A 42-year-old woman is held after three young children are found dead at a house in Bristol.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-bristol-68333063?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-bristol-68333063</guid>
+            <pubDate>Sun, 18 Feb 2024 21:54:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gaza doctors: ‘We leave patients to scream for hours and hours’]]></title>
+            <description><![CDATA[Doctors in Gaza say the healthcare system is broken and they are operating on people without anaesthetic.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-68331988?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-68331988</guid>
+            <pubDate>Sun, 18 Feb 2024 17:02:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bristol: Two boys charged with murder of Darrian Williams]]></title>
+            <description><![CDATA[The 15-year-olds are charged with the murder of 16-year-old Darrian Williams in Bristol.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-bristol-68325585?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-bristol-68325585</guid>
+            <pubDate>Sun, 18 Feb 2024 21:11:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Oppenheimer's Cillian Murphy and Robert Downey Jr scoop Bafta Film Awards]]></title>
+            <description><![CDATA[Cillian Murphy, Robert Downey Jr and Christopher Nolan all win Bafta Film Awards for Oppenheimer.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-68332541?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-68332541</guid>
+            <pubDate>Sun, 18 Feb 2024 21:42:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Papua New Guinea ambush: More than 50 shot dead in Highlands region]]></title>
+            <description><![CDATA[The country has long struggled with tribal violence, but the killings are believed to be the worst in years.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-68302051?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-68302051</guid>
+            <pubDate>Mon, 19 Feb 2024 00:42:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kemi Badenoch in row with former Post Office chairman]]></title>
+            <description><![CDATA[Business secretary says claims made by Henry Staunton over his dismissal are a "misrepresentation".]]></description>
+            <link>https://www.bbc.co.uk/news/business-68330465?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-68330465</guid>
+            <pubDate>Sun, 18 Feb 2024 17:46:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sir Keir Starmer calls for Gaza 'ceasefire that lasts']]></title>
+            <description><![CDATA[The Labour leader responds to pressure over his stance on a ceasefire ahead of a Commons vote.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-68331322?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-68331322</guid>
+            <pubDate>Sun, 18 Feb 2024 16:30:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Leicester: Major search after two-year-old boy falls into river]]></title>
+            <description><![CDATA[The child was with his family when he fell into the River Soar near Aylestone on Sunday, police say.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-leicestershire-68333830?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-leicestershire-68333830</guid>
+            <pubDate>Sun, 18 Feb 2024 23:50:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alexei Navalny: US and UK ambassadors to Russia lay tributes]]></title>
+            <description><![CDATA[Diplomats in Moscow pay their respects to the Russian opposition leader who died in prison on Friday.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-68332593?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-68332593</guid>
+            <pubDate>Sun, 18 Feb 2024 20:07:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israel condemns Brazil's Lula likening Gaza war to Holocaust]]></title>
+            <description><![CDATA[Brazil's president is accused by Israel of "crossing a red line" after he made the comparison in a speech.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-68332821?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-latin-america-68332821</guid>
+            <pubDate>Sun, 18 Feb 2024 16:57:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Online campaign seeks Easter Island statue's return from British Museum]]></title>
+            <description><![CDATA[A campaign by social media users in Chile seeks the repatriation of Hoa Hakananai'a moai to the island.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-68332824?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-latin-america-68332824</guid>
+            <pubDate>Sun, 18 Feb 2024 19:48:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Luton's Taylor Swift moment? Harry Styles pops up in Kenilworth Road crowd]]></title>
+            <description><![CDATA[Fans joke that the star's appearance is the UK version of Taylor Swift at the Super Bowl.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-68333365?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-68333365</guid>
+            <pubDate>Sun, 18 Feb 2024 19:23:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Navalny's life and future death captured in Oscar-winning documentary]]></title>
+            <description><![CDATA[The director of the 2022 Oscar-winning film speaks of his shock at the death of Alexei Navalny.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-68326718?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-68326718</guid>
+            <pubDate>Sat, 17 Feb 2024 23:14:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dog attacks: What can you do to protect yourself?]]></title>
+            <description><![CDATA[The best course of action will vary depending on the situation, dog behaviour experts explain.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-68228780?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-68228780</guid>
+            <pubDate>Sun, 18 Feb 2024 07:11:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Influential names among those rejected for new Overground lines]]></title>
+            <description><![CDATA[TfL spoke to historians and delved into archives to seek inspiration for new line names.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-68315382?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-68315382</guid>
+            <pubDate>Sun, 18 Feb 2024 02:54:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Conjoined twins given days to live are proving world wrong]]></title>
+            <description><![CDATA[Marieme and Ndeye, seven, were not expected to survive for more than a few days after they were born.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-68145224?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-68145224</guid>
+            <pubDate>Sun, 18 Feb 2024 07:02:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[West Africa’s Michelin-starred cuisine wows London]]></title>
+            <description><![CDATA[African fine dining is often overlooked, but now restaurants are getting their just deserts.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-68300006?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-68300006</guid>
+            <pubDate>Sun, 18 Feb 2024 02:50:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A US sailor killed two near Tokyo - why is Japan asked to apologise?]]></title>
+            <description><![CDATA[The early release of Ridge Alkonis, who killed two in a car accident, stirs unease over US-Japan relations.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-68137582?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-68137582</guid>
+            <pubDate>Sun, 18 Feb 2024 00:12:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UN: Asylum seekers report assault and self-harm on remote UK island]]></title>
+            <description><![CDATA[A group of 61 held in a camp on Diego Garcia tell UN inspectors of sexual assaults, rat bites and self-harm.]]></description>
+            <link>https://www.bbc.co.uk/news/world-68326365?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-68326365</guid>
+            <pubDate>Sat, 17 Feb 2024 18:51:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fearless Nadia: The Australian stuntwoman who captivated Indians]]></title>
+            <description><![CDATA[Known by her stage name Fearless Nadia, Mary Ann Evans ruled the Indian box office in the 1930s and 40s.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-68271363?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-india-68271363</guid>
+            <pubDate>Sun, 18 Feb 2024 01:44:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kerrang TV: How a channel shaped the alternative music scene]]></title>
+            <description><![CDATA[Channel 4, which owns the channel, says it will soon be "unprofitable" due to declining audiences.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-68180811?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/newsbeat-68180811</guid>
+            <pubDate>Sun, 18 Feb 2024 02:43:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dungeons & Dragons at 50: How the fantasy world can be a home for everyone]]></title>
+            <description><![CDATA[D&D has been popping up across popular culture, including Stranger Things and Baldur's Gate 3.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-68315411?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/newsbeat-68315411</guid>
+            <pubDate>Sat, 17 Feb 2024 02:15:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Matt Smith on if he'd return to Doctor Who and being Prince Harry's 'grandad']]></title>
+            <description><![CDATA[The actor recalls when he spoke to the Duke of Sussex about playing his grandfather in The Crown.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-68330645?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-68330645</guid>
+            <pubDate>Sun, 18 Feb 2024 11:50:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Steve Wright's Sunday Love Songs goes on air 'without the chief']]></title>
+            <description><![CDATA[The Radio 2 show opens with a tribute to DJ Steve Wright, its long-time host, who died this week.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-68330874?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-68330874</guid>
+            <pubDate>Sun, 18 Feb 2024 17:12:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shane Rose: Show jumper competes in mankini]]></title>
+            <description><![CDATA[Australian three-time Olympic medallist Shane Rose is stood down from competition for wearing a mankini during a show jumping event.]]></description>
+            <link>https://www.bbc.co.uk/sport/equestrian/68330519?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/equestrian/68330519</guid>
+            <pubDate>Sun, 18 Feb 2024 11:04:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What happened to Westminster's famous pub division bell?]]></title>
+            <description><![CDATA[The chimes that tell MPs in pubs it is time to vote seem to be dying out.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-68232558?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-68232558</guid>
+            <pubDate>Sun, 18 Feb 2024 02:22:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No discussion over Falklands sovereignty, says Lord Cameron]]></title>
+            <description><![CDATA[Ahead of his visit, the foreign secretary says the Islands will be British as long as they want to be.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-68329181?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-68329181</guid>
+            <pubDate>Sun, 18 Feb 2024 01:04:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sacked Twitter staff in Ghana finally get pay-off]]></title>
+            <description><![CDATA[Former workers at X's Africa base say they have got their severance pay after a year-long campaign.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-68330701?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-68330701</guid>
+            <pubDate>Sun, 18 Feb 2024 12:15:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nansledan: Prince William to build homes for homeless on Duchy land]]></title>
+            <description><![CDATA[The Duchy of Cornwall announces plans to build accommodation for homeless in Newquay.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-cornwall-68330944?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-cornwall-68330944</guid>
+            <pubDate>Sun, 18 Feb 2024 11:31:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WHO says Gaza's Nasser hospital not functional after Israel raids]]></title>
+            <description><![CDATA[Israeli forces say intelligence suggested hostages were being held at the Nasser site by Hamas.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-68330579?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-68330579</guid>
+            <pubDate>Sun, 18 Feb 2024 20:19:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tel Aviv protesters call on Netanyahu to resign]]></title>
+            <description><![CDATA[The Israeli prime minister's popularity has declined among Israelis after the 7 October Hamas attacks.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-68331272?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-68331272</guid>
+            <pubDate>Sun, 18 Feb 2024 11:38:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Thaksin Shinawatra: Former Thai prime minister released on parole]]></title>
+            <description><![CDATA[Thaksin Shinawatra, one of Thailand's most divisive figures, was convicted last year on corruption charges.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-68329953?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-68329953</guid>
+            <pubDate>Sun, 18 Feb 2024 07:46:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ukraine visa schemes to be extended by 18 months]]></title>
+            <description><![CDATA[It means those on the earliest visas will be allowed to stay in the UK until at least September 2026.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-68329715?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-68329715</guid>
+            <pubDate>Sun, 18 Feb 2024 04:12:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Donald Trump launches own-brand shoes after $355m fraud fine]]></title>
+            <description><![CDATA[The ex-president promoted gold-coloured shoes priced at $399 at a sneaker convention in Philadelphia.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-68329886?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-68329886</guid>
+            <pubDate>Sun, 18 Feb 2024 06:39:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[West Bank Palestinians paying the price for Gaza war]]></title>
+            <description><![CDATA[Kamal, from the occupied West Bank, had a well-paid job in Israel before the Hamas attacks - now he is in poverty.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-68305581?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-68305581</guid>
+            <pubDate>Sun, 18 Feb 2024 02:08:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jordan North speaks out after sudden Radio 1 exit]]></title>
+            <description><![CDATA[The presenter thanks his listeners and says he will miss his "partner in crime", Vick Hope.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-68325842?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-68325842</guid>
+            <pubDate>Sat, 17 Feb 2024 18:38:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Harrison Ford's Star Wars script sells for £10,000 at auction]]></title>
+            <description><![CDATA[The pages had been left in a west London flat the actor rented in the 1970s.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-68325575?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-68325575</guid>
+            <pubDate>Sat, 17 Feb 2024 16:23:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HS2 Chiltern Tunnel sinkholes appear in Buckinghamshire]]></title>
+            <description><![CDATA[The craters are discovered on private land, within months of two others being found nearby.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-68326138?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-68326138</guid>
+            <pubDate>Sat, 17 Feb 2024 21:36:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Donald Trump hit where it hurts most in New York fraud ruling]]></title>
+            <description><![CDATA[A scathing judgment limits the former president's ability to do business in the city where he made his name.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-68323086?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-68323086</guid>
+            <pubDate>Sat, 17 Feb 2024 12:13:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Zombie Fires' burning at an alarming rate in Canada]]></title>
+            <description><![CDATA[Canada's wildfire season is not over, with dozens of winter fires still burning beneath the soil.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-68228943?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-68228943</guid>
+            <pubDate>Sat, 17 Feb 2024 00:53:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Japan: Defence ministry eases haircut rules for troops]]></title>
+            <description><![CDATA[Changes to hair length regulations will come into effect in April in a bid to attract new recruits.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-68327068?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-68327068</guid>
+            <pubDate>Sat, 17 Feb 2024 15:27:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Moment surprise party is accidentally revealed on BBC News]]></title>
+            <description><![CDATA[BBC Weather's Kawser Quamer went into a bit too much detail in her forecast on North West Tonight.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-68325170?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-68325170</guid>
+            <pubDate>Sat, 17 Feb 2024 08:06:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tata Steel workers protest over proposed job losses]]></title>
+            <description><![CDATA[Protests were held in Newport and Port Talbot - where major Tata sites are based.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-68325457?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-68325457</guid>
+            <pubDate>Sat, 17 Feb 2024 14:04:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fans get rare chance to see Billy Connolly's 'Big Banana Feet' ]]></title>
+            <description><![CDATA[The 1975 documentary was discovered on eBay and will now be screened in the cinema again.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-68297196?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-68297196</guid>
+            <pubDate>Sat, 17 Feb 2024 10:25:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Week in pictures: 10-16 February 2024]]></title>
+            <description><![CDATA[A selection of striking images from around the world, taken over the past seven days.]]></description>
+            <link>https://www.bbc.co.uk/news/in-pictures-68315599?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/in-pictures-68315599</guid>
+            <pubDate>Sat, 17 Feb 2024 02:25:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lancaster University: Students unable to afford food for days, union says]]></title>
+            <description><![CDATA[A student union leader says the situation for some is "desperate" as they are "at breaking point".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-lancashire-68320736?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-lancashire-68320736</guid>
+            <pubDate>Sat, 17 Feb 2024 09:25:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Newhaven: Person charged after migrants found in lorry]]></title>
+            <description><![CDATA[Six people were taken to hospital after migrants were found in a lorry aboard a ferry in Sussex.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-sussex-68328685?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-sussex-68328685</guid>
+            <pubDate>Sat, 17 Feb 2024 17:23:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Manchester United: Harry Styles watches Rasmus Hojlund take centre stage in win at Luton]]></title>
+            <description><![CDATA[Harry Styles provides a sprinkle of stardust at Luton but Manchester United are left celebrating their own latest headline act in Rasmus Hojlund.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/68333951?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/68333951</guid>
+            <pubDate>Sun, 18 Feb 2024 21:10:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Six Nations: England's Alex Mitchell ruled out of Scotland match with knee injury]]></title>
+            <description><![CDATA[England scrum-half Alex Mitchell will miss the Six Nations match against Scotland with a knee injury.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/68331414?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/68331414</guid>
+            <pubDate>Sun, 18 Feb 2024 18:19:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Leah Williamson: Arsenal defender withdraws from England squad with injury]]></title>
+            <description><![CDATA[Leah Williamson withdraws from her first England squad since April after injuring her hamstring.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/68333692?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/68333692</guid>
+            <pubDate>Sun, 18 Feb 2024 18:37:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[F1 wants Horner allegations 'clarified at earliest opportunity']]></title>
+            <description><![CDATA[Formula 1 urges Red Bull to resolve the controversy surrounding team principal Christian Horner "as soon as possible".]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/68333346?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/68333346</guid>
+            <pubDate>Sun, 18 Feb 2024 17:49:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kane goal not enough as Bayern suffer third defeat in nine days]]></title>
+            <description><![CDATA[England captain Harry Kane's late goal at Bochum is not enough as Bayern Munich suffer their third defeat in nine days.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/68332112?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/68332112</guid>
+            <pubDate>Sun, 18 Feb 2024 21:11:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Match of the Day 2: How Man Utd's Rasmus Hojlund provided 'complete performance']]></title>
+            <description><![CDATA[Match of the Day 2's Mark Chapman, Alan Shearer & Leon Osman analyse Rasmus Hojlund's "complete performance" in Manchester United's 2-1 win at Luton.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/68334562?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/football/68334562</guid>
+            <pubDate>Mon, 19 Feb 2024 00:00:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Michael J Fox brings people to tears in Baftas surprise appearance]]></title>
+            <description><![CDATA[The actor, who lives with Parkinson's disease, got up from his wheelchair to present best film award.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-68330876?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-68330876</guid>
+            <pubDate>Sun, 18 Feb 2024 22:45:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Baftas 2024 highlights: The big winners... in two minutes]]></title>
+            <description><![CDATA[Laughter and tears for winners at the Bafta Awards 2024 in London.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-68333326?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-68333326</guid>
+            <pubDate>Sun, 18 Feb 2024 22:16:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Baftas red carpet in pictures: Stars turn on style at British film awards]]></title>
+            <description><![CDATA[Big names from films like Barbie, Oppenheimer and Saltburn step out at the British awards ceremony.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-68332536?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-68332536</guid>
+            <pubDate>Sun, 18 Feb 2024 18:01:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Baftas 2024: The moments you might have missed]]></title>
+            <description><![CDATA[A dog almost stole the show, Da'Vine Joy Randolph made Chiwetel Ejiofor blush and Hugh Grant nailed it.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-68334456?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-68334456</guid>
+            <pubDate>Mon, 19 Feb 2024 01:24:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bafta Awards 2024: The complete list of winners and nominees]]></title>
+            <description><![CDATA[See all the winners from this year's Bafta Film Awards, which have been taking place in London.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-68332535?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-68332535</guid>
+            <pubDate>Sun, 18 Feb 2024 21:42:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alexei Navalny: Supporters' grief, defiance and hope after leader's death]]></title>
+            <description><![CDATA[In a country where dissent has been silenced, just laying flowers is an act of courage, writes Steve Rosenberg.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-68325326?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-68325326</guid>
+            <pubDate>Sat, 17 Feb 2024 13:41:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alexei Navalny: Tributes and arrests as Russians mark opposition leader's death]]></title>
+            <description><![CDATA[Across the country people have been forcibly taken away for leaving flowers and tributes for the deceased political activist.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-68325344?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-68325344</guid>
+            <pubDate>Sat, 17 Feb 2024 12:40:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alexei Navalny was often asked: ‘Do you fear for your life?']]></title>
+            <description><![CDATA[Sarah Rainsford on how Putin's opponent never abandoned his belief in "the beautiful Russia of the future".]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-68320268?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-68320268</guid>
+            <pubDate>Fri, 16 Feb 2024 19:29:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What we know about reports of Navalny's death ]]></title>
+            <description><![CDATA[Many believe the opposition leader paid the ultimate price for opposing Putin - what do we know?]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-68318742?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-68318742</guid>
+            <pubDate>Fri, 16 Feb 2024 17:26:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Navalny's moments of defiance]]></title>
+            <description><![CDATA[See key moments in Alexei Navalny's career as an outspoken critic of President Putin.]]></description>
+            <link>https://www.bbc.co.uk/news/world-68320972?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-68320972</guid>
+            <pubDate>Fri, 16 Feb 2024 18:23:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Putin must be held accountable - Yulia Navalnaya]]></title>
+            <description><![CDATA[Alexei Navalny's wife says Vladimir Putin "will be brought to justice", after her husband was reported to have died in prison.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-68320466?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-68320466</guid>
+            <pubDate>Fri, 16 Feb 2024 21:21:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In his own words - dark humour during dark times]]></title>
+            <description><![CDATA[The opposition leader was famed for his dry wit which he often directed at Putin.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-68320250?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-68320250</guid>
+            <pubDate>Fri, 16 Feb 2024 22:50:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BBC Russia Editor: News will worsen Russia-West relations]]></title>
+            <description><![CDATA[News of Alexei Navalny's death will worsen relations between Russia and the west, Steve Rosenberg says.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-68319499?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-68319499</guid>
+            <pubDate>Fri, 16 Feb 2024 16:03:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russia's most vociferous Putin critic]]></title>
+            <description><![CDATA[Russian anti-corruption campaigner Alexei Navalny was the main opposition threat to the Kremlin.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-16057045?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-16057045</guid>
+            <pubDate>Fri, 16 Feb 2024 15:04:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watch Yulia Navalnaya speak following report of husband Alexei's death]]></title>
+            <description><![CDATA[Yulia Navalnaya tells a conference in Munich she doesn't know whether the "horrible news" is true.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-68319500?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-68319500</guid>
+            <pubDate>Fri, 16 Feb 2024 15:12:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[John Curtice: Results leave Tories with mountain to climb]]></title>
+            <description><![CDATA[Polling expert Prof Sir John Curtice says the party will be worried by the scale of its defeats by Labour.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-68305798?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-68305798</guid>
+            <pubDate>Fri, 16 Feb 2024 06:29:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tory members would choose me as leader, says Nigel Farage]]></title>
+            <description><![CDATA[Reform UK's co-founder predicts he will end up in the same party as Tory MPs like Sir Jacob Rees-Mogg.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-68314953?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-68314953</guid>
+            <pubDate>Fri, 16 Feb 2024 16:57:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sunak: Mid-term by-elections always difficult for governments]]></title>
+            <description><![CDATA[The PM says there were “particularly challenging” circumstances in two-by-elections his party lost to Labour.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-68314723?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-68314723</guid>
+            <pubDate>Fri, 16 Feb 2024 10:57:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[General election: When is the next one and who decides?]]></title>
+            <description><![CDATA[A UK general election has to be held by 28 January 2025, but could take place earlier.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-62064552?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-62064552</guid>
+            <pubDate>Fri, 16 Feb 2024 09:34:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watch: New Labour MP for Kingswood thanks voters]]></title>
+            <description><![CDATA[Labour has overturned a large Conservative majority to win the Kingswood by-election.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-bristol-68315307?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-bristol-68315307</guid>
+            <pubDate>Fri, 16 Feb 2024 08:58:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gen Kitchen: Labour Party ‘ready’ to serve UK people]]></title>
+            <description><![CDATA[New Wellingborough MP Gen Kitchen tells her supporters she's "delighted", after her by-election victory.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-68313993?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-68313993</guid>
+            <pubDate>Fri, 16 Feb 2024 05:19:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Could Reform UK surge sink Tory election hopes?]]></title>
+            <description><![CDATA[The former Brexit Party scored its best ever by-election results as Labour seized two safe Tory seats.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-68314949?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-68314949</guid>
+            <pubDate>Fri, 16 Feb 2024 12:16:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
