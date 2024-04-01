@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - News Front Page]]></description>
+        <link>https://www.bbc.co.uk/news</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 01 Apr 2024 01:35:42 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Thousands stage anti-government protests in Israel]]></title>
+            <description><![CDATA[Demonstrations in Jerusalem bring deep political splits back to the surface, writes the BBC's Jeremy Bowen.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-68705643</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-68705643#0</guid>
+            <pubDate>Sun, 31 Mar 2024 23:58:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1760B/production/_133055759_gettyimages-2121053519.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Turkish opposition stuns Erdogan with local elections win]]></title>
+            <description><![CDATA[President Erdogan fails to regain Turkey's big cities that he lost five years ago.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-68704375</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-68704375#0</guid>
+            <pubDate>Sun, 31 Mar 2024 23:51:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12917/production/_133055067_02eea955e76f0c8be2d894523013487420bae4a10_566_6000_33751000x563.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Is my family still alive? The daily question for Haitians]]></title>
+            <description><![CDATA[Haiti has endured crisis after crisis. Now the UN says the Caribbean nation is close to collapse.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-68686298</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-latin-america-68686298#0</guid>
+            <pubDate>Sun, 31 Mar 2024 20:04:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/C05D/production/_133054294_nun.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Millions get a pay rise as minimum wage increases]]></title>
+            <description><![CDATA[Above inflation wage-hikes are set to benefit 2.7 million low-paid workers and apprentices.]]></description>
+            <link>https://www.bbc.co.uk/news/business-68678814</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-68678814#0</guid>
+            <pubDate>Sun, 31 Mar 2024 23:00:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/BDD5/production/_131779584_gettyimages-1355237717-2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Facebook scammer tricked his way into our home']]></title>
+            <description><![CDATA[The brazen fraud that left a young family feeling unsafe in their own house.]]></description>
+            <link>https://www.bbc.com/news/articles/cermdkj009mo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cermdkj009mo#0</guid>
+            <pubDate>Mon, 01 Apr 2024 00:43:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f07e/live/0bd71410-efc3-11ee-a041-a734ae2e6430.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Move over beer - Germany decriminalises cannabis]]></title>
+            <description><![CDATA[Campaigners hail the law shift, which comes into force on 1 April - though police are less thrilled.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-68674813</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-68674813#0</guid>
+            <pubDate>Mon, 01 Apr 2024 00:22:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12952/production/_133041167_cannabis-gettyimages-1366397567.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Barrage of Russian attacks aims to cut Ukraine's lights]]></title>
+            <description><![CDATA[Russia has launched a wave of additional strikes across the country targeting the energy supply.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-68703356</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-68703356#0</guid>
+            <pubDate>Sun, 31 Mar 2024 17:06:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10BC1/production/_133054586_1kharhivtrafficlightsresume.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Scotland's new hate crime law... in 90 seconds]]></title>
+            <description><![CDATA[The BBC's James Cook breaks down the debate over a new hate crime law in Scotland which has been causing a stir.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-68688133</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-68688133#0</guid>
+            <pubDate>Mon, 01 Apr 2024 00:33:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3901/production/_133039541_p0hmkscx.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Energy bills lowest for two years after £238 fall]]></title>
+            <description><![CDATA[Experts urge people to stick to energy saving habits despite the typical bill falling by £238 a year.]]></description>
+            <link>https://www.bbc.co.uk/news/business-68674244</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-68674244#0</guid>
+            <pubDate>Sun, 31 Mar 2024 23:00:24 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/598C/production/_130242922_heating.png"/>
+        </item>
+        <item>
+            <title><![CDATA[King greets well-wishers after Easter service]]></title>
+            <description><![CDATA[The King, who is being treated for cancer, smiled and shook people's hands after the Windsor service.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-68700415</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-68700415#0</guid>
+            <pubDate>Sun, 31 Mar 2024 15:20:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14145/production/_133054228_5eabc2684b51bd60e51f07075497a60b6202ef8b0_129_4237_23841000x563.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Journalists injured in Gaza hospital air strike]]></title>
+            <description><![CDATA[Four members of the Islamic Jihad militant group were killed in the air strike, the BBC understands.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-68704280</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-68704280#0</guid>
+            <pubDate>Sun, 31 Mar 2024 20:22:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15275/production/_133054668_mediaitem133054667.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[X Factor star says Cowell will walk her down aisle]]></title>
+            <description><![CDATA[Lucy Spraggan popped the question to girlfriend Emilia Smith while on a flight to stay with Cowell.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-68704827</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-68704827#0</guid>
+            <pubDate>Sun, 31 Mar 2024 20:31:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/B513/production/_133055364_gettyimages-1491377265.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[World first as leopards filmed hunting in pitch black]]></title>
+            <description><![CDATA[The BBC's Natural History Unit got a rare glimpse of the behaviour as climate change forces animals to adapt.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-68665332</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-68665332#0</guid>
+            <pubDate>Sun, 31 Mar 2024 05:38:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12B51/production/_133052667_p0hmzhd5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Free childcare hours expands to two-year-olds]]></title>
+            <description><![CDATA[Parents in England can now access 15 hours of free weekly childcare for their two-year-olds.]]></description>
+            <link>https://www.bbc.co.uk/news/education-62036045</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/education-62036045#1</guid>
+            <pubDate>Sun, 31 Mar 2024 23:00:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/947F/production/_125751083_gettyimages-1072351298-1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How much will the 2p National Insurance cut save me?]]></title>
+            <description><![CDATA[The government has announced a further 2p cut in National Insurance for 27 million workers.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-63635185</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/explainers-63635185#1</guid>
+            <pubDate>Mon, 11 Mar 2024 11:46:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/753E/production/_132841003_ni_income_tax_mar2024-nc.png"/>
+        </item>
+        <item>
+            <title><![CDATA[How much is the minimum wage going up?]]></title>
+            <description><![CDATA[The National Minimum Wage and National Living Wage rates are going up on 1 April.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-48445674</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-48445674#1</guid>
+            <pubDate>Wed, 27 Mar 2024 12:08:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13820/production/_132840997_minimum_wage_mar2024-nc.png"/>
+        </item>
+        <item>
+            <title><![CDATA[What is happening to energy bills?]]></title>
+            <description><![CDATA[The new energy price cap will see the cost of electricity and gas fall from 1 April.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58090533</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58090533#1</guid>
+            <pubDate>Wed, 27 Mar 2024 14:01:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15ECD/production/_127150898_mediaitem127150897.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What is the state pension and the triple lock?]]></title>
+            <description><![CDATA[The state pension will rise by 8.5% in April following a pledge to protect the value of the benefit.]]></description>
+            <link>https://www.bbc.co.uk/news/business-53082530</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-53082530#1</guid>
+            <pubDate>Mon, 25 Mar 2024 09:23:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16BBA/production/_132841139_pensions_mar2024-nc.png"/>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: 'King's strength' and 'agonising A&E waits']]></title>
+            <description><![CDATA[The monarch's Windsor walkabout and new figures on NHS waiting times are the focus for Monday's front pages.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-the-papers-68705406</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/blogs-the-papers-68705406#2</guid>
+            <pubDate>Sun, 31 Mar 2024 22:50:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/C5DF/production/_133055605_papersindex.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Iranians celebrating Easter in secret]]></title>
+            <description><![CDATA[Iranians who have converted to Christianity from Islam can only practise their faith in secret.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-68693309</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-68693309#2</guid>
+            <pubDate>Mon, 01 Apr 2024 00:24:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15E86/production/_133043798_1362a6950b3bf54fa35bc0c663dc0868d760e16a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Parents of Chibok girls heartbroken - again]]></title>
+            <description><![CDATA[Some of their rescued daughters have chosen to stay married to their abductors, with government approval.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-68680541</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-68680541#2</guid>
+            <pubDate>Mon, 01 Apr 2024 00:44:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49A6/production/_133045881_bullum976549.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[A baby gorilla's journey in search of a mum]]></title>
+            <description><![CDATA['Jameela' has travelled from a zoo Texas to one in Ohio looking for a family after her birth mum rejected her.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-68680047</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-68680047#2</guid>
+            <pubDate>Mon, 01 Apr 2024 00:43:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/EDE8/production/_133040906_p0hmrcpt.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Where workers are exploited to harvest an everyday ingredient]]></title>
+            <description><![CDATA[Brazilian workers face degrading conditions to harvest palm wax used in sweets, pills and lipstick.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-68369339</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-latin-america-68369339#2</guid>
+            <pubDate>Sun, 31 Mar 2024 05:00:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0025/production/_132773000_police.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[In pictures: Easter celebrations around the world]]></title>
+            <description><![CDATA[Pope Francis leads festivities at the Vatican, a day after pulling out of a ceremony at short notice.]]></description>
+            <link>https://www.bbc.co.uk/news/world-68702026</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-68702026#2</guid>
+            <pubDate>Sun, 31 Mar 2024 13:56:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15D51/production/_133052498_a26926ffd42c5e6faa8360534ed0289965396545.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Download now]]></title>
+            <description><![CDATA[Top stories, breaking news, live reporting, and follow news topics that match your interests]]></description>
+            <link>https://www.bbc.co.uk/news/10628994</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/10628994#3</guid>
+            <pubDate>Tue, 13 Jun 2023 10:25:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyoncé album is missing tracks on vinyl, fans say]]></title>
+            <description><![CDATA[Fans who pre-ordered physical copies of the star's latest album say they have been short-changed.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-68702870</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-68702870#4</guid>
+            <pubDate>Sun, 31 Mar 2024 11:28:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9493/production/_133053083_beyonce-tour.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Third time lucky for Sinner in Miami Open final]]></title>
+            <description><![CDATA[Italy's Jannik Sinner beats Bulgarian Grigor Dimitrov 6-3 6-1 to win the Miami Open men's title.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/68705252</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/68705252#4</guid>
+            <pubDate>Sun, 31 Mar 2024 21:37:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/FC2B/production/_133055546_68705516.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arsenal wanted Maanum to be 'a champion' after collapse]]></title>
+            <description><![CDATA[Arsenal boss Jonas Eidevall says his team wanted to make Frida Maanum "a champion" after the midfielder collapsed in the Continental Cup final.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/68704055</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/68704055#4</guid>
+            <pubDate>Sun, 31 Mar 2024 22:02:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6243/production/_133055152_fridamanaam.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stop stealing from Air Force One, journalists told]]></title>
+            <description><![CDATA[Pillowcases and plates are among items that have reportedly vanished from the US president's plane.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-68702982</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-68702982#4</guid>
+            <pubDate>Sun, 31 Mar 2024 13:44:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/829B/production/_133053433_gettyimages-2074381629.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Government pledges support for Stormont stability]]></title>
+            <description><![CDATA[It follows the resignation of Sir Jeffrey Donaldson as DUP leader after he was charged with historical sex offences.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-68703959</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-68703959#4</guid>
+            <pubDate>Sun, 31 Mar 2024 17:09:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3093/production/_133053421_1be07e8640acd7889e2509471780dcfd56a4f8ad.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Election candidate's fingertip bitten off by dog]]></title>
+            <description><![CDATA[Danica Priest was canvassing in Bristol when the animal took off her fingertip as she posted a leaflet.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-bristol-68703087</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-bristol-68703087#4</guid>
+            <pubDate>Sun, 31 Mar 2024 12:38:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/CDFF/production/_133053725_finger3.png"/>
+        </item>
+        <item>
+            <title><![CDATA[The FSB bicycle assassin Putin wants back in Russia]]></title>
+            <description><![CDATA[How Russia is weaponising the murky world of 'hostage diplomacy' and Germany is caught in the middle.]]></description>
+            <link>https://www.bbc.co.uk/news/world-68555627</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-68555627#4</guid>
+            <pubDate>Sun, 31 Mar 2024 00:26:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1BCA/production/_133041170_putin-index-getty.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Stern and steely Arsenal not going away in title race']]></title>
+            <description><![CDATA[Almost a year since their collapse, Arsenal prove at Manchester City they are not going away in the Premier League title race.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/68705295</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/68705295#5</guid>
+            <pubDate>Sun, 31 Mar 2024 20:17:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/BCE3/production/_133055384_saliba.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hayes' 'male aggression' comment irresponsible - Eidevall]]></title>
+            <description><![CDATA[Arsenal boss Jonas Eidevall says it was "irresponsible" of Chelsea's Emma Hayes to refer to him showing "male aggression".]]></description>
+            <link>https://www.bbc.co.uk/sport/football/68705202</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/68705202#5</guid>
+            <pubDate>Sun, 31 Mar 2024 19:31:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8A1B/production/_133055353_gettyimages-2127889777.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Klopp hails 'incredible' De Zerbi after Anfield love-in]]></title>
+            <description><![CDATA[Liverpool manager Jurgen Klopp is full of admiration for Brighton counterpart Roberto de Zerbi, who has been linked to succeeding the German at Anfield.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/68704555</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/68704555#5</guid>
+            <pubDate>Sun, 31 Mar 2024 18:18:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3D1D/production/_133054651_klopp.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Worst free-kick ever? When you take out two of your team-mates]]></title>
+            <description><![CDATA[Hibs' Nectarios Triantis manages to take out two team-mates with a free-kick against Rangers at Ibrox. (UK only)]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/68704147</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/football/68704147#5</guid>
+            <pubDate>Sun, 31 Mar 2024 17:04:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8CCD/production/_133054063_p0hn115b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sam Bankman-Fried's multibillion dollar FTX fraud]]></title>
+            <description><![CDATA[What the Crypto King's fall from grace means for the future of cryptocurrency]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0hm5w7w</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0hm5w7w#6</guid>
+            <pubDate>Wed, 27 Mar 2024 09:50:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0gstygv.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Baltimore Bridge Collapse]]></title>
+            <description><![CDATA[An investigation into the container ship crash that brought down a Baltimore bridge.]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/m001y66t</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m001y66t#6</guid>
+            <pubDate>Wed, 27 Mar 2024 17:30:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0hm6wxm.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hundreds attend illegal countryside rave - police]]></title>
+            <description><![CDATA[Pictures sent to the BBC show cars parked on both sides of the B3224 near where the rave is being held.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-somerset-68703607</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-somerset-68703607#9</guid>
+            <pubDate>Sun, 31 Mar 2024 15:30:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1432F/production/_133053728_rave1.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Government pledges support for Stormont stability]]></title>
+            <description><![CDATA[It follows the resignation of Sir Jeffrey Donaldson as DUP leader after he was charged with historical sex offences.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-68703959</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-68703959#9</guid>
+            <pubDate>Sun, 31 Mar 2024 17:09:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3093/production/_133053421_1be07e8640acd7889e2509471780dcfd56a4f8ad.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hate crime law could damage trust in police - chief]]></title>
+            <description><![CDATA[Ch Supt Rob Hay says people could feel "aggrieved" if details are recorded when there has been no crime.]]></description>
+            <link>https://www.bbc.com/news/articles/cd18ey5ze3yo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd18ey5ze3yo#9</guid>
+            <pubDate>Sun, 31 Mar 2024 09:21:06 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/0955/live/93c587a0-ee04-11ee-8106-615a3205fabd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fees will see more people pull teeth out - dentist]]></title>
+            <description><![CDATA[One woman says her friend has pulled out three of her teeth because she cannot afford dental care.]]></description>
+            <link>https://www.bbc.com/news/articles/cpd3vvp94dlo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpd3vvp94dlo#9</guid>
+            <pubDate>Sun, 31 Mar 2024 20:49:22 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/652f/live/630ff190-ec42-11ee-ae6e-819569622b5f.jpg"/>
+        </item>
+    </channel>
+</rss>
