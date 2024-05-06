@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - News Front Page]]></description>
+        <link>https://www.bbc.co.uk/news</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 06 May 2024 01:33:46 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[No-one can forget Mikey's stabbing at a party, even those who never knew him]]></title>
+            <description><![CDATA[Mikey Roynon, 16, was killed with a zombie knife. The BBC speaks to those touched by his death.]]></description>
+            <link>https://www.bbc.com/news/articles/c6pyzx413j2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c6pyzx413j2o#0</guid>
+            <pubDate>Sun, 05 May 2024 23:12:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/6f4f/live/1099f290-0a0a-11ef-82e8-cd354766a224.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Swinney to become SNP leader after challenger drops out]]></title>
+            <description><![CDATA[A veteran activist had secured a nomination but agreed to back front-runner Swinney at the 11th hour.]]></description>
+            <link>https://www.bbc.com/news/articles/cy0lgnm3037o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy0lgnm3037o#0</guid>
+            <pubDate>Sun, 05 May 2024 22:38:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/125c/live/81f16c70-0b40-11ef-93ba-bfdd552a321e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Work to do' after local election losses - Sunak]]></title>
+            <description><![CDATA[Rejecting calls to change course, the PM says he can make "progress" with voters before a general election.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-68963221</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-68963221#0</guid>
+            <pubDate>Sun, 05 May 2024 23:59:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8B99/production/_133273753_a1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Three bodies found in Mexico had bullet wounds to heads]]></title>
+            <description><![CDATA[Authorities believe three tourists were attacked as they were trying to fend off an attempted theft.]]></description>
+            <link>https://www.bbc.com/news/articles/cd13vgg720jo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd13vgg720jo#0</guid>
+            <pubDate>Sun, 05 May 2024 23:41:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/1ade/live/1f3c6610-0b3c-11ef-b4ca-513e75fe6a38.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lord of the Rings cast pay tribute to Bernard Hill]]></title>
+            <description><![CDATA[The actor, who plays King Théoden in Peter Jackson's trilogy, passed away early on Sunday morning.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-68963308</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-68963308#0</guid>
+            <pubDate>Mon, 06 May 2024 00:20:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/115F/production/_133274440_87cf6e5f66aea6829c8ce28e943dbdb00dfaf7f3-1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Crumbs! French bakers beat longest baguette record]]></title>
+            <description><![CDATA[A 140.5m (461ft)-long baguette baked in the Parisian suburbs has beaten a previous record from Italy in 2019.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-68962680</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-68962680#0</guid>
+            <pubDate>Sun, 05 May 2024 22:23:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/116B3/production/_133274317_baguette.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israel says three soldiers killed by Hamas rockets at Gaza crossing]]></title>
+            <description><![CDATA[Israel has closed the Kerem Shalom crossing - one of few Gaza aid routes - after the rocket attack.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-68960585</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-68960585#0</guid>
+            <pubDate>Sun, 05 May 2024 20:13:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14197/production/_133272328_28e8f2b9db333560a37fe6f788f1cd78034b9da40_0_6000_40001000x667.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LA police clear out pro-Palestinian camp at university]]></title>
+            <description><![CDATA[The clear out comes as universities prepare for possible disruptions at graduation ceremonies.]]></description>
+            <link>https://www.bbc.com/news/articles/cv2d4r9j0qyo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cv2d4r9j0qyo#0</guid>
+            <pubDate>Mon, 06 May 2024 00:02:39 GMT</pubDate>
+            <media:thumbnail width="240" height="160" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/2014/live/fd310910-0b16-11ef-82e8-cd354766a224.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[We need to normalise death and dying, says carer]]></title>
+            <description><![CDATA[Abi Jenkins, who cared for a friend with terminal cancer, said "normalising" death might help people.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-68816628</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-68816628#0</guid>
+            <pubDate>Sun, 05 May 2024 20:53:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/DAED/production/_133154065_abimegan.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rwanda won't guarantee how many migrants it will take]]></title>
+            <description><![CDATA[Government spokesperson Yolande Maloko also feels Rwanda has been "attacked unjustly".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-68961058</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-68961058#0</guid>
+            <pubDate>Sun, 05 May 2024 12:51:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2D07/production/_133272511_gettyimages-1241307587-594x594.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Starliner: Nasa to fly new craft to space station]]></title>
+            <description><![CDATA[Two Nasa astronauts are due to set off to the International Space Station in a new spacecraft in the early hours of Tuesday morning UK time.]]></description>
+            <link>https://www.bbc.com/news/articles/cpeg21x7n7qo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpeg21x7n7qo#0</guid>
+            <pubDate>Mon, 06 May 2024 01:07:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/94c7/live/4627f480-0b44-11ef-ae89-adc644a59db7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man nailed to fence in 'sinister' Antrim attack]]></title>
+            <description><![CDATA[The man in his 20s was found with a nail through each hand in the early hours of Sunday morning.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-68961875</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-68961875#0</guid>
+            <pubDate>Sun, 05 May 2024 15:52:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47A1/production/_133273381_fence_index.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Norris beats Verstappen in Miami for first F1 win]]></title>
+            <description><![CDATA[McLaren’s Lando Norris beats Red Bull’s Max Verstappen with help from the safety car to take his maiden Formula 1 victory at the Miami Grand Prix.]]></description>
+            <link>https://www.bbc.com/sport/articles/c0klxx859neo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/articles/c0klxx859neo#0</guid>
+            <pubDate>Mon, 06 May 2024 01:13:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/4a59/live/07af72e0-0b2c-11ef-a94f-d9833abc615e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chris Mason: Evening of drama as Labour squeak West Midlands win]]></title>
+            <description><![CDATA[Labour won with just over 1,500 votes more than the Tories in an incredibly close race.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-68959732</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-68959732#1</guid>
+            <pubDate>Sun, 05 May 2024 00:12:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1094D/production/_133271976_c821d86a0e9f5135039cd8e0dd70e2a6ff77d233.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kuenssberg: Are Tories resigned to electoral fate under Sunak?]]></title>
+            <description><![CDATA[Tory MPs are in no mood to oust Rishi Sunak despite local results pointing to general election defeat.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-68956828</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-68956828#1</guid>
+            <pubDate>Sat, 04 May 2024 20:18:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11753/production/_133270517_smlk_index_sunak_getty.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Sadiq Khan won over London for the third time]]></title>
+            <description><![CDATA[The Labour candidate clinched a third-successive term as mayor of London - but what next?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-68959313</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-68959313#1</guid>
+            <pubDate>Sat, 04 May 2024 19:25:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/FD31/production/_133271846_mediaitem133271845.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Sadiq Khan won over London for the third time]]></title>
+            <description><![CDATA[The Labour candidate clinched a third-successive term as mayor of London - but what next?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-68959313</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-68959313#1</guid>
+            <pubDate>Sat, 04 May 2024 19:25:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/FD31/production/_133271846_mediaitem133271845.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Khan wins historic third term as Mayor of London]]></title>
+            <description><![CDATA[The Labour candidate beat Conservative rival Susan Hall by more than 276,000 votes.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-68952475</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-68952475#1</guid>
+            <pubDate>Sat, 04 May 2024 21:03:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13639/production/_133271497_mediaitem133271496.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Labour adds to Tory misery with mayoral wins]]></title>
+            <description><![CDATA[The party sees victory in London, Manchester and clinches a close win in the West Midlands mayor race.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-68957691</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-68957691#1</guid>
+            <pubDate>Sat, 04 May 2024 21:38:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/722B/production/_133272292_db9609af9bd9f17c86deef8acf3edff0a76a95800_112_3500_19703500x1970.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Who won the mayoral elections... in 90 seconds]]></title>
+            <description><![CDATA[Voters in England have taken to the polls in contests to elect new mayors across the country.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-68958322</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-68958322#1</guid>
+            <pubDate>Sat, 04 May 2024 21:26:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1832D/production/_133271199_p0hw496h.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Local election results in maps and charts]]></title>
+            <description><![CDATA[Analysis of results in the local elections 2024, including the London mayor and councils around England. ]]></description>
+            <link>https://www.bbc.com/news/articles/c8v36l6d54do</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8v36l6d54do#1</guid>
+            <pubDate>Sat, 04 May 2024 19:56:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/cdf9/live/136c8420-0905-11ef-bee9-6125e244a4cd.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Sunak says results 'disappointing' but voters will 'stick with us' at general election]]></title>
+            <description><![CDATA[Labour wins by-election and string of councils from the Tories, who retain the Tees Valley mayoralty.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-68947838</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-68947838#1</guid>
+            <pubDate>Fri, 03 May 2024 18:46:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13B7E/production/_133266708_sunak.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[When is the next general election?]]></title>
+            <description><![CDATA[The next UK general election has to be held by 28 January 2025, but could take place earlier.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-62064552</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-62064552#1</guid>
+            <pubDate>Fri, 03 May 2024 07:52:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/A0A8/production/_132982114_next_election_index_promo-nc.png"/>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: Sunak 'told to show vision' and Bernard Hill dies]]></title>
+            <description><![CDATA[Monday's papers focus on local election disappointment for the Tories.]]></description>
+            <link>https://www.bbc.com/news/articles/cp9gx841283o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp9gx841283o#2</guid>
+            <pubDate>Sun, 05 May 2024 23:06:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/9846/live/b283f140-0b2d-11ef-b9d8-4f52aebe147d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The rise of Sweden's super rich]]></title>
+            <description><![CDATA[Why the Nordic nation, despite its reputation for social equality, has so many billionaires.]]></description>
+            <link>https://www.bbc.co.uk/news/business-68927238</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-68927238#2</guid>
+            <pubDate>Sun, 05 May 2024 23:44:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/D2F5/production/_133250045_konrad1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['My children cling to me as dogs raid graves near our shelter']]></title>
+            <description><![CDATA[In a tent yards from a cemetery, Rehab Abu Daqqa tries to shield her seven children from Rafah's horrors.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-68961719</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-68961719#2</guid>
+            <pubDate>Sun, 05 May 2024 14:03:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/133F/production/_133272940_image00001.png"/>
+        </item>
+        <item>
+            <title><![CDATA[‘I have a 50:50 chance of developing Alzheimer’s in my 50s’]]></title>
+            <description><![CDATA[John Jennings may have inherited a gene from his mother that could trigger early-onset of the condition.]]></description>
+            <link>https://www.bbc.co.uk/news/health-68932988</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-68932988#2</guid>
+            <pubDate>Sun, 05 May 2024 04:45:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/F40C/production/_133267426_img20210507202048_picture.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Inside No. 9 creators proved TV bosses wrong]]></title>
+            <description><![CDATA[Steve Pemberton and Reece Shearsmith on how they have experimented with their comedy anthology.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-68937407</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-68937407#2</guid>
+            <pubDate>Sun, 05 May 2024 00:52:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1828C/production/_133265989_f2875edd-3ec7-4058-a629-aeb301ea1627.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why mortgage rates are going up, not down]]></title>
+            <description><![CDATA[The cost of a new fixed mortgage has risen in recent days, defying many homeowners' hopes and expectations.]]></description>
+            <link>https://www.bbc.com/news/articles/cv2xj1je97ro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cv2xj1je97ro#2</guid>
+            <pubDate>Sun, 05 May 2024 01:28:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/87dc/live/2b2cb0f0-0944-11ef-bb72-b9d496bea260.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[North Korean weapons are killing Ukrainians. The implications are far bigger]]></title>
+            <description><![CDATA[A missile that crashed in Kharkiv shows the surprising scale at which Pyongyang's weapons are used.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-68933778</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-68933778#2</guid>
+            <pubDate>Sat, 04 May 2024 22:06:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8E2B/production/_133259363_thumbnailnewnorth_korea_weapons_to_russia_976x549_index_v2promo.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Download now]]></title>
+            <description><![CDATA[Top stories, breaking news, live reporting, and follow news topics that match your interests]]></description>
+            <link>https://www.bbc.co.uk/news/10628994</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/10628994#3</guid>
+            <pubDate>Tue, 13 Jun 2023 10:25:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Racist abuse 'won't put me off' says new Derry mayor]]></title>
+            <description><![CDATA[Lilian Seenoi-Barr says racist abuse has made her more determined to represent Derry and Strabane as mayor. ]]></description>
+            <link>https://www.bbc.com/news/articles/c3gq6dq9ry5o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3gq6dq9ry5o#4</guid>
+            <pubDate>Sun, 05 May 2024 18:19:52 GMT</pubDate>
+            <media:thumbnail width="240" height="155" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/e8ef/live/4aa307b0-0ac8-11ef-82e8-cd354766a224.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hundreds at Hainault vigil for 'gentle' 14-year-old]]></title>
+            <description><![CDATA[Mourners gathered at Hainault Underground car park, metres away from where Daniel was killed.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-68961793</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-68961793#4</guid>
+            <pubDate>Sun, 05 May 2024 18:01:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12009/production/_133273737_pahainaultbear.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eurovision hopefuls put on the style in Malmo]]></title>
+            <description><![CDATA[The world's biggest song contest reaches its finale on Saturday and contestants have arrived in style.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-68962827</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-68962827#4</guid>
+            <pubDate>Sun, 05 May 2024 19:35:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12AF9/production/_133273567_c417fd97671bd0b4bd17b98b060b585a86ae6c650_0_6192_41281000x667.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Madonna's free Brazil show draws 1.6 million fans]]></title>
+            <description><![CDATA[The show at Rio de Janeiro's Copacabana beach was the final stop on the pop idol's Celebration Tour.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-68961409</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-68961409#4</guid>
+            <pubDate>Sun, 05 May 2024 11:07:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16717/production/_133272919_gettyimages-2150976763.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Girl, 10, dies in Bradford house fire]]></title>
+            <description><![CDATA[A woman and three other children manage to escape from the property in the early hours of Sunday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-68961742</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-68961742#4</guid>
+            <pubDate>Sun, 05 May 2024 12:55:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/AF1B/production/_133272844_fire1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Will Ferrell to join list of Leeds investors]]></title>
+            <description><![CDATA[Hollywood actor Will Ferrell is set to join the list of celebrity investors in Championship club Leeds United]]></description>
+            <link>https://www.bbc.com/sport/articles/ce5l47k2jpvo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/articles/ce5l47k2jpvo#4</guid>
+            <pubDate>Sun, 05 May 2024 12:29:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/d918/live/4c1c8a80-0ad7-11ef-8172-f367c0b9c984.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: World Athletics Relays]]></title>
+            <description><![CDATA[Coverage of Day 2 of the World Athletics Relays.]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/p0hw681h</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/p0hw681h#5</guid>
+            <pubDate>Mon, 06 May 2024 02:30:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0hv9njl.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Norris beats Verstappen in Miami for first F1 win]]></title>
+            <description><![CDATA[McLaren’s Lando Norris beats Red Bull’s Max Verstappen with help from the safety car to take his maiden Formula 1 victory at the Miami Grand Prix.]]></description>
+            <link>https://www.bbc.com/sport/articles/c0klxx859neo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/articles/c0klxx859neo#5</guid>
+            <pubDate>Mon, 06 May 2024 01:13:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/4a59/live/07af72e0-0b2c-11ef-a94f-d9833abc615e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘Salah gave perfect response - but keeping him not Liverpool’s priority’]]></title>
+            <description><![CDATA[MOTD2 pundit Danny Murphy is impressed by Liverpool forward Mohamed Salah in Sunday's win over Tottenham, but says keeping him will not be the club's priority this summer.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c9xzke1pgxko</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9xzke1pgxko#5</guid>
+            <pubDate>Sun, 05 May 2024 21:54:30 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/c3da/live/dfc2a110-0b23-11ef-82e8-cd354766a224.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Wilson leads as Jones fights back in gripping final]]></title>
+            <description><![CDATA[Kyren Wilson holds an 11-6 lead as Jak Jones fights back on day one of the World Championship final at the Crucible Theatre.]]></description>
+            <link>https://www.bbc.com/sport/snooker/articles/czrxwpk08g8o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/snooker/articles/czrxwpk08g8o#5</guid>
+            <pubDate>Sun, 05 May 2024 22:01:57 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/76e3/live/096a25c0-0b2d-11ef-82e8-cd354766a224.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Root leads calls for changes to domestic schedule]]></title>
+            <description><![CDATA[Joe Root is leading calls from players to reduce the amount of domestic cricket and review a schedule that is “not fit for purpose”.]]></description>
+            <link>https://www.bbc.com/sport/cricket/articles/cqvn97dvvd8o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/cricket/articles/cqvn97dvvd8o#5</guid>
+            <pubDate>Sun, 05 May 2024 23:01:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/121f/live/147f9d40-0b33-11ef-b682-33c109fb50aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Reiten scores four in Chelsea's 8-0 win over Bristol City]]></title>
+            <description><![CDATA[Watch highlights as Chelsea put eight goals past Bristol City, keeping their Women's Super League title hopes alive.]]></description>
+            <link>https://www.bbc.com/sport/videos/c51nwgjny00o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/videos/c51nwgjny00o#5</guid>
+            <pubDate>Sun, 05 May 2024 23:06:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/db27/live/b6577300-0b23-11ef-82e8-cd354766a224.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Newscast]]></title>
+            <description><![CDATA[Labour win in the West Midlands.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0hw48d8</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0hw48d8#7</guid>
+            <pubDate>Sat, 04 May 2024 21:08:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0hw48fp.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Train strikes: How May's disruption affects you]]></title>
+            <description><![CDATA[Train drivers are staging an overtime ban and strikes around the May Bank Holiday.]]></description>
+            <link>https://www.bbc.co.uk/news/business-61634959</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-61634959#9</guid>
+            <pubDate>Mon, 06 May 2024 01:28:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13529/production/_130954197_col_strike_976-nc.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Five tips when asking for a pay rise]]></title>
+            <description><![CDATA[Recruiters, a manager and a workplace psychologist give their advice on how to negotiate for more money.]]></description>
+            <link>https://www.bbc.co.uk/news/business-64288791</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-64288791#9</guid>
+            <pubDate>Mon, 12 Feb 2024 15:39:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/432D/production/_128979171_guide_payrise_976-nc.png"/>
+        </item>
+        <item>
+            <title><![CDATA[How much are prices rising for you? Try our calculator]]></title>
+            <description><![CDATA[Use our calculator to find out how much the cost of living is going up in your household.]]></description>
+            <link>https://www.bbc.co.uk/news/business-62558817</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-62558817#9</guid>
+            <pubDate>Wed, 17 Apr 2024 06:38:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/F113/production/_127151716_mediaitem127151712.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What can I do if I can't pay my energy bill?]]></title>
+            <description><![CDATA[If you're struggling to afford your gas and electricity bills, what options are available?]]></description>
+            <link>https://www.bbc.co.uk/news/business-62435432</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-62435432#9</guid>
+            <pubDate>Wed, 03 Apr 2024 12:03:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/D755/production/_127152155_mediaitem127152153.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What to do if you are in debt and need help]]></title>
+            <description><![CDATA[What help and options are available to people struggling with debt repayments?]]></description>
+            <link>https://www.bbc.co.uk/news/business-64291327</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-64291327#9</guid>
+            <pubDate>Wed, 03 Apr 2024 10:30:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2A2F/production/_131899701_guide_to_debt_4_976-nc.png"/>
+        </item>
+        <item>
+            <title><![CDATA[How much does uni cost, and will I earn more if I go?]]></title>
+            <description><![CDATA[Given higher costs, some students are wondering whether going to university makes financial sense.]]></description>
+            <link>https://www.bbc.co.uk/news/education-62237170</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/education-62237170#9</guid>
+            <pubDate>Fri, 03 May 2024 15:02:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/F715/production/_133135236_gettyimages-1479348432.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Who gets 15 hours of free childcare and how do I apply?]]></title>
+            <description><![CDATA[Parents in England can now access 15 hours of free weekly childcare for their two-year-olds.]]></description>
+            <link>https://www.bbc.co.uk/news/education-62036045</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/education-62036045#9</guid>
+            <pubDate>Wed, 24 Apr 2024 00:15:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/828C/production/_129002433_mediaitem129002432.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How fast are prices rising in the UK?]]></title>
+            <description><![CDATA[The rate at which prices are rising has dropped from record highs, but remains above the 2% target.]]></description>
+            <link>https://www.bbc.co.uk/news/business-12196322</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-12196322#9</guid>
+            <pubDate>Wed, 17 Apr 2024 08:20:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1333/production/_127151940_89f08761-4848-4ac0-aee5-fbf4084a36b5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Train strikes: How May's disruption affects you]]></title>
+            <description><![CDATA[Train drivers are staging an overtime ban and strikes around the May Bank Holiday.]]></description>
+            <link>https://www.bbc.co.uk/news/business-61634959</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-61634959#9</guid>
+            <pubDate>Mon, 06 May 2024 01:28:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13529/production/_130954197_col_strike_976-nc.png"/>
+        </item>
+        <item>
+            <title><![CDATA[What are my rights if my flight is cancelled or delayed?]]></title>
+            <description><![CDATA[If you face disruption because flights are cancelled or delayed, then what can you do?]]></description>
+            <link>https://www.bbc.co.uk/news/business-61646214</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-61646214#9</guid>
+            <pubDate>Mon, 15 Apr 2024 11:24:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10120/production/_130342856_n-mgf-vm.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Can my landlord put up my rent, keep my deposit or evict me?]]></title>
+            <description><![CDATA[UK renters have seen increases of 10% and two million are behind or struggling to pay.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-65038459</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-65038459#9</guid>
+            <pubDate>Mon, 25 Mar 2024 12:07:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/AFD7/production/_130151054_renting_guide_976-nc.png"/>
+        </item>
+        <item>
+            <title><![CDATA[How much is the minimum wage going up?]]></title>
+            <description><![CDATA[The National Minimum Wage and National Living Wage rates rose at the beginning of April.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-48445674</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-48445674#9</guid>
+            <pubDate>Tue, 02 Apr 2024 10:56:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13820/production/_132840997_minimum_wage_mar2024-nc.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Five hacks to help save money on your food shop]]></title>
+            <description><![CDATA[The cost-of-living crisis continues to bite. Here are some things that can reduce the impact.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-61798003</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-61798003#9</guid>
+            <pubDate>Wed, 29 Nov 2023 15:53:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06B3/production/_127151710_mediaitem127151357.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How do interest rates affect me?]]></title>
+            <description><![CDATA[Bank of England interest rates have an impact on the mortgage, loan and savings rates for millions of people.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57764601</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-57764601#9</guid>
+            <pubDate>Wed, 17 Apr 2024 10:04:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78B9/production/_127150903_mediaitem127150902.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What to do if you are in debt and need help]]></title>
+            <description><![CDATA[What help and options are available to people struggling with debt repayments?]]></description>
+            <link>https://www.bbc.co.uk/news/business-64291327</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-64291327#9</guid>
+            <pubDate>Wed, 03 Apr 2024 10:30:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2A2F/production/_131899701_guide_to_debt_4_976-nc.png"/>
+        </item>
+        <item>
+            <title><![CDATA[How much will the 2p National Insurance cut save me?]]></title>
+            <description><![CDATA[A further 2p cut in National Insurance for 27 million workers has come into effect.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-63635185</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/explainers-63635185#9</guid>
+            <pubDate>Fri, 05 Apr 2024 21:33:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/753E/production/_132841003_ni_income_tax_mar2024-nc.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Five ways to save money on your mortgage]]></title>
+            <description><![CDATA[Experts give advice for those who might be worried about their monthly mortgage payments.]]></description>
+            <link>https://www.bbc.co.uk/news/business-65984415</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-65984415#9</guid>
+            <pubDate>Mon, 08 Jan 2024 09:53:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1145B/production/_130174707_mortgagetipstackling_bbc.png"/>
+        </item>
+        <item>
+            <title><![CDATA[How fast are prices rising in the UK?]]></title>
+            <description><![CDATA[The rate at which prices are rising has dropped from record highs, but remains above the 2% target.]]></description>
+            <link>https://www.bbc.co.uk/news/business-12196322</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-12196322#9</guid>
+            <pubDate>Wed, 17 Apr 2024 08:20:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1333/production/_127151940_89f08761-4848-4ac0-aee5-fbf4084a36b5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What happens if I can't afford to pay my mortgage?]]></title>
+            <description><![CDATA[Many homeowners are worried about higher mortgage costs, but lenders must help those struggling.]]></description>
+            <link>https://www.bbc.co.uk/news/business-63486782</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-63486782#9</guid>
+            <pubDate>Tue, 09 Jan 2024 13:01:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/B123/production/_127274354_gettyimages-1423646171.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Five ways to save money on your mortgage]]></title>
+            <description><![CDATA[Experts give advice for those who might be worried about their monthly mortgage payments.]]></description>
+            <link>https://www.bbc.co.uk/news/business-65984415</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-65984415#9</guid>
+            <pubDate>Mon, 08 Jan 2024 09:53:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1145B/production/_130174707_mortgagetipstackling_bbc.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Girl, 10, dies in Bradford house fire]]></title>
+            <description><![CDATA[A woman and three other children manage to escape from the property in the early hours of Sunday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-68961742</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-68961742#10</guid>
+            <pubDate>Sun, 05 May 2024 12:55:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/AF1B/production/_133272844_fire1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man nailed to fence in 'sinister' Bushmills attack]]></title>
+            <description><![CDATA[The man in his 20s was found with a nail through each hand in the early hours of Sunday morning.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-68961875</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-68961875#10</guid>
+            <pubDate>Sun, 05 May 2024 15:52:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47A1/production/_133273381_fence_index.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Swinney to become SNP leader after challenger drops out]]></title>
+            <description><![CDATA[A veteran activist had secured a nomination but agreed to back front-runner Swinney at the 11th hour.]]></description>
+            <link>https://www.bbc.com/news/articles/cy0lgnm3037o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy0lgnm3037o#10</guid>
+            <pubDate>Sun, 05 May 2024 22:38:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/125c/live/81f16c70-0b40-11ef-93ba-bfdd552a321e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Apology for disabled woman denied Swift tickets]]></title>
+            <description><![CDATA[Wheelchair user Cat Dafydd was unable to secure more than two accessible tickets to the Cardiff gig.]]></description>
+            <link>https://www.bbc.com/news/articles/cd1v8rxr7exo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd1v8rxr7exo#10</guid>
+            <pubDate>Sun, 05 May 2024 20:53:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/382c/live/c9fb4390-085e-11ef-8002-198ca5ebd7b0.jpg"/>
+        </item>
+    </channel>
+</rss>
