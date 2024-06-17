@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - News Front Page]]></description>
+        <link>https://www.bbc.co.uk/news</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 17 Jun 2024 01:43:33 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Bellingham - the England hero who 'writes his own scripts']]></title>
+            <description><![CDATA[Jude Bellingham's remarkable rise continued as he netted England's winner in their Euro 2024 opener against Serbia.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cv22e6ll2r5o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cv22e6ll2r5o#0</guid>
+            <pubDate>Sun, 16 Jun 2024 22:09:50 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/8b82/live/105ea700-2c27-11ef-a044-9d4367d5b599.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Peace talks tomorrow if Russia leaves Ukraine, Zelensky says]]></title>
+            <description><![CDATA[The remarks come as Ukraine's president hails international support at a summit in Switzerland.]]></description>
+            <link>https://www.bbc.com/news/articles/cxrr1kyp04eo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cxrr1kyp04eo#0</guid>
+            <pubDate>Sun, 16 Jun 2024 14:44:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/dfb6/live/23433ce0-2bec-11ef-90be-b75b34b0bbb2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Police driver who hit escaped cow with car removed from duty]]></title>
+            <description><![CDATA[A farmer whose runaway cow was rammed by police says the footage of the incident is a sorry sight.]]></description>
+            <link>https://www.bbc.com/news/articles/cd11p105wv4o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd11p105wv4o#0</guid>
+            <pubDate>Sun, 16 Jun 2024 14:57:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/c146/live/dbf6cb50-2bf9-11ef-a044-9d4367d5b599.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Reform UK candidate resigns over 'unacceptable' blog posts]]></title>
+            <description><![CDATA[Grant StClair-Armstrong says he will still contest the election and serve as an independent if elected.]]></description>
+            <link>https://www.bbc.com/news/articles/cw880334dgyo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cw880334dgyo#0</guid>
+            <pubDate>Sun, 16 Jun 2024 22:15:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/9d55/live/982777f0-2c1a-11ef-9ba5-bda9b695c4d6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DeChambeau wins US Open after McIlroy falters in run-in]]></title>
+            <description><![CDATA[American Bryson DeChambeau wins his second US Open title after Rory McIlroy collapses with three bogeys in final four holes.]]></description>
+            <link>https://www.bbc.com/sport/golf/articles/cv22m6d1ej9o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/golf/articles/cv22m6d1ej9o#0</guid>
+            <pubDate>Sun, 16 Jun 2024 22:43:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/81e2/live/d40086d0-2c43-11ef-bdc5-41d7421c2adf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[More people turning away from news, report says]]></title>
+            <description><![CDATA[News avoidance is now at record high levels, the Reuters Institute's 2024 Digital News Report says.]]></description>
+            <link>https://www.bbc.com/news/articles/cj7799jv74vo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj7799jv74vo#0</guid>
+            <pubDate>Sun, 16 Jun 2024 23:01:44 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/3845/live/279c14d0-2a2d-11ef-8353-371ca826bdb6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[At least 14 Hajj pilgrims die in intense heat]]></title>
+            <description><![CDATA[Jordan's foreign ministry said its nationals had died "after suffering sun stroke due to the extreme heatwave".]]></description>
+            <link>https://www.bbc.com/news/articles/cyee6gn8x6xo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cyee6gn8x6xo#0</guid>
+            <pubDate>Sun, 16 Jun 2024 20:03:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/86e0/live/1fb6a5d0-2c0f-11ef-98ee-45d563e0553f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Alarm in Hamburg as man with axe shot by police]]></title>
+            <description><![CDATA[The man, who police say made threats with a pickaxe and an "incendiary device", was seriously injured.]]></description>
+            <link>https://www.bbc.com/news/videos/c3gg2vd0eqgo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c3gg2vd0eqgo#0</guid>
+            <pubDate>Sun, 16 Jun 2024 13:43:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/39a7/live/0c769d60-2be5-11ef-90be-b75b34b0bbb2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Whoever becomes PM will find the foreign stage a crowded one]]></title>
+            <description><![CDATA[For all the focus on domestic issues, there will be plenty for whoever becomes PM to focus on abroad]]></description>
+            <link>https://www.bbc.com/news/articles/c255wyvgz9zo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c255wyvgz9zo#0</guid>
+            <pubDate>Sun, 16 Jun 2024 23:18:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/b7e8/live/d4715bb0-2a6f-11ef-90be-b75b34b0bbb2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Murray says retiring at Wimbledon or Olympics 'would be fitting']]></title>
+            <description><![CDATA[Andy Murray says he would prefer to retire at Wimbledon or the Paris Olympics as his tennis career draws towards an end.]]></description>
+            <link>https://www.bbc.com/sport/tennis/articles/cd117r7w54eo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cd117r7w54eo#0</guid>
+            <pubDate>Sun, 16 Jun 2024 18:31:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/285f/live/1de724b0-2c09-11ef-a483-eba9f1fcdaa3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Military ‘pause’ on Gaza road inflames divisions in Israeli government]]></title>
+            <description><![CDATA[The announcement of a "local, tactical pause" in fighting triggered a furious response from far-right ministers.]]></description>
+            <link>https://www.bbc.com/news/articles/c2992985yk1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2992985yk1o#0</guid>
+            <pubDate>Sun, 16 Jun 2024 13:45:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/c25a/live/4e5aaea0-2bdc-11ef-ab5d-49cd8da30c39.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Boat crew 'thrilled' by playful dolphins]]></title>
+            <description><![CDATA[Volunteers from Hoylake RNLI say it was a treat to see the pod of dolphins riding the waves.]]></description>
+            <link>https://www.bbc.com/news/videos/c066262v8m1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c066262v8m1o#0</guid>
+            <pubDate>Sun, 16 Jun 2024 13:49:26 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/1585/live/7eb3aae0-2bdf-11ef-ab5d-49cd8da30c39.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Reform's rise: Polling guru John Curtice on this week's figures]]></title>
+            <description><![CDATA[John Curtice examines the latest opinion polls ahead of the 4 July general election.]]></description>
+            <link>https://www.bbc.com/news/videos/c844vzy22pjo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c844vzy22pjo#1</guid>
+            <pubDate>Sun, 16 Jun 2024 09:39:28 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/0fda/live/80f3dc40-2bf2-11ef-bdc5-41d7421c2adf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ed Davey says stunts are to showcase policies]]></title>
+            <description><![CDATA[The Lib Dem leader defends his party's tactics for getting its manifesto ideas across to the public.]]></description>
+            <link>https://www.bbc.com/news/videos/ckrrpgme39po</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/ckrrpgme39po#1</guid>
+            <pubDate>Sun, 16 Jun 2024 14:13:21 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/6134/live/1f3615e0-2be8-11ef-bdc5-41d7421c2adf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Electioncast: A National Health (Service) Check]]></title>
+            <description><![CDATA[A look at health and social care policies after warnings over ambitions.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0j4kqqp</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0j4kqqp#1</guid>
+            <pubDate>Sun, 16 Jun 2024 12:10:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0j4kqrs.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What does Nigel Farage really want?]]></title>
+            <description><![CDATA[Why is a man who has failed to get elected to Parliament seven times causing panic in Tory ranks?]]></description>
+            <link>https://www.bbc.com/news/articles/c2jj95dgegno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2jj95dgegno#1</guid>
+            <pubDate>Sat, 15 Jun 2024 14:52:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/57f2/live/8e0bcaa0-2b20-11ef-90be-b75b34b0bbb2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[How do I register to vote?]]></title>
+            <description><![CDATA[Here’s what you need to know about how you register to vote and when.]]></description>
+            <link>https://www.bbc.com/news/articles/c888jep9j3ko</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c888jep9j3ko#1</guid>
+            <pubDate>Thu, 13 Jun 2024 11:22:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/8927/live/4b02f720-2976-11ef-9749-cd6cde939cc7.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Who can I vote for in the general election?]]></title>
+            <description><![CDATA[Find out which constituency you are in, who you can vote for and where you can vote using our postcode search.]]></description>
+            <link>https://www.bbc.com/news/articles/cw55nk6yn01o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cw55nk6yn01o#1</guid>
+            <pubDate>Mon, 10 Jun 2024 14:53:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/df52/live/f8916280-232e-11ef-baa7-25d483663b8e.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Election poll tracker: How do the parties compare?]]></title>
+            <description><![CDATA[How do people say they will vote in the UK general election? Our poll tracker measures the trends.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-68079726</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-68079726#1</guid>
+            <pubDate>Sat, 15 Jun 2024 19:20:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17182/production/_133349549_poll_tracker_index_promo-nc.png"/>
+        </item>
+        <item>
+            <title><![CDATA[As campaign passes halfway, mood in Tory and Labour camps could not be more different]]></title>
+            <description><![CDATA[Chris Mason and Henry Zeffman find Sunak supporters downbeat and Starmer's team buoyant as polls fail to narrow.]]></description>
+            <link>https://www.bbc.com/news/articles/c4nn8k23zlqo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4nn8k23zlqo#1</guid>
+            <pubDate>Fri, 14 Jun 2024 11:02:43 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/e69f/live/6b515a40-2a3d-11ef-9749-cd6cde939cc7.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Migration, voter fraud and climate change – Farage's claims fact-checked]]></title>
+            <description><![CDATA[The Reform UK leader spoke to BBC Breakfast and Radio 5 Live about several issues on Friday morning.]]></description>
+            <link>https://www.bbc.com/news/articles/c2998klx2y0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2998klx2y0o#1</guid>
+            <pubDate>Fri, 14 Jun 2024 16:03:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/1bd6/live/99765e80-2a4b-11ef-a1fa-1b739acc6f54.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Labour candidate Rosie Duffield cancels hustings]]></title>
+            <description><![CDATA[Ms Duffield has previously faced death threats and abuse over her stance on sex and gender.]]></description>
+            <link>https://www.bbc.com/news/articles/cyxx243yr16o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cyxx243yr16o#1</guid>
+            <pubDate>Fri, 14 Jun 2024 22:46:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/5c2d/live/2b2bbe10-2a97-11ef-bdc5-41d7421c2adf.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Starmer: I'm prepared to make enemies on the economy]]></title>
+            <description><![CDATA[The Labour leader is grilled by the BBC's Nick Robinson on tax, growth, the NHS in a Panorama interview.]]></description>
+            <link>https://www.bbc.com/news/articles/cg6609pw75xo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cg6609pw75xo#1</guid>
+            <pubDate>Fri, 14 Jun 2024 20:19:17 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/3d79/live/e5715070-2a9f-11ef-90be-b75b34b0bbb2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chris Mason: What Farage poll boost means for the election]]></title>
+            <description><![CDATA[A single opinion poll shaped a day on the campaign trail - but  Nigel Farage has had false dawns before.]]></description>
+            <link>https://www.bbc.com/news/articles/cxww1lv1zlvo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cxww1lv1zlvo#1</guid>
+            <pubDate>Sat, 15 Jun 2024 05:13:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/88e1/live/65eb7e70-2aa4-11ef-a1c8-43edcc278694.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Forbes sets out SNP's 'in-between' stance on oil and gas]]></title>
+            <description><![CDATA[On Question Time Kate Forbes said the party would take applications on a "case by case" basis.]]></description>
+            <link>https://www.bbc.com/news/articles/cw99vqyz2p4o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cw99vqyz2p4o#1</guid>
+            <pubDate>Thu, 13 Jun 2024 22:03:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/4ef3/live/4d8f8cd0-2a23-11ef-9749-cd6cde939cc7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Labour raises £350k more than Tories in first campaign week]]></title>
+            <description><![CDATA[The figures are a huge turnaround on the 2019 election, when the Tories attracted 87% of all donations.]]></description>
+            <link>https://www.bbc.com/news/articles/cyrr1zk1e8no</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cyrr1zk1e8no#1</guid>
+            <pubDate>Fri, 14 Jun 2024 16:02:29 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/3997/live/d5f33b60-2a5c-11ef-b3b8-ed2dd2d12607.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Your Voice, Your Vote - Ros Atkins takes questions on tactical voting]]></title>
+            <description><![CDATA[Your Voice, Your Vote - The BBC answers your questions about tactical voting.]]></description>
+            <link>https://www.bbc.com/news/videos/cq55l2gn317o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cq55l2gn317o#1</guid>
+            <pubDate>Fri, 14 Jun 2024 05:35:57 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/42a3/live/70d02600-29ba-11ef-b3b8-ed2dd2d12607.png"/>
+        </item>
+        <item>
+            <title><![CDATA[How I’m approaching my party leader interviews]]></title>
+            <description><![CDATA[The BBC’s Nick Robinson explains how he is approaching his interviews with party leaders ahead of the UK general election.]]></description>
+            <link>https://www.bbc.com/news/articles/c6pp0vqq6q0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c6pp0vqq6q0o#1</guid>
+            <pubDate>Mon, 10 Jun 2024 12:37:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/ef4f/live/c3550af0-2742-11ef-baa7-25d483663b8e.png"/>
+        </item>
+        <item>
+            <title><![CDATA[The papers: 'England's winning start' and Labour's job pledge]]></title>
+            <description><![CDATA[England's winning start at Euro 2024 and Labour's plan for 650,000 jobs lead Monday's newspapers.]]></description>
+            <link>https://www.bbc.com/news/articles/ce99meep5j8o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce99meep5j8o#2</guid>
+            <pubDate>Sun, 16 Jun 2024 23:37:48 GMT</pubDate>
+            <media:thumbnail width="240" height="141" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/5c86/live/f4272dd0-2c32-11ef-a044-9d4367d5b599.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Too much of a good thing? Spain's green energy can exceed demand]]></title>
+            <description><![CDATA[Spain is looking at storing electricity or increasing demand to solve electricity oversupply.]]></description>
+            <link>https://www.bbc.com/news/articles/czkkgnp1d2xo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czkkgnp1d2xo#2</guid>
+            <pubDate>Sun, 16 Jun 2024 23:06:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/9c89/live/ca7bdfa0-28a7-11ef-bb30-4b949fc56ef4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Hackers leaked intimate photos after my laptop was stolen']]></title>
+            <description><![CDATA[A Spanish filmmaker turned the cameras on herself and made a "sextortion diary" after being blackmailed.]]></description>
+            <link>https://www.bbc.com/news/articles/cmmm75407j9o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cmmm75407j9o#2</guid>
+            <pubDate>Sun, 16 Jun 2024 23:12:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/04b5/live/b57eefd0-298c-11ef-a1fa-1b739acc6f54.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Avicii’s dad: 'I miss him every minute, but I get angry at him for leaving']]></title>
+            <description><![CDATA[The DJ's father Klas on his son's legacy and family's mission to raise mental health awareness.]]></description>
+            <link>https://www.bbc.com/news/articles/c722jj9ep2wo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c722jj9ep2wo#2</guid>
+            <pubDate>Sun, 16 Jun 2024 00:26:34 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/251c/live/64ebc9e0-2a71-11ef-bd2f-21d471757b76.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['There were no warning signs before terminal diagnosis']]></title>
+            <description><![CDATA[Mark Butcher said there were "zero symptoms" before his terminal diagnosis. ]]></description>
+            <link>https://www.bbc.com/news/articles/c4nn49qwzv1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4nn49qwzv1o#2</guid>
+            <pubDate>Sun, 16 Jun 2024 06:15:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/ada3/live/5cedf5c0-28c2-11ef-a1e6-7f2ad6913078.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Susannah's grandad ran Bengal when famine killed millions]]></title>
+            <description><![CDATA[She is only just learning about Sir John Herbert's significant role in the catastrophe.]]></description>
+            <link>https://www.bbc.com/news/articles/c1vv9r4012xo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1vv9r4012xo#2</guid>
+            <pubDate>Sat, 15 Jun 2024 23:10:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/8799/live/09caca80-2a75-11ef-bdc5-41d7421c2adf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warnings over Guatemala's volcano tourist hotspot]]></title>
+            <description><![CDATA[Scientists say tourists don't understand the dangers when they sign up for hiking trips.]]></description>
+            <link>https://www.bbc.com/news/articles/cydd910j26go</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cydd910j26go#2</guid>
+            <pubDate>Sun, 16 Jun 2024 00:19:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/deea/live/10b16020-2b51-11ef-9205-737a95fd712c.png"/>
+        </item>
+        <item>
+            <title><![CDATA['A win is a win': England fans react to opening match]]></title>
+            <description><![CDATA[England fans celebrated England's win over Serbia, but are still unsure if the team can win the Euros. ]]></description>
+            <link>https://www.bbc.com/news/videos/cz55x3rev3po</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cz55x3rev3po#3</guid>
+            <pubDate>Sun, 16 Jun 2024 21:50:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/9e3e/live/005d2e50-2c2a-11ef-a044-9d4367d5b599.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[England fans involved in incident before Serbia game]]></title>
+            <description><![CDATA[England fans were involved in "an altercation" with Serbia supporters before their teams' opening Euro 2024 match in Gelsenkirchen.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cd117ry8gj7o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd117ry8gj7o#3</guid>
+            <pubDate>Sun, 16 Jun 2024 18:20:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/aacb/live/ea1264a0-2c04-11ef-8975-0714451021a8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Highlights: England hold on for winning  start against Serbia]]></title>
+            <description><![CDATA[Jude Bellingham's first half header secures victory for England in their opening Group C Uefa Euro 2024 match at the Arena AufSchalke.]]></description>
+            <link>https://www.bbc.com/sport/football/videos/c8772lydn4go</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c8772lydn4go#3</guid>
+            <pubDate>Sun, 16 Jun 2024 20:53:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/3af8/live/82670790-2c2f-11ef-90be-b75b34b0bbb2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lions, cheese hats and a double-decker bus - joining the Dutch fan parade ]]></title>
+            <description><![CDATA[Netherlands supporters turned the streets of Hamburg orange before their opening game against Poland - as they have done for decades.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c0kk27rpjxno</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0kk27rpjxno#3</guid>
+            <pubDate>Sun, 16 Jun 2024 13:03:01 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/085f/live/19538a10-2bcd-11ef-95b6-65d58535a793.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Clarke had to 'kick backsides & give cuddles' after Germany loss]]></title>
+            <description><![CDATA[Scotland head coach Steve Clarke says he had to "kick a couple of backsides" and "give a couple of cuddles" after admitting some miscommunication contributed to their humbling defeat by Germany.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cjqqpqe84dxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cjqqpqe84dxo#3</guid>
+            <pubDate>Sun, 16 Jun 2024 13:10:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/8d41/live/79c3a120-2bdf-11ef-ab5d-49cd8da30c39.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro 2024 off to exhilarating start as records tumble]]></title>
+            <description><![CDATA[A teenage star, broken records and goals galore - the European Championship has packed plenty into its first two days.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cn44pg8q5z0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn44pg8q5z0o#3</guid>
+            <pubDate>Sat, 15 Jun 2024 23:01:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/9d4a/live/148163d0-2b65-11ef-bdc5-41d7421c2adf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[All you need to know about Euro 2024]]></title>
+            <description><![CDATA[Who has the toughest group? Where will the games be played? And who are favourites to win the tournament?]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cd1qzdvjzxzo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd1qzdvjzxzo#3</guid>
+            <pubDate>Mon, 10 Jun 2024 15:43:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/9588/live/42c1ba70-0954-11ef-b6ce-2bc209dc2066.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Uefa Euro 2024 TV schedule]]></title>
+            <description><![CDATA[Throughout Euro 2024 BBC Sport will update this page with your channel guide for each game.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/crgg298849mo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crgg298849mo#3</guid>
+            <pubDate>Sun, 16 Jun 2024 21:39:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/2d66/live/b51cd9e0-1789-11ef-b5cc-cb8b8c4cef5a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['A very, very special player' - Yamal, 16, makes Euros history]]></title>
+            <description><![CDATA[Spanish football expert Guillem Balague looks at Lamine Yamal's rise to becoming the youngest player in European Championship history.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cl77p8z5dr9o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cl77p8z5dr9o#3</guid>
+            <pubDate>Sat, 15 Jun 2024 18:56:42 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/ba83/live/91cc4020-2b43-11ef-90be-b75b34b0bbb2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC pundits pick their England teams]]></title>
+            <description><![CDATA[Gary Lineker, Alan Shearer, Wayne Rooney and company pick their England team for Sunday's Euro 2024 game against Serbia.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cpddvxy7r0do</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpddvxy7r0do#3</guid>
+            <pubDate>Fri, 14 Jun 2024 14:15:58 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/0f0d/live/1b68e040-2982-11ef-87fa-0b5bc4da7c72.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro 2024: The nations' 26-man squads for Germany]]></title>
+            <description><![CDATA[All the final squads for Euro 2024 have now been named.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cne9ekrdrgmo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cne9ekrdrgmo#3</guid>
+            <pubDate>Mon, 10 Jun 2024 15:20:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/e672/live/4f6c0dd0-1452-11ef-9b12-1ba8f95c4917.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Which Premier League players are going to Euro 2024?]]></title>
+            <description><![CDATA[A look at the Premier League players selected to represent their countries at Euro 2024 in Germany this summer.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c10303qy2ydo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c10303qy2ydo#3</guid>
+            <pubDate>Mon, 10 Jun 2024 15:45:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/46f4/live/3e6e5070-2590-11ef-a13a-0b8c563da930.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Are animals conscious? How new research is changing minds]]></title>
+            <description><![CDATA[A series of experiments have led a number of scientists to say animals may be conscious.]]></description>
+            <link>https://www.bbc.com/news/articles/cv223z15mpmo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cv223z15mpmo#5</guid>
+            <pubDate>Sat, 15 Jun 2024 23:04:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/a844/live/209df650-2a53-11ef-a1fa-1b739acc6f54.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Jordan Bardella could soon be French PM at 28. But for many he remains an enigma]]></title>
+            <description><![CDATA[Jordan Bardella's rise has been meteoric after being spotted by Marine Le Pen]]></description>
+            <link>https://www.bbc.com/news/articles/cpvvlp096eko</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpvvlp096eko#5</guid>
+            <pubDate>Sat, 15 Jun 2024 23:31:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/e5ba/live/b8e61f80-2a64-11ef-b3b8-ed2dd2d12607.png"/>
+        </item>
+        <item>
+            <title><![CDATA[What does Nigel Farage really want?]]></title>
+            <description><![CDATA[Why is a man who has failed to get elected to Parliament seven times causing panic in Tory ranks?]]></description>
+            <link>https://www.bbc.com/news/articles/c2jj95dgegno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2jj95dgegno#5</guid>
+            <pubDate>Sat, 15 Jun 2024 14:52:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/57f2/live/8e0bcaa0-2b20-11ef-90be-b75b34b0bbb2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Crime here is hurting, whatever the statistics say]]></title>
+            <description><![CDATA[In some areas, getting a grip on crime is a major election issue.]]></description>
+            <link>https://www.bbc.com/news/articles/c7227ve4e9yo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c7227ve4e9yo#5</guid>
+            <pubDate>Wed, 12 Jun 2024 21:03:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/b467/live/45d01c70-28d0-11ef-a13a-0b8c563da930.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Your pictures on the theme of 'on top of the world' ]]></title>
+            <description><![CDATA[A selection of the photographs on a given theme.]]></description>
+            <link>https://www.bbc.com/news/articles/c6pp0q2j14jo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c6pp0q2j14jo#6</guid>
+            <pubDate>Sun, 16 Jun 2024 00:52:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/6f15/live/6240ded0-28a8-11ef-baa7-25d483663b8e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beijing offers pandas as ties with Australia thaw]]></title>
+            <description><![CDATA[During a visit to Adelaide Zoo, China's Premier Li Qiang gets into a bit of panda diplomacy.]]></description>
+            <link>https://www.bbc.com/news/articles/c2vv2v6v4vvo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2vv2v6v4vvo#6</guid>
+            <pubDate>Sun, 16 Jun 2024 14:36:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/9974/live/88384ff0-2c37-11ef-a044-9d4367d5b599.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['We love you, Papa': George, Charlotte and Louis mark Father's Day]]></title>
+            <description><![CDATA[Prince George, Princess Charlotte and Prince Louis post a Father's Day tribute to Prince William in their first social media post.]]></description>
+            <link>https://www.bbc.com/news/articles/cleep0dped4o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cleep0dped4o#6</guid>
+            <pubDate>Sun, 16 Jun 2024 11:17:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/efd1/live/19a59e80-2bc9-11ef-a044-9d4367d5b599.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Historic writer's desk could be 'knackered' old fake]]></title>
+            <description><![CDATA[Is this piece of furniture really a literary relic, or part of a Victorian money-making hustle?]]></description>
+            <link>https://www.bbc.com/news/articles/c8995q12z8eo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8995q12z8eo#6</guid>
+            <pubDate>Sun, 16 Jun 2024 00:38:47 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/fd5a/live/89290de0-28dc-11ef-a0e7-85d7aec5d65f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bonnie Langford left breathless by Doctor Who star]]></title>
+            <description><![CDATA[Dancer and actress Bonnie Langford returned as Melanie Bush on Saturday.]]></description>
+            <link>https://www.bbc.com/news/articles/c722dx75gv9o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c722dx75gv9o#6</guid>
+            <pubDate>Sun, 16 Jun 2024 16:26:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/e844/live/9bea8890-2b58-11ef-90be-b75b34b0bbb2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Police seek driver who cost canal charity £100,000]]></title>
+            <description><![CDATA[The HGV driver failed to report hitting and damaging a 250-year-old canal bridge.]]></description>
+            <link>https://www.bbc.com/news/articles/c888ej366yvo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c888ej366yvo#6</guid>
+            <pubDate>Sun, 16 Jun 2024 06:40:37 GMT</pubDate>
+            <media:thumbnail width="240" height="180" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/a764/live/3eadcb80-29a3-11ef-b3b8-ed2dd2d12607.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Muted Eid celebrations for millions of Nigerian Muslims]]></title>
+            <description><![CDATA[The economic crisis means millions of Nigerian Muslims will not be celebrating Eid al-Adha as normal.]]></description>
+            <link>https://www.bbc.com/news/articles/crggpjrw9nzo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crggpjrw9nzo#6</guid>
+            <pubDate>Sun, 16 Jun 2024 08:15:44 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/b603/live/ed3417a0-2baf-11ef-8f7e-1568a8842628.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DeChambeau wins US Open after McIlroy falters in run-in]]></title>
+            <description><![CDATA[American Bryson DeChambeau wins his second US Open title after Rory McIlroy collapses with three bogeys in final four holes.]]></description>
+            <link>https://www.bbc.com/sport/golf/articles/cv22m6d1ej9o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/golf/articles/cv22m6d1ej9o#7</guid>
+            <pubDate>Sun, 16 Jun 2024 22:43:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/81e2/live/d40086d0-2c43-11ef-bdc5-41d7421c2adf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: McIlroy's collapse as DeChambeau wins US Open]]></title>
+            <description><![CDATA[Watch Rory McIlroy miss the chance to end a 10-year wait for a major title as Bryson DeChambeau claims his second US Open title in Pinehurst.]]></description>
+            <link>https://www.bbc.com/sport/golf/videos/czkkj3928z4o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/golf/videos/czkkj3928z4o#7</guid>
+            <pubDate>Mon, 17 Jun 2024 00:15:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/4a88/live/6fd99660-2c3e-11ef-a044-9d4367d5b599.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pakistan beat Ireland to end disappointing campaign]]></title>
+            <description><![CDATA[Pakistan hold on to claim a nervy three-wicket win over Ireland as disappointing T20 World Cup campaigns for both sides come to an end.]]></description>
+            <link>https://www.bbc.com/sport/cricket/articles/c25520y73xpo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/cricket/articles/c25520y73xpo#7</guid>
+            <pubDate>Sun, 16 Jun 2024 18:56:20 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/a223/live/eec64960-2bfc-11ef-90be-b75b34b0bbb2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bellingham - the England hero who 'writes his own scripts']]></title>
+            <description><![CDATA[Jude Bellingham's remarkable rise continued as he netted England's winner in their Euro 2024 opener against Serbia.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cv22e6ll2r5o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cv22e6ll2r5o#7</guid>
+            <pubDate>Sun, 16 Jun 2024 22:09:50 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/8b82/live/105ea700-2c27-11ef-a044-9d4367d5b599.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Boulter beats Raducanu and Pliskova to retain Nottingham title]]></title>
+            <description><![CDATA[Katie Boulter retains the Nottingham Open title after coming from a set down to beat Karolina Pliskova.]]></description>
+            <link>https://www.bbc.com/sport/tennis/articles/cqll1vkyd4lo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cqll1vkyd4lo#7</guid>
+            <pubDate>Sun, 16 Jun 2024 20:00:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/0dfc/live/7ca27920-2c16-11ef-a502-91cb3bb5c9a0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Download now]]></title>
+            <description><![CDATA[Top stories, breaking news, live reporting, and follow news topics that match your interests]]></description>
+            <link>https://www.bbc.co.uk/news/10628994</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/10628994#8</guid>
+            <pubDate>Tue, 13 Jun 2023 10:25:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Continuing coverage of the campaign]]></title>
+            <description><![CDATA[Continuing coverage of the 2024 General Election Campaign, from BBC News]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/l0056nhx</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/l0056nhx#9</guid>
+            <pubDate>Sun, 16 Jun 2024 04:58:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0hzpsdv.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Electioncast: A National Health (Service) Check]]></title>
+            <description><![CDATA[A look at health and social care policies after warnings over ambitions.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0j4kqqp</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0j4kqqp#9</guid>
+            <pubDate>Sun, 16 Jun 2024 12:10:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0j4kqrs.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Celine Dion: 'How I've rebuilt my voice']]></title>
+            <description><![CDATA[The singer talks about her comeback from a debilitating neurological illness.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0j41k9t</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0j41k9t#9</guid>
+            <pubDate>Fri, 14 Jun 2024 05:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0j45tf3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[There’s only one Michael Mosley]]></title>
+            <description><![CDATA[Michael’s last interview, How to Live a Good Life, with Prof Paul Bloom at Hay Festival.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/m0020l75</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/m0020l75#9</guid>
+            <pubDate>Fri, 14 Jun 2024 04:55:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0j3xllk.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mbappé]]></title>
+            <description><![CDATA[From Paris suburbs to the pinnacle of football, a look at a once-in-a-generation talent.]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/m001zg8g/mbappe?at_mid=1jpVOKk7pA&amp;at_campaign=Euros_Takeover_Mbappe&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_link_origin=frontpage_billboard_news&amp;at_product=iplayer&amp;at_brand=m001zg8g&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=high_impact_image&amp;at_objective=consumption&amp;at_link_title=Euros_Takeover_Mbappe&amp;at_bbc_team=BBC</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m001zg8g/mbappe?at_mid=1jpVOKk7pA&amp;at_campaign=Euros_Takeover_Mbappe&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_link_origin=frontpage_billboard_news&amp;at_product=iplayer&amp;at_brand=m001zg8g&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=high_impact_image&amp;at_objective=consumption&amp;at_link_title=Euros_Takeover_Mbappe&amp;at_bbc_team=BBC#10</guid>
+            <pubDate>Tue, 14 May 2024 05:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdb0/live/f1934280-270e-11ef-baa7-25d483663b8e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rooney 2004: World at His Feet]]></title>
+            <description><![CDATA[Wayne Rooney’s definitive coming-of-age story, told by the man himself.]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/m001ztdn/rooney-2004-world-at-his-feet?at_mid=SCdXV90KhD&amp;at_campaign=Euros_Takeover_Rooney&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_link_origin=frontpage_billboard_news&amp;at_product=iplayer&amp;at_brand=m001ztdn&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Euros_Takeover_Rooney&amp;at_bbc_team=BBC</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m001ztdn/rooney-2004-world-at-his-feet?at_mid=SCdXV90KhD&amp;at_campaign=Euros_Takeover_Rooney&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_link_origin=frontpage_billboard_news&amp;at_product=iplayer&amp;at_brand=m001ztdn&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Euros_Takeover_Rooney&amp;at_bbc_team=BBC#10</guid>
+            <pubDate>Sat, 01 Jun 2024 05:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5c9/live/749f07f0-2970-11ef-9749-cd6cde939cc7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pep Guardiola: Chasing Perfection]]></title>
+            <description><![CDATA[How and why has Pep Guardiola been able to revolutionise football?]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/m001vnm5/pep-guardiola-chasing-perfection?at_mid=GiqSBci6TI&amp;at_campaign=Euros_Takeover_Pep&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_link_origin=frontpage_billboard_news&amp;at_product=iplayer&amp;at_brand=m001vnm5&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Euros_Takeover_Pep&amp;at_bbc_team=BBC</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m001vnm5/pep-guardiola-chasing-perfection?at_mid=GiqSBci6TI&amp;at_campaign=Euros_Takeover_Pep&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_link_origin=frontpage_billboard_news&amp;at_product=iplayer&amp;at_brand=m001vnm5&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Euros_Takeover_Pep&amp;at_bbc_team=BBC#10</guid>
+            <pubDate>Wed, 24 Jan 2024 23:44:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf9a/live/346028f0-270d-11ef-a13a-0b8c563da930.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Copa ’71: The Lost Lionesses - Storyville]]></title>
+            <description><![CDATA[Story of an extraordinary tournament, told through the voices of the women who took part.]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/m0020541/copa-71-the-lost-lionesses-storyville?at_mid=F0TInvNFJi&amp;at_campaign=Euros_Takeover_Copa&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_link_origin=frontpage_billboard_news&amp;at_product=iplayer&amp;at_brand=b006mfx6&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Euros_Takeover_Copa&amp;at_bbc_team=BBC</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m0020541/copa-71-the-lost-lionesses-storyville?at_mid=F0TInvNFJi&amp;at_campaign=Euros_Takeover_Copa&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_link_origin=frontpage_billboard_news&amp;at_product=iplayer&amp;at_brand=b006mfx6&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Euros_Takeover_Copa&amp;at_bbc_team=BBC#10</guid>
+            <pubDate>Tue, 11 Jun 2024 05:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0j2jjsl.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[When will interest rates come down?]]></title>
+            <description><![CDATA[Bank of England interest rates affect mortgage, loan and savings rates for millions of people.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57764601</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-57764601#11</guid>
+            <pubDate>Wed, 22 May 2024 11:39:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78B9/production/_127150903_mediaitem127150902.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How quickly are prices rising in the UK?]]></title>
+            <description><![CDATA[The rate at which prices are rising has fallen from record highs, but is still above the 2% target.]]></description>
+            <link>https://www.bbc.co.uk/news/business-12196322</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-12196322#11</guid>
+            <pubDate>Thu, 13 Jun 2024 10:07:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1333/production/_127151940_89f08761-4848-4ac0-aee5-fbf4084a36b5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Five tips when asking for a pay rise]]></title>
+            <description><![CDATA[Recruiters, a manager and a workplace psychologist give their advice on how to negotiate for more money.]]></description>
+            <link>https://www.bbc.co.uk/news/business-64288791</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-64288791#11</guid>
+            <pubDate>Mon, 12 Feb 2024 15:39:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/432D/production/_128979171_guide_payrise_976-nc.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Who gets 15 hours of free childcare and how do I apply?]]></title>
+            <description><![CDATA[Parents in England can now access 15 hours of free weekly childcare for their two-year-olds.]]></description>
+            <link>https://www.bbc.co.uk/news/education-62036045</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/education-62036045#11</guid>
+            <pubDate>Mon, 13 May 2024 09:06:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/828C/production/_129002433_mediaitem129002432.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What to do if you are in debt and need help]]></title>
+            <description><![CDATA[What help and options are available to people struggling with debt repayments?]]></description>
+            <link>https://www.bbc.co.uk/news/business-64291327</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-64291327#11</guid>
+            <pubDate>Fri, 07 Jun 2024 06:50:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2A2F/production/_131899701_guide_to_debt_4_976-nc.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Five ways to save money on your mortgage]]></title>
+            <description><![CDATA[Experts give advice for those who might be worried about their monthly mortgage payments.]]></description>
+            <link>https://www.bbc.co.uk/news/business-65984415</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-65984415#11</guid>
+            <pubDate>Mon, 08 Jan 2024 09:53:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1145B/production/_130174707_mortgagetipstackling_bbc.png"/>
+        </item>
+        <item>
+            <title><![CDATA[What can I do if I can't pay my energy bill?]]></title>
+            <description><![CDATA[If you're struggling to afford your gas and electricity bills, what options are available?]]></description>
+            <link>https://www.bbc.co.uk/news/business-62435432</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-62435432#11</guid>
+            <pubDate>Wed, 03 Apr 2024 12:03:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/D755/production/_127152155_mediaitem127152153.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How much does uni cost, and will I earn more if I go?]]></title>
+            <description><![CDATA[Given higher costs, some students are wondering whether going to university makes financial sense.]]></description>
+            <link>https://www.bbc.co.uk/news/education-62237170</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/education-62237170#11</guid>
+            <pubDate>Fri, 17 May 2024 09:32:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/F715/production/_133135236_gettyimages-1479348432.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How to save money even when the budget is tight]]></title>
+            <description><![CDATA[The interest paid on savings is better than anything seen for years, so how can you save when bills are rising?]]></description>
+            <link>https://www.bbc.co.uk/news/business-66855566</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-66855566#11</guid>
+            <pubDate>Mon, 08 Jan 2024 10:01:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/566B/production/_131232122_col_piggy_bank_1_976-nc.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Five hacks to help save money on your food shop]]></title>
+            <description><![CDATA[The cost-of-living crisis continues to bite. Here are some things that can reduce the impact.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-61798003</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-61798003#11</guid>
+            <pubDate>Wed, 29 Nov 2023 15:53:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06B3/production/_127151710_mediaitem127151357.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How much are prices rising for you? Try our calculator]]></title>
+            <description><![CDATA[Use our calculator to find out how much the cost of living is going up in your household.]]></description>
+            <link>https://www.bbc.co.uk/news/business-62558817</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-62558817#11</guid>
+            <pubDate>Wed, 22 May 2024 06:18:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/F113/production/_127151716_mediaitem127151712.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How much is the state pension worth now?]]></title>
+            <description><![CDATA[Payments to pensioners have risen by 8.5% following the government's "triple lock" pledge.]]></description>
+            <link>https://www.bbc.co.uk/news/business-53082530</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-53082530#11</guid>
+            <pubDate>Tue, 28 May 2024 10:01:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16BBA/production/_132841139_pensions_mar2024-nc.png"/>
+        </item>
+        <item>
+            <title><![CDATA[How to get a job: Six expert tips for finding work]]></title>
+            <description><![CDATA[More than 10m people out of work in the UK, so if you're searching for a job you're not alone. Here are some tips on how to get started.]]></description>
+            <link>https://www.bbc.co.uk/news/business-64939070</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-64939070#11</guid>
+            <pubDate>Tue, 16 Apr 2024 11:11:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3149/production/_128971621_col_finding_work_976-nc.png"/>
+        </item>
+        <item>
+            <title><![CDATA[What is GDP and how does it affect me?]]></title>
+            <description><![CDATA[How the health of the economy is measured, and why the GDP calculation matters.]]></description>
+            <link>https://www.bbc.co.uk/news/business-13200758</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-13200758#11</guid>
+            <pubDate>Wed, 12 Jun 2024 07:29:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/A237/production/_130372514_col_gdp_976-nc.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Who gets 15 hours of free childcare and how do I apply?]]></title>
+            <description><![CDATA[Parents in England can now access 15 hours of free weekly childcare for their two-year-olds.]]></description>
+            <link>https://www.bbc.co.uk/news/education-62036045</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/education-62036045#11</guid>
+            <pubDate>Mon, 13 May 2024 09:06:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/828C/production/_129002433_mediaitem129002432.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What is GDP and how does it affect me?]]></title>
+            <description><![CDATA[How the health of the economy is measured, and why the GDP calculation matters.]]></description>
+            <link>https://www.bbc.co.uk/news/business-13200758</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-13200758#11</guid>
+            <pubDate>Wed, 12 Jun 2024 07:29:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/A237/production/_130372514_col_gdp_976-nc.png"/>
+        </item>
+        <item>
+            <title><![CDATA[What is National Insurance and how much do I pay?]]></title>
+            <description><![CDATA[Two National Insurance cuts came info effect in 2024, but many people are still paying more in tax.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-63635185</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/explainers-63635185#11</guid>
+            <pubDate>Thu, 13 Jun 2024 13:25:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/753E/production/_132841003_ni_income_tax_mar2024-nc.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Can my landlord put up my rent, keep my deposit or evict me?]]></title>
+            <description><![CDATA[UK renters have seen increases of 10% and two million are behind or struggling to pay.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-65038459</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-65038459#11</guid>
+            <pubDate>Mon, 25 Mar 2024 12:07:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/AFD7/production/_130151054_renting_guide_976-nc.png"/>
+        </item>
+        <item>
+            <title><![CDATA[How are universal credit rules changing?]]></title>
+            <description><![CDATA[People claiming universal credit and working under 18 hours a week will have to look for more work.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-41487126</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-41487126#11</guid>
+            <pubDate>Mon, 13 May 2024 13:44:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1216/production/_133303640_gettyimages-2149799474.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How to get a job: Six expert tips for finding work]]></title>
+            <description><![CDATA[More than 10m people out of work in the UK, so if you're searching for a job you're not alone. Here are some tips on how to get started.]]></description>
+            <link>https://www.bbc.co.uk/news/business-64939070</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-64939070#11</guid>
+            <pubDate>Tue, 16 Apr 2024 11:11:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3149/production/_128971621_col_finding_work_976-nc.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Three arrested as boy, 16, killed by falling tree]]></title>
+            <description><![CDATA[Two men have been arrested on suspicion of manslaughter, say Nottinghamshire Police.]]></description>
+            <link>https://www.bbc.com/news/articles/c722y65q4p9o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c722y65q4p9o#12</guid>
+            <pubDate>Sun, 16 Jun 2024 20:13:24 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/8ac3/live/4ff05e70-2c0b-11ef-a483-eba9f1fcdaa3.png"/>
+        </item>
+        <item>
+            <title><![CDATA['Substantial' fish kill in River Roe]]></title>
+            <description><![CDATA[The Departure of Agriculture, Environment and Rural Affairs (DAERA) is investigating the incident. ]]></description>
+            <link>https://www.bbc.com/news/articles/c9rr27vpq0wo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9rr27vpq0wo#12</guid>
+            <pubDate>Sun, 16 Jun 2024 21:34:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/0155/live/f34da9a0-2c25-11ef-b9e9-c96f1c5265a1.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Oil and gas still needed in net zero transition - Swinney]]></title>
+            <description><![CDATA[John Swinney refused to confirm whether the SNP would avoid adopting a 'presumption against' new north sea exploration.]]></description>
+            <link>https://www.bbc.com/news/articles/c9992j2lkvzo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9992j2lkvzo#12</guid>
+            <pubDate>Sun, 16 Jun 2024 17:11:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/e73a/live/aefa57d0-2c07-11ef-8975-0714451021a8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Parties target protesting farmers in election pitch]]></title>
+            <description><![CDATA[Protests spread in the wake of a consultation over Welsh government payments to farmers.]]></description>
+            <link>https://www.bbc.com/news/articles/c51141ypx3wo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c51141ypx3wo#12</guid>
+            <pubDate>Sun, 16 Jun 2024 21:03:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/e5d6/live/ece89580-28d7-11ef-baa7-25d483663b8e.png"/>
+        </item>
+    </channel>
+</rss>
