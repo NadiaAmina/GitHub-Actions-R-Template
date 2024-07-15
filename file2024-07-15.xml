@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - News Front Page]]></description>
+        <link>https://www.bbc.co.uk/news</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 15 Jul 2024 01:46:00 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Videos show how gunman shot at Trump despite public alerting police]]></title>
+            <description><![CDATA[BBC Verify examines footage, eyewitness testimony and satellite imagery showing how the attack unfolded.]]></description>
+            <link>https://www.bbc.com/news/videos/ceqd55865pyo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/ceqd55865pyo#1</guid>
+            <pubDate>Sun, 14 Jul 2024 18:49:24 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/829c/live/16910f10-4210-11ef-96a8-e710c6bfc866.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man killed during Trump shooting dived on family to protect them]]></title>
+            <description><![CDATA[Volunteer firefighter Corey Comperatore was killed trying to protect his family. ]]></description>
+            <link>https://www.bbc.com/news/articles/cv2grvznd4jo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cv2grvznd4jo#1</guid>
+            <pubDate>Sun, 14 Jul 2024 20:13:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/d3a4/live/c1f60740-4209-11ef-a69e-0992f9bd84ff.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Thomas Matthew Crooks: What we know about the Trump attacker]]></title>
+            <description><![CDATA[The 20-year-old kitchen worker and registered Republican has been named by the FBI as the gunman.]]></description>
+            <link>https://www.bbc.com/news/articles/c3gw58wv4e9o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3gw58wv4e9o#1</guid>
+            <pubDate>Sun, 14 Jul 2024 19:01:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/9583/live/69af8d00-41ea-11ef-8dae-cf129c10f13f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[First panic, then fury - what I witnessed at the Trump rally]]></title>
+            <description><![CDATA[The BBC's Gary O'Donoghue was broadcasting live as a gunman fired at terrified rallygoers - here's his account.]]></description>
+            <link>https://www.bbc.com/news/articles/cnl0xq0j9ewo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cnl0xq0j9ewo#1</guid>
+            <pubDate>Sun, 14 Jul 2024 17:04:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/e8b0/live/dbf64330-41ff-11ef-9e1c-3b4a473456a6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How conspiracy theories and hate dominated social feeds after assassination attempt on Trump]]></title>
+            <description><![CDATA[ As a frenzy has gripped all sides of the political spectrum following the assassination attempt on Trump, falsehoods have taken off online.]]></description>
+            <link>https://www.bbc.com/news/articles/cyr7pyd0687o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cyr7pyd0687o#1</guid>
+            <pubDate>Sun, 14 Jul 2024 17:34:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/86f5/live/a1bd7d60-4203-11ef-96a8-e710c6bfc866.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Melania Trump speaks out: 'Ascend above the hate']]></title>
+            <description><![CDATA[Donald Trump's wife calls on Americans to unite in the wake of the assassination attempt on her husband.]]></description>
+            <link>https://www.bbc.com/news/articles/c19kw8jzvvmo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c19kw8jzvvmo#2</guid>
+            <pubDate>Sun, 14 Jul 2024 17:15:18 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/ab64/live/501302a0-41f9-11ef-a69e-0992f9bd84ff.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: How chaos unfolded at Trump rally shooting]]></title>
+            <description><![CDATA[Former US President Donald Trump was rushed off stage in Pennsylvania after an apparent assassination attempt.]]></description>
+            <link>https://www.bbc.com/news/videos/cervzggly87o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cervzggly87o#2</guid>
+            <pubDate>Sun, 14 Jul 2024 06:20:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/1b56/live/4d66f940-41a8-11ef-96a8-e710c6bfc866.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Secret Service has questions to answer for failing to stop Trump gunman]]></title>
+            <description><![CDATA[The US wants to know how a gunman got within a few hundred feet of Trump and fired shots at him.]]></description>
+            <link>https://www.bbc.com/news/articles/c87rvg61vrxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c87rvg61vrxo#2</guid>
+            <pubDate>Sun, 14 Jul 2024 14:45:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/30cc/live/4e1e67f0-41e0-11ef-b74c-bb483a802c97.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[In maps: Donald Trump assassination attempt]]></title>
+            <description><![CDATA[See how close a gunman got to former US president Donald Trump at a campaign rally in Pennsylvania.]]></description>
+            <link>https://www.bbc.com/news/articles/cevwngjrwzno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cevwngjrwzno#2</guid>
+            <pubDate>Sun, 14 Jul 2024 15:34:46 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/4239/live/bf19c120-41ef-11ef-b74c-bb483a802c97.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Witness tells BBC he warned police of gunman on roof]]></title>
+            <description><![CDATA[A man with a rifle was seen on a rooftop minutes before shots were fired at a Trump rally, a witness says.]]></description>
+            <link>https://www.bbc.com/news/videos/c51yly4085lo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c51yly4085lo#2</guid>
+            <pubDate>Sun, 14 Jul 2024 00:12:04 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/dce5/live/b96ecc40-4175-11ef-9e1c-3b4a473456a6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Ecstatic Spain fans surround BBC reporter in Madrid]]></title>
+            <description><![CDATA[Huge crowds celebrate in Madrid after Spain's 2-1 victory over England in the European Championship final.]]></description>
+            <link>https://www.bbc.com/news/videos/cv2gn80zedno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cv2gn80zedno#3</guid>
+            <pubDate>Mon, 15 Jul 2024 01:07:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/afce/live/76ee9aa0-4245-11ef-b74c-bb483a802c97.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What now for England, Southgate & Kane after same old pain?]]></title>
+            <description><![CDATA[Presented with a chance of history, it was the same old story for England in the Euro 2024 final, writes Phil McNulty.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c72081jz90eo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c72081jz90eo#3</guid>
+            <pubDate>Mon, 15 Jul 2024 00:15:52 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/8ec1/live/91967320-4239-11ef-9e1c-3b4a473456a6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Highlights: Spain beat England to win Euro 2024 with late goal]]></title>
+            <description><![CDATA[Watch highlights as Spain win Euro 2024 after beating England 2-1 in Berlin.
+
+
+]]></description>
+            <link>https://www.bbc.com/sport/football/videos/c897y4yj7lxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c897y4yj7lxo#3</guid>
+            <pubDate>Sun, 14 Jul 2024 21:04:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/2d48/live/9ca7b4a0-422e-11ef-9e1c-3b4a473456a6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Southgate says 'now not the time' to decide future ]]></title>
+            <description><![CDATA[England manager Gareth Southgate says now is "not the time" to make a decision on his future.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cw4ywnd9j2go</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cw4ywnd9j2go#3</guid>
+            <pubDate>Sun, 14 Jul 2024 23:01:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/b8bd/live/8bd96420-4233-11ef-b74c-bb483a802c97.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Defeat extends England's '58 years of hurt']]></title>
+            <description><![CDATA[England fail to end '58 years of hurt' as their 2-1 Euro 2024 final defeat by Spain in Berlin leaves the 1966 World Cup as their only men's trophy.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c3g3r62p3kdo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3g3r62p3kdo#3</guid>
+            <pubDate>Sun, 14 Jul 2024 20:58:51 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/b807/live/3902fb40-4223-11ef-b74c-bb483a802c97.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['England have the best squad, but not the best team']]></title>
+            <description><![CDATA[Rio Ferdinand, Micah Richards, Alan Shearer and other pundits react to England's defeat by Spain in the Euro 2024 final.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cx7230d172go</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx7230d172go#3</guid>
+            <pubDate>Mon, 15 Jul 2024 00:01:33 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/d6c7/live/73cc5890-4230-11ef-96a8-e710c6bfc866.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[William and George see England heartbreak at Euro 2024 final]]></title>
+            <description><![CDATA[Harry Styles, Olly Murs and Peter Crouch were among those cheering on England in Berlin.]]></description>
+            <link>https://www.bbc.com/news/articles/c3gw54p1jeno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3gw54p1jeno#3</guid>
+            <pubDate>Sun, 14 Jul 2024 21:37:54 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/a3a0/live/428dd5c0-4216-11ef-96a8-e710c6bfc866.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rollercoaster of emotions for England and Spain fans during Euro 2024 final]]></title>
+            <description><![CDATA[Fans from both nations had their face-paint on and flags out as Spain defeated England in the final.]]></description>
+            <link>https://www.bbc.com/news/articles/cn4vr7026y4o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn4vr7026y4o#3</guid>
+            <pubDate>Sun, 14 Jul 2024 21:41:03 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/cc25/live/d01ebac0-4226-11ef-aa64-b5861db79492.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Fans in Madrid erupt with joy as final whistle blows]]></title>
+            <description><![CDATA[Huge crowds celebrate in Madrid after Spain's 2-1 victory over England in the Euro 2024 final.]]></description>
+            <link>https://www.bbc.co.ukundefined/</link>
+            <guid isPermaLink="false">https://www.bbc.co.ukundefined/#3</guid>
+            <pubDate>Sun, 14 Jul 2024 22:23:08 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/90f7/live/87581e90-422f-11ef-b74c-bb483a802c97.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Substitute Palmer equalises for England against Spain]]></title>
+            <description><![CDATA[England's Cole Palmer equalises three minutes after coming on in the Euro 2024 final against Spain in Berlin.
+
+
+
+
+
+]]></description>
+            <link>https://www.bbc.com/sport/football/videos/cgxq4l9v21lo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cgxq4l9v21lo#3</guid>
+            <pubDate>Sun, 14 Jul 2024 20:39:52 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/8ce9/live/dee793c0-4220-11ef-96a8-e710c6bfc866.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Williams is your man of the match in Euro 2024 final]]></title>
+            <description><![CDATA[BBC Sport readers pick Spain's Nico Williams as their man of the match in the 
+Euro 2024 final win over England.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c725q37ddnno</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c725q37ddnno#3</guid>
+            <pubDate>Sun, 14 Jul 2024 19:01:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/e32b/live/c4a6de50-4228-11ef-9e1c-3b4a473456a6.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gareth Southgate - the man behind the manager]]></title>
+            <description><![CDATA[Those closest to Gareth Southgate talk about the man behind the England manager including his values, beliefs and the impact he's had on the squad's winning culture.]]></description>
+            <link>https://www.bbc.com/sport/football/videos/cyj4ry12k47o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cyj4ry12k47o#3</guid>
+            <pubDate>Sun, 14 Jul 2024 16:15:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/6df3/live/a395d5f0-41fa-11ef-9e1c-3b4a473456a6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['A chance for England to shake off failure and secure legendary status']]></title>
+            <description><![CDATA[BBC sports editor Dan Roan looks ahead to Sunday night's Euro 2024 final in Germany, where England play Spain looking to "shake off failure and secure legendary status".]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c3gwn382e3qo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3gwn382e3qo#3</guid>
+            <pubDate>Sat, 13 Jul 2024 23:03:38 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/a6ce/live/7f48ccc0-4119-11ef-94a0-4b664a2da472.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['England play terrible football' - who do neutral fans want to win final?]]></title>
+            <description><![CDATA[We spoke to some of the fans of teams knocked out of Euro 2024 to find out whether they want England or Spain to win on Sunday.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c9x87d2kj04o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9x87d2kj04o#3</guid>
+            <pubDate>Sat, 13 Jul 2024 05:59:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/7e96/live/edf36c20-404c-11ef-9909-c12337993a63.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Little Simz, Ed Sheeran and more cheer on England]]></title>
+            <description><![CDATA[Ed Sheeran, Little Simz, Kate Beckinsale and Sir Patrick Stewart are among the stars cheering the Three Lions.]]></description>
+            <link>https://www.bbc.com/news/videos/c727d4jjpr5o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c727d4jjpr5o#3</guid>
+            <pubDate>Sun, 14 Jul 2024 04:48:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/368d/live/f967c3a0-419e-11ef-96a8-e710c6bfc866.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Your unofficial Euro 2024 final viewing guide]]></title>
+            <description><![CDATA[England face Spain in the European Championship final on Sunday night - and here are some tips on what you can do before the big match kicks off.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c80e1w6l476o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c80e1w6l476o#3</guid>
+            <pubDate>Sun, 14 Jul 2024 05:16:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/592d/live/39222680-4077-11ef-b74c-bb483a802c97.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Southgate inherited a shambles but now stands one game from greatness']]></title>
+            <description><![CDATA[England's Euro 2024 final against Spain is a game that can shape legacies and change lives forever, says BBC Sport chief football writer Phil McNulty.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cn09240ege7o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn09240ege7o#3</guid>
+            <pubDate>Sat, 13 Jul 2024 22:54:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/fba2/live/31255a40-412d-11ef-900e-0b9765b55499.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lineker: 'England will lift a major trophy soon - but I don't want to wait any more']]></title>
+            <description><![CDATA[Former captain Gary Lineker on his long wait to utter the words "England are champions", as Gareth Southgate's side prepare to face Spain in the final of Euro 2024.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cqe683q0111o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqe683q0111o#3</guid>
+            <pubDate>Sun, 14 Jul 2024 05:24:07 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/ee19/live/8aab7d40-4148-11ef-b74c-bb483a802c97.png"/>
+        </item>
+        <item>
+            <title><![CDATA['De la Fuente knew Spain were special - a nation now agrees']]></title>
+            <description><![CDATA[As Spain bid for their first major men's tournament triumph since 2012, Guillem Balague looks at how a "special team" was built.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c80x5y7kjzjo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c80x5y7kjzjo#3</guid>
+            <pubDate>Sun, 14 Jul 2024 06:07:41 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/8450/live/142a0890-40fc-11ef-9e1c-3b4a473456a6.png"/>
+        </item>
+        <item>
+            <title><![CDATA[In pictures: Excitement hitting fever pitch for fans]]></title>
+            <description><![CDATA[Football fever is taking over fans as England and Spain get ready for the Euro 2024 final.]]></description>
+            <link>https://www.bbc.com/news/articles/cljy7n1xzgjo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cljy7n1xzgjo#3</guid>
+            <pubDate>Sun, 14 Jul 2024 15:59:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/34f5/live/0c4f3ae0-41c0-11ef-b583-b70655c50e61.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Instagram influencer and ex-model jailed for trafficking and slavery]]></title>
+            <description><![CDATA[Young women tell the BBC how Kat Torres lured them to her homes in the US, where they worked for no pay.]]></description>
+            <link>https://www.bbc.com/news/articles/cydvj6951dyo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cydvj6951dyo#4</guid>
+            <pubDate>Sun, 14 Jul 2024 23:24:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/5d81/live/2a251040-3f8f-11ef-96a8-e710c6bfc866.png"/>
+        </item>
+        <item>
+            <title><![CDATA[King and Queen to visit Australia in October]]></title>
+            <description><![CDATA[The King has been taking on more public-facing duties since his cancer diagnosis earlier this year.]]></description>
+            <link>https://www.bbc.com/news/articles/c51yg8d4zdvo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c51yg8d4zdvo#4</guid>
+            <pubDate>Sun, 14 Jul 2024 21:12:48 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/a686/live/c0827080-41fd-11ef-a69e-0992f9bd84ff.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IDF says senior Hamas commander killed in Israeli air strike]]></title>
+            <description><![CDATA[The Hamas-run health ministry said that Israel's strike killed at least 90 Palestinians and injured 289 others.]]></description>
+            <link>https://www.bbc.com/news/articles/cyx50e65wk6o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cyx50e65wk6o#4</guid>
+            <pubDate>Sun, 14 Jul 2024 15:23:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/96d9/live/137fbdf0-41f0-11ef-8dae-cf129c10f13f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Beverly Hills 90210 star Shannen Doherty dies aged 53]]></title>
+            <description><![CDATA[Actress Shannen Doherty, known for roles in hit TV shows like Beverly Hills 90210, has died at 53. ]]></description>
+            <link>https://www.bbc.com/news/articles/cxx2rj467npo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cxx2rj467npo#4</guid>
+            <pubDate>Sun, 14 Jul 2024 15:21:40 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/9ffe/live/1da87760-41e9-11ef-8dae-cf129c10f13f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Alcaraz crushes Djokovic to retain Wimbledon title]]></title>
+            <description><![CDATA[Carlos Alcaraz powers to victory over an out-of-sorts Novak Djokovic to retain his men's singles title at Wimbledon.]]></description>
+            <link>https://www.bbc.com/sport/tennis/articles/c8864j5815go</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c8864j5815go#4</guid>
+            <pubDate>Sun, 14 Jul 2024 15:46:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/dd29/live/b99b8150-4214-11ef-9e1c-3b4a473456a6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New search team 'confident' it can find Jay Slater]]></title>
+            <description><![CDATA[A specialist team of six volunteers and four dogs are travelling to Tenerife to mount a fresh search.]]></description>
+            <link>https://www.bbc.com/news/articles/cj507z00g63o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj507z00g63o#4</guid>
+            <pubDate>Sun, 14 Jul 2024 14:31:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/b3fd/live/74ff20f0-41e8-11ef-8dae-cf129c10f13f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Kate given standing ovation at Wimbledon men's final]]></title>
+            <description><![CDATA[The princess presented defending champion Carlos Alcaraz with the tennis final trophy on Sunday.]]></description>
+            <link>https://www.bbc.com/news/articles/ceqd5yyp159o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ceqd5yyp159o#4</guid>
+            <pubDate>Sun, 14 Jul 2024 16:14:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/752d/live/a79830e0-41e5-11ef-96a8-e710c6bfc866.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Zambia made education free - now classrooms are crammed]]></title>
+            <description><![CDATA[The government is boosting investment to try and ensure everyone can benefit from good schooling.]]></description>
+            <link>https://www.bbc.com/news/articles/cek9n3yv0llo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cek9n3yv0llo#5</guid>
+            <pubDate>Sun, 14 Jul 2024 22:41:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/65e3/live/9e940e20-4027-11ef-9e1c-3b4a473456a6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[She's made her opening gambit. What's the chancellor's long game?]]></title>
+            <description><![CDATA[Once a junior chess champion, now Rachel Reeves runs the UK economy. Faisal Islam looks at her strategy.]]></description>
+            <link>https://www.bbc.com/news/articles/cjjw6l53xe2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cjjw6l53xe2o#5</guid>
+            <pubDate>Sun, 14 Jul 2024 02:44:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/71ac/live/6c589040-4066-11ef-96a8-e710c6bfc866.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Is Brazil's Brics-building worth it?]]></title>
+            <description><![CDATA[The Brazilian president sees the Brics as a way to remake the world - but it is dominated by China.]]></description>
+            <link>https://www.bbc.com/news/articles/c0venrydg8yo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0venrydg8yo#5</guid>
+            <pubDate>Sun, 14 Jul 2024 23:09:43 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/2c81/live/f843ea50-4070-11ef-9e1c-3b4a473456a6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Remembering Shannen Doherty, the Beverly Hills 'badass']]></title>
+            <description><![CDATA[The US actress, who had breast cancer, starred in TV shows like Beverly Hills 90210 and Charmed.]]></description>
+            <link>https://www.bbc.com/news/articles/c4n1gdn4jkno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4n1gdn4jkno#5</guid>
+            <pubDate>Sun, 14 Jul 2024 13:07:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/ae4d/live/3f433d30-1438-11ef-976f-87c9f89e656e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What are the big security threats coming down the track?]]></title>
+            <description><![CDATA[Our BBC Security Correspondent, Frank Gardner, looks at the next foreign policy challenges for Starmer's government.]]></description>
+            <link>https://www.bbc.com/news/articles/cv2g4pjj2gwo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cv2g4pjj2gwo#5</guid>
+            <pubDate>Sun, 14 Jul 2024 03:21:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/4d9a/live/a09b7610-4057-11ef-9909-c12337993a63.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I stood to be an MP at the general election while homeless']]></title>
+            <description><![CDATA[Wesley Milligan said he was left in limbo after his father died earlier this year.]]></description>
+            <link>https://www.bbc.com/news/articles/crgk6lmkvppo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crgk6lmkvppo#5</guid>
+            <pubDate>Sun, 14 Jul 2024 02:24:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/2e42/live/e49d1560-3f78-11ef-9e1c-3b4a473456a6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[More money and staff – so why isn't the NHS more productive?]]></title>
+            <description><![CDATA[Labour has launched an investigation into what's wrong with the NHS. Is productivity the place to start?]]></description>
+            <link>https://www.bbc.com/news/articles/c0dmvdmmv80o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0dmvdmmv80o#5</guid>
+            <pubDate>Sun, 14 Jul 2024 02:32:41 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/8b35/live/7fa013f0-3957-11ef-9202-af701d1ad5cc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Flood and storm warning as heavy rain predicted]]></title>
+            <description><![CDATA[Parts of England and Wales are covered by the warning which will be active on Monday.]]></description>
+            <link>https://www.bbc.com/news/articles/cy685q21v3eo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy685q21v3eo#6</guid>
+            <pubDate>Sun, 14 Jul 2024 13:11:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/ef10/live/c54ce1f0-41de-11ef-8034-2918a9bf62bc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[America's Sweethearts: Netflix lifts lid on life as a cheerleader]]></title>
+            <description><![CDATA[A new hit Netflix series shows the pressure on members of the Dallas Cowboys Cheerleaders. ]]></description>
+            <link>https://www.bbc.com/news/articles/cqv548yny18o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cqv548yny18o#6</guid>
+            <pubDate>Sun, 14 Jul 2024 02:28:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/a015/live/4f1a1710-4061-11ef-96a8-e710c6bfc866.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Your pictures on the theme of 'time' ]]></title>
+            <description><![CDATA[A  selection of your pictures on the theme of 'time'.]]></description>
+            <link>https://www.bbc.com/news/articles/cd1xg09enzno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd1xg09enzno#6</guid>
+            <pubDate>Sun, 14 Jul 2024 02:21:03 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/9366/live/ea8aa500-3de3-11ef-9e1c-3b4a473456a6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Best day of my life' - Hewett wins singles and doubles]]></title>
+            <description><![CDATA[Alfie Hewett completes a career Grand Slam by lifting the Wimbledon men's singles title before defending his doubles crown.]]></description>
+            <link>https://www.bbc.com/sport/tennis/articles/cy08r3md071o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cy08r3md071o#6</guid>
+            <pubDate>Sun, 14 Jul 2024 17:51:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/cbe3/live/a7ebdab0-41db-11ef-96a8-e710c6bfc866.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rwanda's defiant leader set on extending his 30 years in power]]></title>
+            <description><![CDATA[President Paul Kagame's electoral success comes with questions about his democratic credentials.  ]]></description>
+            <link>https://www.bbc.com/news/articles/cxe20pjk5x8o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cxe20pjk5x8o#6</guid>
+            <pubDate>Sun, 14 Jul 2024 04:27:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/440d/live/de329630-4060-11ef-9e1c-3b4a473456a6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man arrested after human remains found in suitcases]]></title>
+            <description><![CDATA[The 34-year-old was held on suspicion of murder by armed officers in Bristol.]]></description>
+            <link>https://www.bbc.com/news/articles/c0xj9vlg763o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0xj9vlg763o#6</guid>
+            <pubDate>Sat, 13 Jul 2024 15:04:46 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/5811/live/726e4520-40f1-11ef-a3fa-97de5940e82e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rare Aphra Behn novel found on home bookshelf]]></title>
+            <description><![CDATA[Just 13 first editions of Oroonoko were known to exist before the discovery.]]></description>
+            <link>https://www.bbc.com/news/articles/cd17y5228dro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd17y5228dro#6</guid>
+            <pubDate>Sun, 14 Jul 2024 06:12:09 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/3448/live/b55790a0-4054-11ef-9909-c12337993a63.png"/>
+        </item>
+        <item>
+            <title><![CDATA[NI parties condemn 'appalling' Trump shooting]]></title>
+            <description><![CDATA[There has been widespread condemnation, including by Taoiseach Simon Harris who called the attack a "heinous act".]]></description>
+            <link>https://www.bbc.com/news/articles/c4ngkxpp3y3o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4ngkxpp3y3o#7</guid>
+            <pubDate>Sun, 14 Jul 2024 16:24:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/7551/live/5a2d01f0-41e5-11ef-8034-2918a9bf62bc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Scotland's homes keep getting less affordable]]></title>
+            <description><![CDATA[The gap between what people earn and the average cost of a home has grown substantially over the past 20 years.]]></description>
+            <link>https://www.bbc.com/news/articles/cql87qg9kneo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cql87qg9kneo#7</guid>
+            <pubDate>Sun, 14 Jul 2024 23:20:35 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/973a/live/e8365b20-405c-11ef-8575-23a95e527259.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Free drink refills could be banned in Wales]]></title>
+            <description><![CDATA[The Welsh government has made a number of proposals to restrict promotion of unhealthy food and drink.]]></description>
+            <link>https://www.bbc.com/news/articles/c51ye8e5dr0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c51ye8e5dr0o#7</guid>
+            <pubDate>Sun, 14 Jul 2024 20:57:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/659d/live/9a2ffa70-4058-11ef-9909-c12337993a63.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Download now]]></title>
+            <description><![CDATA[Top stories, breaking news, live reporting, and follow news topics that match your interests]]></description>
+            <link>https://www.bbc.co.uk/news/10628994</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/10628994#8</guid>
+            <pubDate>Tue, 13 Jun 2023 10:25:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
+        </item>
+        <item>
+            <title><![CDATA['England have the best squad, but not the best team']]></title>
+            <description><![CDATA[Rio Ferdinand, Micah Richards, Alan Shearer and other pundits react to England's defeat by Spain in the Euro 2024 final.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cx7230d172go</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx7230d172go#9</guid>
+            <pubDate>Mon, 15 Jul 2024 00:01:33 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/d6c7/live/73cc5890-4230-11ef-96a8-e710c6bfc866.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Southgate says 'now not the time' to decide future ]]></title>
+            <description><![CDATA[England manager Gareth Southgate says now is "not the time" to make a decision on his future.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cw4ywnd9j2go</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cw4ywnd9j2go#9</guid>
+            <pubDate>Sun, 14 Jul 2024 23:01:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/b8bd/live/8bd96420-4233-11ef-b74c-bb483a802c97.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['A good thing for football' - Spain's victory caps off perfect campaign]]></title>
+            <description><![CDATA[Football often divides opinion - but everyone is united to hail Spain's Euro 2024 success as fully deserved.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cv2gvreml2ko</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cv2gvreml2ko#9</guid>
+            <pubDate>Sun, 14 Jul 2024 23:16:08 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/418e/live/4dccd6d0-4233-11ef-b74c-bb483a802c97.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['An annihilation - Alcaraz always had the answers']]></title>
+            <description><![CDATA[After an "all-round perfect performance" to stun Novak Djokovic, BBC Sport looks at how high the Spaniard could still reach.]]></description>
+            <link>https://www.bbc.com/sport/tennis/articles/c51y2vn643yo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c51y2vn643yo#9</guid>
+            <pubDate>Sun, 14 Jul 2024 19:28:24 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/c868/live/f7fbbba0-420e-11ef-b74c-bb483a802c97.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Highlights: Spain beat England to win Euro 2024 with late goal]]></title>
+            <description><![CDATA[Watch highlights as Spain win Euro 2024 after beating England 2-1 in Berlin.
+
+
+]]></description>
+            <link>https://www.bbc.com/sport/football/videos/c897y4yj7lxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c897y4yj7lxo#9</guid>
+            <pubDate>Sun, 14 Jul 2024 21:04:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/2d48/live/9ca7b4a0-422e-11ef-9e1c-3b4a473456a6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Spain 'deserved' Euro 2024 win - Southgate]]></title>
+            <description><![CDATA[England manager Gareth Southgate says his side were beaten by "the best team in the tournament", after losing the Euro 2024 final 2-1 to Spain in Berlin.
+
+
+]]></description>
+            <link>https://www.bbc.com/sport/football/videos/c728nz2njpeo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c728nz2njpeo#9</guid>
+            <pubDate>Sun, 14 Jul 2024 21:56:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/f114/live/38beec60-422e-11ef-96a8-e710c6bfc866.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Attempted Assassination on Donald Trump]]></title>
+            <description><![CDATA[What happened at the Pennsylvania rally on Saturday?]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0jbbnk5</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0jbbnk5#10</guid>
+            <pubDate>Sun, 14 Jul 2024 10:46:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0cx56hw.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Electioncast: The GE 2024 Binder]]></title>
+            <description><![CDATA[Everything you need to know about the general election, and more!]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0jb2rl9</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0jb2rl9#10</guid>
+            <pubDate>Fri, 12 Jul 2024 16:53:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0jb2rpb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New MPs, new government... new politics?]]></title>
+            <description><![CDATA[Amol and Nick on why prisons are at the top of Starmer’s in-tray.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/m0020y0h</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/m0020y0h#10</guid>
+            <pubDate>Thu, 11 Jul 2024 05:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0j938rc.jpg"/>
+        </item>
+    </channel>
+</rss>
