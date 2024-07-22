@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - News Front Page]]></description>
+        <link>https://www.bbc.co.uk/news</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 22 Jul 2024 01:47:02 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Biden ends re-election bid, upending White House race]]></title>
+            <description><![CDATA[President says decision is in interests of country, but endorsement of vice-president to take over is not a done deal.]]></description>
+            <link>https://www.bbc.com/news/articles/c1e5xpdzkd8o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1e5xpdzkd8o#1</guid>
+            <pubDate>Mon, 22 Jul 2024 00:43:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/7c43/live/69bf3800-47ca-11ef-9e1c-3b4a473456a6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What Biden quitting means for Harris, the Democrats and Trump]]></title>
+            <description><![CDATA[The announcement by Joe Biden has upended the 2024  White House race. Here are three key things to know.]]></description>
+            <link>https://www.bbc.com/news/articles/cpwd8yzw45qo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpwd8yzw45qo#1</guid>
+            <pubDate>Sun, 21 Jul 2024 21:33:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/7f80/live/c4b73920-47a6-11ef-b74c-bb483a802c97.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Republicans call on Biden to leave White House]]></title>
+            <description><![CDATA["If Joe Biden is not fit to run for president, he is not fit to serve as president," said House Speaker Mike Johnson.]]></description>
+            <link>https://www.bbc.com/news/articles/cnd0ek9el6ro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cnd0ek9el6ro#1</guid>
+            <pubDate>Sun, 21 Jul 2024 22:18:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/4b6b/live/9ba9ff00-47a5-11ef-a170-415e01a925ef.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Biden's momentous and 'closely-held' decision surprises own aides]]></title>
+            <description><![CDATA[Most of the president's senior aides found out about his decision to exit the race minutes before he publicly announced it.]]></description>
+            <link>https://www.bbc.com/news/articles/c3gdzmdje5xo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3gdzmdje5xo#1</guid>
+            <pubDate>Mon, 22 Jul 2024 00:51:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/8c54/live/aa6f7aa0-47b5-11ef-81c3-d95826f196b1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: How the president's bid for a second term came to an end]]></title>
+            <description><![CDATA[US President Joe Biden has announced that he will end his candidacy for re-election]]></description>
+            <link>https://www.bbc.com/news/videos/cmm2r04jg4po</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cmm2r04jg4po#1</guid>
+            <pubDate>Sun, 21 Jul 2024 18:41:30 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/88a8/live/ceaceef0-478f-11ef-9e1c-3b4a473456a6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Six people die in crash between car and motorbike]]></title>
+            <description><![CDATA[Four adults and two children died in the crash between Wakefield and Barnsley, police say.]]></description>
+            <link>https://www.bbc.com/news/articles/c880j1mm2nlo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c880j1mm2nlo#2</guid>
+            <pubDate>Sun, 21 Jul 2024 23:09:08 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/c96b/live/3fc42f60-47b1-11ef-ba73-e39a20efe02d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arrests after teenage boy found shot dead in park]]></title>
+            <description><![CDATA[Six males have been arrested on suspicion of murder and remain in custody after the incident in west London.]]></description>
+            <link>https://www.bbc.com/news/articles/crgm8ly784vo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crgm8ly784vo#2</guid>
+            <pubDate>Sun, 21 Jul 2024 23:03:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/31ae/live/21ad8f90-47b5-11ef-81c3-d95826f196b1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Giovanni Pernice insists 'I’ll be back' after Strictly accusation]]></title>
+            <description><![CDATA[The dancer has been accused of “cruel and mean” behaviour by former dancer partner Amanda Abbington.]]></description>
+            <link>https://www.bbc.com/news/articles/cd1jmzne18ko</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd1jmzne18ko#2</guid>
+            <pubDate>Sun, 21 Jul 2024 20:11:11 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/647f/live/d901b080-477f-11ef-b74b-5f98efd74680.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mass killer who ‘hunted’ black people says police encouraged him]]></title>
+            <description><![CDATA[Ex-security guard, Louis van Schoor, killed dozens in South Africa but was only jailed for seven murders.
+]]></description>
+            <link>https://www.bbc.com/news/articles/c51yqdy3q61o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c51yqdy3q61o#2</guid>
+            <pubDate>Mon, 22 Jul 2024 00:22:24 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/229c/live/a8aaa380-4520-11ef-b74c-bb483a802c97.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I earn £50,000 and can't afford to buy a house']]></title>
+            <description><![CDATA[Renters are four times less likely than current owners to be able to afford a home, research suggests.]]></description>
+            <link>https://www.bbc.com/news/articles/c7209lk8x2wo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c7209lk8x2wo#2</guid>
+            <pubDate>Sun, 21 Jul 2024 23:03:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/32e9/live/2222ce10-45dd-11ef-9e1c-3b4a473456a6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IT working but delays possible after outage, says NHS]]></title>
+            <description><![CDATA[NHS England says services are back online after the global IT outage, but there could still be disruption.]]></description>
+            <link>https://www.bbc.com/news/articles/crge037gey3o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crge037gey3o#2</guid>
+            <pubDate>Sun, 21 Jul 2024 23:46:10 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/0fca/live/bb860fd0-4791-11ef-a740-27f816841127.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Starmer says skills shake-up will help young people]]></title>
+            <description><![CDATA[Labour wants to give firms more flexibility to spend cash currently earmarked for apprenticeships.]]></description>
+            <link>https://www.bbc.com/news/articles/cxe2g3drxj5o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cxe2g3drxj5o#2</guid>
+            <pubDate>Mon, 22 Jul 2024 00:06:37 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/166a/live/e21bede0-477d-11ef-b74b-5f98efd74680.png"/>
+        </item>
+        <item>
+            <title><![CDATA[British woman and husband found dead after trying to cross Atlantic]]></title>
+            <description><![CDATA[Sarah Packwood and husband Brett Clibbery had set off from Nova Scotia and were heading for the Azores on their yacht, Theros]]></description>
+            <link>https://www.bbc.com/news/articles/c84jxgy8nmlo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c84jxgy8nmlo#2</guid>
+            <pubDate>Sun, 21 Jul 2024 11:19:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/82a7/live/189fed10-474e-11ef-9751-63488755ec08.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Malaysia tracks down missing oil tanker which fled after collision]]></title>
+            <description><![CDATA[The vessel was involved in a collision with another ship before fleeing the scene on Friday.]]></description>
+            <link>https://www.bbc.com/news/articles/c047jm8984mo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c047jm8984mo#2</guid>
+            <pubDate>Sun, 21 Jul 2024 20:52:16 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/facc/live/7a26c420-4788-11ef-b021-03f6d0a60a2b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Alert issued in India after boy dies from high risk Nipah virus]]></title>
+            <description><![CDATA[The virus is transmitted from animals such as pigs and fruit bats to humans. ]]></description>
+            <link>https://www.bbc.com/news/articles/cj50d7e9vp6o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj50d7e9vp6o#2</guid>
+            <pubDate>Sun, 21 Jul 2024 20:42:09 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/750c/live/e8adc3f0-4781-11ef-b74b-5f98efd74680.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Reeves hints at above-inflation public sector pay rise]]></title>
+            <description><![CDATA[The chancellor says not settling the matter quickly would incur other costs to the wider economy.]]></description>
+            <link>https://www.bbc.com/news/articles/c4ng5n0my0zo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4ng5n0my0zo#2</guid>
+            <pubDate>Sun, 21 Jul 2024 10:55:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/f838/live/f2e52dc0-4756-11ef-96a8-e710c6bfc866.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Schauffele holds off Rose to win Open at Troon]]></title>
+            <description><![CDATA[Xander Schauffele wins second major of his career with a two-shot victory over Justin Rose and Billy Horschel.]]></description>
+            <link>https://www.bbc.com/sport/golf/articles/cm52xd9ne1no</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/golf/articles/cm52xd9ne1no#2</guid>
+            <pubDate>Sun, 21 Jul 2024 18:33:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/a172/live/b027a770-4796-11ef-96a8-e710c6bfc866.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Biden has endorsed Harris. What happens next?]]></title>
+            <description><![CDATA[The path for a Democratic nominee is less than clear months before the election. ]]></description>
+            <link>https://www.bbc.com/news/articles/cq5xdq71drro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cq5xdq71drro#3</guid>
+            <pubDate>Sun, 21 Jul 2024 21:57:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/57a8/live/4a77a930-4795-11ef-a740-27f816841127.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kamala Harris, the VP who now has Biden's endorsement]]></title>
+            <description><![CDATA[The daughter of an Indian-born mother and Jamaican-born father, Kamala Harris began her career as a prosecutor.]]></description>
+            <link>https://www.bbc.com/news/articles/c2501n5rvvno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2501n5rvvno#3</guid>
+            <pubDate>Sun, 21 Jul 2024 18:53:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/1c79/live/f3a10210-47b6-11ef-9e1c-3b4a473456a6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Who could be Kamala Harris's running mate? ]]></title>
+            <description><![CDATA[It’s not a done deal but some potential rivals have quickly thrown their support behind her.]]></description>
+            <link>https://www.bbc.com/news/articles/c80ekdwk9zro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c80ekdwk9zro#3</guid>
+            <pubDate>Mon, 22 Jul 2024 01:29:11 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/1ef1/live/8a835980-47a3-11ef-ae3f-cb3ed86b73da.png"/>
+        </item>
+        <item>
+            <title><![CDATA[In full: President Biden's statement]]></title>
+            <description><![CDATA[The full text of Joe Biden's statement that he will end his candidacy for re-election as US President.]]></description>
+            <link>https://www.bbc.com/news/articles/c25lrvz1jrxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c25lrvz1jrxo#3</guid>
+            <pubDate>Sun, 21 Jul 2024 19:16:11 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/e86c/live/73cc8590-4794-11ef-a740-27f816841127.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Americast]]></title>
+            <description><![CDATA[And says it's "in the best interest of my party and the country".]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0jct3b5</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0jct3b5#3</guid>
+            <pubDate>Sun, 21 Jul 2024 23:44:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb51/live/5b4abb30-47bd-11ef-9e1c-3b4a473456a6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Conspiracy theories swirl about geo-engineering, but could it help save the planet?]]></title>
+            <description><![CDATA[If we can’t control rising global temperatures by drastically cutting carbon emissions, could something called geo-engineering be a way to cool the planet?]]></description>
+            <link>https://www.bbc.com/news/articles/c98qp79gj4no</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c98qp79gj4no#4</guid>
+            <pubDate>Sun, 21 Jul 2024 00:10:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/a2ae/live/b5106d90-473b-11ef-96a8-e710c6bfc866.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Unfathomable errors and 'cinnamon bun' strategy: Political end-of-term report cards]]></title>
+            <description><![CDATA[As Parliament approaches summer recess, Laura Kuenssberg reflects on how they've performed over a dizzying few months.]]></description>
+            <link>https://www.bbc.com/news/articles/cpwd65nwq5yo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpwd65nwq5yo#4</guid>
+            <pubDate>Sat, 20 Jul 2024 13:04:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/5f47/live/98975d10-450e-11ef-96a8-e710c6bfc866.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Donald Trump’s supporters saw two sides of him. Which one might govern?]]></title>
+            <description><![CDATA[ Looking back at the Republican National Convention offers some clues, says Anthony Zurcher.]]></description>
+            <link>https://www.bbc.com/news/articles/cqv5y29qnpgo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cqv5y29qnpgo#4</guid>
+            <pubDate>Fri, 19 Jul 2024 17:51:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/0e1b/live/503a7ff0-45ab-11ef-9e1c-3b4a473456a6.png"/>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: Biden 'bows out' and 'quits the race']]></title>
+            <description><![CDATA[Joe Biden's decision to  step out of the race for the White House dominates the front pages.]]></description>
+            <link>https://www.bbc.com/news/articles/c2x04kxx0xno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2x04kxx0xno#5</guid>
+            <pubDate>Sun, 21 Jul 2024 22:45:12 GMT</pubDate>
+            <media:thumbnail width="240" height="141" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/0f56/live/3cf22170-47a2-11ef-96a8-e710c6bfc866.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Two down, two to go - Schauffele eyes slam after Open triumph]]></title>
+            <description><![CDATA[Having waited so long for one, Xander Schauffele has won two majors in two months. Now he is eyeing a career grand slam.]]></description>
+            <link>https://www.bbc.com/sport/golf/articles/cj50d114nrqo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/golf/articles/cj50d114nrqo#5</guid>
+            <pubDate>Sun, 21 Jul 2024 20:12:09 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/cd2d/live/ca708420-4797-11ef-9e1c-3b4a473456a6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why did it take 29 days to find Jay Slater?]]></title>
+            <description><![CDATA[Questions remain after the teenager's body was found in Tenerife - and it's unclear whether they will be answered. ]]></description>
+            <link>https://www.bbc.com/news/articles/cv2g10dkel7o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cv2g10dkel7o#5</guid>
+            <pubDate>Sun, 21 Jul 2024 13:59:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/1c44/live/f9d1a700-4696-11ef-b74c-bb483a802c97.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Spanish fightback against record tourism]]></title>
+            <description><![CDATA[Activists say spiralling housing costs are due to properties being bought by foreigners - or rented over the summer.]]></description>
+            <link>https://www.bbc.com/news/articles/c99wxwgzn8qo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c99wxwgzn8qo#5</guid>
+            <pubDate>Sun, 21 Jul 2024 00:29:38 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/931e/live/360fa9b0-46f6-11ef-9e1c-3b4a473456a6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fined for yellow and blue shoes: How Russian laws smother dissent]]></title>
+            <description><![CDATA[Since the invasion of Ukraine, the measures used to clamp down on Kremlin critics have swelled.]]></description>
+            <link>https://www.bbc.com/news/articles/cw4yv7nv8xlo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cw4yv7nv8xlo#5</guid>
+            <pubDate>Sun, 21 Jul 2024 00:24:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/9d25/live/2313a9d0-45f5-11ef-9e1c-3b4a473456a6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Afghanistan - wish you were here? The Taliban do]]></title>
+            <description><![CDATA[Tourism is booming under the Taliban regime as Westerners flock to see its unspoilt sites - but not everyone is winning.]]></description>
+            <link>https://www.bbc.com/news/articles/cv223yvnp9mo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cv223yvnp9mo#5</guid>
+            <pubDate>Sat, 20 Jul 2024 23:22:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/8a3d/live/ff7a0020-4368-11ef-9e1c-3b4a473456a6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How the Strictly saga has unfolded]]></title>
+            <description><![CDATA[The BBC show has been hit by allegations concerning two of its professional dancers.]]></description>
+            <link>https://www.bbc.com/news/articles/cz47pp1qwl7o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz47pp1qwl7o#5</guid>
+            <pubDate>Sun, 21 Jul 2024 09:01:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/015b/live/298e77a0-4397-11ef-b74c-bb483a802c97.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Logan Paul and KSI's Prime drinks company sued by US Olympic committee]]></title>
+            <description><![CDATA[The drink is accused of using US Olympic trademarks without an agreement. ]]></description>
+            <link>https://www.bbc.com/news/articles/c4ng785gjv0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4ng785gjv0o#7</guid>
+            <pubDate>Sun, 21 Jul 2024 14:31:21 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/65c4/live/3826bcb0-4760-11ef-a9e2-cfbd888b81b6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Boycott back in hospital with pneumonia ]]></title>
+            <description><![CDATA[Geoffrey Boycott, 83, is back in hospital two days after being discharged following cancer surgery. ]]></description>
+            <link>https://www.bbc.com/sport/cricket/articles/c51ygk7zzn3o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/cricket/articles/c51ygk7zzn3o#7</guid>
+            <pubDate>Sun, 21 Jul 2024 15:50:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/2c7c/live/61f72fb0-4775-11ef-b68c-050ea61c75fc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MP says she was pregnant at 15 after being groomed]]></title>
+            <description><![CDATA[Labour MP Natalie Fleet has told GB News an "older man" groomed her when she was a child.]]></description>
+            <link>https://www.bbc.com/news/articles/c725x5351vxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c725x5351vxo#7</guid>
+            <pubDate>Sun, 21 Jul 2024 11:58:50 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/6205/live/855a90c0-46d8-11ef-aa8f-11c2617bbc1c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Republicans turn heat up on Secret Service chief over Trump shooting]]></title>
+            <description><![CDATA[House Speaker Mike Johnson said Ms Cheatle had "a lot to answer for" for the attempted assassination.]]></description>
+            <link>https://www.bbc.com/news/articles/c4ngqllw3jwo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4ngqllw3jwo#7</guid>
+            <pubDate>Sun, 21 Jul 2024 15:57:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/2301/live/c9a8d5e0-476c-11ef-b68c-050ea61c75fc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chancellor resists calls to lift two-child benefit cap]]></title>
+            <description><![CDATA[The chancellor says she will not make an "unfunded" pledge to scrap the Conservative-era policy.]]></description>
+            <link>https://www.bbc.com/news/articles/c4ng572nnvwo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4ng572nnvwo#7</guid>
+            <pubDate>Sun, 21 Jul 2024 11:50:23 GMT</pubDate>
+            <media:thumbnail width="240" height="142" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/f786/live/9e530b20-4746-11ef-9e1c-3b4a473456a6.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Big Issue sellers escape to the Lakes]]></title>
+            <description><![CDATA[A group of homeless men are given the opportunity to take a retreat in the peace of the Lakes.]]></description>
+            <link>https://www.bbc.com/news/articles/cy68y7qv88do</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy68y7qv88do#7</guid>
+            <pubDate>Sun, 21 Jul 2024 17:03:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/0108/live/29c611f0-45d2-11ef-8edc-1379bb5ee3d6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soldier killed in Cyprus remembered 50 years on]]></title>
+            <description><![CDATA[Guardsman Graeme Lawson, who died in 1974  is not forgotten, say his comrades and family members. ]]></description>
+            <link>https://www.bbc.com/news/articles/cv2grqqdd95o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cv2grqqdd95o#7</guid>
+            <pubDate>Sun, 21 Jul 2024 17:15:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/d17c/live/785fe7d0-477d-11ef-b74b-5f98efd74680.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Download now]]></title>
+            <description><![CDATA[Top stories, breaking news, live reporting, and follow news topics that match your interests]]></description>
+            <link>https://www.bbc.co.uk/news/10628994</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/10628994#8</guid>
+            <pubDate>Tue, 13 Jun 2023 10:25:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Biden Withdraws from the Presidential Race!]]></title>
+            <description><![CDATA[And says it's "in the best interest of my party and the country".]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0jct3b5</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0jct3b5#9</guid>
+            <pubDate>Sun, 21 Jul 2024 23:44:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0cx56hw.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Is the chancellor taking a chance on public sector pay?]]></title>
+            <description><![CDATA[Rachel Reeves hints at above-inflation pay rises for teachers and some NHS workers.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0jcr4x8</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0jcr4x8#9</guid>
+            <pubDate>Sun, 21 Jul 2024 11:27:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0jcr4z6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bashir 'showed the world what he can do' in England win]]></title>
+            <description><![CDATA[Captain Ben Stokes says Shoaib Bashir “has shown the world what he can do” after bowling England to victory in the second Test against West Indies.]]></description>
+            <link>https://www.bbc.com/sport/cricket/articles/cd16zxvp3jeo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/cricket/articles/cd16zxvp3jeo#11</guid>
+            <pubDate>Sun, 21 Jul 2024 19:38:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/4334/live/51301e40-4792-11ef-b74c-bb483a802c97.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Two down, two to go - Schauffele eyes slam after Open triumph]]></title>
+            <description><![CDATA[Having waited so long for one, Xander Schauffele has won two majors in two months. Now he is eyeing a career grand slam.]]></description>
+            <link>https://www.bbc.com/sport/golf/articles/cj50d114nrqo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/golf/articles/cj50d114nrqo#11</guid>
+            <pubDate>Sun, 21 Jul 2024 20:12:09 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/cd2d/live/ca708420-4797-11ef-9e1c-3b4a473456a6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I didn’t give up the win. I lost it off the line']]></title>
+            <description><![CDATA[Lando Norris agonised over whether to hand victory in the Hungarian Grand Prix back to team-mate Oscar Piastri but said it was the “fair" and “honest” thing to do.]]></description>
+            <link>https://www.bbc.com/sport/formula1/articles/cye03ylnnr0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/formula1/articles/cye03ylnnr0o#11</guid>
+            <pubDate>Sun, 21 Jul 2024 21:35:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/e69c/live/38ccc840-4782-11ef-b74b-5f98efd74680.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pogacar seals third Tour de France with stage 21 win ]]></title>
+            <description><![CDATA[Tadej Pogocar seals a sensational Tour de France-Giro d'Italia double by winning stage 21's time trial into Nice.]]></description>
+            <link>https://www.bbc.com/sport/cycling/articles/cy08gkr4m9no</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/cycling/articles/cy08gkr4m9no#11</guid>
+            <pubDate>Sun, 21 Jul 2024 18:14:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/94a9/live/7e172640-478a-11ef-b021-03f6d0a60a2b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[England dismantle Windies to win Test and series]]></title>
+            <description><![CDATA[England surge to a series victory by blowing away West Indies in a single session on the fourth day of the second Test at Trent Bridge.]]></description>
+            <link>https://www.bbc.com/sport/cricket/articles/cg64gxk0n16o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/cricket/articles/cg64gxk0n16o#11</guid>
+            <pubDate>Sun, 21 Jul 2024 17:43:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/f423/live/24f3f3b0-4783-11ef-b74c-bb483a802c97.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Schauffele holds off Rose to win Open at Troon]]></title>
+            <description><![CDATA[Xander Schauffele wins second major of his career with a two-shot victory over Justin Rose and Billy Horschel.]]></description>
+            <link>https://www.bbc.com/sport/golf/articles/cm52xd9ne1no</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/golf/articles/cm52xd9ne1no#11</guid>
+            <pubDate>Sun, 21 Jul 2024 18:33:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/a172/live/b027a770-4796-11ef-96a8-e710c6bfc866.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[England win by 241 runs as West Indies bowled out in one session]]></title>
+            <description><![CDATA[Watch highlights as England bowl West Indies out for 143 in the final session on day four of the second Test at Trent Bridge to win by 241 runs and take the series with a game to spare. ]]></description>
+            <link>https://www.bbc.com/sport/cricket/videos/c51y5q2lx9lo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/cricket/videos/c51y5q2lx9lo#11</guid>
+            <pubDate>Sun, 21 Jul 2024 19:33:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/0e17/live/040df780-4798-11ef-96a8-e710c6bfc866.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arrests after teenage boy found shot dead in park]]></title>
+            <description><![CDATA[Six males have been arrested on suspicion of murder and remain in custody after the incident in west London.]]></description>
+            <link>https://www.bbc.com/news/articles/crgm8ly784vo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crgm8ly784vo#12</guid>
+            <pubDate>Sun, 21 Jul 2024 23:03:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/31ae/live/21ad8f90-47b5-11ef-81c3-d95826f196b1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Flats evacuated after fire badly damages chip shop]]></title>
+            <description><![CDATA[A number of other businesses in the business complex suffer water damage in the incident.]]></description>
+            <link>https://www.bbc.com/news/articles/cqe6q8m4jnno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cqe6q8m4jnno#12</guid>
+            <pubDate>Sun, 21 Jul 2024 16:26:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/8590/live/e0a067e0-4771-11ef-b68c-050ea61c75fc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Unions to decide on deal to avert waste worker strikes]]></title>
+            <description><![CDATA[More than half of Scotland's councils are set to be affected by action if no agreement can be reached.]]></description>
+            <link>https://www.bbc.com/news/articles/cn09e5pdg4vo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn09e5pdg4vo#12</guid>
+            <pubDate>Sun, 21 Jul 2024 17:26:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/c8c2/live/6d09a480-477c-11ef-b74b-5f98efd74680.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Families struggle with holiday childcare costs]]></title>
+            <description><![CDATA[Parents and campaigners say children could be missing out on important development due to high cost.]]></description>
+            <link>https://www.bbc.com/news/articles/c2v0zewz736o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2v0zewz736o#12</guid>
+            <pubDate>Sun, 21 Jul 2024 20:48:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/8eb9/live/d40562f0-45d8-11ef-b5e4-ed3a2b9245c9.jpg"/>
+        </item>
+    </channel>
+</rss>
