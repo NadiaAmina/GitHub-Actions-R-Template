@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - News Front Page]]></description>
+        <link>https://www.bbc.co.uk/news</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 29 Jul 2024 01:47:07 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Rocket strike puts Israel and Hezbollah on brink of all-out war]]></title>
+            <description><![CDATA[Fears mount that the deadly attack on the occupied Golan Heights could trigger a major conflict.]]></description>
+            <link>https://www.bbc.com/news/articles/c2e4m6m1r4eo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2e4m6m1r4eo#0</guid>
+            <pubDate>Sun, 28 Jul 2024 17:42:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/9b57/live/a4d94330-4d02-11ef-aebc-6de4d31bf5cd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Woman dies after attack while walking dog]]></title>
+            <description><![CDATA[Anita Rose dies in hospital four days after being found unconscious on a track in her village.]]></description>
+            <link>https://www.bbc.com/news/articles/cp9vwxlddy9o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp9vwxlddy9o#0</guid>
+            <pubDate>Sun, 28 Jul 2024 21:48:13 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/dc52/live/dfa07440-4d28-11ef-b2d2-cdb23d5d7c5b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Reeves to axe projects to plug budget black hole]]></title>
+            <description><![CDATA[The Chancellor is set to outline immediate cuts worth billions of pounds to plug shortfall.]]></description>
+            <link>https://www.bbc.com/news/articles/c724g07qwdwo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c724g07qwdwo#0</guid>
+            <pubDate>Sun, 28 Jul 2024 21:31:18 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/a962/live/16b3b4f0-4d16-11ef-8e51-27a2f9c4d385.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mum's school CCTV plea after autistic son attacked]]></title>
+            <description><![CDATA[Charlotte's son was attacked repeatedly by a teaching assistant while he was at school.]]></description>
+            <link>https://www.bbc.com/news/articles/cye021d192jo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cye021d192jo#0</guid>
+            <pubDate>Mon, 29 Jul 2024 00:41:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/3a91/live/c759b350-4a6d-11ef-b2d2-cdb23d5d7c5b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Five takeaways from day two of Paris Olympics 2024]]></title>
+            <description><![CDATA[An Adam Peaty near-miss, Andy Murray comeback and Simone Biles star return, plus a GB bronze, are among the highlights.]]></description>
+            <link>https://www.bbc.com/sport/olympics/articles/czvxqy88l5jo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/olympics/articles/czvxqy88l5jo#0</guid>
+            <pubDate>Sun, 28 Jul 2024 20:40:27 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/55fd/live/66a8b450-4d1c-11ef-b2d2-cdb23d5d7c5b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Former Gladiators referee John Anderson dies aged 92]]></title>
+            <description><![CDATA[The Scottish sports coach appeared in the show's original ITV run from1992 to 2000 and in its 2008 Sky revamp.]]></description>
+            <link>https://www.bbc.com/news/articles/c0jqv9dlyxwo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0jqv9dlyxwo#0</guid>
+            <pubDate>Sun, 28 Jul 2024 23:10:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/300d/live/1b22c350-4d20-11ef-bb70-d30a89604de5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Complex life on Earth may be much older than thought]]></title>
+            <description><![CDATA[Scientists say they have new evidence that complex life on Earth began much earlier than previously believed.]]></description>
+            <link>https://www.bbc.com/news/articles/c3geyvpxpeyo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3geyvpxpeyo#0</guid>
+            <pubDate>Sun, 28 Jul 2024 23:19:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/2c83/live/30b685b0-4b5b-11ef-aebc-6de4d31bf5cd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kemi Badenoch announces bid to become Tory leader]]></title>
+            <description><![CDATA[The 44-year-old promises to return her party to "first principles" including a focus on sovereignty.]]></description>
+            <link>https://www.bbc.com/news/articles/cw0yr7pyzneo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cw0yr7pyzneo#0</guid>
+            <pubDate>Sun, 28 Jul 2024 20:59:39 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/a91d/live/0c5dc640-4cf7-11ef-bbdb-79e7cc2bb637.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Venezuelans in tense wait for election results]]></title>
+            <description><![CDATA[The opposition urges its supporters to witness the count at polling stations amid fears of vote fraud.]]></description>
+            <link>https://www.bbc.com/news/articles/cz7ek27j7j3o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz7ek27j7j3o#0</guid>
+            <pubDate>Mon, 29 Jul 2024 00:49:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/ae19/live/e3f3f870-4d3f-11ef-8529-87397a6b7203.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Family of man kicked in head express concern for hurt officers]]></title>
+            <description><![CDATA[The family say anyone who broke the law during the melee at an airport should face due process.]]></description>
+            <link>https://www.bbc.com/news/articles/cp38e4r2rz5o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp38e4r2rz5o#0</guid>
+            <pubDate>Sun, 28 Jul 2024 17:20:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/17f8/live/58cd6810-4d00-11ef-aebc-6de4d31bf5cd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Police investigate footage after Armagh football victory]]></title>
+            <description><![CDATA[The police say they have launched an internal investigation into video footage of officers taking part in celebrations.]]></description>
+            <link>https://www.bbc.com/news/articles/czrjl2d4grgo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czrjl2d4grgo#0</guid>
+            <pubDate>Sun, 28 Jul 2024 23:03:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/54e0/live/aabb9b60-4d32-11ef-8573-43afa46fbf9e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Parisians’ Olympic spirit not dampened – but grumbles remain]]></title>
+            <description><![CDATA[The vibrant opening ceremony and a flurry of French medals seem to have put paid to pre-Games gloom.]]></description>
+            <link>https://www.bbc.com/news/articles/ckmg3lyd14do</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckmg3lyd14do#1</guid>
+            <pubDate>Sun, 28 Jul 2024 17:07:24 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/e69b/live/a37f0e90-4cfb-11ef-b2d2-cdb23d5d7c5b.png"/>
+        </item>
+        <item>
+            <title><![CDATA[What medals are up for grabs today?]]></title>
+            <description><![CDATA[Your day-by-day guide to what is happening when - and who to watch out for - at the Paris 2024 Olympics.]]></description>
+            <link>https://www.bbc.com/sport/articles/c1dmp9krz91o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/articles/c1dmp9krz91o#1</guid>
+            <pubDate>Sun, 28 Jul 2024 20:57:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/152c/live/6cf10ae0-44f4-11ef-b9f5-adf0805847e7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The 24 British stars to watch at Paris 2024]]></title>
+            <description><![CDATA[From Olympic golden oldies to fresh-faced debutants, BBC Sport picks out 24 of the Team GB athletes to particularly focus on during Paris 2024.]]></description>
+            <link>https://www.bbc.com/sport/articles/cw9yr4qwwq3o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/articles/cw9yr4qwwq3o#1</guid>
+            <pubDate>Wed, 24 Jul 2024 05:15:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/03e6/live/1cf220a0-42a2-11ef-b83f-157e38fc9c03.png"/>
+        </item>
+        <item>
+            <title><![CDATA[How to follow Paris 2024 Olympics across the BBC]]></title>
+            <description><![CDATA[BBC TV channels and times, plus radio and online coverage details for the 2024 Olympic Games in Paris.]]></description>
+            <link>https://www.bbc.com/sport/articles/c0krn1k4wlzo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/articles/c0krn1k4wlzo#1</guid>
+            <pubDate>Fri, 26 Jul 2024 08:49:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/78b8/live/49f78c40-44ee-11ef-96a8-e710c6bfc866.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Murray & Evans win thrilling tie-break decider]]></title>
+            <description><![CDATA[Watch the moment GB's Andy Murray and Dan Evans beat Daniel Taro and Kei Nishikori of Japan in the first round of the men's doubles at Paris 2024.]]></description>
+            <link>https://www.bbc.com/sport/olympics/videos/cd1rv20er6xo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/olympics/videos/cd1rv20er6xo#1</guid>
+            <pubDate>Sun, 28 Jul 2024 19:07:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/7f64/live/22e512d0-4d13-11ef-8f0f-0577398c3339.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Best moments as Biles dazzles stars with stunning gymnastics display]]></title>
+            <description><![CDATA[Watch the best bits from Simone Biles' dazzling performance in women's gymnastics qualifying at the Paris Olympics. ]]></description>
+            <link>https://www.bbc.com/sport/olympics/videos/cv2gvnk853lo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/olympics/videos/cv2gvnk853lo#1</guid>
+            <pubDate>Sun, 28 Jul 2024 12:44:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/70dd/live/b4ff2c40-4cdd-11ef-aebc-6de4d31bf5cd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Convicted child rapist Van de Velde booed on Olympic debut]]></title>
+            <description><![CDATA[Convicted child rapist Steven van de Velde is booed as he makes his Olympic beach volleyball debut to a mixed reaction in Paris.]]></description>
+            <link>https://www.bbc.com/sport/olympics/articles/cpd9e0r2dxmo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/olympics/articles/cpd9e0r2dxmo#1</guid>
+            <pubDate>Sun, 28 Jul 2024 09:46:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/685f/live/32d58d70-4cc1-11ef-aebc-6de4d31bf5cd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Give him a medal! - unknown man dives in pool to rescue lost cap ]]></title>
+            <description><![CDATA[Watch as an unexpected Olympian makes his first appearance when collecting a loose swimming cap from the pool at the Paris 2024 Olympics. ]]></description>
+            <link>https://www.bbc.com/sport/olympics/videos/cg64d2rw23ro</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/olympics/videos/cg64d2rw23ro#1</guid>
+            <pubDate>Sun, 28 Jul 2024 12:28:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/9bb3/live/7021a790-4cda-11ef-aebc-6de4d31bf5cd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Triathlon swim training scrapped because of pollution]]></title>
+            <description><![CDATA[The swimming leg of the triathlon familiarisation at the Paris Olympics is cancelled due to pollution in the River Seine.]]></description>
+            <link>https://www.bbc.com/sport/olympics/articles/cn05nxv2z9po</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/olympics/articles/cn05nxv2z9po#1</guid>
+            <pubDate>Sun, 28 Jul 2024 11:02:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/4154/live/70198bb0-4ca2-11ef-ad51-353a9b8c8a88.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Palestinians heading to Paris to represent their people]]></title>
+            <description><![CDATA[A small number of Palestinians are going to take part in the Olympics, despite the ongoing war. ]]></description>
+            <link>https://www.bbc.com/news/articles/cz475vdd97qo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz475vdd97qo#1</guid>
+            <pubDate>Sun, 28 Jul 2024 00:26:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/d61c/live/87066940-4b3c-11ef-bc49-7ba39929e0e4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Canada deducted points and coach banned over drone]]></title>
+            <description><![CDATA[Canada's Olympic women's football team are deducted six points and coach Bev Priestman is banned for a year by Fifa over a drone spying scandal.]]></description>
+            <link>https://www.bbc.com/sport/olympics/articles/ckdg0gqk4kqo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/olympics/articles/ckdg0gqk4kqo#1</guid>
+            <pubDate>Sat, 27 Jul 2024 17:26:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/9e63/live/a39ca7c0-4c42-11ef-9b08-4b464f112289.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Olympian sorry to wife for losing wedding ring in Seine]]></title>
+            <description><![CDATA[The World Champion blamed "losing too many kilos" and "irrepressible enthusiasm" for the mishap.]]></description>
+            <link>https://www.bbc.com/news/articles/cy68w3z8vdxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy68w3z8vdxo#1</guid>
+            <pubDate>Sat, 27 Jul 2024 15:01:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/68f5/live/e6affaf0-4c1d-11ef-a63e-258ce3a9f30d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[GB's Tarling misses out on medal by two seconds after puncture]]></title>
+            <description><![CDATA[Watch as 20-year-old Josh Tarling loses out on a medal for Great Britain by two seconds after suffering a puncture during the men's road cycling time trials on day one of the Paris 2024 Olympics.]]></description>
+            <link>https://www.bbc.com/sport/olympics/videos/cn38k82j4d3o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/olympics/videos/cn38k82j4d3o#1</guid>
+            <pubDate>Sat, 27 Jul 2024 16:39:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/b6e7/live/a1154c80-4c35-11ef-8f0f-0577398c3339.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The 24 British stars to watch at Paris 2024]]></title>
+            <description><![CDATA[From Olympic golden oldies to fresh-faced debutants, BBC Sport picks out 24 of the Team GB athletes to particularly focus on during Paris 2024.]]></description>
+            <link>https://www.bbc.com/sport/articles/cw9yr4qwwq3o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/articles/cw9yr4qwwq3o#1</guid>
+            <pubDate>Wed, 24 Jul 2024 05:15:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/03e6/live/1cf220a0-42a2-11ef-b83f-157e38fc9c03.png"/>
+        </item>
+        <item>
+            <title><![CDATA['Strong' Peaty wins 100m breaststroke heat]]></title>
+            <description><![CDATA[Watch as GB's Adam Peaty wins his first heat in the men's 100m breaststroke with a time of 59.18 seconds at the Paris 2024 Olympics.]]></description>
+            <link>https://www.bbc.com/sport/swimming/videos/c728ygp4yewo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/swimming/videos/c728ygp4yewo#1</guid>
+            <pubDate>Sat, 27 Jul 2024 10:29:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/b61f/live/e7b03310-4c00-11ef-aebc-6de4d31bf5cd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How to follow the Games across the BBC]]></title>
+            <description><![CDATA[BBC TV channels and times, plus radio and online coverage details for the 2024 Olympic Games in Paris.]]></description>
+            <link>https://www.bbc.com/sport/articles/c0krn1k4wlzo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/articles/c0krn1k4wlzo#1</guid>
+            <pubDate>Fri, 26 Jul 2024 08:49:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/78b8/live/49f78c40-44ee-11ef-96a8-e710c6bfc866.png"/>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: GPs threaten 'standstill' and 'silver for Peaty']]></title>
+            <description><![CDATA[Monday's papers focus on GPs threatening industrial action and Adam Peaty narrowly missing a gold medal. ]]></description>
+            <link>https://www.bbc.com/news/articles/c72vgq6y83po</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c72vgq6y83po#2</guid>
+            <pubDate>Mon, 29 Jul 2024 00:25:28 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/1e8b/live/3aca0be0-4d35-11ef-b2d2-cdb23d5d7c5b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Not every Norwegian feels guilty but many do']]></title>
+            <description><![CDATA[Norway's oil wealth has made it one of the world's richest countries, but some feel bad about it.]]></description>
+            <link>https://www.bbc.com/news/articles/cz5r2mk18k1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz5r2mk18k1o#2</guid>
+            <pubDate>Sun, 28 Jul 2024 23:01:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/3fa1/live/39f3c770-49c4-11ef-8717-1911c42aa067.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Timing, luck or talent - what makes a billionaire?]]></title>
+            <description><![CDATA[Are billionaires good or bad for society - or simply very very rich? The BBC's Simon Jack investigates. ]]></description>
+            <link>https://www.bbc.com/news/articles/cw4yej2n184o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cw4yej2n184o#2</guid>
+            <pubDate>Sun, 28 Jul 2024 23:23:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/8fe6/live/28a4f930-4b72-11ef-b2d2-cdb23d5d7c5b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The 'upside-down' sex life of a rare Indian frog revealed]]></title>
+            <description><![CDATA[In India, a species of frogs mate and lay their eggs while upside down, a new study has found.]]></description>
+            <link>https://www.bbc.com/news/articles/c897l72rl5po</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c897l72rl5po#2</guid>
+            <pubDate>Sun, 28 Jul 2024 23:25:13 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/32f1/live/8e9642b0-457f-11ef-af07-6b25c6781ab7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Matt and Emma Willis on a 'very British' Love is Blind]]></title>
+            <description><![CDATA[Love is Blind is finally hitting the UK - and Matt and Emma Willis are the British version of the Lacheys.]]></description>
+            <link>https://www.bbc.com/news/articles/ce98mvy1317o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce98mvy1317o#2</guid>
+            <pubDate>Mon, 29 Jul 2024 00:52:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/ac35/live/7b001ec0-4b5a-11ef-aebc-6de4d31bf5cd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lebanon fears dangerous new phase in Hezbollah-Israel fighting]]></title>
+            <description><![CDATA[Israel has warned Hezbollah will "pay a heavy price" following the rocket strike on Golan Heights.]]></description>
+            <link>https://www.bbc.com/news/articles/c72vg87rzd5o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c72vg87rzd5o#2</guid>
+            <pubDate>Sun, 28 Jul 2024 15:54:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/f8db/live/9ef989a0-4cff-11ef-bbdb-79e7cc2bb637.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Siren gave children seconds to respond - but they had no chance]]></title>
+            <description><![CDATA[In the Golan Heights town where a rocket killed 12, mostly children, sirens were not enough to save their lives.]]></description>
+            <link>https://www.bbc.com/news/articles/clwy598dyezo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clwy598dyezo#2</guid>
+            <pubDate>Sun, 28 Jul 2024 15:55:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/b25e/live/41d9eb30-4cef-11ef-8f0f-0577398c3339.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why we might never know the truth about ultra-processed foods]]></title>
+            <description><![CDATA[Experts can’t agree how exactly they affect us and it’s not clear that science will give us an answer.]]></description>
+            <link>https://www.bbc.com/news/articles/cpe3pppw1z7o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpe3pppw1z7o#3</guid>
+            <pubDate>Sat, 27 Jul 2024 23:33:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/fe2f/live/df511c90-4a87-11ef-b2d2-cdb23d5d7c5b.png"/>
+        </item>
+        <item>
+            <title><![CDATA[We don't know how many people are having babies - a headache for schools]]></title>
+            <description><![CDATA[Working out how many school pupils to budget for may well prove to be a headache for the government.]]></description>
+            <link>https://www.bbc.com/news/articles/ced3e219lxzo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ced3e219lxzo#3</guid>
+            <pubDate>Wed, 24 Jul 2024 00:37:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6797/live/d7586990-497d-11ef-aada-8989b38db4a8.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Conspiracy theories swirl about geo-engineering, but could it help save the planet?]]></title>
+            <description><![CDATA[If we can’t control rising global temperatures by drastically cutting carbon emissions, could something called geo-engineering be a way to cool the planet?]]></description>
+            <link>https://www.bbc.com/news/articles/c98qp79gj4no</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c98qp79gj4no#3</guid>
+            <pubDate>Sun, 21 Jul 2024 00:10:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/a2ae/live/b5106d90-473b-11ef-96a8-e710c6bfc866.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Unfathomable errors and 'cinnamon bun' strategy: Political end-of-term report cards]]></title>
+            <description><![CDATA[As Parliament approaches summer recess, Laura Kuenssberg reflects on how they've performed over a dizzying few months.]]></description>
+            <link>https://www.bbc.com/news/articles/cpwd65nwq5yo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpwd65nwq5yo#3</guid>
+            <pubDate>Sat, 20 Jul 2024 13:04:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/5f47/live/98975d10-450e-11ef-96a8-e710c6bfc866.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Download now]]></title>
+            <description><![CDATA[Top stories, breaking news, live reporting, and follow news topics that match your interests]]></description>
+            <link>https://www.bbc.co.uk/news/10628994</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/10628994#4</guid>
+            <pubDate>Tue, 13 Jun 2023 10:25:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Obituary: Edna O'Brien, the writer whose novels created scandal and were banned]]></title>
+            <description><![CDATA[Edna O'Brien will always be known as the controversial Irish novelist who scandalised Catholic Ireland.]]></description>
+            <link>https://www.bbc.com/news/articles/cpwweg4zgv2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpwweg4zgv2o#5</guid>
+            <pubDate>Sun, 28 Jul 2024 18:30:05 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/febe/live/4bec72d0-4d0f-11ef-b2d2-cdb23d5d7c5b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Olympic chiefs 'sorry' opening ceremony caused offence]]></title>
+            <description><![CDATA[Paris Olympic Games organisers say they are "sorry" if scenes in Friday's opening ceremony caused offence.]]></description>
+            <link>https://www.bbc.com/sport/olympics/articles/cw4yqvegkexo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/olympics/articles/cw4yqvegkexo#5</guid>
+            <pubDate>Sun, 28 Jul 2024 16:34:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/dfac/live/e959ad60-4cfd-11ef-bbdb-79e7cc2bb637.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Thousands greet Armagh squad after All-Ireland win]]></title>
+            <description><![CDATA[The Armagh GAA team, who won the All-Ireland final receive a rapturous welcome from fans on Sunday night.]]></description>
+            <link>https://www.bbc.com/news/articles/c2v0ynqjxpxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2v0ynqjxpxo#5</guid>
+            <pubDate>Sun, 28 Jul 2024 22:04:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/9cf0/live/12916830-4d26-11ef-98da-d31c9aa6198c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fox cub freed after getting stuck in garden chair]]></title>
+            <description><![CDATA[The RSPCA says the cub has been taken to the Wildlife Aid Foundation for treatment.]]></description>
+            <link>https://www.bbc.com/news/articles/cz9xep7e0x3o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz9xep7e0x3o#5</guid>
+            <pubDate>Sun, 28 Jul 2024 10:38:22 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/8f99/live/556630c0-4cca-11ef-bef2-05c014ae87a7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Huge California wildfire tears through 5,000 acres every hour]]></title>
+            <description><![CDATA[It is the seventh largest fire ever recorded in the state, and is only 10% contained.]]></description>
+            <link>https://www.bbc.com/news/articles/cd1dlzy04l8o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd1dlzy04l8o#5</guid>
+            <pubDate>Sun, 28 Jul 2024 12:55:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/9088/live/4bc42a30-4c26-11ef-b2d2-cdb23d5d7c5b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Neighbours star Janet Andrewartha dies ]]></title>
+            <description><![CDATA[The actress joined the long running in Australian soap in 1999 as Lynn Scully. ]]></description>
+            <link>https://www.bbc.com/news/articles/crgrve07pq8o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crgrve07pq8o#5</guid>
+            <pubDate>Sun, 28 Jul 2024 14:24:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/595d/live/ed744340-4d40-11ef-8b83-692cf528f00c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Robert Downey Jr to return to Marvel as Doctor Doom]]></title>
+            <description><![CDATA[The actor is due to appear in his new role in 2026, seven years after his last Marvel appearance. ]]></description>
+            <link>https://www.bbc.com/news/articles/ckrgd7eek09o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckrgd7eek09o#5</guid>
+            <pubDate>Sun, 28 Jul 2024 08:50:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/8b35/live/ad4ca5f0-4cc3-11ef-aebc-6de4d31bf5cd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Olympics: Is Paris poised for success?]]></title>
+            <description><![CDATA[France grapples with politics, climate and security as the Games begin]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/w3ct6dwh</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/w3ct6dwh#7</guid>
+            <pubDate>Fri, 26 Jul 2024 07:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0gstygv.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mary Beard on power, succession and rebellions]]></title>
+            <description><![CDATA[Amol and Nick get a classical take on current US and UK politics.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/m0021bf3</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/m0021bf3#7</guid>
+            <pubDate>Thu, 25 Jul 2024 05:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0j938rc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Disqualifications, strategy & mistakes - F1 back to its unpredictable best]]></title>
+            <description><![CDATA[Mercedes’ stunning third win in four races proves there is plenty of life in the F1 season going into the summer break.]]></description>
+            <link>https://www.bbc.com/sport/articles/c98q9p5v32xo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/articles/c98q9p5v32xo#9</guid>
+            <pubDate>Sun, 28 Jul 2024 18:57:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/32b3/live/4f66ceb0-4d1e-11ef-bb70-d30a89604de5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Peaty denied by Italian Martinenghi in Olympic final]]></title>
+            <description><![CDATA[Adam Peaty has to settle for Olympic silver as Italian Nicolo Martinenghi snatches gold in the 100m breaststroke final in Paris.]]></description>
+            <link>https://www.bbc.com/sport/olympics/articles/cxr2kx0lgnko</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/olympics/articles/cxr2kx0lgnko#9</guid>
+            <pubDate>Sun, 28 Jul 2024 19:59:27 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/5033/live/f8fa8520-4d1e-11ef-bb70-d30a89604de5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['England took step forward but still not finished article']]></title>
+            <description><![CDATA[England's Test series win over West Indies shows the team's "progression" but they are "not the finished article" according to coach Brendon McCullum.]]></description>
+            <link>https://www.bbc.com/sport/cricket/articles/c06km7xev3do</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/cricket/articles/c06km7xev3do#9</guid>
+            <pubDate>Sun, 28 Jul 2024 18:03:58 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/9f82/live/4564fd00-4d0b-11ef-b2d2-cdb23d5d7c5b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Olympic chiefs 'sorry' opening ceremony caused offence]]></title>
+            <description><![CDATA[Paris Olympic Games organisers say they are "sorry" if scenes in Friday's opening ceremony caused offence.]]></description>
+            <link>https://www.bbc.com/sport/olympics/articles/cw4yqvegkexo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/olympics/articles/cw4yqvegkexo#9</guid>
+            <pubDate>Sun, 28 Jul 2024 16:34:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/dfac/live/e959ad60-4cfd-11ef-bbdb-79e7cc2bb637.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[France's Marchand wins 400m medley gold in Olympic record time]]></title>
+            <description><![CDATA[France's Leon Marchand dominates the 400m individual medley to win gold in a new Olympic record time.]]></description>
+            <link>https://www.bbc.com/sport/olympics/articles/cpwd7yp1qx9o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/olympics/articles/cpwd7yp1qx9o#9</guid>
+            <pubDate>Sun, 28 Jul 2024 19:52:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/e5b4/live/d06f4d40-4d12-11ef-aa25-21ab9d719302.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Biles dazzles on Olympic gymnastics return]]></title>
+            <description><![CDATA[American gymnast Simone Biles dazzles on her Olympics return and shows she is back to her best three years after suffering the "twisties".   ]]></description>
+            <link>https://www.bbc.com/sport/olympics/articles/cd1j029mzgyo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/olympics/articles/cd1j029mzgyo#9</guid>
+            <pubDate>Sun, 28 Jul 2024 11:33:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/ea74/live/1b07c840-4cd3-11ef-8519-8f19f03b6a25.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['She was flying' - GB's Woods wins kayak bronze]]></title>
+            <description><![CDATA[Watch as GB's Kimberley Woods wins bronze in the women's kayak singles final at the Paris 2024 Olympics.]]></description>
+            <link>https://www.bbc.com/sport/olympics/videos/ce4qez5lle2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/olympics/videos/ce4qez5lle2o#9</guid>
+            <pubDate>Sun, 28 Jul 2024 16:51:24 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/8205/live/5563c880-4d06-11ef-8f0f-0577398c3339.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mum's school CCTV plea after autistic son attacked]]></title>
+            <description><![CDATA[Charlotte's son was attacked repeatedly by a teaching assistant while he was at school.]]></description>
+            <link>https://www.bbc.com/news/articles/cye021d192jo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cye021d192jo#10</guid>
+            <pubDate>Mon, 29 Jul 2024 00:41:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/3a91/live/c759b350-4a6d-11ef-b2d2-cdb23d5d7c5b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Thousands greet Armagh squad after All-Ireland win]]></title>
+            <description><![CDATA[The Armagh GAA team, who won the All-Ireland final receive a rapturous welcome from fans on Sunday night.]]></description>
+            <link>https://www.bbc.com/news/articles/c2v0ynqjxpxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2v0ynqjxpxo#10</guid>
+            <pubDate>Sun, 28 Jul 2024 22:04:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/9cf0/live/12916830-4d26-11ef-98da-d31c9aa6198c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Former Gladiators referee John Anderson dies aged 92]]></title>
+            <description><![CDATA[The Scottish sports coach appeared in the show's original ITV run from1992 to 2000 and in its 2008 Sky revamp.]]></description>
+            <link>https://www.bbc.com/news/articles/c0jqv9dlyxwo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0jqv9dlyxwo#10</guid>
+            <pubDate>Sun, 28 Jul 2024 23:10:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/300d/live/1b22c350-4d20-11ef-bb70-d30a89604de5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Prison self-harm incidents more than double]]></title>
+            <description><![CDATA[Figures reveal across Welsh prisons, there was a self-harming incident on average every two hours.]]></description>
+            <link>https://www.bbc.com/news/articles/cq5x14qzxw5o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cq5x14qzxw5o#10</guid>
+            <pubDate>Sun, 28 Jul 2024 21:00:14 GMT</pubDate>
+            <media:thumbnail width="240" height="115" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/6175/live/96de1c60-4b45-11ef-aebc-6de4d31bf5cd.png"/>
+        </item>
+    </channel>
+</rss>
