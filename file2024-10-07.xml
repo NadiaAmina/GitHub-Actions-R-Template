@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - News Front Page]]></description>
+        <link>https://www.bbc.co.uk/news</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 07 Oct 2024 01:57:17 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Bowen: Year of killing and broken assumptions has taken Middle East to edge of deeper, wider war]]></title>
+            <description><![CDATA[Twelve months on from the 7 October attacks which led to Israel's war in Gaza, our international editor says the region is on the edge of something even worse.]]></description>
+            <link>https://www.bbc.com/news/articles/c781vgy3918o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c781vgy3918o#0</guid>
+            <pubDate>Sun, 06 Oct 2024 17:46:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1782/live/319199a0-8415-11ef-83dd-fbf1b9732cf0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I felt like my heart was going to explode': Beirut reels from heaviest night of strikes]]></title>
+            <description><![CDATA[A doctor tells the BBC of the moment she found out her clinic was next to an Israeli target building.]]></description>
+            <link>https://www.bbc.com/news/articles/cpqzyvv2g4vo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpqzyvv2g4vo#0</guid>
+            <pubDate>Sun, 06 Oct 2024 17:36:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9844/live/61335900-8406-11ef-ad45-893aa022fcbc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sue Gray quits as Sir Keir Starmer's chief of staff]]></title>
+            <description><![CDATA[She is leaving after rows over pay and donations and will take up a new role as the prime minister's regional envoy.]]></description>
+            <link>https://www.bbc.com/news/articles/cdenx2p32jxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdenx2p32jxo#0</guid>
+            <pubDate>Sun, 06 Oct 2024 20:30:13 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63c2/live/5dcce890-841e-11ef-822c-a50726bfda2e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chris Mason: Why it was likely Sue Gray would go]]></title>
+            <description><![CDATA[Those working alongside the ex-chief of staff were flipping angry, the BBC's political editor writes. ]]></description>
+            <link>https://www.bbc.com/news/articles/c0jwv9v95yzo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0jwv9v95yzo#0</guid>
+            <pubDate>Sun, 06 Oct 2024 22:10:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2838/live/3803b4b0-8403-11ef-9b8b-8d7d5e354c54.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Deadly blast hits convoy of Chinese engineers in Pakistan]]></title>
+            <description><![CDATA[The explosion close to Karashi airport kills two Chinese nationals.]]></description>
+            <link>https://www.bbc.com/news/articles/c0r84p0dp1jo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0r84p0dp1jo#0</guid>
+            <pubDate>Mon, 07 Oct 2024 00:56:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06f2/live/4286e000-8445-11ef-9afa-511db94b92c7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[British-Israeli hostage has been forgotten, says mum]]></title>
+            <description><![CDATA[A mother calls for the UK to do more to rescue her daughter, taken as a hostage during the 7 October attacks.]]></description>
+            <link>https://www.bbc.com/news/articles/ce3we9n0v79o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce3we9n0v79o#0</guid>
+            <pubDate>Mon, 07 Oct 2024 00:04:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24a4/live/43446010-83f7-11ef-ad45-893aa022fcbc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[One dead after explosion at flats in Alloa]]></title>
+            <description><![CDATA[Police confirm a man died at the scene and three others were injured in the blast in Clackmannanshire.]]></description>
+            <link>https://www.bbc.com/news/articles/cy4dgr9v0wro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy4dgr9v0wro#0</guid>
+            <pubDate>Sun, 06 Oct 2024 23:41:58 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69f1/live/bad4e480-8427-11ef-bbc0-71f4ea554827.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Judi Dench speaks of grief after Maggie Smith's death]]></title>
+            <description><![CDATA[The two stars were the same age, and had performed together on numerous occasions over the decades.]]></description>
+            <link>https://www.bbc.com/news/articles/c756xz27dewo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c756xz27dewo#0</guid>
+            <pubDate>Sun, 06 Oct 2024 13:00:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7164/live/573bbaf0-83bb-11ef-87d7-6942ff70cb08.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Climbers rescued after three days on mountain]]></title>
+            <description><![CDATA[Fay Manners says she is "mentally destroyed" after a battle for survival 20,000ft up a mountain.]]></description>
+            <link>https://www.bbc.com/news/articles/c93y147z4pdo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c93y147z4pdo#0</guid>
+            <pubDate>Sun, 06 Oct 2024 16:14:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25a7/live/3a46bd50-83f7-11ef-8702-79eb224b4a35.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Parents' tribute to boy, eight, shot at farm]]></title>
+            <description><![CDATA[The parents of Jay Cartmell say he was "loved by all who met him".]]></description>
+            <link>https://www.bbc.com/news/articles/cwy98nwnzp3o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwy98nwnzp3o#0</guid>
+            <pubDate>Sun, 06 Oct 2024 12:56:35 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a2a/live/fb840690-83ce-11ef-bdde-6703ecb6f955.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Radio 2 DJ Johnnie Walker retires from BBC]]></title>
+            <description><![CDATA[He will step down from Sounds of the 70s and The Rock Show at the end of this month due to ill health.]]></description>
+            <link>https://www.bbc.com/news/articles/cn8j26816ygo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn8j26816ygo#0</guid>
+            <pubDate>Sun, 06 Oct 2024 16:22:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a420/live/f07a8610-8401-11ef-ad45-893aa022fcbc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Antisemitic incidents in US surge to record high - report]]></title>
+            <description><![CDATA[The Anti-Defamation League identified 10,000 antisemitic incidents in the year after the 7 October attacks.]]></description>
+            <link>https://www.bbc.com/news/articles/c9wkxv9d99vo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9wkxv9d99vo#0</guid>
+            <pubDate>Sun, 06 Oct 2024 22:32:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f09/live/9c88a3d0-842d-11ef-acdb-0d0bc8d9fbf7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Bags of sweets amid rubble of flattened Beirut building']]></title>
+            <description><![CDATA[The BBC's Hugo Bachega reports from the scene of an overnight Israeli strike in Lebanon.]]></description>
+            <link>https://www.bbc.com/news/videos/czxd3yvkzn5o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/czxd3yvkzn5o#1</guid>
+            <pubDate>Sun, 06 Oct 2024 12:20:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99a2/live/c1926cd0-83db-11ef-ad45-893aa022fcbc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israeli kibbutz struggles to heal, one year after 7 October]]></title>
+            <description><![CDATA[A year since scores of people were killed here, the collective is splintered - psychologically and physically.]]></description>
+            <link>https://www.bbc.com/news/articles/c30305l5jqpo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c30305l5jqpo#1</guid>
+            <pubDate>Fri, 04 Oct 2024 23:15:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b189/live/cd3c09f0-8260-11ef-83dd-fbf1b9732cf0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: BBC reporter in the midst of rocket fire into Israel]]></title>
+            <description><![CDATA[The BBC's Nick Beake reports from northern Israel, where Hezbollah continues to fire rockets into Israel.]]></description>
+            <link>https://www.bbc.com/news/videos/cx2ke88kx0ro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cx2ke88kx0ro#1</guid>
+            <pubDate>Sat, 05 Oct 2024 19:57:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e32e/live/f66af8d0-8351-11ef-822c-a50726bfda2e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Macron calls to halt arms deliveries to Israel in Gaza war]]></title>
+            <description><![CDATA[The French president's call was swiftly criticised by Israel's PM Benjamin Netanyahu. ]]></description>
+            <link>https://www.bbc.com/news/articles/cjr3zd4d8y5o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cjr3zd4d8y5o#1</guid>
+            <pubDate>Sun, 06 Oct 2024 02:46:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fd2/live/32dc3060-8378-11ef-83dd-fbf1b9732cf0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The week that pushed the Middle East closer to all-out war]]></title>
+            <description><![CDATA[There have been many moments of extreme danger over the past year. This is the worst.]]></description>
+            <link>https://www.bbc.com/news/articles/c0r89qwwx2lo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0r89qwwx2lo#1</guid>
+            <pubDate>Fri, 04 Oct 2024 21:47:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3711/live/ddaaacd0-82e0-11ef-83dd-fbf1b9732cf0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Scottish family angry after mum blocked from fleeing Lebanon]]></title>
+            <description><![CDATA[Nadia Ayoub McCulloch was turned away by officials as she does not have a UK passport or visa.]]></description>
+            <link>https://www.bbc.com/news/articles/cx25egegpx6o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx25egegpx6o#1</guid>
+            <pubDate>Sat, 05 Oct 2024 13:44:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4dc/live/4abdc560-829a-11ef-b940-ff2565ec78a0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[In maps: Where is fighting happening in Lebanon?]]></title>
+            <description><![CDATA[A visual guide to the latest developments in the conflict between Israel and Hezbollah.]]></description>
+            <link>https://www.bbc.com/news/articles/c9vp7dg3ml1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9vp7dg3ml1o#1</guid>
+            <pubDate>Fri, 04 Oct 2024 13:54:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ebd/live/8e9f5550-8015-11ef-822c-a50726bfda2e.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Ten experts analyse what might happen next]]></title>
+            <description><![CDATA[A group of experts on whether the map of the region is being redrawn, what comes next, and what can help avert all-out war]]></description>
+            <link>https://www.bbc.com/news/articles/clylzx1xz2yo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clylzx1xz2yo#1</guid>
+            <pubDate>Fri, 04 Oct 2024 12:51:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d85d/live/664fa0a0-824a-11ef-ad45-893aa022fcbc.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Your questions about the conflict answered]]></title>
+            <description><![CDATA[Our experts take your questions on the ongoing conflict in the Middle East]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/l0056skn</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/l0056skn#1</guid>
+            <pubDate>Thu, 03 Oct 2024 15:58:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0jvgvnz.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Six hours at hands of Hamas - new accounts reveal how Israeli base fell on 7 October]]></title>
+            <description><![CDATA[The BBC has seen an army account of how Hamas overran a base, and spoken to survivors and bereaved families.]]></description>
+            <link>https://www.bbc.com/news/articles/cg7825rk8j9o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cg7825rk8j9o#1</guid>
+            <pubDate>Fri, 04 Oct 2024 13:06:24 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/145a/live/b6768480-8197-11ef-822c-a50726bfda2e.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Download now]]></title>
+            <description><![CDATA[Top stories, breaking news, live reporting, and follow news topics that match your interests]]></description>
+            <link>https://www.bbc.co.uk/news/10628994</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/10628994#2</guid>
+            <pubDate>Tue, 20 Aug 2024 11:35:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Orla Gartland: US tour will cost me thousands]]></title>
+            <description><![CDATA[The indie musician says she is spending £40,000 of her own money to play the tour of her dreams.]]></description>
+            <link>https://www.bbc.com/news/articles/c5y923k2pwro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y923k2pwro#3</guid>
+            <pubDate>Sun, 06 Oct 2024 23:50:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da30/live/7f8440e0-843d-11ef-83dd-fbf1b9732cf0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: 'Gray ousted' and 'Israel remembers']]></title>
+            <description><![CDATA[Sue Gray's exit and Israel's memorial for the 7 October attack headline several of Monday's papers.]]></description>
+            <link>https://www.bbc.com/news/articles/cly2g189pn0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly2g189pn0o#3</guid>
+            <pubDate>Sun, 06 Oct 2024 23:09:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff11/live/70686b10-8431-11ef-822c-a50726bfda2e.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Oasis on the Adriatic where Ukrainians and Russians have gone to escape war]]></title>
+            <description><![CDATA[Immigrants descended in large numbers on Montenegro, which has managed the influx despite its small size.]]></description>
+            <link>https://www.bbc.com/news/articles/cyvye9l43dgo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cyvye9l43dgo#3</guid>
+            <pubDate>Sun, 06 Oct 2024 23:38:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5da6/live/af89e050-7c19-11ef-b653-bf60a102ba1c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘Perfect storm’ blocking thousands of desperately needed social homes]]></title>
+            <description><![CDATA[Housebuilders say they have thousands of social homes ready to be built but no customers to buy them.]]></description>
+            <link>https://www.bbc.com/news/articles/czegynwy938o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czegynwy938o#3</guid>
+            <pubDate>Mon, 07 Oct 2024 00:11:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43b8/live/47654860-7db4-11ef-81e9-492d3670cee3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Barlinnie destroyed me, but it also made me a better person']]></title>
+            <description><![CDATA[Jimmy Boyle fought his incarceration at Scotland's most notorious prison, but it led him to becoming a celebrated artist.]]></description>
+            <link>https://www.bbc.com/news/articles/c0r8980gvvwo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0r8980gvvwo#3</guid>
+            <pubDate>Sun, 06 Oct 2024 21:16:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbc7/live/d55fe4c0-822f-11ef-9525-d3045140a49e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ghost guns and transgender care: Major cases before US Supreme Court ]]></title>
+            <description><![CDATA[The top US court is back in session with cases that may affect American life - and its standing in the public.]]></description>
+            <link>https://www.bbc.com/news/articles/c206zn2gy37o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c206zn2gy37o#3</guid>
+            <pubDate>Sun, 06 Oct 2024 22:06:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2655/live/59cea7c0-83f0-11ef-8702-79eb224b4a35.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Original Doctor Who star ponders 'emotional' return]]></title>
+            <description><![CDATA[Carole Ann Ford is the last surviving original cast member of the first Doctor Who series.]]></description>
+            <link>https://www.bbc.com/news/articles/cly6kx3ywq4o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly6kx3ywq4o#3</guid>
+            <pubDate>Sun, 06 Oct 2024 11:16:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d20/live/d9ff5200-83e6-11ef-891f-b57449f0c027.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Unholy row over plan to open island supermarket on Sundays]]></title>
+            <description><![CDATA[Tesco has started consultations about opening seven days a week on the Isle of Lewis.]]></description>
+            <link>https://www.bbc.com/news/articles/cly695ke43lo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly695ke43lo#4</guid>
+            <pubDate>Sun, 06 Oct 2024 12:25:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d27d/live/cd760030-83d5-11ef-83dd-fbf1b9732cf0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Woman gets reply about job application - 48 years on]]></title>
+            <description><![CDATA[The Post Office returns a letter discovered 48 years after Tizi Hodson applied for her dream job.]]></description>
+            <link>https://www.bbc.com/news/articles/cm240jyl09go</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm240jyl09go#4</guid>
+            <pubDate>Sun, 06 Oct 2024 06:11:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a04/live/f674c310-8270-11ef-8db3-192fa52ea1e6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Family want to buy farm to dig for body]]></title>
+            <description><![CDATA[The family believe the body of Muriel McKay, who was kidnapped and murdered in 1969, is at the site.]]></description>
+            <link>https://www.bbc.com/news/articles/c8j7rx7w14xo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8j7rx7w14xo#4</guid>
+            <pubDate>Sun, 06 Oct 2024 05:39:53 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d896/live/ab0045f0-826e-11ef-8db3-192fa52ea1e6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Passenger who got on 'wrong plane' arrested]]></title>
+            <description><![CDATA[A flight was delayed at Manchester Airport after a man "incorrectly" boarded it, EasyJet says.]]></description>
+            <link>https://www.bbc.com/news/articles/c981p4vz5vdo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c981p4vz5vdo#4</guid>
+            <pubDate>Sun, 06 Oct 2024 10:01:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe90/live/61b8f070-83c9-11ef-bdde-6703ecb6f955.png"/>
+        </item>
+        <item>
+            <title><![CDATA['Rightmove is my porn' - the addiction to online property search]]></title>
+            <description><![CDATA[Why are we so obsessed with looking at houses for sale online?]]></description>
+            <link>https://www.bbc.com/news/articles/c77xdp1e56yo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c77xdp1e56yo#4</guid>
+            <pubDate>Sat, 05 Oct 2024 23:36:55 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8196/live/f3b2fc50-81b2-11ef-9afe-132b10d24e77.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Setback for black student suspended over dreadlocks]]></title>
+            <description><![CDATA[Darryl George was suspended from his Houston-area high school over his dreadlocks. ]]></description>
+            <link>https://www.bbc.com/news/articles/c1wn91xn87zo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1wn91xn87zo#4</guid>
+            <pubDate>Sat, 05 Oct 2024 17:12:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d922/live/6ecca500-8337-11ef-ad45-893aa022fcbc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[More than 900 migrants arrive in small boats in a day]]></title>
+            <description><![CDATA[Another 973 people arrived in the UK by small boat on Saturday, according to the Home Office.]]></description>
+            <link>https://www.bbc.com/news/articles/c89lqg90q38o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c89lqg90q38o#4</guid>
+            <pubDate>Sun, 06 Oct 2024 13:01:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8638/live/01db4070-83da-11ef-bdde-6703ecb6f955.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Is The Middle East Shaping UK Politics? (+ Sue Gray Quits!)]]></title>
+            <description><![CDATA[The morning after the ‘worst night so far’ of attacks in Beirut.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0jvzmlr</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0jvzmlr#6</guid>
+            <pubDate>Sun, 06 Oct 2024 13:14:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0js3fbv.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Will conflict in the Middle East impact the US election?]]></title>
+            <description><![CDATA[And how much influence will the next president have on the region?]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/m0023gl5</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/m0023gl5#6</guid>
+            <pubDate>Fri, 04 Oct 2024 13:44:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0jvnym4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What now for Ten Hag? Five things for Man Utd bosses to consider]]></title>
+            <description><![CDATA[Manchester United battled to a hard-earned draw at Aston Villa - but what does it mean for under-pressure manager Erik ten Hag?]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cd0zydxrpl8o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd0zydxrpl8o#8</guid>
+            <pubDate>Sun, 06 Oct 2024 19:09:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5b2/live/3d2c6b90-840c-11ef-83dd-fbf1b9732cf0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[England cut loose in ruthless win over New Zealand]]></title>
+            <description><![CDATA[England produced a clinical attacking display in a nine-try win over New Zealand to move closer to retaining their WXV1 title in Canada.]]></description>
+            <link>https://www.bbc.com/sport/rugby-union/articles/cp8l2jem35do</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/rugby-union/articles/cp8l2jem35do#8</guid>
+            <pubDate>Sun, 06 Oct 2024 22:08:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e875/live/ae8cb000-843a-11ef-822c-a50726bfda2e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Postecoglou unhappy with 'worst' Tottenham defeat ]]></title>
+            <description><![CDATA[Tottenham manager Ange Postecoglou calls his side's collapse against Brighton in the Premier League "probably the worst defeat since I've been here".]]></description>
+            <link>https://www.bbc.com/sport/football/articles/clyl1dj98leo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clyl1dj98leo#8</guid>
+            <pubDate>Sun, 06 Oct 2024 19:12:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7aaf/live/6249ad60-843a-11ef-83dd-fbf1b9732cf0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How 'coasting' Spurs lost 'a game of two halves']]></title>
+            <description><![CDATA[Match of the Day 2 pundits Joe Hart, Stephen Warnock and former Brighton manager Graham Potter analyse the Seagulls' 3-2 victory over Tottenham.]]></description>
+            <link>https://www.bbc.com/sport/football/videos/cn0eyk4xzljo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cn0eyk4xzljo#8</guid>
+            <pubDate>Sun, 06 Oct 2024 23:01:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50f9/live/a4d7c4d0-8432-11ef-822c-a50726bfda2e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Who has made Troy's Premier League team of the week?]]></title>
+            <description><![CDATA[After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cj31vy2433xo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj31vy2433xo#8</guid>
+            <pubDate>Sun, 06 Oct 2024 19:39:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4f1/live/2f4e5d30-8411-11ef-822c-a50726bfda2e.png"/>
+        </item>
+        <item>
+            <title><![CDATA[England 'realistic' about Pakistan - McCullum]]></title>
+            <description><![CDATA[Coach Brendon McCullum says England are “realistic” about the challenge in Pakistan, despite their recent success here and the hosts’ awful run of form.]]></description>
+            <link>https://www.bbc.com/sport/cricket/articles/cy5y9r37pkro</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/cricket/articles/cy5y9r37pkro#8</guid>
+            <pubDate>Sun, 06 Oct 2024 12:00:33 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e8a/live/40a4ef20-83cd-11ef-bdde-6703ecb6f955.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Climbers rescued after three days on mountain]]></title>
+            <description><![CDATA[Fay Manners says she is "mentally destroyed" after a battle for survival 20,000ft up a mountain.]]></description>
+            <link>https://www.bbc.com/news/articles/c93y147z4pdo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c93y147z4pdo#9</guid>
+            <pubDate>Sun, 06 Oct 2024 16:14:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25a7/live/3a46bd50-83f7-11ef-8702-79eb224b4a35.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SDLP joins call for questions over Sinn Féin references]]></title>
+            <description><![CDATA[Claire Hanna says Sinn Féin has not responded to the McMonagle case in a "satisfactory way".]]></description>
+            <link>https://www.bbc.com/news/articles/cjd5jedg8m7o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cjd5jedg8m7o#9</guid>
+            <pubDate>Sun, 06 Oct 2024 12:30:59 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e24/live/036f5eb0-83be-11ef-87d7-6942ff70cb08.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[One dead after explosion at flats in Alloa]]></title>
+            <description><![CDATA[Police confirm a man died at the scene and three others were injured in the blast in Clackmannanshire.]]></description>
+            <link>https://www.bbc.com/news/articles/cy4dgr9v0wro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy4dgr9v0wro#9</guid>
+            <pubDate>Sun, 06 Oct 2024 23:41:58 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69f1/live/bad4e480-8427-11ef-bbc0-71f4ea554827.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man 'obsessively' checks rivers after shop damaged]]></title>
+            <description><![CDATA[A man whose shop building was damaged by storms says he is worried it will happen again.]]></description>
+            <link>https://www.bbc.com/news/articles/cr75le4j4epo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cr75le4j4epo#9</guid>
+            <pubDate>Sun, 06 Oct 2024 20:45:52 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9173/live/32180af0-8355-11ef-8db5-3357ca64afb8.jpg"/>
+        </item>
+    </channel>
+</rss>
