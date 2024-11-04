@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - News Front Page]]></description>
+        <link>https://www.bbc.co.uk/news</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 04 Nov 2024 01:57:27 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[What Harris's years as a prosecutor reveal about who she is now]]></title>
+            <description><![CDATA[A look back at the Democratic candidate's career in California shows her struggle to define herself to the public began long before she came to Washington.]]></description>
+            <link>https://www.bbc.com/news/articles/cly2d4evq5po</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly2d4evq5po#0</guid>
+            <pubDate>Sun, 03 Nov 2024 08:32:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0720/live/110b06b0-99cf-11ef-9260-19e6a950e830.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Spain's king and queen pelted with mud in flood-hit Valencia]]></title>
+            <description><![CDATA[Protesters shouted "murderer" at Felipe VI, who was also asked why nothing had been done to avoid the tragedy. ]]></description>
+            <link>https://www.bbc.com/news/articles/c5ypgjg2jrpo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5ypgjg2jrpo#0</guid>
+            <pubDate>Sun, 03 Nov 2024 19:41:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0927/live/3ee403a0-9a26-11ef-9260-19e6a950e830.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[PM targets 'national threat' of people smugglers]]></title>
+            <description><![CDATA[Sir Keir Starmer wants to reset the UK's approach to border security, after ditching the Rwanda plan.]]></description>
+            <link>https://www.bbc.com/news/articles/cwy1n2nwnyjo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwy1n2nwnyjo#0</guid>
+            <pubDate>Mon, 04 Nov 2024 01:28:50 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bc1/live/2e2376f0-99f8-11ef-a5b4-915bb6d7e4b3.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Slavery reparations not about transfer of cash, says Lammy]]></title>
+            <description><![CDATA[Speaking in Nigeria, the UK foreign secretary said he wanted Britain to develop relations with Africa.]]></description>
+            <link>https://www.bbc.com/news/articles/cvgkpy4634go</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgkpy4634go#0</guid>
+            <pubDate>Mon, 04 Nov 2024 01:02:38 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4e2/live/d2a3a400-9a22-11ef-a46f-5d552daef854.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Domestic violence should not be taboo subject, says Queen]]></title>
+            <description><![CDATA[The Queen talks to survivors of domestic violence in a forthcoming TV documentary.]]></description>
+            <link>https://www.bbc.com/news/articles/c9wr5ypwpxpo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9wr5ypwpxpo#0</guid>
+            <pubDate>Sun, 03 Nov 2024 20:06:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4341/live/529c7dd0-96d6-11ef-870b-356459e6684f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watchdog says cladding removal deadline may be missed]]></title>
+            <description><![CDATA[It says up to 60% of buildings with dangerous cladding have still not been identified.]]></description>
+            <link>https://www.bbc.com/news/articles/c0qd1pxqe08o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0qd1pxqe08o#0</guid>
+            <pubDate>Mon, 04 Nov 2024 01:22:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e7c/live/85263570-9889-11ef-a53f-31f6b3d0fc70.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pro-EU leader claims Moldova victory despite alleged Russian meddling]]></title>
+            <description><![CDATA[Maia Sandu said she would be president for all, after a run-off against a rival backed by a pro-Russian party.]]></description>
+            <link>https://www.bbc.com/news/articles/cz7w9dglzzlo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz7w9dglzzlo#0</guid>
+            <pubDate>Mon, 04 Nov 2024 00:06:56 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af52/live/de3f1260-9a3e-11ef-aa38-57ba4d68f534.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Don't delay' making stroke 999 call - NHS]]></title>
+            <description><![CDATA[The average time taken to call an ambulance for a stroke was nearly 88 minutes, analysis found.]]></description>
+            <link>https://www.bbc.com/news/articles/ce9g810m8kxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce9g810m8kxo#0</guid>
+            <pubDate>Mon, 04 Nov 2024 01:38:11 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddef/live/ff897370-986d-11ef-9a64-e3368355d750.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sainsbury's to rival Aldi prices in smallest stores]]></title>
+            <description><![CDATA[It follows criticism that shopping in convenience stores can be more expensive than main supermarkets.]]></description>
+            <link>https://www.bbc.com/news/articles/cjw045jl9wxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cjw045jl9wxo#0</guid>
+            <pubDate>Mon, 04 Nov 2024 00:01:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/137c/live/5d6607d0-9853-11ef-9260-19e6a950e830.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Badenoch makes new chief whip first shadow cabinet appointment]]></title>
+            <description><![CDATA[It is the first shadow cabinet appointment Kemi Badenoch has made since becoming leader of the Conservatives.]]></description>
+            <link>https://www.bbc.com/news/articles/cr5md9rqy0eo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cr5md9rqy0eo#0</guid>
+            <pubDate>Sun, 03 Nov 2024 19:57:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5cf/live/1159dca0-9a14-11ef-9852-95dc1d6e0bb6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Family dog to be destroyed after girl, 10, killed]]></title>
+            <description><![CDATA[Police say the attack was "out of character" as the girl and dog had a "close, loving relationship".]]></description>
+            <link>https://www.bbc.com/news/articles/cz0m12gy8r8o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz0m12gy8r8o#0</guid>
+            <pubDate>Sun, 03 Nov 2024 18:02:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8993/live/248bfcd0-9a06-11ef-9624-1117bdd718b2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Who is ahead in the polls?]]></title>
+            <description><![CDATA[An in-depth look at the polls and what they can and can’t tell us about who will win the election.]]></description>
+            <link>https://www.bbc.com/news/articles/cj4x71znwxdo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj4x71znwxdo#1</guid>
+            <pubDate>Sun, 03 Nov 2024 20:31:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e457/live/d48d2d60-6f55-11ef-8c1a-df523ba43a9a.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Staying up? Here’s all you need to know about election night]]></title>
+            <description><![CDATA[After a super-close race, here is what we might - and might not - learn overnight.]]></description>
+            <link>https://www.bbc.com/news/articles/clyvr5k4epdo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clyvr5k4epdo#1</guid>
+            <pubDate>Sun, 03 Nov 2024 11:09:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc80/live/ad2c2be0-9791-11ef-9260-19e6a950e830.png"/>
+        </item>
+        <item>
+            <title><![CDATA[What would Harris and Trump do in power?]]></title>
+            <description><![CDATA[Economy, immigration, abortion and other top issues - here is where the two candidates stand.]]></description>
+            <link>https://www.bbc.com/news/articles/cwy343z53l1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwy343z53l1o#1</guid>
+            <pubDate>Sat, 02 Nov 2024 21:20:11 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aead/live/a0cd6930-6f83-11ef-8c1a-df523ba43a9a.png"/>
+        </item>
+        <item>
+            <title><![CDATA[A really simple guide to the election, with two days to go]]></title>
+            <description><![CDATA[Trying to understand it for the first time or need a refresher? This guide can help.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-67285325</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-67285325#1</guid>
+            <pubDate>Tue, 22 Oct 2024 11:51:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/E8D7/production/_133470695_us-elec-guide-976-header-nc-1.png"/>
+        </item>
+        <item>
+            <title><![CDATA[‘Lying talent agent took our money and dreams’]]></title>
+            <description><![CDATA[A talent agent who supplied actors to shows on the BBC and Netflix withheld cash due to them, former clients claim.]]></description>
+            <link>https://www.bbc.com/news/articles/cgj765gen3po</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cgj765gen3po#2</guid>
+            <pubDate>Mon, 04 Nov 2024 00:01:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d24/live/44d24380-9544-11ef-8b5c-f156af5ee6bf.png"/>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: Spanish 'flood fury' and US candidates in 'final push']]></title>
+            <description><![CDATA[Valencia locals confronting the King and Queen of Spain and the US election dominate the papers.]]></description>
+            <link>https://www.bbc.com/news/articles/cly287mez8no</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly287mez8no#2</guid>
+            <pubDate>Mon, 04 Nov 2024 00:08:29 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5eb9/live/5782cd40-9a3c-11ef-82c3-45a801b7330b.png"/>
+        </item>
+        <item>
+            <title><![CDATA[The environmental campaigners fighting against data centres]]></title>
+            <description><![CDATA[A growing global movement is seeing people object to data centres in their locality.]]></description>
+            <link>https://www.bbc.com/news/articles/cz0mlrx0jxno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz0mlrx0jxno#2</guid>
+            <pubDate>Mon, 04 Nov 2024 00:01:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5f7/live/5bbceb70-9681-11ef-8c98-5520b4c5a9ce.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I can't afford a child on £53,000 salary' - why fertility rate is falling]]></title>
+            <description><![CDATA[From 'fruitless' dating to financial pressures, people share their views on falling fertility rates.]]></description>
+            <link>https://www.bbc.com/news/articles/c4g7x5kl5l8o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g7x5kl5l8o#2</guid>
+            <pubDate>Sun, 03 Nov 2024 00:09:01 GMT</pubDate>
+            <media:thumbnail width="240" height="179" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9f0/live/43bf06f0-99f3-11ef-8538-e1655f5a8342.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[​​Gabriela is an undecided US voter. Here's the very different content TikTok and X showed her]]></title>
+            <description><![CDATA[How is the battle for votes  unfolding over different social media feeds this US election?]]></description>
+            <link>https://www.bbc.com/news/articles/cy5lngzxxrvo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy5lngzxxrvo#2</guid>
+            <pubDate>Sun, 03 Nov 2024 15:00:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8eed/live/a1a8d8a0-9952-11ef-82c3-45a801b7330b.png"/>
+        </item>
+        <item>
+            <title><![CDATA['Pack of cigs and a Bic lighter': Why are celebs glamorising smoking again?]]></title>
+            <description><![CDATA[The cigarette is having a resurgence in pop culture and smoking is being glamorised in film, TV and music.]]></description>
+            <link>https://www.bbc.com/news/articles/ce8dy5v1kpno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce8dy5v1kpno#2</guid>
+            <pubDate>Sun, 03 Nov 2024 00:32:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d775/live/b2dafc60-993f-11ef-8538-e1655f5a8342.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Hunt for Bitcoin's elusive creator Satoshi Nakamoto hits another dead-end]]></title>
+            <description><![CDATA[Why are still no closer to unmasking the mysterious Satoshi Nakamoto?]]></description>
+            <link>https://www.bbc.com/news/articles/c079zp2vy31o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c079zp2vy31o#2</guid>
+            <pubDate>Sun, 03 Nov 2024 00:51:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61c8/live/d654d5a0-9834-11ef-b6b0-f17636916de7.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Cleverly rules out frontbench role under new Tory leader]]></title>
+            <description><![CDATA[The former home secretary will return to the backbenches after the new party leader is unveiled this weekend.]]></description>
+            <link>https://www.bbc.com/news/articles/cm20dv560j2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm20dv560j2o#3</guid>
+            <pubDate>Sat, 02 Nov 2024 08:23:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28a1/live/1eaa9f10-9862-11ef-9117-610baa963618.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Reeves 'not immune' to criticism over NI hike ]]></title>
+            <description><![CDATA[The chancellor defends the rise in employer contributions telling BBC public finances had to be strengthened.]]></description>
+            <link>https://www.bbc.com/news/articles/cq6l708vve7o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cq6l708vve7o#4</guid>
+            <pubDate>Sun, 03 Nov 2024 19:49:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c0f/live/813c1160-99e6-11ef-82c3-45a801b7330b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch as crowd chant 'murderer' and throw objects at Spanish king]]></title>
+            <description><![CDATA[Spain's King Felipe VI is visiting the Valencia region, which has been hit by unprecedented floods.]]></description>
+            <link>https://www.bbc.com/news/videos/cqlr675lkk0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cqlr675lkk0o#4</guid>
+            <pubDate>Sun, 03 Nov 2024 13:01:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca9d/live/a3dbfe50-99ec-11ef-9260-19e6a950e830.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man, 74, dies after being hit by bus as police urge social media restraint]]></title>
+            <description><![CDATA[Police said a 74-year-old man died, and urged the public to stop sharing distressing images on social media.]]></description>
+            <link>https://www.bbc.com/news/articles/cj3mxvvr7vro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj3mxvvr7vro#4</guid>
+            <pubDate>Sun, 03 Nov 2024 14:00:50 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10a0/live/794e7020-99c7-11ef-a748-69a941c65211.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Family of murdered 'good Samaritan' seeks damages]]></title>
+            <description><![CDATA[Alan Geddes was stabbed 40 times in Aberdeen by a man only released from jail the day before.]]></description>
+            <link>https://www.bbc.com/news/articles/cx24p2vv4lgo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx24p2vv4lgo#4</guid>
+            <pubDate>Sun, 03 Nov 2024 09:13:37 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48b6/live/0d9d3e00-984c-11ef-9341-af4b75c14c21.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Police receive new sex assault complaint against Alex Salmond]]></title>
+            <description><![CDATA[Officers are assessing a non-recent sexual assault allegation made against the former first minister who died last month.]]></description>
+            <link>https://www.bbc.com/news/articles/cly021vg9ego</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly021vg9ego#4</guid>
+            <pubDate>Sun, 03 Nov 2024 13:34:53 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e76/live/67492010-99e9-11ef-82c3-45a801b7330b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Strictly's Tasha Ghouri in tears over online hate]]></title>
+            <description><![CDATA[Ghouri, who was born deaf, said she received an onslaught of hate after appearing on Love Island in 2022.]]></description>
+            <link>https://www.bbc.com/news/articles/c0j8zevz4gno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0j8zevz4gno#4</guid>
+            <pubDate>Sun, 03 Nov 2024 09:00:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a06a/live/627ff050-99ca-11ef-9260-19e6a950e830.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Protesters call on government to tackle water pollution]]></title>
+            <description><![CDATA[Protesters from across the UK marched through London to call on the government to tackle water pollution.]]></description>
+            <link>https://www.bbc.com/news/articles/cvg4p0p6867o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg4p0p6867o#4</guid>
+            <pubDate>Sun, 03 Nov 2024 16:46:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c07/live/b67e62d0-99f8-11ef-a5b4-915bb6d7e4b3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Royal estates 'receive millions from public bodies and charities']]></title>
+            <description><![CDATA[The private estates of King Charles and Prince William have received millions of pounds from contracts with taxpayer-funded bodies, according to a new documentary.]]></description>
+            <link>https://www.bbc.com/news/articles/cg4l1lzv2nro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cg4l1lzv2nro#4</guid>
+            <pubDate>Sat, 02 Nov 2024 21:07:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8046/live/da022220-9924-11ef-a420-3dac5292cdc6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC News app]]></title>
+            <description><![CDATA[Top stories, breaking news, live reporting, and follow news topics that match your interests]]></description>
+            <link>https://www.bbc.co.uk/news/10628994</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/10628994#5</guid>
+            <pubDate>Tue, 20 Aug 2024 11:35:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Surprise polling! Is Harris pulling ahead?]]></title>
+            <description><![CDATA[What new data from Iowa could mean for the race... and Harris on the iconic SNL]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0k21b9h?partner=uk.co.bbc&amp;origin=share-mobile</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0k21b9h?partner=uk.co.bbc&amp;origin=share-mobile#6</guid>
+            <pubDate>Sun, 03 Nov 2024 20:21:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0k21bc3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Finding Mr Fox: The adventure of a lifetime]]></title>
+            <description><![CDATA[Two Brazilian sailors prepare for a voyage that will change their lives forever]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/w3ct7gzz</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/w3ct7gzz#6</guid>
+            <pubDate>Wed, 30 Oct 2024 01:30:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0k0yw98.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['No creation, millions wasted on recruitment - Amorim's mammoth task']]></title>
+            <description><![CDATA[The scale of the task awaiting new Manchester United manager Ruben Amorim is made clear in the draw with Chelsea]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cq52wxgd466o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cq52wxgd466o#8</guid>
+            <pubDate>Sun, 03 Nov 2024 20:40:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d147/live/e3ac7760-9a1b-11ef-9852-95dc1d6e0bb6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Norris' hopes crushed by Verstappen performance for the ages']]></title>
+            <description><![CDATA[Lando Norris’ already slim world title hopes were crushed at the Sao Paulo Grand Prix by a performance for the ages from Max Verstappen.]]></description>
+            <link>https://www.bbc.com/sport/formula1/articles/cx2l7w705pxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/formula1/articles/cx2l7w705pxo#8</guid>
+            <pubDate>Sun, 03 Nov 2024 23:06:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db8c/live/324fdd90-9a2f-11ef-8538-e1655f5a8342.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Comeback kings? How Spurs fought back to win, again]]></title>
+            <description><![CDATA[Former Tottenham midfielder and MOTD2 pundit Danny Murphy explains how Spurs fought back to beat Aston Villa, the eighth time this year they have won a home league game after conceding first.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cj4v50k04vpo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj4v50k04vpo#8</guid>
+            <pubDate>Sun, 03 Nov 2024 23:02:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4e5/live/b3a77410-9a03-11ef-82c3-45a801b7330b.png"/>
+        </item>
+        <item>
+            <title><![CDATA[England lost control with game in their hands - Dawson]]></title>
+            <description><![CDATA[England will be frustrated they let victory slip from their hands against New Zealand, writes Matt Dawson.]]></description>
+            <link>https://www.bbc.com/sport/rugby-union/articles/c0enl5wrpe5o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/rugby-union/articles/c0enl5wrpe5o#8</guid>
+            <pubDate>Sun, 03 Nov 2024 13:45:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d3c/live/15061c90-99e4-11ef-a03c-e1a7aa44ee41.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Can 'misinterpreted' Fernandes fit in to Amorim's Man Utd?]]></title>
+            <description><![CDATA[Match of the Day 2 pundits Danny Murphy and Phil Jones discuss Manchester United captain Bruno Fernandes' role in the side ahead of a new chapter under Ruben Amorim.]]></description>
+            <link>https://www.bbc.com/sport/football/videos/cvg792ngzgmo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cvg792ngzgmo#8</guid>
+            <pubDate>Mon, 04 Nov 2024 00:00:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1895/live/779b8c60-9a3d-11ef-82c3-45a801b7330b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Women 'traumatised' after lack of infertility support]]></title>
+            <description><![CDATA[A woman says she was left “traumatised” by the lack of care she received after a miscarriage.]]></description>
+            <link>https://www.bbc.com/news/articles/c4gm0wzdzglo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gm0wzdzglo#9</guid>
+            <pubDate>Sun, 03 Nov 2024 22:00:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dd7/live/f54a5940-99dc-11ef-a03c-e1a7aa44ee41.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[One dead and six taken to hospital after car crash]]></title>
+            <description><![CDATA[A 19-year-old man, who was a front seat passenger in one of the cars, was pronounced dead at the scene.]]></description>
+            <link>https://www.bbc.com/news/articles/clyj12nznkzo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clyj12nznkzo#9</guid>
+            <pubDate>Sun, 03 Nov 2024 11:38:45 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ab7/live/02506910-99d6-11ef-8168-1fe01a698c94.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Sinn Féin councillor suspended over alleged inappropriate online messages ]]></title>
+            <description><![CDATA[JJ Magee has being suspended from the party following an allegation that inappropriate online messages were exchanged between him and a minor.]]></description>
+            <link>https://www.bbc.com/news/articles/cz0m1vyxpz7o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz0m1vyxpz7o#9</guid>
+            <pubDate>Sun, 03 Nov 2024 22:29:13 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eed0/live/e7b2ec00-9a3d-11ef-b315-c1a70d682ebd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Police receive new sex assault complaint against Alex Salmond]]></title>
+            <description><![CDATA[Officers are assessing a non-recent sexual assault allegation made against the former first minister who died last month.]]></description>
+            <link>https://www.bbc.com/news/articles/cly021vg9ego</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly021vg9ego#9</guid>
+            <pubDate>Sun, 03 Nov 2024 13:34:53 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e76/live/67492010-99e9-11ef-82c3-45a801b7330b.jpg"/>
+        </item>
+    </channel>
+</rss>
