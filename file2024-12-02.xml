@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - News Front Page]]></description>
+        <link>https://www.bbc.co.uk/news</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 02 Dec 2024 02:06:11 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Biden issues official pardon for son Hunter]]></title>
+            <description><![CDATA[The president says his son Hunter was "selectively, and unfairly, prosecuted".]]></description>
+            <link>https://www.bbc.com/news/articles/cjwl3venz39o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cjwl3venz39o#0</guid>
+            <pubDate>Mon, 02 Dec 2024 01:23:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/086d/live/047f1a60-b047-11ef-93a6-9fd2d3586a96.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gregg Wallace accusers criticise his response to allegations]]></title>
+            <description><![CDATA[The TV presenter earlier branded his accusers a "handful of middle-class women of a certain age".]]></description>
+            <link>https://www.bbc.com/news/articles/c2exd7jm77wo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2exd7jm77wo#0</guid>
+            <pubDate>Sun, 01 Dec 2024 20:54:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0181/live/e8f07d70-b028-11ef-bccb-f9029a04170c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bowen: Syria's rebel offensive is astonishing - but don't write off Assad]]></title>
+            <description><![CDATA[The country's president has already shown he is prepared to go to brutal lengths to save his regime.]]></description>
+            <link>https://www.bbc.com/news/articles/cvgpdpgz4kdo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgpdpgz4kdo#0</guid>
+            <pubDate>Sun, 01 Dec 2024 21:16:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa95/live/422359b0-b02b-11ef-9fac-d72421b6f4bc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘Italian’ purees likely to contain Chinese forced-labour tomatoes, BBC finds]]></title>
+            <description><![CDATA[Some products described as “Italian” appear to contain Chinese tomatoes, BBC investigation suggests.
+]]></description>
+            <link>https://www.bbc.com/news/articles/crezlw4y152o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crezlw4y152o#0</guid>
+            <pubDate>Sun, 01 Dec 2024 22:01:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a010/live/71cd2c20-ae6b-11ef-bdf5-b7cb2fa86e10.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Former world snooker champion Griffiths dies aged 77]]></title>
+            <description><![CDATA[Former world snooker champion Terry Griffiths has died aged 77, the World Snooker Tour has confirmed.]]></description>
+            <link>https://www.bbc.com/sport/snooker/articles/c5y78g8828xo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/snooker/articles/c5y78g8828xo#0</guid>
+            <pubDate>Sun, 01 Dec 2024 23:35:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19ca/live/52959060-b03a-11ef-be5c-a951218b5d5b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Elton John unable to 'watch own musical' after eyesight loss]]></title>
+            <description><![CDATA[The star-studded event attracted a host of famous faces as the production celebrated its West End debut at London's Dominion Theatre. ]]></description>
+            <link>https://www.bbc.com/news/articles/ce8edye1j53o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce8edye1j53o#0</guid>
+            <pubDate>Sun, 01 Dec 2024 23:09:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28e6/live/f5a7b350-b008-11ef-a88f-9db5c484bac5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[She fled Israeli bombing four times. It still found her]]></title>
+            <description><![CDATA[Rihab Faour's long journey to safety, from her small village in southern Lebanon, ended in the death of her young family.]]></description>
+            <link>https://www.bbc.com/news/articles/ce8984g9gdgo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce8984g9gdgo#0</guid>
+            <pubDate>Sun, 01 Dec 2024 22:01:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcc3/live/c5caa200-affe-11ef-bdf5-b7cb2fa86e10.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Boss of Vauxhall's parent company Stellantis abruptly quits]]></title>
+            <description><![CDATA[The motor industry heavyweight owns major brands including Vauxhall, Jeep, Fiat and Peugeot.]]></description>
+            <link>https://www.bbc.com/news/articles/cvgx5pe4r0xo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgx5pe4r0xo#0</guid>
+            <pubDate>Mon, 02 Dec 2024 00:59:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cdd/live/68b76330-b03c-11ef-9a69-558674497109.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Georgia's PM hits back as protests and resignations intensify]]></title>
+            <description><![CDATA[After days of demonstrations and public resignations, Georgia's prime minister rejects a call for new elections.]]></description>
+            <link>https://www.bbc.com/news/articles/cp878819l8wo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp878819l8wo#0</guid>
+            <pubDate>Mon, 02 Dec 2024 00:08:43 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f96b/live/2c494a00-b044-11ef-bdf5-b7cb2fa86e10.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Losing your mind looking at memes? The dictionary has a word for that]]></title>
+            <description><![CDATA[The term captures concerns about the impact of consuming excessive amounts of low-quality online content.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2n2r695nzo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2n2r695nzo#0</guid>
+            <pubDate>Sun, 01 Dec 2024 22:06:11 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc42/live/33913f60-aff5-11ef-a58d-210a453eafad.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Majority of seats declared in close Irish general election]]></title>
+            <description><![CDATA[After securing re-election, Irish party leaders face the challenge of trying to form the next government.]]></description>
+            <link>https://www.bbc.com/news/articles/c9373ew5yd9o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9373ew5yd9o#0</guid>
+            <pubDate>Mon, 02 Dec 2024 00:00:30 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b955/live/e0cc3140-b008-11ef-a88f-9db5c484bac5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Should you pay more for parking if you have a big car?]]></title>
+            <description><![CDATA[Some councils are considering charging owners of larger vehicles more for parking permits.]]></description>
+            <link>https://www.bbc.com/news/articles/cx28wr7lge1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx28wr7lge1o#1</guid>
+            <pubDate>Mon, 02 Dec 2024 01:15:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c37/live/400232f0-adb0-11ef-8f6c-f1a86bb055ec.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: 'DisasterChef' and 'Syrian warplanes hit back']]></title>
+            <description><![CDATA[The Gregg Wallace scandal continues to take front and centre on many of the papers on Monday, as does the latest in the conflict in Syria.]]></description>
+            <link>https://www.bbc.com/news/articles/crk0mnmy8zlo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crk0mnmy8zlo#1</guid>
+            <pubDate>Mon, 02 Dec 2024 00:46:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86fd/live/24db0560-b03a-11ef-8ab9-9192db313061.png"/>
+        </item>
+        <item>
+            <title><![CDATA['People want nothing to do with him': How Ireland turned away from Conor McGregor]]></title>
+            <description><![CDATA[The verdict in Nikita Hand's civil rape case saw already dwindling support for the UFC star fall further.]]></description>
+            <link>https://www.bbc.com/news/articles/cn5w50pw65yo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn5w50pw65yo#1</guid>
+            <pubDate>Sun, 01 Dec 2024 13:17:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0de1/live/e85de290-aff5-11ef-bdf5-b7cb2fa86e10.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cyber Monday: How to spot a deal and not get ripped off]]></title>
+            <description><![CDATA[Experts tell us how to work out if a deal is a genuine bargain or could leave you out of pocket.]]></description>
+            <link>https://www.bbc.com/news/articles/cvg70jr949po</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg70jr949po#1</guid>
+            <pubDate>Mon, 02 Dec 2024 01:55:46 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72af/live/7de42da0-affc-11ef-a58d-210a453eafad.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Belgium's sex workers get maternity leave and pensions under world-first law]]></title>
+            <description><![CDATA[They will be entitled to official employment contracts, health insurance and sick days. ]]></description>
+            <link>https://www.bbc.com/news/articles/c5ygn31ypdlo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5ygn31ypdlo#1</guid>
+            <pubDate>Sun, 01 Dec 2024 01:10:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb6b/live/0401d4a0-ae45-11ef-bdf5-b7cb2fa86e10.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Forgotten street found behind a hidden library door]]></title>
+            <description><![CDATA[A passageway gives a glimpse of how the Scottish city looked centuries ago.]]></description>
+            <link>https://www.bbc.com/news/articles/cly2l119zlpo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly2l119zlpo#1</guid>
+            <pubDate>Sun, 01 Dec 2024 15:36:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4602/live/f7e25110-ae47-11ef-bdf5-b7cb2fa86e10.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Our estate pays £9,000 a year for grass to be cut']]></title>
+            <description><![CDATA[Freehold homeowners say they feel "fleeced" over service charges they pay to a private firm.]]></description>
+            <link>https://www.bbc.com/news/articles/c978jqvjzvlo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c978jqvjzvlo#1</guid>
+            <pubDate>Sun, 01 Dec 2024 07:21:36 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29b1/live/c8c1e780-9dbf-11ef-82c3-45a801b7330b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC News app]]></title>
+            <description><![CDATA[Top stories, breaking news, live reporting, and follow news topics that match your interests]]></description>
+            <link>https://www.bbc.co.uk/news/10628994</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/10628994#2</guid>
+            <pubDate>Tue, 20 Aug 2024 11:35:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[British man killed on holiday in Turkey lift-shaft incident]]></title>
+            <description><![CDATA[Tyler Kerry was "a young man full of personality, kindness and compassion", his uncle says.]]></description>
+            <link>https://www.bbc.com/news/articles/c1knkx1z8zgo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1knkx1z8zgo#3</guid>
+            <pubDate>Sun, 01 Dec 2024 15:32:52 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee22/live/3312bc00-afb2-11ef-a8f1-f3c660964bed.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Serie A footballer in intensive care after collapsing on pitch]]></title>
+            <description><![CDATA[Fiorentina midfielder Edoardo Bove is in intensive care after collapsing on the pitch during his side's match against Inter Milan.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c4g2lp19rppo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g2lp19rppo#3</guid>
+            <pubDate>Sun, 01 Dec 2024 19:57:38 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09f0/live/e11f15c0-b014-11ef-93a6-9fd2d3586a96.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man arrested on suspicion of rape at Groucho Club]]></title>
+            <description><![CDATA[Police say the alleged rape took place last month at the famous London private members' club. ]]></description>
+            <link>https://www.bbc.com/news/articles/c5y8dddpwd2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y8dddpwd2o#3</guid>
+            <pubDate>Sun, 01 Dec 2024 13:14:03 GMT</pubDate>
+            <media:thumbnail width="240" height="168" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c56/live/8e260bb0-afee-11ef-8ab9-9192db313061.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Global plastic talks collapse as oil states rebel]]></title>
+            <description><![CDATA[Two years of negotiations to reduce global plastic production have collapsed amid a split between countries.]]></description>
+            <link>https://www.bbc.com/news/articles/c785l1nrpd1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c785l1nrpd1o#3</guid>
+            <pubDate>Sun, 01 Dec 2024 16:10:30 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b4c/live/63898660-afea-11ef-93a6-9fd2d3586a96.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Homes evacuated after sinkhole opens on estate]]></title>
+            <description><![CDATA[About 30 homes are believed to have been evacuated and people were told to avoid the area. ]]></description>
+            <link>https://www.bbc.com/news/articles/cj90ll47g4yo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj90ll47g4yo#3</guid>
+            <pubDate>Sun, 01 Dec 2024 15:59:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ed6/live/33884fa0-affe-11ef-93a6-9fd2d3586a96.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Snoop Dogg helps Kai Cenat reclaim Twitch subscriber record]]></title>
+            <description><![CDATA[The American has been streaming continuously for 30 days to try reclaim the record he set last year.]]></description>
+            <link>https://www.bbc.com/news/articles/cdeky7dez00o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdeky7dez00o#3</guid>
+            <pubDate>Sun, 01 Dec 2024 18:09:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4155/live/fd33fdb0-b006-11ef-a88f-9db5c484bac5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mother's 'terrible journey' to bedside of British woman poisoned in Laos]]></title>
+            <description><![CDATA[The mother of Simone White urges people to be careful with alcohol after her daughter died in Laos. ]]></description>
+            <link>https://www.bbc.com/news/articles/cr5m55v1l99o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cr5m55v1l99o#3</guid>
+            <pubDate>Sun, 01 Dec 2024 13:18:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/491d/live/95cb1030-afd6-11ef-807c-bb62bebdf1cd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Newscast]]></title>
+            <description><![CDATA[And Gregg Wallace speaks.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0k85n66</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0k85n66#5</guid>
+            <pubDate>Sun, 01 Dec 2024 13:50:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0k85n8n.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Trump Trials... Cases Closed?]]></title>
+            <description><![CDATA[Is Donald now above the law?]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0k7n1h0</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0k7n1h0#5</guid>
+            <pubDate>Fri, 29 Nov 2024 06:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0k7nyk2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Liverpool mixed best of Klopp & Slot to beat Man City]]></title>
+            <description><![CDATA[Liverpool's perfect mix and match of Jurgen Klopp's heavy metal and Arne Slot's symphony destroyed Manchester City, writes Phil McNulty.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cvg656ypej7o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg656ypej7o#7</guid>
+            <pubDate>Sun, 01 Dec 2024 21:05:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00ff/live/c1c65f60-b020-11ef-bdf5-b7cb2fa86e10.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump beats Hawkins to win second UK Championship crown]]></title>
+            <description><![CDATA[Judd Trump claims his second UK Championship title with a hard-fought 10-8 victory over Barry Hawkins at the Barbican in York.]]></description>
+            <link>https://www.bbc.com/sport/snooker/articles/cql53rrqe95o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/snooker/articles/cql53rrqe95o#7</guid>
+            <pubDate>Mon, 02 Dec 2024 00:20:48 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f8d/live/039602a0-b036-11ef-bdf5-b7cb2fa86e10.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Verstappen has 'lost all respect' for Russell]]></title>
+            <description><![CDATA[Max Verstappen says he has "lost all respect" for George Russell over his role in a penalty the world champion received at the Qatar Grand Prix.]]></description>
+            <link>https://www.bbc.com/sport/formula1/articles/c0rnwzvd9y9o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/formula1/articles/c0rnwzvd9y9o#7</guid>
+            <pubDate>Sun, 01 Dec 2024 22:29:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4caa/live/8b204a50-b031-11ef-8445-e322401892d6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Former world snooker champion Griffiths dies aged 77]]></title>
+            <description><![CDATA[Former world snooker champion Terry Griffiths has died aged 77, the World Snooker Tour has confirmed.]]></description>
+            <link>https://www.bbc.com/sport/snooker/articles/c5y78g8828xo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/snooker/articles/c5y78g8828xo#7</guid>
+            <pubDate>Sun, 01 Dec 2024 23:35:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19ca/live/52959060-b03a-11ef-be5c-a951218b5d5b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I didn't expect that at Anfield' - Guardiola on 'sacked in the morning' chants]]></title>
+            <description><![CDATA[Manchester City boss Pep Guardiola says he did not expect to hear 'sacked in the morning' chants directed towards him at Anfield.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c878g885zn2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c878g885zn2o#7</guid>
+            <pubDate>Sun, 01 Dec 2024 19:58:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ce3/live/1418c3a0-b00f-11ef-a88f-9db5c484bac5.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Who has made Troy's Premier League team of the week?]]></title>
+            <description><![CDATA[After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cz0r772151ro</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz0r772151ro#7</guid>
+            <pubDate>Sun, 01 Dec 2024 21:25:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4d6/live/a58976b0-b026-11ef-8ab9-9192db313061.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Fiorentina's Bove in intensive care after collapse on pitch]]></title>
+            <description><![CDATA[Fiorentina midfielder Edoardo Bove is in intensive care after collapsing on the pitch during his side's match against Inter Milan.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c4g2lp19rppo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g2lp19rppo#7</guid>
+            <pubDate>Sun, 01 Dec 2024 19:57:38 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09f0/live/e11f15c0-b014-11ef-93a6-9fd2d3586a96.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Holidaymaker killed in Turkey lift-shaft incident]]></title>
+            <description><![CDATA[Tyler Kerry was "a young man full of personality, kindness and compassion", his uncle says.]]></description>
+            <link>https://www.bbc.com/news/articles/c1knkx1z8zgo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1knkx1z8zgo#8</guid>
+            <pubDate>Sun, 01 Dec 2024 15:32:52 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee22/live/3312bc00-afb2-11ef-a8f1-f3c660964bed.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Scotland's Budget must not cap council tax rises - Cosla]]></title>
+            <description><![CDATA[Finance Secretary Shona Robison will present her Budget to the Scottish Parliament on Wednesday.]]></description>
+            <link>https://www.bbc.com/news/articles/c238335g333o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c238335g333o#8</guid>
+            <pubDate>Sun, 01 Dec 2024 13:07:14 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4af/live/1ad27b90-afe8-11ef-b705-5793bf0088cc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Students upset by sea deaths help rescue migrants]]></title>
+            <description><![CDATA[A charity boss says the Mediterranean is "littered with bodies" as deaths leave students angry. ]]></description>
+            <link>https://www.bbc.com/news/articles/c8xp0vrnp7xo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8xp0vrnp7xo#8</guid>
+            <pubDate>Sun, 01 Dec 2024 21:45:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4179/live/29584460-adae-11ef-8f6c-f1a86bb055ec.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Final seats to be filled in Irish general election]]></title>
+            <description><![CDATA[With all 43 constituencies' first counts in, Fianna Fáil won the most first preference votes with 21.9%.]]></description>
+            <link>https://www.bbc.com/news/articles/cpdnlv8n758o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpdnlv8n758o#8</guid>
+            <pubDate>Mon, 02 Dec 2024 00:08:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6726/live/bec98700-b008-11ef-a88f-9db5c484bac5.jpg"/>
+        </item>
+    </channel>
+</rss>
