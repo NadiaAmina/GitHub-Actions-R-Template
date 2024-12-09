@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - News Front Page]]></description>
+        <link>https://www.bbc.co.uk/news</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 09 Dec 2024 02:08:55 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA['You can breathe': On the streets of Damascus after Assad]]></title>
+            <description><![CDATA[The BBC spoke to people in the Syrian capital after the end of the Assad family's five decades in power.]]></description>
+            <link>https://www.bbc.com/news/articles/cd9xq0n0j43o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd9xq0n0j43o#1</guid>
+            <pubDate>Sun, 08 Dec 2024 23:00:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f30d/live/bf629d30-b5af-11ef-aff0-072ce821b6ab.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC reporter: 'First time I've come to Syria without fear of arrest']]></title>
+            <description><![CDATA[A Syrian herself, Lina Sinjab says this is the first time she's entered the country "without fear of detention".]]></description>
+            <link>https://www.bbc.com/news/videos/cn85xx2ly9ro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cn85xx2ly9ro#1</guid>
+            <pubDate>Sun, 08 Dec 2024 16:55:22 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e220/live/dc1244b0-b584-11ef-a0f2-fd81ae5962f4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[From Syrian jihadist leader to rebel politician: How Abu Mohammed al-Jawlani reinvented himself]]></title>
+            <description><![CDATA[The HTS chief has evolved from jihadist leader to rebel statesman while fighting to overthrow Bashar al-Assad.]]></description>
+            <link>https://www.bbc.com/news/articles/c0q0w1g8zqvo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0q0w1g8zqvo#1</guid>
+            <pubDate>Mon, 09 Dec 2024 00:35:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bc9/live/4399f2b0-b592-11ef-b897-0bca9b42570f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Steve Rosenberg: Fall of Assad is a blow to Russia's prestige]]></title>
+            <description><![CDATA[Russian firepower helped keep the Syrian president in power - but in a matter of days, Moscow's Syria project unravelled.]]></description>
+            <link>https://www.bbc.com/news/articles/clygege97qwo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clygege97qwo#1</guid>
+            <pubDate>Sun, 08 Dec 2024 20:31:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ef3/live/e9e49ba0-b571-11ef-b56a-4bc4425f0200.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Footage shows people emerging from Assad's notorious prisons]]></title>
+            <description><![CDATA[Rebels have freed thousands of detainees from jails as they swept across the country.]]></description>
+            <link>https://www.bbc.com/news/articles/c2dx3ekpr59o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2dx3ekpr59o#1</guid>
+            <pubDate>Sun, 08 Dec 2024 22:28:52 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92ab/live/9a694b60-b5b3-11ef-9c63-99c69b7bb33f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US will fear the vacuum that could replace Assad]]></title>
+            <description><![CDATA[Washington worries that the overthrow of Syria's president could lead to a power grab by Islamist groups.]]></description>
+            <link>https://www.bbc.com/news/articles/cj30enxzreyo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj30enxzreyo#1</guid>
+            <pubDate>Sun, 08 Dec 2024 20:50:04 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01d3/live/4e47d850-b5a4-11ef-9c24-1b36617d85ff.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Starmer welcomes fall of Assad's 'barbaric regime' ]]></title>
+            <description><![CDATA[The UK prime minister said it was "early days" when asked whether the government would engage with Syrian rebels.]]></description>
+            <link>https://www.bbc.com/news/articles/cpq9l24ledpo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpq9l24ledpo#2</guid>
+            <pubDate>Sun, 08 Dec 2024 20:54:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ae2/live/f7365340-b592-11ef-b897-0bca9b42570f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Closer UK and EU ties will boost growth, says Reeves]]></title>
+            <description><![CDATA[Labour has ruled out rejoining the European Union but wants to "break down barriers to trade".]]></description>
+            <link>https://www.bbc.com/news/articles/ceql9x5rd30o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ceql9x5rd30o#2</guid>
+            <pubDate>Mon, 09 Dec 2024 00:29:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e206/live/55183ba0-b574-11ef-b8cd-f14ec83e5947.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump vows to end birthright citizenship and pardon US Capitol rioters]]></title>
+            <description><![CDATA[He tells NBC he will issue "a lot" of executive orders, including on immigration, once he takes office.]]></description>
+            <link>https://www.bbc.com/news/articles/cj30er1d6mxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj30er1d6mxo#2</guid>
+            <pubDate>Mon, 09 Dec 2024 00:18:11 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/105c/live/5dff1b10-b5c1-11ef-aee0-8f944e833e8d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Puberty blockers: Can a drug trial solve one of medicine's most controversial debates?]]></title>
+            <description><![CDATA[The government has pledged to determine the evidence - and establish whether the benefits outweigh any potential harms of prescribing puberty blockers to children questioning their gender]]></description>
+            <link>https://www.bbc.com/news/articles/clyd2qe5kkjo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clyd2qe5kkjo#2</guid>
+            <pubDate>Mon, 09 Dec 2024 00:43:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a717/live/c6fe43e0-b15a-11ef-aff0-072ce821b6ab.png"/>
+        </item>
+        <item>
+            <title><![CDATA[I'm A Celebrity 2024 winner crowned after series finale]]></title>
+            <description><![CDATA[The ITV show has been on for three weeks and viewers have crowned their King or Queen of the Jungle.]]></description>
+            <link>https://www.bbc.com/news/articles/cy09lkl8l47o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy09lkl8l47o#2</guid>
+            <pubDate>Mon, 09 Dec 2024 00:11:34 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91a3/live/0e363bb0-b3c1-11ef-aff0-072ce821b6ab.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Car loan scandal payout fears as row drags on]]></title>
+            <description><![CDATA[People who were unaware of commission paid when they bought a car on finance may be in line for payouts, but face delays.]]></description>
+            <link>https://www.bbc.com/news/articles/cp3z9l3q5zeo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp3z9l3q5zeo#2</guid>
+            <pubDate>Mon, 09 Dec 2024 00:10:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/902f/live/221e1ed0-b228-11ef-8865-817d2ff480b3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[William serves Christmas lunch at shelter he visited with Diana]]></title>
+            <description><![CDATA[The Prince of Wales first visited The Passage with his mother Princess Diana as a child.]]></description>
+            <link>https://www.bbc.com/news/articles/ce3lnlv5976o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce3lnlv5976o#2</guid>
+            <pubDate>Sun, 08 Dec 2024 15:52:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d22b/live/543fb1c0-b57b-11ef-9cf7-01ae01b0ed5f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Antonio has surgery on lower limb fracture after crash]]></title>
+            <description><![CDATA[West Ham striker Michail Antonio has surgery on a lower limb fracture, the club announces.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cp83knd6w23o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp83knd6w23o#2</guid>
+            <pubDate>Sun, 08 Dec 2024 15:15:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db98/live/0bac3120-b550-11ef-aff0-072ce821b6ab.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New images released as hunt for New York shooter continues]]></title>
+            <description><![CDATA[New York police are still searching for the gunman who killed UnitedHealthcare boss Brian Thompson. ]]></description>
+            <link>https://www.bbc.com/news/articles/cpw22ger4gjo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpw22ger4gjo#2</guid>
+            <pubDate>Sun, 08 Dec 2024 08:30:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4ee/live/91ab2440-b553-11ef-aff0-072ce821b6ab.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Husband 'got back into' strangled Harshita Brella's life after arrest]]></title>
+            <description><![CDATA[Harshita Brella's sister says Pankaj Lamba worked himself back into his wife's life after he was arrested.]]></description>
+            <link>https://www.bbc.com/news/articles/cge97jp8213o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cge97jp8213o#2</guid>
+            <pubDate>Sun, 08 Dec 2024 15:55:46 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f22/live/0996b240-b58a-11ef-b897-0bca9b42570f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Raygun musical cancelled after viral Olympian's legal threat]]></title>
+            <description><![CDATA[Creator Steph Broadbridge says lawyers for Rachael Gunn sent a cease and desist letter.]]></description>
+            <link>https://www.bbc.com/news/articles/c938l80ekejo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c938l80ekejo#2</guid>
+            <pubDate>Sun, 08 Dec 2024 17:39:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d99/live/5a404680-b58e-11ef-b897-0bca9b42570f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Anora or Wicked? Golden Globe nominations to be announced]]></title>
+            <description><![CDATA[The Brutalist, Conclave, Sing Sing, Emilia Pérez and Dune: Part Two could also be recognised.]]></description>
+            <link>https://www.bbc.com/news/articles/cg526d3e024o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cg526d3e024o#2</guid>
+            <pubDate>Sun, 08 Dec 2024 18:51:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/950c/live/5a739f70-b305-11ef-aff0-072ce821b6ab.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Papers report on 'delight' in Syria but warn of uncertainty ahead]]></title>
+            <description><![CDATA[Most of Monday's papers lead on the rebels toppling the Assad regime, as Syrians celebrate its fall.]]></description>
+            <link>https://www.bbc.com/news/articles/cr4r6n7nld0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cr4r6n7nld0o#3</guid>
+            <pubDate>Sun, 08 Dec 2024 23:42:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c603/live/1f5d6160-b5bb-11ef-a0f2-fd81ae5962f4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gynaecology patients going private to avoid NHS waiting lists]]></title>
+            <description><![CDATA[Women in agony are using their savings to pay for urgent treatment to avoid waits of up to two years.]]></description>
+            <link>https://www.bbc.com/news/articles/c62wly52yr7o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c62wly52yr7o#3</guid>
+            <pubDate>Mon, 09 Dec 2024 00:45:41 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a20a/live/b9cbdee0-b57d-11ef-a0f2-fd81ae5962f4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How one of gaming's best-known actors took on one of film's biggest roles]]></title>
+            <description><![CDATA[He's played some of the biggest roles in gaming, but Troy Baker confesses his latest scared even him.]]></description>
+            <link>https://www.bbc.com/news/articles/cn08epwy152o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn08epwy152o#3</guid>
+            <pubDate>Mon, 09 Dec 2024 00:46:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4355/live/09290e10-b2f2-11ef-a0f2-fd81ae5962f4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pubs warn Guinness being limited could 'cripple' their business]]></title>
+            <description><![CDATA[Pubs say they're trying to find alternative stouts as wholesalers put limits on how much Guinness they can get.]]></description>
+            <link>https://www.bbc.com/news/articles/c4gzwxw4y18o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gzwxw4y18o#3</guid>
+            <pubDate>Sun, 08 Dec 2024 16:57:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/227e/live/dfca6bb0-b579-11ef-a0f2-fd81ae5962f4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HTS leader not only player in Syria's fast-changing future]]></title>
+            <description><![CDATA[Bashar al-Assad's regime is gone, but it remains unclear what Syria's new order will eventually look like, writes Lyse Doucet.]]></description>
+            <link>https://www.bbc.com/news/articles/c0kv582lpnro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0kv582lpnro#3</guid>
+            <pubDate>Sun, 08 Dec 2024 15:04:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/337b/live/e891f960-b570-11ef-b56a-4bc4425f0200.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['She doesn't stop' -Taylor Swift's dilemma as huge Eras tour ends]]></title>
+            <description><![CDATA[The Eras Tour made $2bn and changed the nature of stadium concerts, so how do you follow that up?]]></description>
+            <link>https://www.bbc.com/news/articles/ckg1r0v838vo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckg1r0v838vo#3</guid>
+            <pubDate>Sat, 07 Dec 2024 19:10:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f37f/live/a59db6f0-b3d4-11ef-b57d-e9f8a950ef69.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[On secret military island, a mother strives to raise her children normally]]></title>
+            <description><![CDATA[Shanthi tried her best to create a sense of normality for her children on the remote British island Diego Garcia.]]></description>
+            <link>https://www.bbc.com/news/articles/cp9nnr4gel2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp9nnr4gel2o#3</guid>
+            <pubDate>Sun, 08 Dec 2024 01:10:18 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f645/live/74c413e0-b590-11ef-a0f2-fd81ae5962f4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC News app]]></title>
+            <description><![CDATA[Top stories, breaking news, live reporting, and follow news topics that match your interests]]></description>
+            <link>https://www.bbc.co.uk/news/10628994</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/10628994#4</guid>
+            <pubDate>Tue, 20 Aug 2024 11:35:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Hit by blackouts Cuba’s tourism industry now braces for Trump]]></title>
+            <description><![CDATA[Cuba's hotels, already hit by power cuts, worry that Trump may increase the US's economic blockade.]]></description>
+            <link>https://www.bbc.com/news/articles/cly7ndxjzv2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly7ndxjzv2o#5</guid>
+            <pubDate>Mon, 09 Dec 2024 00:05:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bec9/live/54265f70-b230-11ef-afbb-adf2418b5e72.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK 'not ready' for extreme weather like Storm Darragh]]></title>
+            <description><![CDATA[The head of the Climate Change Committee calls on the government to invest in adaptations now.]]></description>
+            <link>https://www.bbc.com/news/articles/cgl9yk42rz7o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cgl9yk42rz7o#5</guid>
+            <pubDate>Sun, 08 Dec 2024 12:14:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c0a/live/f03deda0-b556-11ef-b362-951b2ebdc897.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Influencers enlisted to help fight fly tipping as problem worsens]]></title>
+            <description><![CDATA[Litter pickers say the situation is depressing as the cost of removing dumped rubbish nears £2m.]]></description>
+            <link>https://www.bbc.com/news/articles/cvgw26xx610o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgw26xx610o#5</guid>
+            <pubDate>Sun, 08 Dec 2024 07:55:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a973/live/5f05b470-b0c5-11ef-b2d5-1f470ee03eb2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ukrainian war dead reaches 43,000, Zelensky says in rare update]]></title>
+            <description><![CDATA[The Ukrainian president also claimed that 198,000 Russian soldiers had been killed and 550,000 wounded.]]></description>
+            <link>https://www.bbc.com/news/articles/c5yv75nydy3o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yv75nydy3o#5</guid>
+            <pubDate>Sun, 08 Dec 2024 14:23:42 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a100/live/ff4ac4c0-b561-11ef-ae4a-3915664d7901.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I fought £255 parking charge and won']]></title>
+            <description><![CDATA[Garry Kay was asked to pay £255 because he took longer than five minutes to buy a parking ticket.]]></description>
+            <link>https://www.bbc.com/news/articles/czenn548x1no</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czenn548x1no#5</guid>
+            <pubDate>Sun, 08 Dec 2024 10:50:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fe1/live/da385a10-b40f-11ef-aff0-072ce821b6ab.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dorothy's ruby slippers sell for $28m at auction ]]></title>
+            <description><![CDATA[The shoes, worn by Judy Garland in the classic 1939 movie, went for $25m more than the auctioneer's estimate.]]></description>
+            <link>https://www.bbc.com/news/articles/crk008xemvno</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crk008xemvno#5</guid>
+            <pubDate>Sun, 08 Dec 2024 03:08:31 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba6f/live/ab76d990-b4c3-11ef-961a-efab459204e3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Your pictures on the theme of 'fluids']]></title>
+            <description><![CDATA[A selection of pictures sent in by our readers on the theme of "fluids".]]></description>
+            <link>https://www.bbc.com/news/articles/c77jx4vm1eko</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c77jx4vm1eko#5</guid>
+            <pubDate>Sun, 08 Dec 2024 01:16:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc14/live/26eb2bc0-b16e-11ef-a0f2-fd81ae5962f4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Newscast]]></title>
+            <description><![CDATA[And, Donald Trump returns to the world stage.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0k9l1tj</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0k9l1tj#7</guid>
+            <pubDate>Sat, 07 Dec 2024 16:42:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0k9l29k.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Donald Trump vs the media...Round 2!]]></title>
+            <description><![CDATA[How will Trump’s next White House deal with journalists?]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/m0025ldh</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/m0025ldh#7</guid>
+            <pubDate>Fri, 06 Dec 2024 15:36:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0k9dh4t.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Title rivals won't slip up 'like Cucurella' - Maresca]]></title>
+            <description><![CDATA[Chelsea manager Enzo Maresca says Chelsea are ahead of where he expected them to be, but the Blues boss doesn't believe they are ready to be title contenders yet.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cewx5g0pxp8o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cewx5g0pxp8o#9</guid>
+            <pubDate>Sun, 08 Dec 2024 21:53:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37f5/live/aefdec50-b5a6-11ef-bfe8-89642617b269.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[McLaren's 'perfect' ending after being 'on the brink']]></title>
+            <description><![CDATA[McLaren's first constructors' championship since 1998 came after the team needed "great resilience and great belief" to return to the top of F1.]]></description>
+            <link>https://www.bbc.com/sport/formula1/articles/cy7kgg5lxeeo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/formula1/articles/cy7kgg5lxeeo#9</guid>
+            <pubDate>Sun, 08 Dec 2024 20:56:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e924/live/47a4cd90-b587-11ef-b897-0bca9b42570f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arteta rues 'small margins' but how reliant are Arsenal on set-pieces? ]]></title>
+            <description><![CDATA[Arsenal boss Mikel Arteta rues "small margins" after the Gunners miss chance to move to within four points of Premier League leaders Liverpool. ]]></description>
+            <link>https://www.bbc.com/sport/football/articles/crk0enddllyo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crk0enddllyo#9</guid>
+            <pubDate>Sun, 08 Dec 2024 20:05:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2763/live/f3109e60-b592-11ef-b897-0bca9b42570f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Five Champions Cup learnings from round one]]></title>
+            <description><![CDATA[BBC Sport looks at five things we learned from the opening round of the 2024-25 Investec Champions Cup.]]></description>
+            <link>https://www.bbc.com/sport/rugby-union/articles/cz0rll43mp1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/rugby-union/articles/cz0rll43mp1o#9</guid>
+            <pubDate>Sun, 08 Dec 2024 22:58:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7da9/live/f13d5ed0-b5af-11ef-a8e5-45504a20c47f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Hamilton 'finished on a high' with Mercedes]]></title>
+            <description><![CDATA[Lewis Hamilton says he is happy his time with Mercedes "finished on a high" after "a really turbulent year".]]></description>
+            <link>https://www.bbc.com/sport/formula1/articles/cq8qkkzq2lgo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/formula1/articles/cq8qkkzq2lgo#9</guid>
+            <pubDate>Sun, 08 Dec 2024 18:28:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d3b/live/8a294a40-b58e-11ef-b897-0bca9b42570f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Scheffler equals record for most wins in a year]]></title>
+            <description><![CDATA[Scottie Scheffler produces a superb final round to cap a fine year by retaining his Hero World Challenge title.]]></description>
+            <link>https://www.bbc.com/sport/golf/articles/c4gp9rgpevlo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/golf/articles/c4gp9rgpevlo#9</guid>
+            <pubDate>Sun, 08 Dec 2024 23:48:22 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8db/live/2f3870e0-b5b9-11ef-8ea1-2fc720684ce4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man dies and two hurt in west London 'disturbance']]></title>
+            <description><![CDATA[London Ambulance Service said a man died at the scene and two were taken to major trauma centres.]]></description>
+            <link>https://www.bbc.com/news/articles/c791dnjglq5o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c791dnjglq5o#10</guid>
+            <pubDate>Sun, 08 Dec 2024 17:55:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bcc/live/a9c89370-b56a-11ef-aff0-072ce821b6ab.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Police investigating Labour council leader]]></title>
+            <description><![CDATA[Scottish Labour confirmed Cammy Day has been suspended pending the outcome of the investigation. ]]></description>
+            <link>https://www.bbc.com/news/articles/c9wllwex1j8o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9wllwex1j8o#10</guid>
+            <pubDate>Sun, 08 Dec 2024 15:06:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f58/live/41c3de50-b53e-11ef-aff0-072ce821b6ab.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Landslide residents want to leave their homes]]></title>
+            <description><![CDATA[After a coal tip landslide narrowly missed their homes, residents say are worried about a risk of another.]]></description>
+            <link>https://www.bbc.com/news/articles/czjd9zr3v0xo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czjd9zr3v0xo#10</guid>
+            <pubDate>Sun, 08 Dec 2024 22:00:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5822/live/0c607850-b263-11ef-93fc-515d2be0e1f7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Thousands still without power after Storm Darragh]]></title>
+            <description><![CDATA[NIE Networks says it may be a number of days before all affected customers are reconnected.]]></description>
+            <link>https://www.bbc.com/news/articles/c0lgg2l2x75o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0lgg2l2x75o#10</guid>
+            <pubDate>Sun, 08 Dec 2024 21:50:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ae2/live/06867e20-b560-11ef-aff0-072ce821b6ab.jpg"/>
+        </item>
+    </channel>
+</rss>
