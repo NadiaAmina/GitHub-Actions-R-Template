@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - News Front Page]]></description>
+        <link>https://www.bbc.co.uk/news</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 30 Dec 2024 01:57:11 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Watch: A look back at Jimmy Carter's life]]></title>
+            <description><![CDATA[The Democrat from Georgia, who left office in 1981, lived longer than any other former US president.]]></description>
+            <link>https://www.bbc.com/news/videos/cwyp2vd1vlvo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cwyp2vd1vlvo#0</guid>
+            <pubDate>Sun, 29 Dec 2024 21:28:24 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bc2/live/12f5c040-c630-11ef-a2ca-e99d0c9a24e3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The peanut farmer who rose to US president and Nobel prize winner]]></title>
+            <description><![CDATA[The US president struggled in the White House and served just one term, but later won a Nobel Peace prize.]]></description>
+            <link>https://www.bbc.com/news/articles/c163e0wzgn3o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c163e0wzgn3o#0</guid>
+            <pubDate>Sun, 29 Dec 2024 21:30:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e836/live/115aa350-c62f-11ef-a2ca-e99d0c9a24e3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[South Korea plane crash kills 179 with investigation into cause under way]]></title>
+            <description><![CDATA[Just two survivors were rescued from the wreckage of the passenger plane, which had been returning from Thailand.]]></description>
+            <link>https://www.bbc.com/news/articles/c3we2p3l36jo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3we2p3l36jo#0</guid>
+            <pubDate>Sun, 29 Dec 2024 18:40:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfa5/live/149292e0-c5d9-11ef-aff0-072ce821b6ab.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warnings of snow, wind and rain across the UK for New Year]]></title>
+            <description><![CDATA[Winds up to 70mph, rain and snowfall are expected to bring disruption to parts of the UK from New Year's Eve.]]></description>
+            <link>https://www.bbc.com/news/articles/c785k44yj12o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c785k44yj12o#0</guid>
+            <pubDate>Sun, 29 Dec 2024 20:28:23 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea11/live/ad842930-c5ef-11ef-9999-dfde4758abcc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New elections could take up to four years, Syria rebel leader says]]></title>
+            <description><![CDATA[Sharaa says it could take three years to write a constitution and longer to establish voting integrity.]]></description>
+            <link>https://www.bbc.com/news/articles/c4g29e1lejvo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g29e1lejvo#0</guid>
+            <pubDate>Sun, 29 Dec 2024 16:18:43 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d341/live/797c56c0-c5e1-11ef-b4c5-0b513f52c04e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Private school tax breaks a 'luxury', says Phillipson]]></title>
+            <description><![CDATA[The education secretary defends ending tax breaks for private schools as the policy is set to begin.]]></description>
+            <link>https://www.bbc.com/news/articles/c86wd1y7v2xo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c86wd1y7v2xo#0</guid>
+            <pubDate>Sun, 29 Dec 2024 15:42:21 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7515/live/b6b219d0-c5e6-11ef-b81d-3d3bb6193e24.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fog causes flight delays at Gatwick Airport for a third day ]]></title>
+            <description><![CDATA[Gatwick Airport says it has "temporary" restrictions in place due to the fog with "delays" expected.]]></description>
+            <link>https://www.bbc.com/news/articles/cn85przv10zo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn85przv10zo#0</guid>
+            <pubDate>Sun, 29 Dec 2024 20:14:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcea/live/f0de6a10-c5c2-11ef-8a57-1f63dd6fa49e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rebel Wilson marries Ramona Agruma in Sydney ceremony]]></title>
+            <description><![CDATA[The couple held a service in Sardinia in September and have now made it official in Wilson's hometown.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2w10wy1jyo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2w10wy1jyo#0</guid>
+            <pubDate>Sun, 29 Dec 2024 12:01:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d618/live/6f41d1c0-c5e2-11ef-b4c5-0b513f52c04e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Defending champion Luke Humphries knocked out of World Darts Championship]]></title>
+            <description><![CDATA[Defending champion Luke Humphries is knocked out of the PDC World Darts Championship in the fourth round by Peter Wright. ]]></description>
+            <link>https://www.bbc.com/sport/darts/articles/cnv3pmpdl16o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/darts/articles/cnv3pmpdl16o#0</guid>
+            <pubDate>Sun, 29 Dec 2024 23:04:14 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f07/live/3af94700-c63b-11ef-9424-2faf2fb332a2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tourist killed in shark attack off Egyptian coast]]></title>
+            <description><![CDATA[Egypt's environment ministry says the attack occurred in "deep waters outside of the designated swimming area". 
+]]></description>
+            <link>https://www.bbc.com/news/articles/c4g34kj1e31o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g34kj1e31o#0</guid>
+            <pubDate>Sun, 29 Dec 2024 20:20:21 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d839/live/4f8832b0-c61a-11ef-8f80-252ab9062cc4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Community in shock after father and son killed in crash]]></title>
+            <description><![CDATA[Peter and Loughlin Devlin died following the crash outside the village of Killylea in County Armagh.]]></description>
+            <link>https://www.bbc.com/news/articles/cyv32jgdmr8o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cyv32jgdmr8o#0</guid>
+            <pubDate>Sun, 29 Dec 2024 20:39:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52de/live/f99f3e60-c624-11ef-a2ca-e99d0c9a24e3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Did bird strike contribute to South Korea plane crash? What we know so far]]></title>
+            <description><![CDATA[Officials are investigating the cause of the deadliest aircraft crash in South Korean history, which killed 179 people.]]></description>
+            <link>https://www.bbc.com/news/articles/ckgzprprlyeo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgzprprlyeo#1</guid>
+            <pubDate>Sun, 29 Dec 2024 17:14:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90fe/live/27c22c20-c5f9-11ef-9999-dfde4758abcc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: School 'defects' check ordered and 'young adults too ill to work']]></title>
+            <description><![CDATA[Monday's headlines include checks ordered on school buildings and young adults being too ill to work.]]></description>
+            <link>https://www.bbc.com/news/articles/cn0xp9pd69yo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn0xp9pd69yo#1</guid>
+            <pubDate>Mon, 30 Dec 2024 00:23:02 GMT</pubDate>
+            <media:thumbnail width="240" height="143" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/267f/live/920c45f0-c63c-11ef-aff0-072ce821b6ab.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[As Putin reaches 25 years in power, has he 'taken care of Russia'?]]></title>
+            <description><![CDATA[Over a quarter of a century in power we've seen many different Putins, says the BBC's Russia editor.]]></description>
+            <link>https://www.bbc.com/news/articles/cd0ek943v7ko</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd0ek943v7ko#1</guid>
+            <pubDate>Sun, 29 Dec 2024 06:02:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32e5/live/e04fd430-c523-11ef-aff0-072ce821b6ab.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lost city found by accident and a fly's brain mapped: 2024's scientific wins]]></title>
+            <description><![CDATA[Moments to celebrate included a solar eclipse seen by millions and a lost city discovered by accident.]]></description>
+            <link>https://www.bbc.com/news/articles/cm2v1rl32j8o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm2v1rl32j8o#1</guid>
+            <pubDate>Sun, 29 Dec 2024 01:47:52 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f273/live/d05b7aa0-c5c5-11ef-a0f2-fd81ae5962f4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Inside a Syrian 'reconciliation centre' where Assad's soldiers give up their weapons]]></title>
+            <description><![CDATA[Former regime fighters tell the BBC they want to regain civilian status and had nothing to do with atrocities.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2n35j5340o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2n35j5340o#1</guid>
+            <pubDate>Sun, 29 Dec 2024 07:47:15 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17f8/live/6aeacd50-c5da-11ef-aff0-072ce821b6ab.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Maggie Smith, Liam Payne and the other famous people who died in 2024]]></title>
+            <description><![CDATA[Dame Maggie Smith, James Earl Jones and Liam Payne are among the well-known figures who died this year.]]></description>
+            <link>https://www.bbc.com/news/articles/c789l8p8j7lo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c789l8p8j7lo#1</guid>
+            <pubDate>Sun, 29 Dec 2024 04:57:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19a0/live/1df52970-c12d-11ef-aff0-072ce821b6ab.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chlamydia could make koalas extinct. Can a vaccine save them in time?]]></title>
+            <description><![CDATA[Koalas are barrelling towards extinction but vaccine efforts to save them are running out of time and cash.]]></description>
+            <link>https://www.bbc.com/news/articles/cjdnkdg1l8do</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cjdnkdg1l8do#1</guid>
+            <pubDate>Sun, 29 Dec 2024 16:03:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7896/live/fa632740-bc37-11ef-a0f2-fd81ae5962f4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nigeria celebrates 'Africa's biggest street party']]></title>
+            <description><![CDATA[Pictures of revellers from the Calabar Carnival marking Christmas in the southern Nigeria.]]></description>
+            <link>https://www.bbc.com/news/articles/c4gp0krk6z4o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gp0krk6z4o#1</guid>
+            <pubDate>Sun, 29 Dec 2024 19:35:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c581/live/b23ea760-c618-11ef-a2ca-e99d0c9a24e3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dame Deborah would be 'thrilled' at fund's use]]></title>
+            <description><![CDATA[Her father says she would be thrilled about the impact that's been made by her campaigning.]]></description>
+            <link>https://www.bbc.com/news/articles/cp3zpez43lvo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp3zpez43lvo#2</guid>
+            <pubDate>Sun, 29 Dec 2024 15:58:04 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e593/live/f741a020-c5f4-11ef-9999-dfde4758abcc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Video captures moments before South Korea plane crash]]></title>
+            <description><![CDATA[The Jeju Air flight landing at Muan Airport had 181 passengers on board when it crashed off the runway.]]></description>
+            <link>https://www.bbc.com/news/videos/cz0r2lj5p8eo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cz0r2lj5p8eo#2</guid>
+            <pubDate>Sun, 29 Dec 2024 07:00:05 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7525/live/eccc6470-c5e7-11ef-a0f2-fd81ae5962f4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Three migrants die attempting to cross Channel]]></title>
+            <description><![CDATA[Dozens of other people were rescued off the coast of Sangatte on Sunday morning.]]></description>
+            <link>https://www.bbc.com/news/articles/c0rn2z2npwvo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0rn2z2npwvo#2</guid>
+            <pubDate>Sun, 29 Dec 2024 14:23:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4202/live/0e72b880-c5d5-11ef-aff0-072ce821b6ab.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ocean gives up hundreds of rare Lego treasures]]></title>
+            <description><![CDATA[Hundreds of Lego pieces lost at sea 27 years ago are found in 2024, including the first shark.]]></description>
+            <link>https://www.bbc.com/news/articles/c3rqlejlxg4o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3rqlejlxg4o#2</guid>
+            <pubDate>Sun, 29 Dec 2024 07:14:20 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe10/live/266a94f0-c123-11ef-9f09-23b1103db065.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK and EU look to 2025 for reset, but with little room for trade-offs]]></title>
+            <description><![CDATA[Sir Keir Starmer is invited to an EU summit in February - the first of its type since the Brexit negotiations.]]></description>
+            <link>https://www.bbc.com/news/articles/c2dxzyg9y3eo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c2dxzyg9y3eo#2</guid>
+            <pubDate>Sun, 29 Dec 2024 02:14:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9957/live/66ad93a0-c5ec-11ef-aff0-072ce821b6ab.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Boys held in murder probe after man, 18, stabbed]]></title>
+            <description><![CDATA[Four boys, all 17, are arrested with three others held on suspicion of assisting an offender.]]></description>
+            <link>https://www.bbc.com/news/articles/cp31pyj8xq1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp31pyj8xq1o#2</guid>
+            <pubDate>Sun, 29 Dec 2024 13:07:50 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ee2/live/26c38830-c5f6-11ef-aff0-072ce821b6ab.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC News app]]></title>
+            <description><![CDATA[Top stories, breaking news, live reporting, and follow news topics that match your interests]]></description>
+            <link>https://www.bbc.co.uk/news/10628994</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/10628994#3</guid>
+            <pubDate>Tue, 20 Aug 2024 11:35:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[News Review of the Year 2024]]></title>
+            <description><![CDATA[Amol Rajan and Nick Robinson look back at the year with Today presenters past and present.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/m00268xq</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/m00268xq#5</guid>
+            <pubDate>Tue, 24 Dec 2024 06:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0kcs04z.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Imposter Syndrome: Sir Richard Branson]]></title>
+            <description><![CDATA[Does a successful entrepreneur still experience self-doubt despite all his success?]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/m0026pjk</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m0026pjk#5</guid>
+            <pubDate>Fri, 27 Dec 2024 00:01:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0kb9lvx.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Is Liverpool's new front three even better than Salah, Mane & Firmino?]]></title>
+            <description><![CDATA[How do Mohamed Salah, Cody Gakpo and Luis Diaz measure up against Liverpool's last title-winning front three?]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cgm9pnnlllko</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgm9pnnlllko#7</guid>
+            <pubDate>Sun, 29 Dec 2024 21:34:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f012/live/bfaa4a40-c626-11ef-b690-afd6348b0316.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wright knocks defending champion Humphries out of Worlds]]></title>
+            <description><![CDATA[Defending champion Luke Humphries is knocked out of the PDC World Darts Championship in the fourth round by Peter Wright. ]]></description>
+            <link>https://www.bbc.com/sport/darts/articles/cnv3pmpdl16o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/darts/articles/cnv3pmpdl16o#7</guid>
+            <pubDate>Sun, 29 Dec 2024 23:04:14 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f07/live/3af94700-c63b-11ef-9424-2faf2fb332a2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Forest lend retro feel to table - here's why they can stay the course]]></title>
+            <description><![CDATA[As the Premier League table adopts a retro feel, BBC Sport looks at five reasons Nottingham Forest can finish in the top four.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cp9np84m21lo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp9np84m21lo#7</guid>
+            <pubDate>Sun, 29 Dec 2024 18:56:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3400/live/bafaf500-c610-11ef-95a6-b5743551e82b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Analysis: Why Liverpool are 'nearly impossible' to defend against]]></title>
+            <description><![CDATA[Match of the Day pundits Danny Murphy and Ashley Williams analyse Liverpool's performance against West Ham United where they won 5-0 to stretch their lead at the top of the Premier League.]]></description>
+            <link>https://www.bbc.com/sport/football/videos/c0q024k1jqyo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c0q024k1jqyo#7</guid>
+            <pubDate>Sun, 29 Dec 2024 23:59:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/befb/live/995c4aa0-c63a-11ef-a2ca-e99d0c9a24e3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['We need help' - Guardiola targets January & says 'no chance' of title]]></title>
+            <description><![CDATA[Pep Guardiola says Manchester City "need help" during the January transfer and his side have "no chance" of winning the Premier League this season.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c77j5dvjnn8o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c77j5dvjnn8o#7</guid>
+            <pubDate>Sun, 29 Dec 2024 19:53:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f43/live/9b2a44f0-c61b-11ef-aff0-072ce821b6ab.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Are Southampton on course to become Premier League's worst ever team?]]></title>
+            <description><![CDATA[BBC Sport looks at the numbers to see if Southampton could replace Derby County of 2007-08 as the Premier League's worst ever team.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c4glvvn4ee9o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4glvvn4ee9o#7</guid>
+            <pubDate>Sun, 29 Dec 2024 20:46:43 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d75/live/1dbee720-c623-11ef-aff0-072ce821b6ab.jpg"/>
+        </item>
+    </channel>
+</rss>
