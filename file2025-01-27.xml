@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - News Front Page]]></description>
+        <link>https://www.bbc.co.uk/news</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 27 Jan 2025 01:53:35 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Six hostages to be freed and Gazans to be allowed north - Israel]]></title>
+            <description><![CDATA[The hostages include Arbel Yehud - the civilian at the centre of a row which has led to Israel blocking the return of Gazans to north Gaza.]]></description>
+            <link>https://www.bbc.com/news/articles/c8r5y75d17vo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8r5y75d17vo#0</guid>
+            <pubDate>Sun, 26 Jan 2025 23:41:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f42/live/1232c7f0-dc35-11ef-89d6-e976e4506c48.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump wants neighbours to take in Palestinians to 'clean out' Gaza]]></title>
+            <description><![CDATA[Palestinians condemn the proposal, and both Jordan and Egypt have rejected Trump's request.]]></description>
+            <link>https://www.bbc.com/news/articles/c07kpjyzgllo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c07kpjyzgllo#0</guid>
+            <pubDate>Sun, 26 Jan 2025 20:56:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b91/live/538a49e0-dbda-11ef-bc01-8f2c83dad217.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Survivors return as world remembers Auschwitz 80 years after liberation]]></title>
+            <description><![CDATA[Fifty survivors - now in their late 80s and 90s - will attend a ceremony marking the camp's liberation.]]></description>
+            <link>https://www.bbc.com/news/articles/czj3mde43k2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czj3mde43k2o#0</guid>
+            <pubDate>Sun, 26 Jan 2025 22:32:00 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78c7/live/5793e1e0-dbf3-11ef-99c3-d14ec5dc850f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK hit with high winds as Storm Herminia rolls in]]></title>
+            <description><![CDATA[The new warnings come after a second person is confirmed to have died in Storm Éowyn.]]></description>
+            <link>https://www.bbc.com/news/articles/c23np9mx5k3o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c23np9mx5k3o#0</guid>
+            <pubDate>Sun, 26 Jan 2025 18:16:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06c8/live/1345ad70-dc07-11ef-be50-63fa651218ad.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Starmer praises Trump's role in Gaza ceasefire and hostage deal]]></title>
+            <description><![CDATA[The conversation comes after the president praised Sir Keir for doing a "very good job" as prime minister.]]></description>
+            <link>https://www.bbc.com/news/articles/c78xmp1vkljo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c78xmp1vkljo#0</guid>
+            <pubDate>Sun, 26 Jan 2025 22:25:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3817/live/0142cb30-dc25-11ef-902e-cf9b84dc1357.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warm words, for now, between Trump and Starmer]]></title>
+            <description><![CDATA[Sir Keir Starmer and Donald Trump spent 45 minutes on the phone over the weekend.]]></description>
+            <link>https://www.bbc.com/news/articles/c6270py64pzo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c6270py64pzo#0</guid>
+            <pubDate>Mon, 27 Jan 2025 00:29:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3109/live/165f2800-dc3f-11ef-9e41-8dfed29373bc.png"/>
+        </item>
+        <item>
+            <title><![CDATA['I'm slowly paying off £7,000' – Tips from those tackling debt]]></title>
+            <description><![CDATA[People who have fought their way out of debt give their best advice on coping in tough financial times.]]></description>
+            <link>https://www.bbc.com/news/articles/c3rwx31ypy3o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3rwx31ypy3o#0</guid>
+            <pubDate>Mon, 27 Jan 2025 00:01:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5de4/live/c1c3ca50-d980-11ef-ba6a-b744abd00a0a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Outgoing Muslim Council leader criticises lack of government contact]]></title>
+            <description><![CDATA[Zara Mohammed tells BBC the difficulties she faced as she ends her time as Muslim Council of Britain leader.]]></description>
+            <link>https://www.bbc.com/news/articles/c360je2j6lpo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c360je2j6lpo#0</guid>
+            <pubDate>Mon, 27 Jan 2025 00:52:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e8a/live/bd58ffc0-db39-11ef-a01d-1fc3f76bc248.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rebels say they have taken DR Congo city as thousands flee]]></title>
+            <description><![CDATA[Videos shared online by residents appear to show M23 rebels patrolling the main streets of Goma.]]></description>
+            <link>https://www.bbc.com/news/articles/c0qwlkydxxko</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0qwlkydxxko#0</guid>
+            <pubDate>Mon, 27 Jan 2025 01:42:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee95/live/f4311810-dc2a-11ef-a1c5-afb06f3bb2c3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump imposes 25% tariffs on Colombia as deported migrant flights blocked]]></title>
+            <description><![CDATA[It comes after Colombian President Gustavo Petro denied entry to US military planes carrying deported migrants.]]></description>
+            <link>https://www.bbc.com/news/articles/cdxny0lnyepo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdxny0lnyepo#0</guid>
+            <pubDate>Sun, 26 Jan 2025 23:58:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24ac/live/0029e320-dc0f-11ef-9e3e-552fec6e8279.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Vicky Pattison's sex tape warning and The Weeknd's final chapter: This week's big releases]]></title>
+            <description><![CDATA[Hard Truths starring Marianne Jean-Baptiste, a new Diddy documentary and The Apprentice are also coming out this week.]]></description>
+            <link>https://www.bbc.com/news/articles/c4g3286ekeyo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g3286ekeyo#0</guid>
+            <pubDate>Sun, 26 Jan 2025 20:25:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0260/live/8cf2be20-da67-11ef-bc01-8f2c83dad217.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chancellor hints at support for third runway at Heathrow]]></title>
+            <description><![CDATA[An announcement is expected next week, as part of major speech on plans to boost the economy.]]></description>
+            <link>https://www.bbc.com/news/articles/cy08q9d1r2vo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy08q9d1r2vo#0</guid>
+            <pubDate>Sun, 26 Jan 2025 14:49:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ac9/live/5460f140-dbce-11ef-9baa-9794f8fbae61.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['We are not lazy' - Working from home criticism sparks anger]]></title>
+            <description><![CDATA[Hundreds of BBC readers disagreed with former Asda boss Lord Rose's view that working from home is "not proper work".]]></description>
+            <link>https://www.bbc.com/news/articles/cp9x0819417o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp9x0819417o#1</guid>
+            <pubDate>Mon, 27 Jan 2025 00:01:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff47/live/2dbe5c60-da4a-11ef-aa2b-af28c7cbb4a7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Millions 'face tax hike' and Trump set to visit UK]]></title>
+            <description><![CDATA[A number of Monday's front pages report on a call between Donald Trump and Sir Keir Starmer's.]]></description>
+            <link>https://www.bbc.com/news/articles/cy0p8r6ppr1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy0p8r6ppr1o#1</guid>
+            <pubDate>Sun, 26 Jan 2025 23:31:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0120/live/3d3e5500-dc34-11ef-902e-cf9b84dc1357.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Inside the race for Greenland's mineral wealth]]></title>
+            <description><![CDATA[The territory's untapped mineral wealth has caught the eye of both mining firms and Donald Trump.]]></description>
+            <link>https://www.bbc.com/news/articles/c9d5jwvw9nlo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9d5jwvw9nlo#1</guid>
+            <pubDate>Mon, 27 Jan 2025 00:01:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0563/live/649530b0-d810-11ef-99cc-59f769d35c5a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Auschwitz became centre of Nazi Holocaust]]></title>
+            <description><![CDATA[It is 80 years since Soviet Union troops liberated Auschwitz - now marked as Holocaust Memorial Day.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-50743973</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-50743973#1</guid>
+            <pubDate>Thu, 16 Jan 2025 16:26:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1409C/production/_110367028_gettyimages-89180430.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dam plan busted? World's biggest hydropower project in the balance]]></title>
+            <description><![CDATA[The DR Congo is planning to build a massive dam delivering power to millions of people - but it is not easy.]]></description>
+            <link>https://www.bbc.com/news/articles/c62jmq0z89jo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c62jmq0z89jo#1</guid>
+            <pubDate>Mon, 27 Jan 2025 00:10:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5400/live/feffa410-befb-11ef-a0f2-fd81ae5962f4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['My story on Tinder predator went live, then my phone rang - it was him']]></title>
+            <description><![CDATA[Violent fraudster Christopher Harkins was jailed for 12 years following the testimony of a group of women.]]></description>
+            <link>https://www.bbc.com/news/articles/c0qw8egydkjo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0qw8egydkjo#1</guid>
+            <pubDate>Sun, 26 Jan 2025 10:29:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22ba/live/4cf7c0c0-da87-11ef-902e-cf9b84dc1357.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I spent 30 years searching for secret to happiness - the answer isn't what I thought']]></title>
+            <description><![CDATA[Prompted by Blue Monday, the BBC's special correspondent reflects on his struggle to find balance and joy in life - and a surprisingly straightforward solution]]></description>
+            <link>https://www.bbc.com/news/articles/c5ye6d43rqwo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5ye6d43rqwo#1</guid>
+            <pubDate>Sun, 26 Jan 2025 08:00:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e7f/live/7b740430-d80d-11ef-87df-d575b9a434a4.png"/>
+        </item>
+        <item>
+            <title><![CDATA[My opponents choose jail and exile, Lukashenko tells BBC]]></title>
+            <description><![CDATA[On election day, the unchallenged Belarus leader exchanges arguments with the BBC Russia editor.]]></description>
+            <link>https://www.bbc.com/news/articles/c23npdrj41do</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c23npdrj41do#2</guid>
+            <pubDate>Sun, 26 Jan 2025 21:42:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62d6/live/9857a580-dc2b-11ef-902e-cf9b84dc1357.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man arrested for attempted murder after police officer hit by car]]></title>
+            <description><![CDATA[The female officer suffered serious injuries and was taken to hospital following the incident.]]></description>
+            <link>https://www.bbc.com/news/articles/ce3n5e4pl3qo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce3n5e4pl3qo#2</guid>
+            <pubDate>Sun, 26 Jan 2025 18:03:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b005/live/f288d000-dc0e-11ef-902e-cf9b84dc1357.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wynne Evans apologises for 'inappropriate' comment at Strictly tour]]></title>
+            <description><![CDATA[The BBC says it had made it "very clear" to the opera singer that it didn't tolerate the behaviour.]]></description>
+            <link>https://www.bbc.com/news/articles/cvge3k2pxp0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvge3k2pxp0o#2</guid>
+            <pubDate>Sun, 26 Jan 2025 15:36:41 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c39/live/aec48350-dbe6-11ef-9514-7b0d55d05286.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nick Cave says work repelled him after death of sons]]></title>
+            <description><![CDATA[The singer and writer says he still works "very, very hard" but finds joy from his family.]]></description>
+            <link>https://www.bbc.com/news/articles/c0lz69ndnreo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0lz69ndnreo#2</guid>
+            <pubDate>Sun, 26 Jan 2025 07:51:49 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e5d/live/82ffb600-dbb3-11ef-902e-cf9b84dc1357.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man charged with murdering lecturer]]></title>
+            <description><![CDATA[Claire Chick, who was a nurse and university lecturer, was found fatally injured in a street.]]></description>
+            <link>https://www.bbc.com/news/articles/crr0qq491z4o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crr0qq491z4o#2</guid>
+            <pubDate>Sun, 26 Jan 2025 11:25:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d066/live/bfed3240-db04-11ef-8c5c-052c61d7f8cf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How texting a random number 'hello' led a man to meet his future wife]]></title>
+            <description><![CDATA[Donovan Shears met his future wife while he was "showing off" to friends by texting random numbers.]]></description>
+            <link>https://www.bbc.com/news/articles/c77rvx4jn4go</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c77rvx4jn4go#2</guid>
+            <pubDate>Sun, 26 Jan 2025 11:00:09 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6cf/live/3142f880-dbb9-11ef-8b0c-c98d98e9a4d1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lebanon says 22 killed by Israeli forces after withdrawal deadline missed]]></title>
+            <description><![CDATA[It comes as the deadline passes for Israeli forces and Hezbollah fighters to withdraw from southern Lebanon. ]]></description>
+            <link>https://www.bbc.com/news/articles/czeprnw4repo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czeprnw4repo#2</guid>
+            <pubDate>Sun, 26 Jan 2025 19:45:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d90/live/2609f3d0-dbfd-11ef-902e-cf9b84dc1357.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC News app]]></title>
+            <description><![CDATA[Top stories, breaking news, live reporting, and follow news topics that match your interests]]></description>
+            <link>https://www.bbc.co.uk/news/10628994</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/10628994#4</guid>
+            <pubDate>Tue, 20 Aug 2024 11:35:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Is this a Rachel Reeves reset?]]></title>
+            <description><![CDATA[Plus, President Trump says Keir Starmer is doing a “very good job”]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0km60vb</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0km60vb#5</guid>
+            <pubDate>Sun, 26 Jan 2025 13:45:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0jhh4tp.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bonus Q&A: Trump returns to the White House]]></title>
+            <description><![CDATA[Nick and Amol are joined by Justin Webb to answer your questions.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0kjk6sz</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0kjk6sz#5</guid>
+            <pubDate>Tue, 21 Jan 2025 13:41:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0j938rc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Amorim says he'd rather pick 63-year-old coach over Rashford ]]></title>
+            <description><![CDATA[Manchester United boss Ruben Amorim suggests he'd rather give a place on the bench to his 63-year-old goalkeeping coach over Marcus Rashford because of effort.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c0m1lemv8w7o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0m1lemv8w7o#7</guid>
+            <pubDate>Sun, 26 Jan 2025 23:18:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcac/live/1c0be120-dc36-11ef-89d6-e976e4506c48.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Postecoglou unsure on future - but why do many Spurs fans blame Levy?]]></title>
+            <description><![CDATA[Tottenham are on a seven-match winless run in the Premier League but it is chairman Daniel Levy - not manager Ange Postecoglou - that is bearing the brunt of supporters' anger. ]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c99ym87x2xyo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c99ym87x2xyo#7</guid>
+            <pubDate>Sun, 26 Jan 2025 19:05:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fdf/live/7816d8e0-dc12-11ef-a57f-b72075232941.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eagles run Commanders ragged to reach Super Bowl 59]]></title>
+            <description><![CDATA[The Philadelphia Eagles run the Washington Commanders ragged to win 55-23 and reach their second Super Bowl in three years.]]></description>
+            <link>https://www.bbc.com/sport/american-football/articles/c07kp437mmdo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/american-football/articles/c07kp437mmdo#7</guid>
+            <pubDate>Mon, 27 Jan 2025 00:31:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2022/live/84ec9a00-dc44-11ef-8a7a-57aed2852c42.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Sinner will be one of greatest players we've ever seen']]></title>
+            <description><![CDATA[Jannik Sinner continues to be an unstoppable force in men's tennis as the Australian Open champion becomes the first Italian to win three major titles.]]></description>
+            <link>https://www.bbc.com/sport/tennis/articles/ce8j3g8z0deo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/ce8j3g8z0deo#7</guid>
+            <pubDate>Sun, 26 Jan 2025 16:30:52 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5646/live/b5faf8a0-dbfc-11ef-b7f3-3d9a69ef9572.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Struggling students to benefit from grant changes ]]></title>
+            <description><![CDATA[The household income threshold for EMA will rise after a 15-year freeze, the Welsh government says.]]></description>
+            <link>https://www.bbc.com/news/articles/c9d5g91pj39o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9d5g91pj39o#8</guid>
+            <pubDate>Sun, 26 Jan 2025 21:51:18 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aeda/live/c056a080-da56-11ef-907e-55e025d54ff9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man charged with murdering university lecturer]]></title>
+            <description><![CDATA[Claire Chick, who was a nurse and university lecturer, was found fatally injured in a street.]]></description>
+            <link>https://www.bbc.com/news/articles/crr0qq491z4o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crr0qq491z4o#8</guid>
+            <pubDate>Sun, 26 Jan 2025 11:25:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d066/live/bfed3240-db04-11ef-8c5c-052c61d7f8cf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Community hubs offering support as 74,000 still without power]]></title>
+            <description><![CDATA[It comes two days after Storm Éowyn brought winds of more than 90mph to Northern Ireland.]]></description>
+            <link>https://www.bbc.com/news/articles/c3e1zvxz5p9o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3e1zvxz5p9o#8</guid>
+            <pubDate>Sun, 26 Jan 2025 20:17:24 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77b9/live/c079d240-dbfe-11ef-b7f3-3d9a69ef9572.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Storm Éowyn: Teenager dies after car hit by falling tree]]></title>
+            <description><![CDATA[The 19-year-old was driving on the B743 in Mauchline when the accident happened on Friday. 
+]]></description>
+            <link>https://www.bbc.com/news/articles/c98ylm26pzro</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c98ylm26pzro#8</guid>
+            <pubDate>Sun, 26 Jan 2025 17:38:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c156/live/7d6ae120-dbfd-11ef-b7f3-3d9a69ef9572.jpg"/>
+        </item>
+    </channel>
+</rss>
