@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - News Front Page]]></description>
+        <link>https://www.bbc.co.uk/news</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 10 Feb 2025 01:55:06 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Trump says he will announce raft of new trade tariffs]]></title>
+            <description><![CDATA[All steel and aluminium entering the US will be targeted with a 25% levy, the president says.]]></description>
+            <link>https://www.bbc.com/news/articles/c98yv3e1yyqo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c98yv3e1yyqo#0</guid>
+            <pubDate>Mon, 10 Feb 2025 01:40:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc79/live/92b603e0-e740-11ef-b778-430956e96ee8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Second Labour MP apologises over WhatsApp comments]]></title>
+            <description><![CDATA[Burnley MP Oliver Ryan says his comments in the group were "completely unacceptable".]]></description>
+            <link>https://www.bbc.com/news/articles/c1lv1gqgmdzo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1lv1gqgmdzo#0</guid>
+            <pubDate>Sun, 09 Feb 2025 23:08:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa3f/live/4fdfbdb0-e739-11ef-bd1b-d536627785f2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israel troops withdraw from corridor that split Gaza in two]]></title>
+            <description><![CDATA[Palestinians on cars and carts begin returning to northern Gaza  - often to scenes of utter destruction.]]></description>
+            <link>https://www.bbc.com/news/articles/c4g3yyv4egeo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g3yyv4egeo#0</guid>
+            <pubDate>Sun, 09 Feb 2025 21:41:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d066/live/a8ed1ac0-e6f2-11ef-a319-fb4e7360c4ec.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Freed Israeli hostage was unaware wife and daughters killed, British family says]]></title>
+            <description><![CDATA[His wife, Lianne Sharabi and two daughters were murdered by Hamas in the 7 October attack.]]></description>
+            <link>https://www.bbc.com/news/articles/c8632n81dx3o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8632n81dx3o#0</guid>
+            <pubDate>Sun, 09 Feb 2025 21:37:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e56/live/143d25c0-e6dc-11ef-9c03-b5355c68e892.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[It's the Beast Games finale, and Bridget Jones is back: What to watch this week]]></title>
+            <description><![CDATA[This week also brings a new Rizzle Kicks album, the release of Civilization VII, and the launch of Clueless the Musical.]]></description>
+            <link>https://www.bbc.com/news/articles/ce3l5jg5lyxo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce3l5jg5lyxo#0</guid>
+            <pubDate>Sun, 09 Feb 2025 20:00:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d45a/live/a6423cd0-e583-11ef-a319-fb4e7360c4ec.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Boy saves thousands of sweet tubs from landfill]]></title>
+            <description><![CDATA[Teddy has collected the plastic confectionery tubs because he wants to help save the planet.]]></description>
+            <link>https://www.bbc.com/news/articles/c4gwykzqed5o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gwykzqed5o#0</guid>
+            <pubDate>Sun, 09 Feb 2025 07:15:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/700c/live/1525cb80-e6f1-11ef-a319-fb4e7360c4ec.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man arrested after suspected knife attack in north Dublin]]></title>
+            <description><![CDATA[He was arrested in the Stoneybatter area of the city on Sunday and is currently being detained.]]></description>
+            <link>https://www.bbc.com/news/articles/c9d527zg38xo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9d527zg38xo#0</guid>
+            <pubDate>Sun, 09 Feb 2025 19:07:41 GMT</pubDate>
+            <media:thumbnail width="240" height="133" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbac/live/a30d4a10-e703-11ef-bd1b-d536627785f2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man's pop-up urinal death may never be explained, family fears]]></title>
+            <description><![CDATA[The family of Kevin Holding fear they may never find out why a pop-up urinal dropped on him.]]></description>
+            <link>https://www.bbc.com/news/articles/cp8q5mpqrvqo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp8q5mpqrvqo#0</guid>
+            <pubDate>Sun, 09 Feb 2025 03:11:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f32/live/8904baa0-e234-11ef-8a48-9d975f36d1aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[M&S boss says retailers 'raided like a piggy bank']]></title>
+            <description><![CDATA[Stuart Machin says the sector is facing a wave of tax rises and the government needs to "lighten the burden".]]></description>
+            <link>https://www.bbc.com/news/articles/cgly37ynedko</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cgly37ynedko#0</guid>
+            <pubDate>Sun, 09 Feb 2025 13:47:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b6f/live/8b5aa110-e6e0-11ef-9c03-b5355c68e892.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Robbie Williams' bid wins Eric Morecambe's glasses]]></title>
+            <description><![CDATA[The singer says he won Eric Morecambe's glasses at auction and regards him as an "uncle of sorts".]]></description>
+            <link>https://www.bbc.com/news/articles/cp82lg6vjn1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp82lg6vjn1o#0</guid>
+            <pubDate>Sun, 09 Feb 2025 15:09:16 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a21/live/576c2430-e6ec-11ef-bd1b-d536627785f2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Spain's economy became the envy of Europe]]></title>
+            <description><![CDATA[How the Spanish have built one of the strongest economies in the European Union.]]></description>
+            <link>https://www.bbc.com/news/articles/c5y7jmlyx02o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y7jmlyx02o#1</guid>
+            <pubDate>Mon, 10 Feb 2025 01:43:56 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/390e/live/239bf8f0-e530-11ef-b673-970eeb68de6e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: 'MPs in vile chats' and 'Labour's plan to tackle Farage threat']]></title>
+            <description><![CDATA[The fallout after the sacking of a health minister over offensive messages is the top story in some of Monday's front pages.]]></description>
+            <link>https://www.bbc.com/news/articles/cjw4xd1q0e5o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cjw4xd1q0e5o#1</guid>
+            <pubDate>Mon, 10 Feb 2025 01:06:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b80f/live/0c9bb830-e74b-11ef-a819-277e390a7a08.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Woman's deepfake betrayal by close friend: 'Every moment turned into porn']]></title>
+            <description><![CDATA[Australian teacher Hannah Grundy was left to track down the man posting deepfake pornography of her.]]></description>
+            <link>https://www.bbc.com/news/articles/cm21j341m31o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm21j341m31o#1</guid>
+            <pubDate>Sat, 08 Feb 2025 18:08:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3af5/live/daafdab0-e5f9-11ef-a819-277e390a7a08.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[From refugee to coach - the man behind Plymouth's upset of Liverpool]]></title>
+            <description><![CDATA[Plymouth Argyle head coach Miron Muslic explains how his life as a refugee inspires his coaching ethos - before they beat Liverpool in the FA Cup.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cz7e07zz8gzo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz7e07zz8gzo#1</guid>
+            <pubDate>Sun, 09 Feb 2025 17:53:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c07/live/3ce1b990-e70a-11ef-9b11-a943219c72d4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['My wife told me to date after she died - I wasn't ready for what was out there']]></title>
+            <description><![CDATA[Geraint John says some dates have made a sharp exit when he's told them he's been recently widowed.]]></description>
+            <link>https://www.bbc.com/news/articles/cn01z4gylqyo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn01z4gylqyo#1</guid>
+            <pubDate>Sun, 09 Feb 2025 07:26:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcd4/live/5cf295d0-e6d1-11ef-a819-277e390a7a08.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Living off grid: The homes that run without mains electricity]]></title>
+            <description><![CDATA[Following Storm Éowyn, householders who live off-grid share their tips for self-sufficiency.]]></description>
+            <link>https://www.bbc.com/news/articles/cnvqr4v6539o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cnvqr4v6539o#1</guid>
+            <pubDate>Sun, 09 Feb 2025 06:58:29 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/513e/live/9f499340-e28d-11ef-8d6e-af2159186f83.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[No excuses not to build 1.5m new homes, Rayner says]]></title>
+            <description><![CDATA[The deputy PM says she's "determined" to hit Labour's house-building target by the next election.]]></description>
+            <link>https://www.bbc.com/news/articles/c9d528g755qo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c9d528g755qo#2</guid>
+            <pubDate>Sun, 09 Feb 2025 11:49:43 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c82/live/1b9c5260-e6ea-11ef-bd1b-d536627785f2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[China's tit-for-tat tariffs on US take effect]]></title>
+            <description><![CDATA[Beijing's move comes after President Donald Trump imposed a 10% levy on goods imported from China.]]></description>
+            <link>https://www.bbc.com/news/articles/cvg8zg7ll09o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg8zg7ll09o#2</guid>
+            <pubDate>Sun, 09 Feb 2025 22:55:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f592/live/5a51a5b0-e5e0-11ef-bfc2-c17b0d559062.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bodies of migrants found in Libya mass grave, authorities say]]></title>
+            <description><![CDATA[It comes just days after another mass grave with 19 bodies was found on a farm nearby.]]></description>
+            <link>https://www.bbc.com/news/articles/c4gzyg27kg1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gzyg27kg1o#2</guid>
+            <pubDate>Sun, 09 Feb 2025 18:56:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f58/live/a8347a50-e70c-11ef-a5b2-6f302c2db239.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tory shadow minister downplays talk of Reform pact]]></title>
+            <description><![CDATA[Alex Burghart says the Tories are "not going to do a deal with a party who wants to kill us".]]></description>
+            <link>https://www.bbc.com/news/articles/c74eypjwlq8o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c74eypjwlq8o#2</guid>
+            <pubDate>Sun, 09 Feb 2025 14:45:55 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a77/live/322c92e0-e6f6-11ef-a319-fb4e7360c4ec.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Baltic states unplug from Russia and join EU power grid]]></title>
+            <description><![CDATA["Today, history is made," EU chief Ursula von der Leyen told a ceremony in Lithuania's capital.]]></description>
+            <link>https://www.bbc.com/news/articles/crlkwyljl8lo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crlkwyljl8lo#2</guid>
+            <pubDate>Sun, 09 Feb 2025 17:04:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa26/live/b2399440-e707-11ef-9b11-a943219c72d4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Vitamin pills and icy swims: Can you really boost your immune system?]]></title>
+            <description><![CDATA[After being struck down by winter illness, the BBC's James Gallagher goes in search of ways to boost his immune system.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2m8d44v4go</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2m8d44v4go#2</guid>
+            <pubDate>Sun, 09 Feb 2025 02:51:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4134/live/69f72df0-e6e9-11ef-bd1b-d536627785f2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Your pictures on the theme of 'winter walks']]></title>
+            <description><![CDATA[Images from our readers on the theme of "winter walks".]]></description>
+            <link>https://www.bbc.com/news/articles/cx2kg97pmveo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2kg97pmveo#2</guid>
+            <pubDate>Sun, 09 Feb 2025 01:03:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4fa/live/10174160-e53d-11ef-bd1b-d536627785f2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['You can judge me - but don't criticise my outstanding Spurs players']]></title>
+            <description><![CDATA[Tottenham manager Ange Postecoglou says his players have been "outstanding" during a challenging season after their FA Cup loss to Aston Villa.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cjexge8v2w3o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cjexge8v2w3o#3</guid>
+            <pubDate>Sun, 09 Feb 2025 22:27:46 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ef4/live/fd4a2d30-e70e-11ef-a5b2-6f302c2db239.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ireland's 'master of control' buoyed by Murrayfield win]]></title>
+            <description><![CDATA[Ireland's Sam Prendergast is staying level-headed while the hype around him continues to grow. ]]></description>
+            <link>https://www.bbc.com/sport/rugby-union/articles/cpvm3gx7p8mo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/rugby-union/articles/cpvm3gx7p8mo#3</guid>
+            <pubDate>Sun, 09 Feb 2025 19:48:16 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3573/live/e69bf080-e71a-11ef-9251-b3b9898ca290.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Don't mess with the FA Cup - Plymouth teach Slot a lesson']]></title>
+            <description><![CDATA[Liverpool boss Arne Slot learns you cannot mess with the FA Cup after an embarrassing defeat at Plymouth, writes chief football writer Phil McNulty.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cj02388yr79o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj02388yr79o#3</guid>
+            <pubDate>Sun, 09 Feb 2025 19:25:27 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8c0/live/0f90e150-e714-11ef-b92c-51476f2ddfb8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Queen's Park and Davidson stand tall amid Ibrox bedlam]]></title>
+            <description><![CDATA[Callum Davidson and Queen's Park prove unlikely heroes as they shock Rangers in the Scottish Cup at Ibrox.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c93q5p3leego</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c93q5p3leego#3</guid>
+            <pubDate>Sun, 09 Feb 2025 21:34:10 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77f7/live/0a4f2bc0-e72d-11ef-a819-277e390a7a08.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rohit powers India to ODI series win over England]]></title>
+            <description><![CDATA[India take an unassailable 2-0 lead in the one-day international series against England after Rohit Sharma's superb century in Cuttack.]]></description>
+            <link>https://www.bbc.com/sport/cricket/articles/c78xy20dlrdo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/cricket/articles/c78xy20dlrdo#3</guid>
+            <pubDate>Sun, 09 Feb 2025 16:36:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a58b/live/65908fc0-e6fa-11ef-a39a-7b0f4e03d69d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC News app]]></title>
+            <description><![CDATA[Top stories, breaking news, live reporting, and follow news topics that match your interests]]></description>
+            <link>https://www.bbc.co.uk/news/10628994</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/10628994#5</guid>
+            <pubDate>Tue, 20 Aug 2024 11:35:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[A Trump Peace Plan for Ukraine?]]></title>
+            <description><![CDATA[Reports suggest a proposed US peace plan could be unveiled this week.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0kq18bx</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0kq18bx#6</guid>
+            <pubDate>Sat, 08 Feb 2025 17:02:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0jhh4tp.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Elon Musk vs The US Government]]></title>
+            <description><![CDATA[Musk says "it's now or never" for his revolution]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/m0027ldg</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/m0027ldg#6</guid>
+            <pubDate>Fri, 07 Feb 2025 07:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Driver cut free after crash with highways vehicle]]></title>
+            <description><![CDATA[Firefighters say the highways vehicle was stationary within a closed work zone when it was hit.]]></description>
+            <link>https://www.bbc.com/news/articles/clyer0ny3x7o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clyer0ny3x7o#8</guid>
+            <pubDate>Sun, 09 Feb 2025 14:19:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2ff/live/482a8070-e6ec-11ef-96cd-45cf16ace6f4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man wants to buy tip where he lost Bitcoin fortune]]></title>
+            <description><![CDATA[James Howells wants to search a landfill site where he lost for 8,000 bitcoins now worth about £620m.]]></description>
+            <link>https://www.bbc.com/news/articles/cj3eg3n11gvo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj3eg3n11gvo#8</guid>
+            <pubDate>Sun, 09 Feb 2025 21:58:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4308/live/91110310-e717-11ef-a319-fb4e7360c4ec.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nine police officers injured in Londonderry and Strabane]]></title>
+            <description><![CDATA[Officers were reportedly head-butted and kicked, with blood also being spat at them. ]]></description>
+            <link>https://www.bbc.com/news/articles/cm23r2806kgo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm23r2806kgo#8</guid>
+            <pubDate>Sun, 09 Feb 2025 17:09:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a3f/live/1514d330-e6ff-11ef-a39a-7b0f4e03d69d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MP's anger at government over Grangemouth closure]]></title>
+            <description><![CDATA[Labour MP Brian Leishman says the UK government must do more to help workers get new jobs.]]></description>
+            <link>https://www.bbc.com/news/articles/cn8yqe585y0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn8yqe585y0o#8</guid>
+            <pubDate>Sun, 09 Feb 2025 18:58:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a41c/live/32f523f0-e6ff-11ef-bd1b-d536627785f2.jpg"/>
+        </item>
+    </channel>
+</rss>
