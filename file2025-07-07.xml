@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - News Front Page]]></description>
+        <link>https://www.bbc.co.uk/news</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 07 Jul 2025 02:27:53 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Is the UK really any safer 20 years on from 7/7?]]></title>
+            <description><![CDATA[The British state has an evolved and sophisticated suite of powers and tools - but the shape of the threat has shifted.]]></description>
+            <link>https://www.bbc.com/news/articles/c14e77je72mo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c14e77je72mo#0</guid>
+            <pubDate>Sun, 06 Jul 2025 23:02:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/009f/live/e4439a90-58c6-11f0-9074-8989d8c97d87.png"/>
+        </item>
+        <item>
+            <title><![CDATA[King's message of unity for 7/7 attack anniversary]]></title>
+            <description><![CDATA[King warns against those stoking division, in a message honouring the victims of 7/7 terror attacks.]]></description>
+            <link>https://www.bbc.com/news/articles/cq53jqg2y90o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cq53jqg2y90o#0</guid>
+            <pubDate>Sun, 06 Jul 2025 23:07:07 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26cc/live/0f63fd70-58ed-11f0-852a-fb4f43c1b4cc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[At least 78 dead and dozens missing in Texas floods as more rain looms]]></title>
+            <description><![CDATA[The death toll looks certain to rise as search-and-rescue teams brace for further storms.]]></description>
+            <link>https://www.bbc.com/news/articles/cddzrj323zzo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cddzrj323zzo#0</guid>
+            <pubDate>Sun, 06 Jul 2025 23:28:39 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c48f/live/325c5e20-5ab5-11f0-a090-757f18d89a96.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Welfare U-turn makes spending decisions harder, minister tells BBC]]></title>
+            <description><![CDATA[Bridget Phillipson does not commit to scrapping the two-child benefit cap, saying it will "come at a cost".
+]]></description>
+            <link>https://www.bbc.com/news/articles/cq8z34x914jo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cq8z34x914jo#0</guid>
+            <pubDate>Sun, 06 Jul 2025 10:39:18 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a52/live/d137a740-5a59-11f0-960d-e9f1088a89fe.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[First round of Gaza ceasefire talks ends without breakthrough]]></title>
+            <description><![CDATA[The latest round of indirect negotiations come as Israeli Prime Minister Benjamin Netanyahu heads to Washington. ]]></description>
+            <link>https://www.bbc.com/news/articles/crenx445170o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crenx445170o#0</guid>
+            <pubDate>Mon, 07 Jul 2025 00:12:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21bd/live/ecdac480-5aa1-11f0-bf57-2d681db6ae65.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Post Office scandal victim: 'I need someone to be punished']]></title>
+            <description><![CDATA[Sub-postmasters look forward to the first part of a report into the Horizon IT scandal being published.]]></description>
+            <link>https://www.bbc.com/news/articles/cx244zk2jppo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx244zk2jppo#0</guid>
+            <pubDate>Sun, 06 Jul 2025 23:06:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19a1/live/7ced6ec0-58b7-11f0-9074-8989d8c97d87.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Human error' - Wimbledon sorry over missed line calls]]></title>
+            <description><![CDATA[Wimbledon organisers apologise after the electronic line-calling system on Centre Court is turned off in error and misses three calls in one game.]]></description>
+            <link>https://www.bbc.com/sport/tennis/articles/czry1j5e32ko</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/czry1j5e32ko#0</guid>
+            <pubDate>Sun, 06 Jul 2025 21:32:25 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dd9/live/732b1680-5aa6-11f0-b5c5-012c5796682d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Murder inquiry after death of scientist on Dundee street]]></title>
+            <description><![CDATA[Dr Fortune Gomo, who was originally from Zimbabwe, was pronounced dead at the scene on the city's South Road.]]></description>
+            <link>https://www.bbc.com/news/articles/c628965dvp1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c628965dvp1o#0</guid>
+            <pubDate>Sun, 06 Jul 2025 16:58:39 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54ba/live/cb90abf0-5a8d-11f0-a40e-a1af2950b220.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Parents of girls killed in school crash 'still waiting for answers']]></title>
+            <description><![CDATA[Nuria Sajjad and Selena Lau died when a Land Rover ran into an end-of-term tea party in July 2023.]]></description>
+            <link>https://www.bbc.com/news/articles/c89e1kynjjko</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c89e1kynjjko#0</guid>
+            <pubDate>Sun, 06 Jul 2025 16:11:46 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ec2/live/7a20a320-5a78-11f0-8d59-db049cef5b2b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nursery teachers to get £4,500 to work in disadvantaged areas]]></title>
+            <description><![CDATA[A new scheme will see early years teachers offered a financial incentive to work in areas with highest needs.]]></description>
+            <link>https://www.bbc.com/news/articles/cg5z1pp7q4do</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cg5z1pp7q4do#0</guid>
+            <pubDate>Sun, 06 Jul 2025 23:16:36 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7cb/live/df4d1bb0-5a88-11f0-bbc9-6308966b6c56.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israel launches strikes on Houthi targets in Yemen]]></title>
+            <description><![CDATA[Israel says it took action against the rebel group as part of Operation "Black Flag".]]></description>
+            <link>https://www.bbc.com/news/articles/ce9xdlxp1x7o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce9xdlxp1x7o#0</guid>
+            <pubDate>Mon, 07 Jul 2025 02:15:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39d6/live/f0c07870-5ac8-11f0-a40e-a1af2950b220.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bereavement leave to be extended to miscarriages before 24 weeks]]></title>
+            <description><![CDATA[Parents who experience pregnancy loss at any stage will be entitled to leave from work under planned changes.]]></description>
+            <link>https://www.bbc.com/news/articles/cz9k12w5j54o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz9k12w5j54o#0</guid>
+            <pubDate>Sun, 06 Jul 2025 23:16:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a365/live/cf3584f0-5a75-11f0-8d59-db049cef5b2b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lena Dunham on fatphobia, dating advice and her new London rom-com]]></title>
+            <description><![CDATA[Dunham's latest project is  a Netflix rom-com loosely based on her life over the last few years.]]></description>
+            <link>https://www.bbc.com/news/articles/cd0vvgnj8rko</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd0vvgnj8rko#1</guid>
+            <pubDate>Sun, 06 Jul 2025 23:12:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad3d/live/03806be0-58b8-11f0-9267-3d10d9c5c6de.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How an al-Qaeda offshoot became one of Africa's deadliest militant groups]]></title>
+            <description><![CDATA[JNIM has emerged as the deadliest jihadist group in West Africa as armies struggle to stem the attacks.]]></description>
+            <link>https://www.bbc.com/news/articles/cg4r5wylwq6o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cg4r5wylwq6o#1</guid>
+            <pubDate>Mon, 07 Jul 2025 01:04:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edd0/live/c6c01010-5345-11f0-a2ff-17a82c2e8bc4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why I kick down Peak District stone stacks]]></title>
+            <description><![CDATA[Stuart Cox says he wants to raise awareness of the damage the stacks can do to the environment.]]></description>
+            <link>https://www.bbc.com/news/articles/cd6g55w5l5zo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd6g55w5l5zo#1</guid>
+            <pubDate>Sat, 05 Jul 2025 23:10:11 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79dd/live/911ac4c0-58de-11f0-b5c5-012c5796682d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: 'PM facing fresh revolt' and 'dental deserts']]></title>
+            <description><![CDATA[The Guardian and the Times lead with responses to a review of special educational needs and disabilities (Send) provisions in schools]]></description>
+            <link>https://www.bbc.com/news/articles/ckgjy88zk1lo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgjy88zk1lo#1</guid>
+            <pubDate>Mon, 07 Jul 2025 00:47:21 GMT</pubDate>
+            <media:thumbnail width="240" height="156" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cbb/live/c634e970-5acc-11f0-a40e-a1af2950b220.png"/>
+        </item>
+        <item>
+            <title><![CDATA[A girls' summer camp swept away by a 'horrific' deluge]]></title>
+            <description><![CDATA[Terrified girls at Camp Mystic swam through the broken window of one cabin into the swirling darkness of the flood.]]></description>
+            <link>https://www.bbc.com/news/articles/cg75n3k1k3yo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cg75n3k1k3yo#1</guid>
+            <pubDate>Mon, 07 Jul 2025 00:38:49 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41bd/live/0dc953c0-5aaf-11f0-a40e-a1af2950b220.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Women's Euro 2025: Groups, fixture dates and who are favourites?]]></title>
+            <description><![CDATA[BBC Sport provides the lowdown on all the key details for the 2025 Women's European Championship.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/crld2rdz56zo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crld2rdz56zo#2</guid>
+            <pubDate>Sat, 05 Jul 2025 14:59:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9369/live/5336c6a0-59a5-11f0-960d-e9f1088a89fe.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Archaeologists unveil 3,500-year-old city in Peru]]></title>
+            <description><![CDATA[Researchers believe Peñico served as a trading hub linking ancient Pacific coast communities with those living in the Andes and Amazon.]]></description>
+            <link>https://www.bbc.com/news/articles/c07dmx38kyeo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c07dmx38kyeo#4</guid>
+            <pubDate>Sun, 06 Jul 2025 13:31:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcfb/live/c4da2190-5a62-11f0-bb7d-5f9bf28de527.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How tariffs are shifting global supply chains]]></title>
+            <description><![CDATA[Trump's 90-day pause on his sweeping tariffs plan is about to expire. But already some firms are radically changing how they work.]]></description>
+            <link>https://www.bbc.com/news/articles/c93l6n32ne5o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c93l6n32ne5o#4</guid>
+            <pubDate>Sun, 06 Jul 2025 23:08:24 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b5c/live/dcbb3c00-485a-11f0-bbaa-4bc03e0665b7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Norris takes first Silverstone win in dramatic race]]></title>
+            <description><![CDATA[McLaren's Lando Norris takes his first home victory in a chaotic, dramatic, rain-affected British Grand Prix.]]></description>
+            <link>https://www.bbc.com/sport/formula1/articles/c4gd76m7391o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/formula1/articles/c4gd76m7391o#4</guid>
+            <pubDate>Sun, 06 Jul 2025 16:22:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41b6/live/30c0ec80-5a87-11f0-bbc9-6308966b6c56.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Football clubs should pay towards £70m policing cost, Met chief says]]></title>
+            <description><![CDATA[It comes as Sir Marks calls for the creation of 12 to 15 bigger police forces as part of radical reforms.]]></description>
+            <link>https://www.bbc.com/news/articles/cqx2338z971o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cqx2338z971o#4</guid>
+            <pubDate>Sun, 06 Jul 2025 12:31:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f72/live/b731bea0-5a66-11f0-a40e-a1af2950b220.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eurostar train evacuated during nine-hour delay in northern France]]></title>
+            <description><![CDATA[The rail operator has apologised after passengers were stuck on the London-bound train that broke down near Calais.]]></description>
+            <link>https://www.bbc.com/news/articles/c89e1511l7po</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c89e1511l7po#4</guid>
+            <pubDate>Sun, 06 Jul 2025 20:01:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f212/live/6f11f120-5a6c-11f0-960d-e9f1088a89fe.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IDF says it killed Hamas commander in cafe strike that killed dozens of civilians]]></title>
+            <description><![CDATA[After Monday's attack, family members told the BBC of their shock at the scale of civilian casualties.]]></description>
+            <link>https://www.bbc.com/news/articles/c39z72xzwz4o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c39z72xzwz4o#4</guid>
+            <pubDate>Sun, 06 Jul 2025 20:13:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52fe/live/37b2bde0-5a80-11f0-a40e-a1af2950b220.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[England swept aside as India level series at 1-1]]></title>
+            <description><![CDATA[Jamie Smith offers admirable resistance but India's superb bowlers complete a thumping 337-run victory over England in the second Test at Edgbaston.]]></description>
+            <link>https://www.bbc.com/sport/cricket/articles/cew04pz7kdro</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/cricket/articles/cew04pz7kdro#4</guid>
+            <pubDate>Sun, 06 Jul 2025 16:58:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c44/live/4099e3b0-5a86-11f0-960d-e9f1088a89fe.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC News app]]></title>
+            <description><![CDATA[Top stories, breaking news, live reporting, and follow news topics that match your interests]]></description>
+            <link>https://www.bbc.co.uk/news/10628994</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/10628994#5</guid>
+            <pubDate>Wed, 30 Apr 2025 14:04:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Is Trump deporting record numbers of migrants?]]></title>
+            <description><![CDATA[The US president has made Los Angeles his deportations battleground]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/w3ct7t5l</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/w3ct7t5l#6</guid>
+            <pubDate>Fri, 04 Jul 2025 13:30:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[One year of Labour: What happened? (Newscast Live)]]></title>
+            <description><![CDATA[Have Keir Starmer's first 12 months as Prime Minister been a success?]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0ln89mx</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0ln89mx#6</guid>
+            <pubDate>Fri, 04 Jul 2025 18:08:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Norris gets to 'live that feeling' of being Silverstone winner]]></title>
+            <description><![CDATA[Lando Norris did not let a cut nose dampen his celebrations after his first British Grand Prix win.]]></description>
+            <link>https://www.bbc.com/sport/formula1/articles/c4g8pmj2gr7o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/formula1/articles/c4g8pmj2gr7o#8</guid>
+            <pubDate>Sun, 06 Jul 2025 21:39:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e45d/live/f0ea7f60-5aac-11f0-92c9-a162c11ad188.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The familiar issues frustrating England and their fans]]></title>
+            <description><![CDATA[After taking two steps forward last week, England have taken another back in their crushing loss to India. BBC Sport explores the issues holding them back.]]></description>
+            <link>https://www.bbc.com/sport/cricket/articles/c9w1v45207qo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/cricket/articles/c9w1v45207qo#8</guid>
+            <pubDate>Sun, 06 Jul 2025 20:55:10 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b69a/live/356a8980-5aaa-11f0-960d-e9f1088a89fe.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Human error' - Wimbledon sorry over missed line calls]]></title>
+            <description><![CDATA[Wimbledon organisers apologise after the electronic line-calling system on Centre Court is turned off in error and misses three calls in one game.]]></description>
+            <link>https://www.bbc.com/sport/tennis/articles/czry1j5e32ko</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/czry1j5e32ko#8</guid>
+            <pubDate>Sun, 06 Jul 2025 21:32:25 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dd9/live/732b1680-5aa6-11f0-b5c5-012c5796682d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['A well-deserved fall' - Norrie's relief at Wimbledon win]]></title>
+            <description><![CDATA[Cameron Norrie is the final Briton standing in the Wimbledon singles after beating Chile's Nicolas Jarry to reach the men's quarter-finals.]]></description>
+            <link>https://www.bbc.com/sport/tennis/articles/cvg4wzjlz2jo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cvg4wzjlz2jo#8</guid>
+            <pubDate>Sun, 06 Jul 2025 22:00:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c78f/live/66a66780-5ab4-11f0-a05c-2fd279561725.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hamilton's Ferrari 'unbelievably tricky to drive' in wet as he misses podium]]></title>
+            <description><![CDATA[Lewis Hamilton says the Ferrari he drove in the wet-dry British Grand Prix "was the most difficult car I've driven in these conditions".]]></description>
+            <link>https://www.bbc.com/sport/formula1/articles/ckg3k9w10pzo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/formula1/articles/ckg3k9w10pzo#8</guid>
+            <pubDate>Sun, 06 Jul 2025 19:55:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e92/live/ac96c850-5aa2-11f0-bf57-2d681db6ae65.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Alcaraz overcomes Rublev's power to win 'impossible' point]]></title>
+            <description><![CDATA[Watch Centre Court erupt as Carlos Alcaraz fends off the power of Andrey Rublev to win an "impossible point" and break his serve in the third set of their fourth-round match at Wimbledon 2025. ]]></description>
+            <link>https://www.bbc.com/sport/tennis/videos/cd6g785x119o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/tennis/videos/cd6g785x119o#8</guid>
+            <pubDate>Sun, 06 Jul 2025 20:44:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0c8/live/1b3c3680-5aa5-11f0-b5c5-012c5796682d.jpg"/>
+        </item>
+    </channel>
+</rss>
