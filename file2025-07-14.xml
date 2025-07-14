@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - News Front Page]]></description>
+        <link>https://www.bbc.co.uk/news</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 14 Jul 2025 02:39:42 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Extreme weather is the UK's new normal, says Met Office]]></title>
+            <description><![CDATA[The UK has a notably different climate compared with just a few decades ago, the Met Office says.]]></description>
+            <link>https://www.bbc.com/news/articles/c74w1gyd7mko</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c74w1gyd7mko#0</guid>
+            <pubDate>Sun, 13 Jul 2025 23:09:00 GMT</pubDate>
+            <media:thumbnail width="240" height="160" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cda/live/b7f26680-5e4b-11f0-b5c5-012c5796682d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Southend airport to remain closed after fireball plane crash]]></title>
+            <description><![CDATA[Eyewitnesses describe seeing the plane "bank heavily" shortly after take-off.]]></description>
+            <link>https://www.bbc.com/news/articles/c1jw71kjx14o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1jw71kjx14o#0</guid>
+            <pubDate>Mon, 14 Jul 2025 00:54:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f01/live/83204b30-602a-11f0-82b0-07e01aa823d2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump will be hosted by King at Windsor during second state visit]]></title>
+            <description><![CDATA[The US president will be accompanied by his wife, Melania, when he visits the UK from 17-19 September.]]></description>
+            <link>https://www.bbc.com/news/articles/c4g25ne7gw6o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g25ne7gw6o#0</guid>
+            <pubDate>Sun, 13 Jul 2025 23:01:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9be/live/54c34930-602b-11f0-960d-e9f1088a89fe.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The 'strongman' PM who inspired Trump's playbook - but now finds his power crumbling]]></title>
+            <description><![CDATA[Hungarian Prime Minister Viktor Orban finds his power under threat, but not in the way one might expect.]]></description>
+            <link>https://www.bbc.com/news/articles/cpd1j1x2l1lo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpd1j1x2l1lo#0</guid>
+            <pubDate>Sun, 13 Jul 2025 23:05:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3975/live/a2c56f70-5e53-11f0-b5c5-012c5796682d.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gaza officials say children killed in strike as Israeli military admits 'error']]></title>
+            <description><![CDATA[Six children waiting for water are among those killed in an Israeli air strike, emergency service officials say.]]></description>
+            <link>https://www.bbc.com/news/articles/c0rvxjnvv71o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0rvxjnvv71o#0</guid>
+            <pubDate>Sun, 13 Jul 2025 16:29:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2eb7/live/a02a6500-5fce-11f0-8a86-378d494e3c54.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Disappointment as Drake's final Wireless show ends after 40 minutes]]></title>
+            <description><![CDATA[The Canadian rapper performed to more than 150,000 people over the course of the weekend in London.]]></description>
+            <link>https://www.bbc.com/news/articles/c14e54ggyl1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c14e54ggyl1o#0</guid>
+            <pubDate>Sun, 13 Jul 2025 22:58:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efb5/live/1d0e4710-603a-11f0-a40e-a1af2950b220.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[South Africa's police minister suspended over organised crime allegations]]></title>
+            <description><![CDATA[Senzo Mchunu - who denies the claims - has been put on an immediate "leave of absence" by President Cyril Ramaphosa.]]></description>
+            <link>https://www.bbc.com/news/articles/c8d6lzn733jo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8d6lzn733jo#0</guid>
+            <pubDate>Sun, 13 Jul 2025 21:16:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f1a/live/14cec530-602f-11f0-84f9-89e4b88729bf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sinner beats Alcaraz to win first Wimbledon title]]></title>
+            <description><![CDATA[World number one Jannik Sinner wears down Carlos Alcaraz in another high-quality Grand Slam final between the dominant forces of the men's game.]]></description>
+            <link>https://www.bbc.com/sport/tennis/articles/c5ykw5n0p7no</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c5ykw5n0p7no#0</guid>
+            <pubDate>Sun, 13 Jul 2025 19:43:17 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d658/live/e366ab40-601d-11f0-b5d8-252230a3bb36.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bank of England prepared to cut rates if job market slows, says governor]]></title>
+            <description><![CDATA[Andrew Bailey tells the Times "I really do believe the path is downward" on interest rates.]]></description>
+            <link>https://www.bbc.com/news/articles/cqx2pj42395o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cqx2pj42395o#0</guid>
+            <pubDate>Mon, 14 Jul 2025 02:16:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73dc/live/fc314c90-6043-11f0-a40e-a1af2950b220.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Europe's freedom faces greatest 'threat' since WW2, says Macron]]></title>
+            <description><![CDATA[The French president has called for his country's defence spending to rise by €3.5bn (£3bn) in 2026.]]></description>
+            <link>https://www.bbc.com/news/articles/cdez5e212dzo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdez5e212dzo#0</guid>
+            <pubDate>Sun, 13 Jul 2025 23:54:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1751/live/44b88810-6036-11f0-960d-e9f1088a89fe.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The deepening water shortage row between the US and Mexico ]]></title>
+            <description><![CDATA[The US is accusing its southern neighbour of breaking a long-held water sharing agreement.]]></description>
+            <link>https://www.bbc.com/news/articles/c0epzp21z47o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0epzp21z47o#1</guid>
+            <pubDate>Sun, 13 Jul 2025 23:04:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5ad/live/dc1179a0-58d0-11f0-a113-db0360eed65c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Royal peace talks' and 'Sinner takes it all' ]]></title>
+            <description><![CDATA[Monday's front pages are dominated by Italian tennis player Jannik Sinner's Wimbledon win.]]></description>
+            <link>https://www.bbc.com/news/articles/cvgw02znlp0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgw02znlp0o#1</guid>
+            <pubDate>Mon, 14 Jul 2025 00:38:17 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00e3/live/b0bc3cc0-604d-11f0-a40e-a1af2950b220.png"/>
+        </item>
+        <item>
+            <title><![CDATA[In pictures: Royals and A-listers grace Wimbledon finals]]></title>
+            <description><![CDATA[Princess Kate and Paul Mescal were among the famous faces in the royal box for the final day of the tennis championship.]]></description>
+            <link>https://www.bbc.com/news/articles/ce8zl55598qo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce8zl55598qo#1</guid>
+            <pubDate>Sun, 13 Jul 2025 17:44:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4480/live/e626fe60-600a-11f0-960d-e9f1088a89fe.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How we saved hundreds of pounds on our summer holiday]]></title>
+            <description><![CDATA[From house swapping to smart searching, readers have been sharing tips on how to get away for less.]]></description>
+            <link>https://www.bbc.com/news/articles/c4g84nrlvv7o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g84nrlvv7o#1</guid>
+            <pubDate>Sun, 13 Jul 2025 10:21:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f64e/live/e98a3a80-5ff2-11f0-960d-e9f1088a89fe.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Was Lady Gaga's Rio concert really attended by 2.1m people?]]></title>
+            <description><![CDATA[BBC Verify looks at a claim from Rio de Janeiro officials that the pop star's beach gig drew huge numbers.]]></description>
+            <link>https://www.bbc.com/news/articles/cm20rg0vvp9o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm20rg0vvp9o#1</guid>
+            <pubDate>Sun, 13 Jul 2025 17:08:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/530b/live/195c6140-5ffb-11f0-a40e-a1af2950b220.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[I was wrongly accused of felling the Sycamore Gap tree]]></title>
+            <description><![CDATA[Walter Renwick says he wore a "Rod Stewart" wig to hide while accused of the Sycamore Gap attack.]]></description>
+            <link>https://www.bbc.com/news/articles/c4ged0r2kgyo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4ged0r2kgyo#1</guid>
+            <pubDate>Sun, 13 Jul 2025 00:01:17 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff35/live/6bbccf60-5e61-11f0-8515-6bc8a9e55cf1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lab-grown cheese is coming. But would you eat it?]]></title>
+            <description><![CDATA[As vegan cheese sales decline and concerns about ultra-processed foods grow, a new cheese on the block faces challenges.]]></description>
+            <link>https://www.bbc.com/news/articles/c98jjgqyd6po</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c98jjgqyd6po#1</guid>
+            <pubDate>Sun, 13 Jul 2025 00:12:02 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bdd/live/fef00e10-5e38-11f0-a40e-a1af2950b220.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Someone faked my death on TikTok']]></title>
+            <description><![CDATA[Grace Wolstenholme, who has 1.3 million followers, says people were "disgusted" by the fake video.]]></description>
+            <link>https://www.bbc.com/news/articles/cvgn1ve903yo</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgn1ve903yo#3</guid>
+            <pubDate>Sun, 13 Jul 2025 23:53:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63ed/live/eaef6780-5ccb-11f0-a847-6f5cde5d04a4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran president was reportedly injured in Israeli strikes]]></title>
+            <description><![CDATA[Iran's Fars news agency says President Masoud Pezeshkian had a leg injury when his secret site was hit in June. ]]></description>
+            <link>https://www.bbc.com/news/articles/cn0z8n037p6o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn0z8n037p6o#3</guid>
+            <pubDate>Sun, 13 Jul 2025 17:20:02 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9bff/live/6142ca10-6007-11f0-b5c5-012c5796682d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Two women killed at Kentucky church as gunman opens fire after shooting officer]]></title>
+            <description><![CDATA[The suspect, who was shot dead by police, is believed to have had a connection to the place of worship.]]></description>
+            <link>https://www.bbc.com/news/articles/cm2l5jn6254o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm2l5jn6254o#3</guid>
+            <pubDate>Sun, 13 Jul 2025 22:20:06 GMT</pubDate>
+            <media:thumbnail width="240" height="160" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25f0/live/c90d3880-6037-11f0-b5c5-012c5796682d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Observatory marks 230 years of  recording weather]]></title>
+            <description><![CDATA[The building holds the longest sequence of continuous weather data anywhere in the UK and Ireland.]]></description>
+            <link>https://www.bbc.com/news/articles/c5yg4369pv0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yg4369pv0o#3</guid>
+            <pubDate>Sun, 13 Jul 2025 23:56:04 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2330/live/f3d2a650-5e3d-11f0-960d-e9f1088a89fe.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ukraine says it has killed two agents behind assassination of its intelligence officer]]></title>
+            <description><![CDATA[Kyiv says two people accused of working for Russia and shooting dead a Ukrainian intelligence officer were killed.]]></description>
+            <link>https://www.bbc.com/news/articles/cj3r7p117l0o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj3r7p117l0o#3</guid>
+            <pubDate>Sun, 13 Jul 2025 13:31:11 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8865/live/6f89bf50-5ff5-11f0-960d-e9f1088a89fe.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[RSF storms cattle market and prison in 'death trap' Sudanese city]]></title>
+            <description><![CDATA[It is the first time RSF fighters have entered el-Fasher in such numbers since a siege began in May 2024.]]></description>
+            <link>https://www.bbc.com/news/articles/cn7d84k3r43o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn7d84k3r43o#3</guid>
+            <pubDate>Sun, 13 Jul 2025 20:04:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20a6/live/045b3420-600e-11f0-a40e-a1af2950b220.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tube fare evasion prosecutions highest since 2019]]></title>
+            <description><![CDATA[The number of prosecutions for fare evasion is at its highest level for six years, figures show.]]></description>
+            <link>https://www.bbc.com/news/articles/c4g8jvwz4m1o</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g8jvwz4m1o#3</guid>
+            <pubDate>Mon, 14 Jul 2025 00:00:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00b4/live/c9ac6370-5e2e-11f0-82bc-dd28581cdb62.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC News app]]></title>
+            <description><![CDATA[Top stories, breaking news, live reporting, and follow news topics that match your interests]]></description>
+            <link>https://www.bbc.co.uk/news/10628994</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/10628994#4</guid>
+            <pubDate>Wed, 30 Apr 2025 14:04:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Is It So Hot?]]></title>
+            <description><![CDATA[UK faces third heatwave of the summer.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0lpmbtp</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0lpmbtp#5</guid>
+            <pubDate>Fri, 11 Jul 2025 15:31:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jeffrey Epstein is causing a Trump-Maga rift]]></title>
+            <description><![CDATA[Why the Trump administration is defending itself over the Epstein Files]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0lp4f2v</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0lp4f2v#5</guid>
+            <pubDate>Wed, 09 Jul 2025 17:38:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Children's TV before the digital era]]></title>
+            <description><![CDATA[The story of the struggle to make programmes for children in the pre-digital days.]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/b06t3mhm?at_mid=U3uyYXZvFR&amp;at_campaign=From_Andy_Pandy_to_Zebedee_The_Golden_Age_of_Childrens_Television&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=NET&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=b06t3mhm&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=From_Andy_Pandy_to_Zebedee_The_Golden_Age_of_Childrens_Television&amp;at_bbc_team=BBC</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/b06t3mhm?at_mid=U3uyYXZvFR&amp;at_campaign=From_Andy_Pandy_to_Zebedee_The_Golden_Age_of_Childrens_Television&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=NET&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=b06t3mhm&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=From_Andy_Pandy_to_Zebedee_The_Golden_Age_of_Childrens_Television&amp;at_bbc_team=BBC#6</guid>
+            <pubDate>Sun, 06 Jul 2025 21:03:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54f9/live/d1472610-5834-11f0-960d-e9f1088a89fe.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[England building 'urgency' - are they ready for Sweden?]]></title>
+            <description><![CDATA[England booked their place in the quarter-finals of Euro 2025 in style with a thumping victory over Wales - so are they ready to take the next step?]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cew07qnyxdjo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cew07qnyxdjo#7</guid>
+            <pubDate>Sun, 13 Jul 2025 23:13:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46a4/live/8a8372a0-603c-11f0-8fcd-5fca04bff9f1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump, Coldplay and red carpets - was this Super Bowl or soccer?]]></title>
+            <description><![CDATA[From Donald Trump's role in the trophy presentation to Coldplay's half-time show, BBC Sport tries to make sense of the Club World Cup final.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c39z39lr009o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c39z39lr009o#7</guid>
+            <pubDate>Sun, 13 Jul 2025 22:59:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b37/live/0cde2f30-603b-11f0-b5c5-012c5796682d.png"/>
+        </item>
+        <item>
+            <title><![CDATA['Everything except easy' - how Sinner bounced back to win Wimbledon]]></title>
+            <description><![CDATA[Thirty-five days after a devastating French Open final loss, Jannik Sinner is the Wimbledon champion. Here is how he did it.]]></description>
+            <link>https://www.bbc.com/sport/tennis/articles/cx20dxyd5plo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cx20dxyd5plo#7</guid>
+            <pubDate>Sun, 13 Jul 2025 22:24:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/860e/live/da250330-6034-11f0-a40e-a1af2950b220.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Needle between England and India sets up Lord's classic']]></title>
+            <description><![CDATA[Increasing tension between England and India players sets up a thrilling final day of the third Test at Lord's, writes Stephan Shemilt.]]></description>
+            <link>https://www.bbc.com/sport/cricket/articles/czjkwxed92po</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/cricket/articles/czjkwxed92po#7</guid>
+            <pubDate>Sun, 13 Jul 2025 19:30:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/268f/live/362c9730-601f-11f0-a40e-a1af2950b220.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why 'happy' Alcaraz still smiled after Wimbledon loss]]></title>
+            <description><![CDATA[Carlos Alcaraz lost the Wimbledon final to Jannik Sinner but says he can hold his head high.]]></description>
+            <link>https://www.bbc.com/sport/tennis/articles/cedgepq4gwqo</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cedgepq4gwqo#7</guid>
+            <pubDate>Sun, 13 Jul 2025 21:55:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfd6/live/ee657000-602f-11f0-a40e-a1af2950b220.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gotterup 'hung in like champ' to deny McIlroy at Scottish Open]]></title>
+            <description><![CDATA[American Chris Gotterup impressively holds off Rory McIlroy and the chasing pack to claim the biggest win of his career with a remarkable Scottish Open success.
+
+]]></description>
+            <link>https://www.bbc.com/sport/golf/articles/c2d08w1yej2o</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/golf/articles/c2d08w1yej2o#7</guid>
+            <pubDate>Sun, 13 Jul 2025 18:02:27 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bd9/live/e5b47660-601e-11f0-b5d8-252230a3bb36.jpg"/>
+        </item>
+    </channel>
+</rss>
