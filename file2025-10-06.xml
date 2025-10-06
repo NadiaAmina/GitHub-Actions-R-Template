@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - News Front Page]]></description>
+        <link>https://www.bbc.co.uk/news</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 06 Oct 2025 02:04:51 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Trump urges mediators to 'move fast' as key Gaza peace talks set to begin]]></title>
+            <description><![CDATA[Strikes have continued in Gaza as negotiators prepare to head to Egypt for talks starting on Monday.]]></description>
+            <link>https://www.bbc.com/news/articles/cj3y6g43248o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj3y6g43248o#0</guid>
+            <pubDate>Sun, 05 Oct 2025 23:53:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd6/live/d4e37ab0-a1f6-11f0-947b-6b8b23372a50.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Conservatives to announce £5,000 tax rebate for young homebuyers]]></title>
+            <description><![CDATA[Speaking at the party's conference, Shadow chancellor Mel Stride will say the proposal will be funded by cuts to public spending worth £47bn.]]></description>
+            <link>https://www.bbc.com/news/articles/c4gzv9j78dyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gzv9j78dyo#0</guid>
+            <pubDate>Mon, 06 Oct 2025 01:11:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20e0/live/817a56d0-a22a-11f0-9a8d-55d7ff06f061.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[JLR to restart some production after cyber-attack]]></title>
+            <description><![CDATA[Work is to resume first at the carmaker's engine factory in Wolverhampton on Monday.]]></description>
+            <link>https://www.bbc.com/news/articles/ckge0ex5g27o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ckge0ex5g27o#0</guid>
+            <pubDate>Sun, 05 Oct 2025 23:14:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25d6/live/bf9c9b50-a043-11f0-9251-31c97a45eb73.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Home secretary wants police to get more powers to restrict repeated protests]]></title>
+            <description><![CDATA[The move is not a ban on protests but "about restrictions and conditions", Shabana Mahmood tells the BBC.]]></description>
+            <link>https://www.bbc.com/news/articles/c24rmdngrrjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c24rmdngrrjo#0</guid>
+            <pubDate>Sun, 05 Oct 2025 15:34:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c914/live/2fffa270-a1cf-11f0-928c-71dbb8619e94.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[As Gisèle Pelicot faces one of her rapists in court, what has changed in France?]]></title>
+            <description><![CDATA[Gisèle Pelicot's dominant stance was seen as a moment in France's MeToo movement but the enthusiasm appears to be wilting. ]]></description>
+            <link>https://www.bbc.com/news/articles/cdx2d9lynk1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdx2d9lynk1o#0</guid>
+            <pubDate>Sun, 05 Oct 2025 23:07:07 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4476/live/3e104390-a04b-11f0-b687-23a5afa8b42e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The true extent of cyber attacks on UK business - and the weak spots that allow them to happen ]]></title>
+            <description><![CDATA[Are this year's major attacks the "cumulative effect of a kind of inaction on cyber security" from the government and big business?]]></description>
+            <link>https://www.bbc.com/news/articles/c5ye8zj5l4jo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5ye8zj5l4jo#0</guid>
+            <pubDate>Mon, 06 Oct 2025 00:52:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd0d/live/eacf7ae0-a110-11f0-b741-177e3e2c2fc7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Survivor describes moment 'monster' attacked synagogue]]></title>
+            <description><![CDATA[Alan Levy recalled the moment Jihad A-Shamie tried to get into the synagogue that he and other worshippers had barricaded.]]></description>
+            <link>https://www.bbc.com/news/articles/cly05lekyrvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly05lekyrvo#0</guid>
+            <pubDate>Sun, 05 Oct 2025 17:55:41 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d595/live/93033f60-a212-11f0-928c-71dbb8619e94.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Rangers sack head coach Russell Martin after 17 games]]></title>
+            <description><![CDATA[Russell Martin is sacked as Rangers head coach after 17 games in charge in the wake of Sunday's 1-1 draw with Falkirk.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c4gwrplwyz8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gwrplwyz8o#0</guid>
+            <pubDate>Sun, 05 Oct 2025 20:45:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4060/live/241bbf50-a235-11f0-92db-77261a15b9d2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Will President Trump get a Nobel Peace Prize?]]></title>
+            <description><![CDATA[The BBC asked Americans in Washington what they think the US president needs to do to earn the prestigious award.]]></description>
+            <link>https://www.bbc.com/news/videos/cj6xwz5x8exo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/cj6xwz5x8exo#0</guid>
+            <pubDate>Mon, 06 Oct 2025 00:17:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff3e/live/b2f44e50-9f0a-11f0-b741-177e3e2c2fc7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eastenders' Kellie Bright on the challenges of being a Send parent]]></title>
+            <description><![CDATA[The soap actor meets families fighting for their children’s education for BBC Panorama.]]></description>
+            <link>https://www.bbc.com/news/articles/c0jqy8pn275o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0jqy8pn275o#0</guid>
+            <pubDate>Mon, 06 Oct 2025 00:35:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f006/live/37372320-a07a-11f0-b741-177e3e2c2fc7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Apple and Samsung users could be due share of £480m payout]]></title>
+            <description><![CDATA[Consumer group Which? is taking tech giant Qualcomm to the Competition Appeal Tribunal in London on Monday.]]></description>
+            <link>https://www.bbc.com/news/articles/cn0rn7rwk24o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn0rn7rwk24o#0</guid>
+            <pubDate>Mon, 06 Oct 2025 01:33:58 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bbe/live/c4446f00-a1e4-11f0-ab23-d127b1d8dfad.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why time matters for Tory MPs deciding Kemi Badenoch's future]]></title>
+            <description><![CDATA[For many Tory MPs looking at Kemi Badenoch's leadership, they are already wondering how much more time she needs to turn around the party's fortunes.]]></description>
+            <link>https://www.bbc.com/news/articles/cn0rnj6504yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn0rnj6504yo#1</guid>
+            <pubDate>Mon, 06 Oct 2025 01:21:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d89/live/b3666ea0-a20b-11f0-b741-177e3e2c2fc7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[India wants to lure its best minds back from the US - but it won't be easy]]></title>
+            <description><![CDATA[Driving reverse migration from the US at scale will require a concerted effort that's currently missing, experts say.]]></description>
+            <link>https://www.bbc.com/news/articles/c1792qwg85qo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1792qwg85qo#1</guid>
+            <pubDate>Sun, 05 Oct 2025 22:52:47 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71b9/live/6baa6cd0-9f70-11f0-a17e-772daa465cb5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC finds Russian guards, Iranian trucks and rusting railway on Trump's Caucasus peace route]]></title>
+            <description><![CDATA[The planned Trump Route in the South Caucasus could reshape the geopolitics of a region that borders Russia and Iran.]]></description>
+            <link>https://www.bbc.com/news/articles/c78nr234v5mo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c78nr234v5mo#1</guid>
+            <pubDate>Sun, 05 Oct 2025 23:43:19 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf6a/live/1991bf20-9b01-11f0-928c-71dbb8619e94.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Does your relationship have a swag gap, and is that always a bad thing?]]></title>
+            <description><![CDATA[People on TikTok are lamenting past relationships they've described as having swag gaps - an obvious style difference.]]></description>
+            <link>https://www.bbc.com/news/articles/cr4qp4nlppko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cr4qp4nlppko#1</guid>
+            <pubDate>Mon, 06 Oct 2025 01:27:59 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c164/live/755a26f0-a130-11f0-b741-177e3e2c2fc7.png"/>
+        </item>
+        <item>
+            <title><![CDATA[How China is challenging Nvidia's AI chip dominance]]></title>
+            <description><![CDATA[Beijing has urged local firms to use homemade chips. But is China ready to turn away from Nvidia?]]></description>
+            <link>https://www.bbc.com/news/articles/cgmz2vm3yv8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cgmz2vm3yv8o#1</guid>
+            <pubDate>Sun, 05 Oct 2025 23:00:21 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9949/live/85746ea0-9cd6-11f0-8245-f3f629744491.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cavers safe after 30-hour rescue during Storm Amy]]></title>
+            <description><![CDATA[Rescue teams battled severe weather and flooding at Dowber Gill Passage in the Yorkshire Dales.]]></description>
+            <link>https://www.bbc.com/news/articles/cly6x3xvyy0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cly6x3xvyy0o#3</guid>
+            <pubDate>Sun, 05 Oct 2025 20:09:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc60/live/2fa8c7e0-a227-11f0-9a8d-55d7ff06f061.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jim Gavin exits Irish presidential race 'with immediate effect']]></title>
+            <description><![CDATA[He said in a statement he had "made a mistake that was not in keeping with my character and the standards I set myself".]]></description>
+            <link>https://www.bbc.com/news/articles/cz6946ez6dqo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz6946ez6dqo#3</guid>
+            <pubDate>Sun, 05 Oct 2025 23:14:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a9b/live/b2bfcf90-9861-11f0-b567-dbb771c68d85.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: 'Police could get power to ban protests' and 'PM must come clean over China']]></title>
+            <description><![CDATA[Home Secretary Shabana Mahmood has said police could be allowed to ban protests outright, the Times reports. ]]></description>
+            <link>https://www.bbc.com/news/articles/cj6x36p7001o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj6x36p7001o#3</guid>
+            <pubDate>Mon, 06 Oct 2025 00:14:31 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0775/live/d35a6d40-a244-11f0-92db-77261a15b9d2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Buyers could save hundreds in new house buying shakeup]]></title>
+            <description><![CDATA[Housing Secretary Steve Reed claims the changes would "fix the broken system" and put more money "back into working people's pockets".]]></description>
+            <link>https://www.bbc.com/news/articles/cy0v7zwp0dlo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy0v7zwp0dlo#3</guid>
+            <pubDate>Sun, 05 Oct 2025 22:31:27 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0623/live/488de0c0-a226-11f0-a2b9-abdd67c14f44.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[First celebrity leaves Strictly after dance-off]]></title>
+            <description><![CDATA[Two couples squared off against each other on Sunday night, leading to one pair departing the show.]]></description>
+            <link>https://www.bbc.com/news/articles/c20zeyynnrgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c20zeyynnrgo#3</guid>
+            <pubDate>Sun, 05 Oct 2025 19:08:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7b2/live/59b049e0-a20f-11f0-8493-b191e68f6c5a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump sends troops from California to Portland after court denies deployment ]]></title>
+            <description><![CDATA[The move appears aimed at circumventing a court order that barred deploying troops in Portland. ]]></description>
+            <link>https://www.bbc.com/news/articles/c740elm70z7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c740elm70z7o#3</guid>
+            <pubDate>Mon, 06 Oct 2025 00:24:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4846/live/fcbf6450-a245-11f0-98b7-cdc4bf2f32f3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Police release photos of mosque arson suspects]]></title>
+            <description><![CDATA[The images are of two people in balaclavas seen outside the mosque before the large blaze spread.]]></description>
+            <link>https://www.bbc.com/news/articles/cm2dglp43xmo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm2dglp43xmo#3</guid>
+            <pubDate>Sun, 05 Oct 2025 16:56:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab75/live/689ba000-a1fe-11f0-947b-6b8b23372a50.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC News app]]></title>
+            <description><![CDATA[Top stories, breaking news, live reporting, and follow news topics that match your interests]]></description>
+            <link>https://www.bbc.co.uk/news/10628994?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/10628994#4</guid>
+            <pubDate>Wed, 30 Apr 2025 14:04:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch on iPlayer: Access All Areas - When Country Comes to Town]]></title>
+            <description><![CDATA[Go behind the scenes as country music takes over the Royal Albert Hall.]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/m002k6z4?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m002k6z4#5</guid>
+            <pubDate>Thu, 02 Oct 2025 13:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0m5wjh6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Will Police Use Their New Powers To Restrict Repeated Protests?]]></title>
+            <description><![CDATA[The Home Secretary announces new police powers to restrict protests.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0m6wvj2?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0m6wvj2#5</guid>
+            <pubDate>Sun, 05 Oct 2025 14:06:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Will the Democrats’ shutdown gamble pay off?]]></title>
+            <description><![CDATA[Have Democrats picked the right moment to challenge Donald Trump?]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/w3ct7t60?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/w3ct7t60#5</guid>
+            <pubDate>Thu, 02 Oct 2025 18:15:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Martin's excruciating Rangers era finally at a chaotic conclusion']]></title>
+            <description><![CDATA[BBC Sport Scotland's chief sportswriter Tom English charts the downfall of Russell Martin at Rangers.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c93053rr56wo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c93053rr56wo#7</guid>
+            <pubDate>Sun, 05 Oct 2025 23:17:42 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9933/live/02af8be0-a239-11f0-928c-71dbb8619e94.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Salah has become a 'little problem' for Liverpool]]></title>
+            <description><![CDATA[MOTD pundit Danny Murphy explains why Mohamed Salah's lack of defensive work has become an issue for Liverpool down their right flank.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c79vgyyx0vdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c79vgyyx0vdo#7</guid>
+            <pubDate>Sun, 05 Oct 2025 22:27:17 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbb/live/db9b1be0-a234-11f0-928c-71dbb8619e94.png"/>
+        </item>
+        <item>
+            <title><![CDATA['I'll take Ferguson & Wenger to dinner' - Guardiola on 250 wins record]]></title>
+            <description><![CDATA[Pep Guardiola says he will celebrate landmark of 250 Premier League wins in record time by inviting Sir Alex Ferguson and Arsene Wenger to dinner.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/clyl8e80l9do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clyl8e80l9do#7</guid>
+            <pubDate>Sun, 05 Oct 2025 20:57:42 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7b7/live/3480d240-a226-11f0-b741-177e3e2c2fc7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Norris-Piastri incident 'threatens to derail McLaren harmony']]></title>
+            <description><![CDATA[Lando Norris says "anyone on the grid" would have made the move that led to renewed tension between him and Oscar Piastri at the Singapore Grand Prix.]]></description>
+            <link>https://www.bbc.com/sport/formula1/articles/czewkzkjjxzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/formula1/articles/czewkzkjjxzo#7</guid>
+            <pubDate>Sun, 05 Oct 2025 18:51:54 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79f0/live/b631bb40-a219-11f0-b400-e9f6acab7c58.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Postecoglou 'expects' talks with Forest owner and vows to 'fight']]></title>
+            <description><![CDATA[Ange Postecoglou "expects" talks to be held with owner Evangelos Marinakis about his start as Nottingham Forest manager - but says he "loves a fight".]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cx2pmz11znzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2pmz11znzo#7</guid>
+            <pubDate>Sun, 05 Oct 2025 17:21:58 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d27/live/7aee4bf0-a20c-11f0-928c-71dbb8619e94.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nine games, nine losses for troubled West Ham & Liverpool]]></title>
+            <description><![CDATA[Nine games, nine defeats. Three goals scored, 24 conceded. The combined records of Liverpool and West Ham United in the Women's Super League make very bleak reading.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c20zeek4pe7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c20zeek4pe7o#7</guid>
+            <pubDate>Sun, 05 Oct 2025 16:17:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d9c/live/30442c10-a1fc-11f0-928c-71dbb8619e94.png"/>
+        </item>
+        <item>
+            <title><![CDATA['They aren't talking about Isak anymore' - is Woltemade proving his worth?]]></title>
+            <description><![CDATA[Match of the Day's Kelly Cates, Joe Hart and Danny Murphy discuss whether Nick Woltemade is proving he is worth the £69m Newcastle paid for him in the summer.]]></description>
+            <link>https://www.bbc.com/sport/football/videos/cpvleyn4nw3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cpvleyn4nw3o#7</guid>
+            <pubDate>Sun, 05 Oct 2025 22:53:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2237/live/7fc65580-a23b-11f0-b741-177e3e2c2fc7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Play now]]></title>
+            <description><![CDATA[Think you can work out where's hotter and colder than you today? Find out by playing our game]]></description>
+            <link>https://www.bbc.com/weather/articles/cwy5r7xwq8xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/weather/articles/cwy5r7xwq8xo#8</guid>
+            <pubDate>Sun, 05 Oct 2025 05:30:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9457/live/a4b0d300-8366-11f0-ab3e-bd52082cd0ae.png"/>
+        </item>
+    </channel>
+</rss>
