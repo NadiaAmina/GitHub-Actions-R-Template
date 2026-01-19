@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - News Front Page]]></description>
+        <link>https://www.bbc.co.uk/news</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 19 Jan 2026 02:34:59 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[At least 21 killed in Spain after crash involving high-speed trains]]></title>
+            <description><![CDATA[The incident happened near the town of Adamuz, close to the city of Cordoba. ]]></description>
+            <link>https://www.bbc.com/news/articles/cedw6ylpynyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cedw6ylpynyo#0</guid>
+            <pubDate>Mon, 19 Jan 2026 01:30:43 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0871/live/ced51930-f4b7-11f0-a422-4ba8a094a8fa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[PM to give No 10 speech after weekend of Greenland and tariffs turmoil]]></title>
+            <description><![CDATA[Sir Keir Starmer is due to respond to US President Donald Trump's latest move to take over the Danish territory.]]></description>
+            <link>https://www.bbc.com/news/articles/cy09kyww4j2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy09kyww4j2o#0</guid>
+            <pubDate>Mon, 19 Jan 2026 01:42:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50f9/live/d1cfa240-f4bc-11f0-9cda-d5aa16a399fe.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Andrew Rosindell quits Tories and defects to Reform UK]]></title>
+            <description><![CDATA[His defection comes days after former shadow justice minister Robert Jenrick joined Reform.]]></description>
+            <link>https://www.bbc.com/news/articles/c98jn1wywdyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c98jn1wywdyo#0</guid>
+            <pubDate>Sun, 18 Jan 2026 22:12:58 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/699e/live/9e20f3b0-f4ab-11f0-ac60-ede809cb85ba.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How crypto criminals stole $700 million from people - often using age-old tricks]]></title>
+            <description><![CDATA[As crypto wealth continues to grow, criminals are mixing sophisticated hacks with deception, and in some cases, real life violence.]]></description>
+            <link>https://www.bbc.com/news/articles/c93w30gl5jno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c93w30gl5jno#0</guid>
+            <pubDate>Mon, 19 Jan 2026 00:48:24 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f681/live/0d26da90-f1ff-11f0-a422-4ba8a094a8fa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Government pulls Hillsborough Law debate after backlash]]></title>
+            <description><![CDATA[It was facing a potential rebellion by some Labour MPs over how the law would apply to security services.]]></description>
+            <link>https://www.bbc.com/news/articles/c5yvldj47v9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yvldj47v9o#0</guid>
+            <pubDate>Sun, 18 Jan 2026 22:52:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c15b/live/e1130f00-f4a1-11f0-b385-5f48925de19a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Alzheimer's finger-prick blood test could transform diagnosis, experts say]]></title>
+            <description><![CDATA[An international trial involving 1,000 volunteers will aim to detect biomarkers associated with the condition.]]></description>
+            <link>https://www.bbc.com/news/articles/cq5y85e8d2xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cq5y85e8d2xo#0</guid>
+            <pubDate>Mon, 19 Jan 2026 00:16:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bec5/live/4ecd47e0-f2f9-11f0-b5f7-49f0357294ff.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Prince Harry to appear in court in legal action against Daily Mail publishers]]></title>
+            <description><![CDATA[Prince Harry is to give evidence in London High Court on Thursday as part of legal battle against the publishers of the Daily Mail.]]></description>
+            <link>https://www.bbc.com/news/videos/clyz1d1lqqro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/clyz1d1lqqro#0</guid>
+            <pubDate>Sun, 18 Jan 2026 23:58:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e21/live/3da65de0-f4b0-11f0-b5f7-49f0357294ff.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC demands tighter vetting after Apprentice candidate's offensive social media posts]]></title>
+            <description><![CDATA[A contestant due to appear on the forthcoming series is found to have previously posted offensive messages on social media.]]></description>
+            <link>https://www.bbc.com/news/articles/czdqr5ly39zo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czdqr5ly39zo#0</guid>
+            <pubDate>Sun, 18 Jan 2026 16:43:39 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c319/live/3d7ada80-f483-11f0-90fe-81b481096381.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[More than 60 Labour MPs urge PM to ban social media for under-16s]]></title>
+            <description><![CDATA[The MPs says the UK "risks being left behind" if it does not adopt a ban similar to one in Australia.]]></description>
+            <link>https://www.bbc.com/news/articles/c1dk0g5yk06o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1dk0g5yk06o#0</guid>
+            <pubDate>Sun, 18 Jan 2026 21:21:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f68/live/b82eeb40-f4a1-11f0-bcda-e30b35eb96b3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Syria agrees ceasefire with Kurdish-led forces after two weeks of clashes]]></title>
+            <description><![CDATA[President Ahmed al-Sharaa said the deal would allow the Syrian state to reassert control over most areas.]]></description>
+            <link>https://www.bbc.com/news/articles/c4gwk37ewvwo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gwk37ewvwo#0</guid>
+            <pubDate>Sun, 18 Jan 2026 22:25:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7cb/live/2ad824e0-f498-11f0-a422-4ba8a094a8fa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mum thanks strangers who rescued nine-month-old baby from burning car]]></title>
+            <description><![CDATA[Wesley Beynon and Marc Willding are hailed heroes after pulling baby Lilah from the flames.]]></description>
+            <link>https://www.bbc.com/news/articles/cvgjvrggnvno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgjvrggnvno#0</guid>
+            <pubDate>Sun, 18 Jan 2026 07:27:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f143/live/c5fde7d0-f483-11f0-b385-5f48925de19a.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Socks, salsa and stand-up comedy... easy ways to find joy in January]]></title>
+            <description><![CDATA[It might be the most miserable time of the year but there is something you can do about that.]]></description>
+            <link>https://www.bbc.com/news/articles/cql4e2yele4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cql4e2yele4o#1</guid>
+            <pubDate>Mon, 19 Jan 2026 00:04:16 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/494f/live/6da66ad0-f2e9-11f0-b8a1-43fe5a262db0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: 'EU weighs up €93bn retaliation' and 'Raducanu's fine start']]></title>
+            <description><![CDATA[The fallout from Donald Trump's tariff threat to EU allies that oppose his campaign to annex Greenland dominates Monday's papers.]]></description>
+            <link>https://www.bbc.com/news/articles/cz7yp923gz8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz7yp923gz8o#1</guid>
+            <pubDate>Mon, 19 Jan 2026 01:09:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcb6/live/2d707370-f4ce-11f0-a422-4ba8a094a8fa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hispanic voters sent Trump back to power. Now some are souring]]></title>
+            <description><![CDATA[After sending Trump to the White House in a historic shift, some Latinos feel he's not improving the economy.]]></description>
+            <link>https://www.bbc.com/news/articles/clym85ev64lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clym85ev64lo#1</guid>
+            <pubDate>Mon, 19 Jan 2026 00:05:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab7b/live/aaf75500-f304-11f0-b2ab-f70ba525289e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Faisal Islam: Global disruption looms large over biggest-ever Davos]]></title>
+            <description><![CDATA[Expect the World Economic Forum to be both the centre of the world this week, and totally bizarre, writes the BBC's economics editor.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2p3e245npo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2p3e245npo#1</guid>
+            <pubDate>Mon, 19 Jan 2026 00:00:33 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a07/live/4cd58080-f4af-11f0-b385-5f48925de19a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['The finest in the world': Why the US is buying icebreakers from Finland]]></title>
+            <description><![CDATA[The Nordic nation leads the way when it comes to both the design and construction of the vessels.]]></description>
+            <link>https://www.bbc.com/news/articles/c0q48d71ke8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0q48d71ke8o#1</guid>
+            <pubDate>Mon, 19 Jan 2026 00:00:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f208/live/18b3c380-f12a-11f0-8813-c1dd7edee31e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Harry's war with the press is back in court. But this time it's different]]></title>
+            <description><![CDATA[This is the Duke of Sussex's third major court battle accusing newspaper groups of unlawful behaviour.]]></description>
+            <link>https://www.bbc.com/news/articles/cj0ny6p62d5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj0ny6p62d5o#1</guid>
+            <pubDate>Sun, 18 Jan 2026 02:22:46 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe15/live/e6e16790-f2f0-11f0-b385-5f48925de19a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gangland killing at a funeral shocks idyllic French island]]></title>
+            <description><![CDATA[Corsica is shaken by the shooting, which brings into stark relief one of the highest murder rates in France.]]></description>
+            <link>https://www.bbc.com/news/articles/c620nq38y6po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c620nq38y6po#1</guid>
+            <pubDate>Sun, 18 Jan 2026 00:08:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d54e/live/a6ecae70-f452-11f0-b385-5f48925de19a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fears Iran's internet shutdown could lead to 'extreme digital isolation']]></title>
+            <description><![CDATA[Internet monitor FilterWatch warns that authorities are trying to cut the country off from international connectivity.]]></description>
+            <link>https://www.bbc.com/news/articles/cg5gegrdq3go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cg5gegrdq3go#3</guid>
+            <pubDate>Sun, 18 Jan 2026 11:09:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8983/live/17c33400-f482-11f0-b385-5f48925de19a.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Chip wreck! Thousands of chips wash ashore on beach]]></title>
+            <description><![CDATA[The chips washed up in Sussex after shipping containers containing "food and packaging" came ashore.]]></description>
+            <link>https://www.bbc.com/news/articles/c0lxkl3gd6jo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c0lxkl3gd6jo#3</guid>
+            <pubDate>Sun, 18 Jan 2026 13:06:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7254/live/6eec3650-f45f-11f0-9d3e-19fc3cce7a2f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israel pushes back on Trump's picks for executives on Gaza 'Board of Peace']]></title>
+            <description><![CDATA[Israel says it is unhappy it was not consulted, and Palestinians have also been critical.]]></description>
+            <link>https://www.bbc.com/news/articles/cd0y453yd90o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cd0y453yd90o#3</guid>
+            <pubDate>Sun, 18 Jan 2026 17:30:24 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5940/live/9de0a540-f47d-11f0-b5f7-49f0357294ff.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chile declares 'state of catastrophe' as deadly wildfires menace cities]]></title>
+            <description><![CDATA[At least 16 people are confirmed dead and 20,000 are evacuated as fires rage in two southern regions.]]></description>
+            <link>https://www.bbc.com/news/articles/cz7ypw4rjrzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz7ypw4rjrzo#3</guid>
+            <pubDate>Sun, 18 Jan 2026 16:39:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de0d/live/14290d90-f493-11f0-a422-4ba8a094a8fa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Around 1,500 US soldiers on standby for deployment to Minneapolis, officials say]]></title>
+            <description><![CDATA[The troops are an option should Donald Trump decide to use them to quell anti-ICE protests in the city, an official tells CBS News.]]></description>
+            <link>https://www.bbc.com/news/articles/c74v0pxg2nvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c74v0pxg2nvo#3</guid>
+            <pubDate>Sun, 18 Jan 2026 20:30:16 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d47a/live/95d7f330-f464-11f0-b5f7-49f0357294ff.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Europe won't be blackmailed,' Danish PM says in wake of Trump Greenland threats]]></title>
+            <description><![CDATA[The US president threatens to impose tariffs on countries that oppose his plans to take over the territory. ]]></description>
+            <link>https://www.bbc.com/news/articles/ceqz0llpnyqo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ceqz0llpnyqo#3</guid>
+            <pubDate>Sun, 18 Jan 2026 23:26:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/039e/live/9ebb4470-f496-11f0-a422-4ba8a094a8fa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC News app]]></title>
+            <description><![CDATA[Top stories, breaking news, live reporting, and follow news topics that match your interests]]></description>
+            <link>https://www.bbc.co.uk/news/10628994?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/10628994#4</guid>
+            <pubDate>Wed, 30 Apr 2025 14:04:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump’s Tariff Threats Over Greenland]]></title>
+            <description><![CDATA[The US president plans more tariffs on countries against his proposed Greenland takeover.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0mvqbpz?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0mvqbpz#5</guid>
+            <pubDate>Sun, 18 Jan 2026 13:34:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The post-World War II era is over. What comes next?]]></title>
+            <description><![CDATA[Did the rules-based order ever exist and what could replace it if it goes away?]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/w3ct715c?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/w3ct715c#5</guid>
+            <pubDate>Fri, 16 Jan 2026 10:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d641/live/5a7a4ab0-f48f-11f0-a422-4ba8a094a8fa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Agatha Christie's classic mystery with Hercule Poirot]]></title>
+            <description><![CDATA[Returning to England on the Orient Express, Hercule Poirot must investigate a murder.]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/m0004gm0/murder-on-the-orient-express?at_mid=D9NuEi32uD&amp;at_campaign=Murder_on_the_Orient_Express&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=NET&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m0004gm0&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Murder_on_the_Orient_Express&amp;at_bbc_team=BBC</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m0004gm0/murder-on-the-orient-express?at_mid=D9NuEi32uD&amp;at_campaign=Murder_on_the_Orient_Express&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=NET&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m0004gm0&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Murder_on_the_Orient_Express&amp;at_bbc_team=BBC#6</guid>
+            <pubDate>Sun, 28 Dec 2025 17:29:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5c3/live/c49bc460-f191-11f0-a422-4ba8a094a8fa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Shameful' and 'terrible look' - the chaos that marred Senegal's Afcon triumph]]></title>
+            <description><![CDATA[Senegal beat Morocco to win the Africa Cup of Nations for a second time - but only after the final was overshadowed when they temporarily refuse to play after the hosts are awarded a controversial stoppage time-penalty with the match 0-0. ]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c70ljednyl6o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c70ljednyl6o#7</guid>
+            <pubDate>Mon, 19 Jan 2026 00:20:02 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbfd/live/a2879210-f4bf-11f0-b992-d128a0103e53.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ 'Arsenal will never forgive themselves if they don't win title now']]></title>
+            <description><![CDATA[This is Mikel Arteta and Arsenal's "now or never" moment as Premier League title rivals stumble badly, says chief football writer Phil McNulty.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cm24736mrm7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cm24736mrm7o#7</guid>
+            <pubDate>Sun, 18 Jan 2026 20:43:29 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7aca/live/71d64f90-f4af-11f0-b385-5f48925de19a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Diaz will 'have nightmares' over 'Panenka' failure]]></title>
+            <description><![CDATA[Brahim Diaz had the chance to win Afcon for Morocco, but his choice to try a Panenka ended up costing his side dearly as Senegal hit back to win the game in extra time.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c6209g0jq0yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c6209g0jq0yo#7</guid>
+            <pubDate>Mon, 19 Jan 2026 00:20:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcdd/live/f2362be0-f4c0-11f0-b992-d128a0103e53.png"/>
+        </item>
+        <item>
+            <title><![CDATA['Abandoned' or 'business' - was Glasner right to 'attack' Palace owners?]]></title>
+            <description><![CDATA[Oliver Glasner's outburst after Crystal Palace were beaten at Sunderland has led to increased speculation over his future at the club but will he be sacked?]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c78ezdkx1v2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c78ezdkx1v2o#7</guid>
+            <pubDate>Sun, 18 Jan 2026 19:11:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/828f/live/4c7d68e0-f4c4-11f0-a422-4ba8a094a8fa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wilson defeats Higgins to claim first Masters title ]]></title>
+            <description><![CDATA[Kyren Wilson claims his first Masters title with a 10-6 victory over John Higgins in final that failed to scale the expected heights at Alexandra Palace.]]></description>
+            <link>https://www.bbc.com/sport/snooker/articles/cm2jlvmz1xdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/snooker/articles/cm2jlvmz1xdo#7</guid>
+            <pubDate>Sun, 18 Jan 2026 16:47:10 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3437/live/9f478570-f4c3-11f0-b385-5f48925de19a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Will Frank and Glasner see the season out?]]></title>
+            <description><![CDATA[Match of the Day's Kelly Cates, Joe Hart and Ellen White discuss whether it is possible for Tottenham manager Thomas Frank and Crystal Palace boss Oliver Glasner to remain at their clubs until the end of the season.]]></description>
+            <link>https://www.bbc.com/sport/football/videos/c5yxpgkgn53o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c5yxpgkgn53o#7</guid>
+            <pubDate>Mon, 19 Jan 2026 00:12:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2024/live/fdef6b30-f4cb-11f0-a422-4ba8a094a8fa.jpg"/>
+        </item>
+    </channel>
+</rss>
