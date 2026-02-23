@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - News Front Page]]></description>
+        <link>https://www.bbc.co.uk/news</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 23 Feb 2026 03:19:36 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Zelensky tells BBC Putin has started WW3 and must be stopped]]></title>
+            <description><![CDATA[Ukraine's president sat down with the BBC's Jeremy Bowen in Kyiv days before the four-year anniversary of the war.]]></description>
+            <link>https://www.bbc.com/news/articles/cvgj9p15y87o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgj9p15y87o#0</guid>
+            <pubDate>Sun, 22 Feb 2026 22:00:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/910b/live/bcf7bfe0-102a-11f1-b048-c9424b2cf5fd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hamnet's Jessie Buckley and I Swear's Robert Aramayo win big at the Baftas]]></title>
+            <description><![CDATA[Brit Aramayo beat US stars such Leonardo DiCaprio and Timothée Chalamet, while One Battle After Another picked up six awards.]]></description>
+            <link>https://www.bbc.com/news/articles/czx7e100r48o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/czx7e100r48o#0</guid>
+            <pubDate>Sun, 22 Feb 2026 22:10:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e58a/live/2f83f9a0-1037-11f1-b048-c9424b2cf5fd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mescal and Abrams go red carpet official, a 'strong language' apology and other Bafta highlights]]></title>
+            <description><![CDATA[This year's Bafta Film Awards had it all... A-listers, a touch of royalty, Paddington Bear - and the sun even came out, for what felt like the first time all year.]]></description>
+            <link>https://www.bbc.com/news/articles/c86ygl6821go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c86ygl6821go#0</guid>
+            <pubDate>Sun, 22 Feb 2026 23:35:15 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4433/live/a79a0190-1042-11f1-801d-ed3cff6bf876.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Billions in SEND funding to make schools in England more inclusive, ministers say]]></title>
+            <description><![CDATA[The government is setting out big changes to how children with special educational needs get support.]]></description>
+            <link>https://www.bbc.com/news/articles/c8r1pmz3zgzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c8r1pmz3zgzo#0</guid>
+            <pubDate>Mon, 23 Feb 2026 01:44:43 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1044/live/93cd4cb0-101c-11f1-97dc-1bcd549ea2c5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mexico's most wanted drug lord 'El Mencho' killed in military operation]]></title>
+            <description><![CDATA[Nemesio Oseguera Cervantes, known as "El Mencho", headed one of Mexico's most powerful drug cartels. ]]></description>
+            <link>https://www.bbc.com/news/articles/cy4wywnrdd8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy4wywnrdd8o#0</guid>
+            <pubDate>Mon, 23 Feb 2026 00:55:41 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e09/live/d6be1000-1034-11f1-9120-a910fc22c6ac.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Milan-Cortina 2026 closes with ceremony in Verona]]></title>
+            <description><![CDATA[IOC president Kirsty Coventry says the athletes "showed us that the Olympic Games are a place for everyone" as she closes this year's Winter Games.]]></description>
+            <link>https://www.bbc.com/sport/articles/cgl5z5xg303o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/articles/cgl5z5xg303o#0</guid>
+            <pubDate>Sun, 22 Feb 2026 22:08:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec67/live/c7d69a30-1034-11f1-801d-ed3cff6bf876.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Former PM Gordon Brown urges police probe into whether Andrew used RAF bases to meet Epstein]]></title>
+            <description><![CDATA[Reports say the former prime minister has demanded a full investigation into Andrew's role as UK trade envoy.
+]]></description>
+            <link>https://www.bbc.com/news/articles/cj0dme87l84o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cj0dme87l84o#0</guid>
+            <pubDate>Sun, 22 Feb 2026 15:15:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0969/live/6ccccf20-0ff2-11f1-bf92-afe9c11d7573.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Armed man killed after entering secure perimeter of Trump's residence, Secret Service says]]></title>
+            <description><![CDATA[The suspect was carrying a shotgun and fuel can when he was killed, officers said. Trump was in Washington DC at the time. ]]></description>
+            <link>https://www.bbc.com/news/articles/cp32l9w9pgyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp32l9w9pgyo#0</guid>
+            <pubDate>Sun, 22 Feb 2026 22:08:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a550/live/c7902e10-1002-11f1-909d-47e99fcb7a58.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Powerful winter storm slams US northeast as NYC issues travel ban]]></title>
+            <description><![CDATA[The nor'easter storm already has left tens of thousands without power and led to thousands of cancelled flights.]]></description>
+            <link>https://www.bbc.com/news/articles/c75ere6z4weo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c75ere6z4weo#0</guid>
+            <pubDate>Mon, 23 Feb 2026 01:45:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98aa/live/9e343710-1056-11f1-b156-e56668b8644e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump curious why Iran has not 'capitulated', US envoy Witkoff says]]></title>
+            <description><![CDATA[US envoy Steve Witkoff says the president is puzzled why Iran has not yet compromised in the face of a major American military build-up nearby. ]]></description>
+            <link>https://www.bbc.com/news/articles/cn5gk15rr70o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn5gk15rr70o#0</guid>
+            <pubDate>Sun, 22 Feb 2026 18:18:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c58/live/16a6d830-1005-11f1-909d-47e99fcb7a58.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Last surviving teacher of Aberfan disaster still remembers faces of the children who died]]></title>
+            <description><![CDATA[Mair Morgan says the disaster that killed 144 people remains etched into her memory.]]></description>
+            <link>https://www.bbc.com/news/articles/cx2407zy9zxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2407zy9zxo#0</guid>
+            <pubDate>Sun, 22 Feb 2026 21:57:44 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2abd/live/8a6cf4e0-103a-11f1-8a38-4fe7168e1b01.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Appalling weekend' - Arokodare & Mundle latest players to be racially abused]]></title>
+            <description><![CDATA[Wolves striker Tolu Arokodare and Sunderland winger Romaine Mundle have become the latest Premier League players to be sent racist abuse on social media this weekend.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cz6egezw1d3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz6egezw1d3o#0</guid>
+            <pubDate>Sun, 22 Feb 2026 23:35:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc2c/live/3b5260e0-103d-11f1-b048-c9424b2cf5fd.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Baftas red carpet: Wunmi Mosaku, Paul Mescal and Teyana Taylor among stars at film awards]]></title>
+            <description><![CDATA[Stars of Sinners, Hamnet and One Battle After Another were among big names attending the ceremony.]]></description>
+            <link>https://www.bbc.com/news/articles/cvg3eq3gjeyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg3eq3gjeyo#1</guid>
+            <pubDate>Sun, 22 Feb 2026 21:04:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28db/live/6607fc30-1030-11f1-b048-c9424b2cf5fd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Highlights from the Baftas]]></title>
+            <description><![CDATA[One Battle After Another took home best film and Hamnet also saw success in the outstanding British film category.]]></description>
+            <link>https://www.bbc.com/news/videos/c5yr97p8dd7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/c5yr97p8dd7o#1</guid>
+            <pubDate>Sun, 22 Feb 2026 22:07:18 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9dd1/live/57250750-103d-11f1-801d-ed3cff6bf876.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The winners list in full]]></title>
+            <description><![CDATA[One Battle After Another won six awards, followed by I Swear, Sinners and Frankenstein, with three each.]]></description>
+            <link>https://www.bbc.com/news/articles/crk8687yeyzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/crk8687yeyzo#1</guid>
+            <pubDate>Sun, 22 Feb 2026 21:14:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d7b/live/35c92ff0-1033-11f1-bc9d-e1e39fdcfb9a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wunmi Mosaku shows 'ancestral power' with Bafta win]]></title>
+            <description><![CDATA[Growing up in Manchester, she is the first black British winner of the supporting actress award.]]></description>
+            <link>https://www.bbc.com/news/articles/cy7jnj028lko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy7jnj028lko#1</guid>
+            <pubDate>Sun, 22 Feb 2026 20:19:04 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97c9/live/2f57f050-1026-11f1-ab85-f7fb8d09b1b3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why 2026 marks a Winter Olympic turning point for Team GB]]></title>
+            <description><![CDATA[Three golds, a record-equalling medal haul - the Milan-Cortina Winter Olympics has been one to remember for Team GB.]]></description>
+            <link>https://www.bbc.com/sport/articles/cn71z0382kko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/articles/cn71z0382kko#2</guid>
+            <pubDate>Sun, 22 Feb 2026 17:16:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2821/live/0fe21900-1006-11f1-b048-c9424b2cf5fd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: William 'not calm, but carrying on' after Andrew arrest and a Bafta for Buckley]]></title>
+            <description><![CDATA[The fallout from Andrew Mountbatten-Windsor's arrest continues to dominate Monday's papers.]]></description>
+            <link>https://www.bbc.com/news/articles/cy8lg27wvn1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy8lg27wvn1o#2</guid>
+            <pubDate>Mon, 23 Feb 2026 00:52:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79f1/live/461fbcc0-104c-11f1-9120-a910fc22c6ac.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I thought I was going to die' - Woman calls for tighter weight-loss jabs checks]]></title>
+            <description><![CDATA[Emma Dyer says she collapsed on her bathroom floor and began vomiting blood after buying jabs online.]]></description>
+            <link>https://www.bbc.com/news/articles/cy9gd52r4gro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy9gd52r4gro#2</guid>
+            <pubDate>Mon, 23 Feb 2026 00:05:01 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3f5/live/a8c2a920-0ccb-11f1-8561-df3cc28357d5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The uncertainties facing businesses and consumers after Trump's tariff changes]]></title>
+            <description><![CDATA[Businesses say questions remain after US President Donald Trump announced he will impose global tariffs of 15%. ]]></description>
+            <link>https://www.bbc.com/news/articles/c98qjl76eyro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c98qjl76eyro#2</guid>
+            <pubDate>Sun, 22 Feb 2026 16:55:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d53f/live/af4f9f20-0fee-11f1-b048-c9424b2cf5fd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Andrew is Prince William's problem too - and it makes his future job harder]]></title>
+            <description><![CDATA[Andrew's arrest has changed the public's view of the Royal Family, putting pressure on Prince William as he moves closer to being king.]]></description>
+            <link>https://www.bbc.com/news/articles/c5y6kgky2evo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y6kgky2evo#2</guid>
+            <pubDate>Sun, 22 Feb 2026 06:02:42 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56bb/live/ff9be8b0-0f64-11f1-8bee-8d6be8e22497.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How South Korea's democracy rallied after the president tried to impose military rule]]></title>
+            <description><![CDATA[Yoon Suk Yeol's life sentence for insurrection "offers a rare example of democratic resilience", experts say.]]></description>
+            <link>https://www.bbc.com/news/articles/cwygnw91wl0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwygnw91wl0o#4</guid>
+            <pubDate>Sun, 22 Feb 2026 23:57:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d323/live/221f6c00-0fc3-11f1-8b12-b5b1975625e0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[William in tribute to TikTok medic found dead at barracks]]></title>
+            <description><![CDATA[The Prince of Wales has told of his “immense sadness” after 25-year-old Lucy Wilde's death.]]></description>
+            <link>https://www.bbc.com/news/articles/cvgvn0j0egpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgvn0j0egpo#4</guid>
+            <pubDate>Sun, 22 Feb 2026 15:49:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/779c/live/fe4a34f0-1020-11f1-ab85-f7fb8d09b1b3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Met officers working for Andrew told to guard Epstein's home, emails show]]></title>
+            <description><![CDATA[The Met says it has not identified any wrongdoing by its protection officers "at this time".]]></description>
+            <link>https://www.bbc.com/news/articles/cz9qkjvg033o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz9qkjvg033o#4</guid>
+            <pubDate>Sun, 22 Feb 2026 13:22:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71fa/live/c4933930-0feb-11f1-9120-a910fc22c6ac.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Greenland says 'no thanks' to Trump US hospital boat]]></title>
+            <description><![CDATA[Greenland's PM reminded Trump of its free healthcare, after Trump said he was sending a boat to aid people who were allegedly "not being taken care of". ]]></description>
+            <link>https://www.bbc.com/news/articles/cy7jnvdzpr7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy7jnvdzpr7o#4</guid>
+            <pubDate>Sun, 22 Feb 2026 17:27:16 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cf5/live/efb924e0-1012-11f1-88db-fb6ad00d69d6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How budget fast fashion is taking small-town India by storm]]></title>
+            <description><![CDATA[More Indians in small towns are now shopping for affordable brands instead of unlabelled goods in the bazaars.]]></description>
+            <link>https://www.bbc.com/news/articles/c15xvy7k2q5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c15xvy7k2q5o#4</guid>
+            <pubDate>Mon, 23 Feb 2026 00:40:05 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df1c/live/5c7b0a30-0d9d-11f1-8168-03d32f3820eb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kim Jong Un re-appointed leader of North Korea's ruling party]]></title>
+            <description><![CDATA[The announcement by the rubber-stamp party congress comes as little surprise.]]></description>
+            <link>https://www.bbc.com/news/articles/cvg18588mdko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg18588mdko#4</guid>
+            <pubDate>Mon, 23 Feb 2026 02:40:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e011/live/a806b2d0-1052-11f1-ab75-091f8efaa094.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bones of St Francis of Assisi go on public display in Italy]]></title>
+            <description><![CDATA[The remains of Italy's patron saint have only been seen in public once before - for one day in 1978.]]></description>
+            <link>https://www.bbc.com/news/articles/cz7glr9dpy8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cz7glr9dpy8o#4</guid>
+            <pubDate>Sun, 22 Feb 2026 17:49:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0e3/live/9acee870-1008-11f1-b048-c9424b2cf5fd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC News app]]></title>
+            <description><![CDATA[Top stories, breaking news, live reporting, and follow news topics that match your interests]]></description>
+            <link>https://www.bbc.co.uk/news/10628994?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/10628994#5</guid>
+            <pubDate>Wed, 30 Apr 2025 14:04:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gordon Brown turns detective over Andrew]]></title>
+            <description><![CDATA[Gordon Brown has reportedly demanded a police investigation into the use of RAF bases.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0n2m9m5?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0n2m9m5#6</guid>
+            <pubDate>Sun, 22 Feb 2026 15:03:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump's Tariffs... Trump attacks the Supreme Court over tariff ban]]></title>
+            <description><![CDATA[A breaking episode of Americast as POTUS takes on SCOTUS]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0n2d11v?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0n2d11v#6</guid>
+            <pubDate>Fri, 20 Feb 2026 20:08:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[A star-filled, jaw-dropping black comedy]]></title>
+            <description><![CDATA[An Oxford University student is drawn into the world of a charming aristocratic classmate.]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/m002f1vy?at_mid=5dhF4rgAGg&amp;at_campaign=Saltburn&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=NET&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m002f1vy&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Saltburn&amp;at_bbc_team=BBC</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m002f1vy?at_mid=5dhF4rgAGg&amp;at_campaign=Saltburn&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=NET&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m002f1vy&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Saltburn&amp;at_bbc_team=BBC#7</guid>
+            <pubDate>Mon, 02 Feb 2026 00:03:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2497/live/a224e810-500d-11f0-a466-d54f65b60deb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['They were attacking from every angle in the end' - why Spurs couldn't keep Arsenal out]]></title>
+            <description><![CDATA[MOTD pundit Danny Murphy explains why, as well as Arsenal's superior quality in Sunday's north London derby, they exploited Tottenham's tactical weakness too.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c86yjp6037jo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c86yjp6037jo#8</guid>
+            <pubDate>Sun, 22 Feb 2026 23:28:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d501/live/6b8b6b50-103b-11f1-9120-a910fc22c6ac.png"/>
+        </item>
+        <item>
+            <title><![CDATA['Appalling weekend' - Arokodare & Mundle latest players to be racially abused]]></title>
+            <description><![CDATA[Wolves striker Tolu Arokodare and Sunderland winger Romaine Mundle have become the latest Premier League players to be sent racist abuse on social media this weekend.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cz6egezw1d3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz6egezw1d3o#8</guid>
+            <pubDate>Sun, 22 Feb 2026 23:35:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc2c/live/3b5260e0-103d-11f1-b048-c9424b2cf5fd.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Old Firm 'buckle under pressure' as incredible title race twists again]]></title>
+            <description><![CDATA[After a defeat for Celtic and surprise draw for Rangers, where does the latest weekend of drama leave the Scottish Premiership title race?]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cx24kgz91wjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx24kgz91wjo#8</guid>
+            <pubDate>Sun, 22 Feb 2026 20:16:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c5f/live/a7493660-102a-11f1-b048-c9424b2cf5fd.png"/>
+        </item>
+        <item>
+            <title><![CDATA['Two unforgettable weeks' - Winter Olympics close with handover to French Alps]]></title>
+            <description><![CDATA[IOC president Kirsty Coventry says the athletes "showed us that the Olympic Games are a place for everyone" as she closes this year's Winter Games.]]></description>
+            <link>https://www.bbc.com/sport/articles/cgl5z5xg303o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/articles/cgl5z5xg303o#8</guid>
+            <pubDate>Sun, 22 Feb 2026 22:08:15 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1f3/live/69cbae60-1045-11f1-9120-a910fc22c6ac.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Heist' at Forest boosts Liverpool's top-four hopes]]></title>
+            <description><![CDATA[Liverpool's late 1-0 win at Nottingham Forest puts the Reds firmly in the Champions League hunt after a "robbery" of a victory at the City Ground.]]></description>
+            <link>https://www.bbc.com/sport/articles/c3v7de0zvnyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/articles/c3v7de0zvnyo#8</guid>
+            <pubDate>Sun, 22 Feb 2026 19:16:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9495/live/b07aa310-1019-11f1-b048-c9424b2cf5fd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arsenal pass derby test of nerve as title race looks set to go to wire]]></title>
+            <description><![CDATA[Arsenal passed the north London derby test with flying colours as Premier League title race looks likely to go to the wire, says chief football writer Phil McNulty]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cx2g3gq37xvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2g3gq37xvo#8</guid>
+            <pubDate>Sun, 22 Feb 2026 21:01:12 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2843/live/a246d9f0-1026-11f1-ab85-f7fb8d09b1b3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[McIlroy finishes one shot behind Genesis winner Bridgeman]]></title>
+            <description><![CDATA[Rory McIlroy shoots a four-under-par 67 but it is not enough to overhaul winner Jacob Bridgeman, who wins by one shot at the Genesis Invitational in Los Angeles.]]></description>
+            <link>https://www.bbc.com/sport/golf/articles/cvg18zgz7dyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/golf/articles/cvg18zgz7dyo#8</guid>
+            <pubDate>Mon, 23 Feb 2026 00:27:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9476/live/f6fe7200-104e-11f1-9120-a910fc22c6ac.png"/>
+        </item>
+    </channel>
+</rss>
