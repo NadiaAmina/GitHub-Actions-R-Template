@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - News Front Page]]></description>
+        <link>https://www.bbc.co.uk/news</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 01 Jun 2026 05:14:53 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Second batch of Mandelson files to be published on Monday]]></title>
+            <description><![CDATA[A government spokesperson says the documents "will be among the largest publications ever laid in Parliament".]]></description>
+            <link>https://www.bbc.com/news/articles/c98r664g865o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c98r664g865o#0</guid>
+            <pubDate>Sun, 31 May 2026 19:58:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1da3/live/f47c51f0-5d24-11f1-8f59-595c6d3ed387.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Don't be too kind': Stories from the maternity unit where mums were failed]]></title>
+            <description><![CDATA[BBC Panorama has seen documents and spoken to former midwives from Nottingham University Hospitals NHS Trust.]]></description>
+            <link>https://www.bbc.com/news/articles/c152y8j4gljo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c152y8j4gljo#0</guid>
+            <pubDate>Mon, 01 Jun 2026 05:00:04 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5624/live/50c23a50-5b55-11f1-a62b-2f41c7c3a318.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NHS single patient record to be debated for first time]]></title>
+            <description><![CDATA[Reforms to the NHS records system could result in 20,000 fewer visits to A&E annually, according to government projections. ]]></description>
+            <link>https://www.bbc.com/news/articles/cp3pgd9gzy3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cp3pgd9gzy3o#0</guid>
+            <pubDate>Mon, 01 Jun 2026 04:02:07 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ba5/live/051bf5e0-5d63-11f1-b62a-a36369f74e54.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israel seizes castle in Lebanon as it expands ground offensive]]></title>
+            <description><![CDATA[Prime Minister Benjamin Netanyahu calls the capture of the strategic fortress a "decisive shift" in Israel's campaign against Hezbollah, as European governments criticise the escalation.]]></description>
+            <link>https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cdep04kzz5wo#0</guid>
+            <pubDate>Sun, 31 May 2026 22:39:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22ea/live/21fd5600-5cdb-11f1-89a3-d1f559421220.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Between celebration and confrontation: Paris after PSG victory]]></title>
+            <description><![CDATA[Nearly 800 people were arrested after clashes with police following the Champions League final.]]></description>
+            <link>https://www.bbc.com/news/videos/czr2zzyrgdxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/videos/czr2zzyrgdxo#0</guid>
+            <pubDate>Sun, 31 May 2026 20:38:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8555/live/bba59380-5d30-11f1-89a3-d1f559421220.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Hardest video I've had to make' - KSI quits Sidemen after 13 years]]></title>
+            <description><![CDATA[The star, whose real name is Olajide Olatunji, has been part of the YouTube group since 2013.]]></description>
+            <link>https://www.bbc.com/news/articles/c392m234wlko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c392m234wlko#0</guid>
+            <pubDate>Sun, 31 May 2026 17:21:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef36/live/3c0e6490-5d02-11f1-9dbd-c1cee1747804.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Athlete forced to travel 800 miles for meeting that boss didn't show up for wins £149,000]]></title>
+            <description><![CDATA[Beth Littlewood says driving from Germany for a meeting with her no-show boss was the "final straw".]]></description>
+            <link>https://www.bbc.com/news/articles/clyp0qz0d14o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/clyp0qz0d14o#0</guid>
+            <pubDate>Mon, 01 Jun 2026 05:10:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/705b/live/ead8a6a0-5ce1-11f1-81d4-4b01427112e9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump seeking edits to US-Iran deal, US media report]]></title>
+            <description><![CDATA[The requested changes are related to the Strait of Hormuz and the removal of highly enriched uranium, according to US media.]]></description>
+            <link>https://www.bbc.com/news/articles/c1w2xve315do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1w2xve315do#0</guid>
+            <pubDate>Sun, 31 May 2026 22:54:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d487/live/024e7340-5d3d-11f1-8906-91bbcad8293d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Emma Barnett: We can't ignore this disease that leaves one in 10 women like me in agony]]></title>
+            <description><![CDATA[Women tell the BBC presenter how endometriosis affects their lives, as she challenges ministers to take action.]]></description>
+            <link>https://www.bbc.com/news/articles/c4g4jpzxk4zo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g4jpzxk4zo#0</guid>
+            <pubDate>Mon, 01 Jun 2026 05:00:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/840f/live/8359ef10-5b70-11f1-8b8c-6d33e1d5abb6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Goalkeeper tactical timeouts to be banned at World Cup]]></title>
+            <description><![CDATA[Players at the 2026 World Cup will be stopped from going to the technical area to talk to coaches when goalkeepers are injured.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c9v39x2v8yxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9v39x2v8yxo#0</guid>
+            <pubDate>Sun, 31 May 2026 19:05:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5877/live/83d78d20-5d29-11f1-8b8c-6d33e1d5abb6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Daily pill doubles survival time for pancreatic cancer patients]]></title>
+            <description><![CDATA[The drug, daraxonrasib, has been hailed as a breakthrough in managing the deadliest of all the major cancers.]]></description>
+            <link>https://www.bbc.com/news/articles/cy82l435171o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cy82l435171o#0</guid>
+            <pubDate>Mon, 01 Jun 2026 02:50:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cbe/live/b3c0bd80-5d61-11f1-b682-cf91850925ea.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Poland's controversial 'Highway to Hel' 666 bus revived]]></title>
+            <description><![CDATA[Poland's seaside resort called Hel is getting its 666 bus service back, despite earlier opposition from Christian groups.]]></description>
+            <link>https://www.bbc.com/news/articles/c1d2ld91635o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1d2ld91635o#0</guid>
+            <pubDate>Mon, 01 Jun 2026 03:19:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f411/live/8a31d470-5d59-11f1-b682-cf91850925ea.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[A year of grief and waiting: What remains when a plane falls from the sky]]></title>
+            <description><![CDATA[A year after the Air India crash, a mother still speaks about her dead son in the present tense and a brother waits for answers.]]></description>
+            <link>https://www.bbc.com/news/articles/ce9pp53ky42o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/ce9pp53ky42o#1</guid>
+            <pubDate>Mon, 01 Jun 2026 00:24:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb02/live/44600940-5b28-11f1-b682-cf91850925ea.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Russell T Davies' chilling new drama takes aim at disinformation]]></title>
+            <description><![CDATA[BBC News is given exclusive behind-the-scenes access on set of Tip Toe.]]></description>
+            <link>https://www.bbc.com/news/articles/c392erkm3d2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c392erkm3d2o#1</guid>
+            <pubDate>Sat, 30 May 2026 23:04:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a51a/live/b1372570-5b3d-11f1-9a6c-c14292377fff.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The drivers risking death on Ukraine's most dangerous bus routes]]></title>
+            <description><![CDATA[Russian drones are targeting public buses in Kherson, killing three transport workers so far this year.]]></description>
+            <link>https://www.bbc.com/news/articles/c87q2eq8r1yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c87q2eq8r1yo#1</guid>
+            <pubDate>Sun, 31 May 2026 23:40:57 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c413/live/5d22e690-5b47-11f1-a62b-2f41c7c3a318.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Britain's notoriously bad train wi-fi might soon be a thing of the past]]></title>
+            <description><![CDATA[How bad is the signal on our trains? We spoke to commuters to find out.]]></description>
+            <link>https://www.bbc.com/news/articles/cn8pn4l03r7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cn8pn4l03r7o#1</guid>
+            <pubDate>Sat, 30 May 2026 23:02:37 GMT</pubDate>
+            <media:thumbnail width="240" height="137" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fdb/live/de998c10-5b42-11f1-89a3-d1f559421220.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: Cancer pill's 'precious gift of time' and 'I Dua']]></title>
+            <description><![CDATA[A pill for patients with pancreatic cancer features on Monday's front pages - as well as Dua Lipa's reported wedding to Callum Turner. ]]></description>
+            <link>https://www.bbc.com/news/articles/cm2pq3q0nm5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cm2pq3q0nm5o#1</guid>
+            <pubDate>Mon, 01 Jun 2026 00:44:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f43/live/be9fb320-5d50-11f1-89a3-d1f559421220.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Checks reveal young women with deadly 'silent' heart risk]]></title>
+            <description><![CDATA[Sudden cardiac death can happen without warning, and it's not just a problem for sporty young men, say experts.]]></description>
+            <link>https://www.bbc.com/news/articles/c1l218n82pdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1l218n82pdo#3</guid>
+            <pubDate>Sun, 31 May 2026 23:21:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7660/live/622d26b0-5b55-11f1-a62b-2f41c7c3a318.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Secret tunnels and unregistered workers: China's coal mine disaster is a reminder of darker days]]></title>
+            <description><![CDATA[China's worst coal mining disaster in 15 years comes amid an ambitious pivot towards green energy.]]></description>
+            <link>https://www.bbc.com/news/articles/cpwpeg57777o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cpwpeg57777o#3</guid>
+            <pubDate>Sun, 31 May 2026 23:32:04 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2489/live/d26bb2d0-5b54-11f1-a62b-2f41c7c3a318.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arsenal fans turn streets red for victory parade]]></title>
+            <description><![CDATA[Hundreds of thousands of fans turned out to celebrate the Premier League title after a 22-year wait.]]></description>
+            <link>https://www.bbc.com/news/articles/cq5px7jv92eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cq5px7jv92eo#3</guid>
+            <pubDate>Sun, 31 May 2026 22:02:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e24d/live/1f195900-5d14-11f1-b682-cf91850925ea.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Woman dies trying to rescue dog from sea]]></title>
+            <description><![CDATA[The woman, in her 60s, died in hospital after getting into difficulty in the water, police say.]]></description>
+            <link>https://www.bbc.com/news/articles/c4g8l5l59eeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g8l5l59eeo#3</guid>
+            <pubDate>Sun, 31 May 2026 16:53:34 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37ac/live/9535ce20-5d0f-11f1-ac21-9b9cfe1eeb69.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shot fired as officer struck by stolen police car]]></title>
+            <description><![CDATA[A PSNI officer is seriously injured and a man is arrested on suspicion of attempted murder.]]></description>
+            <link>https://www.bbc.com/news/articles/c3r2e2wjz4lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c3r2e2wjz4lo#3</guid>
+            <pubDate>Sun, 31 May 2026 18:43:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c05/live/a1751d70-5d06-11f1-9dbd-c1cee1747804.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Colombia presidential runoff pits leftist senator against pro-Trump rival]]></title>
+            <description><![CDATA[Left-wing senator Iván Cepeda will face Trump admirer Abelardo de la Espriella at the final ballot on 21 June.]]></description>
+            <link>https://www.bbc.com/news/articles/c1w2xvwq8g9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c1w2xvwq8g9o#3</guid>
+            <pubDate>Mon, 01 Jun 2026 01:53:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df99/live/74d5c4a0-5d41-11f1-8b8c-6d33e1d5abb6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK heatwave ends as cooler temperatures and rain forecast]]></title>
+            <description><![CDATA[Fresher Atlantic air has ended a week of record-breaking heat which saw the UK's hottest May day.]]></description>
+            <link>https://www.bbc.com/news/articles/c4g0djwjy9no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g0djwjy9no#3</guid>
+            <pubDate>Sun, 31 May 2026 15:01:40 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fed/live/0089b770-5cfe-11f1-9dbd-c1cee1747804.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC News app]]></title>
+            <description><![CDATA[Top stories, breaking news, live reporting, and follow news topics that match your interests]]></description>
+            <link>https://www.bbc.co.uk/news/10628994?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/10628994#4</guid>
+            <pubDate>Wed, 30 Apr 2025 14:04:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Nicola Sturgeon Interview: The Analysis]]></title>
+            <description><![CDATA[The reaction to this morning's exclusive interview following Peter Murrell’s guilty plea]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0npbg85?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0npbg85#5</guid>
+            <pubDate>Sun, 31 May 2026 14:29:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Does the US need new laws to protect elections?]]></title>
+            <description><![CDATA[And, why does Donald Trump want to “nationalise” elections?]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/w3ct8lz4?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/w3ct8lz4#5</guid>
+            <pubDate>Fri, 29 May 2026 16:36:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Michael Caine and Glenda Jackson star in a heart-warming tale]]></title>
+            <description><![CDATA[WWII veteran Bernard sneaks out of his care home to attend the 70th anniversary of D-Day]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/m002p1vn?at_mid=TVAxBmnWRt&amp;at_campaign=The_Great_Escaper&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=NET&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m002p1vn&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=The_Great_Escaper&amp;at_bbc_team=BBC&amp;at_creation=Film</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m002p1vn?at_mid=TVAxBmnWRt&amp;at_campaign=The_Great_Escaper&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=NET&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m002p1vn&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=The_Great_Escaper&amp;at_bbc_team=BBC&amp;at_creation=Film#6</guid>
+            <pubDate>Fri, 26 Dec 2025 23:02:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff82/live/9143e7e0-5466-11f1-b682-cf91850925ea.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[A powerful film about the rise and tragic fall of a wrestling family]]></title>
+            <description><![CDATA[Based on a true story of brothers who made history in the world of professional wrestling.]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/m002w9wy/the-iron-claw?at_mid=0kblzCFz2f&amp;at_campaign=The_Iron_Claw&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=NET&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m002w9wy&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=The_Iron_Claw&amp;at_bbc_team=BBC&amp;at_creation=Film</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m002w9wy/the-iron-claw?at_mid=0kblzCFz2f&amp;at_campaign=The_Iron_Claw&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=NET&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m002w9wy&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=The_Iron_Claw&amp;at_bbc_team=BBC&amp;at_creation=Film#6</guid>
+            <pubDate>Sun, 10 May 2026 23:07:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1af/live/2daa21f0-5a64-11f1-8b8c-6d33e1d5abb6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Liverpool to open formal talks with Iraola]]></title>
+            <description><![CDATA[Liverpool will open formal talks with Andoni Iraola this week over becoming their new head coach.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c5y7ezzqge8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5y7ezzqge8o#7</guid>
+            <pubDate>Sun, 31 May 2026 21:05:08 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3561/live/6c5e0670-5d0f-11f1-ac21-9b9cfe1eeb69.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Goalkeeper tactical timeouts to be banned at World Cup]]></title>
+            <description><![CDATA[Players at the 2026 World Cup will be stopped from going to the technical area to talk to coaches when goalkeepers are injured.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c9v39x2v8yxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9v39x2v8yxo#7</guid>
+            <pubDate>Sun, 31 May 2026 19:05:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5877/live/83d78d20-5d29-11f1-8b8c-6d33e1d5abb6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stick or twist for Arteta - how do Arsenal take next step?]]></title>
+            <description><![CDATA[Arsenal are fresh from their Champions League final heartbreak but thoughts are already moving to what they need to do to improve next season.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/c70vlvyy2pdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c70vlvyy2pdo#7</guid>
+            <pubDate>Sun, 31 May 2026 17:30:29 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2351/live/a293ca80-5d1f-11f1-8b8c-6d33e1d5abb6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man City's future looks bright - and Shaw's role is key]]></title>
+            <description><![CDATA[Manchester City's domestic double is the start of what they hope will be a hugely successful period for the club - and Khadija Shaw is at the centre of it.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cx21zpedx3qo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx21zpedx3qo#7</guid>
+            <pubDate>Sun, 31 May 2026 18:47:13 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57a5/live/03a92440-5d1c-11f1-b92d-7b8c872d5807.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ice, Ice Baby and 'start of a new era' - best of Arsenal parade]]></title>
+            <description><![CDATA[For the first time in 22 years, Arsenal are the Premier League champions - and the players, staff and fans got to celebrate on Sunday with an incredible bus parade through the streets of north London.]]></description>
+            <link>https://www.bbc.com/sport/football/articles/cx21zklzgr1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx21zklzgr1o#7</guid>
+            <pubDate>Sun, 31 May 2026 17:54:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5d3/live/73211f50-5d0b-11f1-9dbd-c1cee1747804.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fonseca, 19, shows title credentials by backing up Djokovic win]]></title>
+            <description><![CDATA[Rising star Joao Fonseca showcases his title credentials with victory over two-time finalist Casper Ruud to book his place in the French Open quarter-finals.]]></description>
+            <link>https://www.bbc.com/sport/tennis/articles/cj0p6pz1q7vo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cj0p6pz1q7vo#7</guid>
+            <pubDate>Sun, 31 May 2026 23:37:43 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3851/live/02973b10-5d48-11f1-b839-45d10cbecf07.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kohli inspires RCB to back-to-back IPL titles]]></title>
+            <description><![CDATA[Virat Kohli's imperious unbeaten 75 helps Royal Challengers Bengaluru to a five-wicket win over Gujarat Titans in the Indian Premier League final securing back-to-back titles.]]></description>
+            <link>https://www.bbc.com/sport/cricket/articles/cdxp0pne2nzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/sport/cricket/articles/cdxp0pne2nzo#7</guid>
+            <pubDate>Sun, 31 May 2026 19:00:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6e2/live/d52b9760-5d1b-11f1-b92d-7b8c872d5807.jpg"/>
+        </item>
+    </channel>
+</rss>
